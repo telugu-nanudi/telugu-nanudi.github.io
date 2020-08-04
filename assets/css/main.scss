@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.archive, .page__related, .page {
+  width: calc(100% - 200px);
+  padding-right: 200px;
+};
+
+.page__title {
+  line-height: 1.5;
+};
+
+.archive__item a {
+  text-decoration: none;
+}
+
+.archive__item-title {
+  padding-bottom: 0.25em;
+}
+
