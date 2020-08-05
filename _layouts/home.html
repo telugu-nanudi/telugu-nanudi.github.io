@@ -5,10 +5,12 @@ layout: archive
 {{ content }}
 
 {% if paginator %}
-  {% assign posts = paginator.posts | sort: "title" | reverse %}
+  {% assign posts = paginator.posts | sort: "title" %}
 {% else %}
-  {% assign posts = site.posts | sort: "title"| reverse %}
+  {% assign posts = site.posts | sort: "title" %}
 {% endif %}
+
+{{ posts | inspect }}
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
   {% for post in posts %}

@@ -8,8 +8,8 @@
 @import "minimal-mistakes"; // main partials
 
 .archive, .page__related, .page {
-  width: calc(100% - 200px);
-  padding-right: 200px;
+  width: calc(100%);
+  padding-right: 0px;
 };
 
 .page__title {
