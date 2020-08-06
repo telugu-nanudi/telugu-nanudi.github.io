@@ -34,8 +34,8 @@ comments:
     issue_term           : # "pathname" (default)
 
 reCaptcha:
-  siteKey                : "6LeoK7oZAAAAAMYSPzHwdd_GV-jh5mqYLYufpWK4"
-  secret                 : "6LeoK7oZAAAAADWrAkd2CC63axXGN5oBgOkweQOs"
+  siteKey                : "6LcZTLsZAAAAAHbqeJ_zrIqY10ra2si3Ohkc0AHg"
+  secret                 : "ITdqW1si96rCTI5YIMOVCfKESDufK6Er4B3ejTG5pzpb8IF/JDcvBK9+ZWtTOsLZ9M0aeOTno3DeXFP3RH2IQ+tYvZ37zVuz0LaYu+7PLPI9UyOVxFePU1hFTTic2E15lrinu59FtNFfv9+n5jGeFgM8KW2FwlsSYyYpt8CBTaQ="
 
 #atom_feed:
 #  path                   : # blank (default) uses feed.xml
