@@ -3,7 +3,7 @@ remote_theme             : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-# locale                   : "en-US"
+locale                   : "en-US"
 title                    : "తెలుగు నానుడి - సామెతలు"
 title_separator          : "-"
 # subtitle                 : "A Jekyll theme"
