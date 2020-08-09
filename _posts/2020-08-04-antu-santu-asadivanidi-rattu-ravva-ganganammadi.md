@@ -18,6 +18,7 @@ Ganganamma is a certain village goddess.
 
 #### Romanization:
 Aṇṭū saṇṭū āsādivānidi, raṭṭū ravvā gaṅgānam'madi.
+Antu santu asadivanidi, rattu ravva ganganam'madi.
 {% endcapture %}
 
 {{ data | markdownify }}

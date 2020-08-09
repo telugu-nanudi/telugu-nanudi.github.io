@@ -19,6 +19,7 @@ Said by an impertinent beggar when refused assistance by s stingy person.
 
 #### Romanization:
 Annamu lēkapōtē vari annamu  baṭṭa lēkapōtē paṭṭubaṭṭa.
+Annamu lekapote vari annamu  batta lekapote pattubatta.
 {% endcapture %}
 
 {{ data | markdownify }}

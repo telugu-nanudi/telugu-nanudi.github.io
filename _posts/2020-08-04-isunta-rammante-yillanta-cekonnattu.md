@@ -19,6 +19,7 @@ Give a rogue an inch and he will take an ell. (Dutch)[1]
 
 #### Romanization:
 Iṣuṇṭa ram'maṇṭē, yillantā cēkonnaṭṭu.
+Isunta ram'mante, yillanta cekonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Said of a great miser.
 
 #### Romanization:
 Eṅgilicēttō kākikayinā metuku vidapaḍu.
+Engilicetto kakikayina metuku vidapadu.
 {% endcapture %}
 
 {{ data | markdownify }}

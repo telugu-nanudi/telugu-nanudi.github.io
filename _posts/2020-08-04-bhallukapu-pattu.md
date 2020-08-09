@@ -14,6 +14,7 @@ Obstinacy.
 
 #### Romanization:
 Bhallūkapu paṭṭu.
+Bhallukapu pattu.
 {% endcapture %}
 
 {{ data | markdownify }}

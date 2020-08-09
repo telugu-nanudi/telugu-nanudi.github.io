@@ -19,6 +19,7 @@ The trade of thick-headed Michael: eating, drinking, and idling. (Dutch)[1]
 
 #### Romanization:
 Pani aṇṭē nā voḷlu bhāragistundi, bhōjanamaṇṭē nā voḷlu poṅgi vastundi.
+Pani ante na vollu bharagistundi, bhojanamante na vollu pongi vastundi.
 {% endcapture %}
 
 {{ data | markdownify }}

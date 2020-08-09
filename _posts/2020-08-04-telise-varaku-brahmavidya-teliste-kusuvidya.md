@@ -21,6 +21,7 @@ All beginnings are hard, said the thief, and began by stealing an anvil. (Dutch)
 
 #### Romanization:
 Teliśē varaku brahmavidya, telistē kūsuvidya.
+Telise varaku brahmavidya, teliste kusuvidya.
 {% endcapture %}
 
 {{ data | markdownify }}

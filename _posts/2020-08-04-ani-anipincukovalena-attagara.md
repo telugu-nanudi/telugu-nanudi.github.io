@@ -19,6 +19,7 @@ Those who live in glass houses should not throw stones.
 
 #### Romanization:
 Ani anipin̄cukōvalenā attagārā.
+Ani anipincukovalena attagara.
 {% endcapture %}
 
 {{ data | markdownify }}

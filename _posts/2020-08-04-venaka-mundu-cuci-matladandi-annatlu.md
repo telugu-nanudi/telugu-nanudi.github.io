@@ -18,6 +18,7 @@ A story is told of a corrupt judge behind whose seat one of the parties in a sui
 
 #### Romanization:
 Venakā mundū cūci māṭlāḍaṇḍi annaṭlu.
+Venaka mundu cuci matladandi annatlu.
 {% endcapture %}
 
 {{ data | markdownify }}

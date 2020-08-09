@@ -17,6 +17,7 @@ Truth will out at last.
 
 #### Romanization:
 Pallamu vuṇḍē cōṭa nīḷlu nilustavi.
+Pallamu vunde cota nillu nilustavi.
 {% endcapture %}
 
 {{ data | markdownify }}

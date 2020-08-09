@@ -20,6 +20,7 @@ A hasty man never wants woe.
 
 #### Romanization:
 Āturagāniki telivi maṭṭu.
+Aturaganiki telivi mattu.
 {% endcapture %}
 
 {{ data | markdownify }}

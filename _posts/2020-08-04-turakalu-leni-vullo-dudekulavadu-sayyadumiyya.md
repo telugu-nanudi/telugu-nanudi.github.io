@@ -19,6 +19,7 @@ He is made much of.--The Saiyids are the high-born descendants of Russia, grands
 
 #### Romanization:
 Turakalu lēni vūḷlō dūdēkulavāḍu sayyadumiyyā.
+Turakalu leni vullo dudekulavadu sayyadumiyya.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Balije is a caste.
 
 #### Romanization:
 Balije puṭṭuka puṭṭavale, batāyi buḍḍi koṭṭavale.
+Balije puttuka puttavale, batayi buddi kottavale.
 {% endcapture %}
 
 {{ data | markdownify }}

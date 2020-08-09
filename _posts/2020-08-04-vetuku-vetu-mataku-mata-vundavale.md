@@ -17,6 +17,7 @@ One word brings on another. (Italian)[1]
 
 #### Romanization:
 Vēṭuku vēṭu, māṭaku māṭa vuṇḍavale.
+Vetuku vetu, mataku mata vundavale.
 {% endcapture %}
 
 {{ data | markdownify }}

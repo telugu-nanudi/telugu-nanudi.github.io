@@ -13,6 +13,7 @@ tags:
 
 #### Romanization:
 Naṅgi vaṅgalu mēstē nārikēḷālu dūḍamēśinadi annāḍaṭa.
+Nangi vangalu meste narikelalu dudamesinadi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

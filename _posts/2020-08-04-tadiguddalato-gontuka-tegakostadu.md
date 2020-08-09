@@ -19,6 +19,7 @@ They scratch you with one hand and strike you with the other. (Latin)[1]
 
 #### Romanization:
 Taḍiguḍḍalatō gontuka tegakōstāḍu.
+Tadiguddalato gontuka tegakostadu.
 {% endcapture %}
 
 {{ data | markdownify }}

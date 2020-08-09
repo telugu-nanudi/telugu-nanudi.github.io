@@ -15,6 +15,7 @@ As long as fortune favours you, you have nothing to fear.
 
 #### Romanization:
 Jayamu vuṇḍē varaku bhayamu lēdu.
+Jayamu vunde varaku bhayamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ Like leaving the grain, and fighting for the husk.
 
 #### Romanization:
 Gaṭṭi viḍici peṭṭi poṭṭuku pōrāḍinaṭṭu.
+Gatti vidici petti pottuku poradinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

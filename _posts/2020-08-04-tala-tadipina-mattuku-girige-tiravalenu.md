@@ -18,6 +18,7 @@ When a man has commenced a business he must finish it himself.
 
 #### Romanization:
 Tala taḍipina maṭṭuku girigē tīravalenu.
+Tala tadipina mattuku girige tiravalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ Good qualities are not always possessed by people of high birth.
 
 #### Romanization:
 Pālabuṭṭitē mātramu mēlu guṇamu kalugunā.
+Palabuttite matramu melu gunamu kaluguna.
 {% endcapture %}
 
 {{ data | markdownify }}

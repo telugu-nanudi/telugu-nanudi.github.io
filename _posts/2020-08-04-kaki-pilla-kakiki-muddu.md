@@ -18,6 +18,7 @@ The crow thinks her own bird the fairest.
 
 #### Romanization:
 Kāki pilla kākiki muddu.
+Kaki pilla kakiki muddu.
 {% endcapture %}
 
 {{ data | markdownify }}

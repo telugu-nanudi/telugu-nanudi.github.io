@@ -19,6 +19,7 @@ An ill shearer never got a hook. (scotch)
 
 #### Romanization:
 Āḍa nēraka maddelamīda tappu ceppinaṭṭu.
+Ada neraka maddelamida tappu ceppinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

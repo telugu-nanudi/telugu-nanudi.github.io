@@ -16,6 +16,7 @@ A table friend is changeable. (French)[3]
 
 #### Romanization:
 Pēgu cuṭṭamā, peṭṭu cuṭṭamā.
+Pegu cuttama, pettu cuttama.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Pongali is a preparation of rice ofl'ered to the fields after the harvest. In th
 
 #### Romanization:
 Ceḍḍa cēniki yiṇṭi vaḍlu poṅgalā.
+Cedda ceniki yinti vadlu pongala.
 {% endcapture %}
 
 {{ data | markdownify }}

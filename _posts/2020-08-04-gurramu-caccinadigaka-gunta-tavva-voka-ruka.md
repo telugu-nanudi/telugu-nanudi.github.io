@@ -20,6 +20,7 @@ After one loss come many. (French)[2]
 
 #### Romanization:
 Gurramu caccinadigāka guṇṭa tavva voka rūka.
+Gurramu caccinadigaka gunta tavva voka ruka.
 {% endcapture %}
 
 {{ data | markdownify }}

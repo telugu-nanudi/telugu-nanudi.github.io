@@ -20,6 +20,7 @@ Said by a Brahman quack referring to the recovery or death of his patient. In ei
 
 #### Romanization:
 Aṭayitē kandipappu,  yiṭayetē  pesarapappu.
+Atayite kandipappu,  yitayete  pesarapappu.
 {% endcapture %}
 
 {{ data | markdownify }}

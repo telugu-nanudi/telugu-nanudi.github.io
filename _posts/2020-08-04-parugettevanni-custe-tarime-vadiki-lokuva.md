@@ -15,6 +15,7 @@ The man that runs away, is inferior to the man who follows him.
 
 #### Romanization:
 Parugettēvāṇni cūstē tarimē vāḍiki lōkuva.
+Parugettevanni custe tarime vadiki lokuva.
 {% endcapture %}
 
 {{ data | markdownify }}

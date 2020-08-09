@@ -19,6 +19,7 @@ Good blood cannot lie. (French)[2]
 
 #### Romanization:
 Ceruku vaṅkabōtē tīpu ceḍunā.
+Ceruku vankabote tipu ceduna.
 {% endcapture %}
 
 {{ data | markdownify }}

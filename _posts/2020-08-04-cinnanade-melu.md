@@ -17,6 +17,7 @@ Of all sects, the little sect is the best.
 
 #### Romanization:
 Cinnanāḍē mēlu.
+Cinnanade melu.
 {% endcapture %}
 
 {{ data | markdownify }}

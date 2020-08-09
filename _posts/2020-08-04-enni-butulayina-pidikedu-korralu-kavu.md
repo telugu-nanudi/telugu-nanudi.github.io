@@ -19,6 +19,7 @@ When you have given me roast meal, you beat me with the spit.
 
 #### Romanization:
 Enni būtulayinā piḍikeḍu korralu kāvu.
+Enni butulayina pidikedu korralu kavu.
 {% endcapture %}
 
 {{ data | markdownify }}

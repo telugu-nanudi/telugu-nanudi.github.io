@@ -19,6 +19,7 @@ Being drawn into difficulties by one's associates.
 
 #### Romanization:
 Inumuna gūrci agniki sam'meṭapeṭlu.
+Inumuna gurci agniki sam'metapetlu.
 {% endcapture %}
 
 {{ data | markdownify }}

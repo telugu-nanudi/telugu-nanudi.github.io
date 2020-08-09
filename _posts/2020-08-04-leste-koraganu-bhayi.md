@@ -20,6 +20,7 @@ If you cannot bite, don't show your teeth.
 
 #### Romanization:
 Lēstē koragānu bhāyī.
+Leste koraganu bhayi.
 {% endcapture %}
 
 {{ data | markdownify }}

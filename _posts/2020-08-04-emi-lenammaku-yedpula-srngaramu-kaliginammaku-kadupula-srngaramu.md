@@ -15,6 +15,7 @@ Weeping is the ornament of a poor woman, embonpoint is the ornament of a rich wo
 
 #### Romanization:
 Ēmī lēnam'maku yēḍpula śr̥ṅgāramu, kaliginam'maku kaḍupula śr̥ṅgāramu.
+Emi lenam'maku yedpula srngaramu, kaliginam'maku kadupula srngaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Like putting a gold-laced cap on a monkey's head.
 
 #### Romanization:
 Kōtiki jaltāru kuḷlāyi peṭṭinaṭṭu.
+Kotiki jaltaru kullayi pettinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

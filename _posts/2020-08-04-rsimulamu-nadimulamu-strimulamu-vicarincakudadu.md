@@ -18,6 +18,7 @@ Rishi is a saint. (See Wilson's Sans. Diet. )
 
 #### Romanization:
 R̥ṣimūlamu, nadīmūlamu, strīmūlamu vicārin̄cakūḍadu.
+Rsimulamu, nadimulamu, strimulamu vicarincakudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ To get something out of him.
 
 #### Romanization:
 Cuṭṭamani cūḍavastē, yiṇṭivārantā dayyālai paṭṭukonnāraṭa.
+Cuttamani cudavaste, yintivaranta dayyalai pattukonnarata.
 {% endcapture %}
 
 {{ data | markdownify }}

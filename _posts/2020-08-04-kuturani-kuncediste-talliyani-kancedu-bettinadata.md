@@ -21,6 +21,7 @@ Kindness produces kindness. (Latin.)[1]
 
 #### Romanization:
 Kūturani kun̄ceḍistē, talliyani kan̄ceḍu beṭṭinadaṭa.
+Kuturani kuncediste, talliyani kancedu bettinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

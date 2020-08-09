@@ -17,6 +17,7 @@ Having thrown a stone on the top of the house, he stoops to catch it on his back
 
 #### Romanization:
 Iṇṭimīda rāyi vēśi vīpu voggēvāḍu.
+Intimida rayi vesi vipu voggevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

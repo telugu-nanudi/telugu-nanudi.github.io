@@ -18,6 +18,7 @@ A double dealing rascal.
 
 #### Romanization:
 Doṅgaku talupu tīśi doranu lēpēvāḍu.
+Dongaku talupu tisi doranu lepevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

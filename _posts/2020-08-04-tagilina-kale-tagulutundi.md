@@ -15,6 +15,7 @@ A Wounded foot is always striking against something.
 
 #### Romanization:
 Tagilina kālē tagulutundi.
+Tagilina kale tagulutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

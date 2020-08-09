@@ -18,6 +18,7 @@ A man inured to difliculties.
 
 #### Romanization:
 Koṇḍamīdinun̄ci paḍḍa vāniki gāyamulu yenni.
+Kondamidinunci padda vaniki gayamulu yenni.
 {% endcapture %}
 
 {{ data | markdownify }}

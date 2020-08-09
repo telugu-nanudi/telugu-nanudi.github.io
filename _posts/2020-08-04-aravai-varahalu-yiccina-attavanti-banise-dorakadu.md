@@ -18,6 +18,7 @@ Said jokingly of a mother-in-law not allowed to have the management of the house
 
 #### Romanization:
 Aravai varahālu yiccinā attavaṇṭi bānise dorakadu.
+Aravai varahalu yiccina attavanti banise dorakadu.
 {% endcapture %}
 
 {{ data | markdownify }}

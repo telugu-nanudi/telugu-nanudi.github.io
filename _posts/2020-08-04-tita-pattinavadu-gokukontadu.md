@@ -17,6 +17,7 @@ Let him that itches scratch himself. (french)[1]
 
 #### Romanization:
 Tīṭa paṭṭinavāḍu gōkukoṇṭāḍu.
+Tita pattinavadu gokukontadu.
 {% endcapture %}
 
 {{ data | markdownify }}

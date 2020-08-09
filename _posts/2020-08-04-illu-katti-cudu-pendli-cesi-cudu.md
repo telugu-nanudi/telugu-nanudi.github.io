@@ -19,6 +19,7 @@ Building and the marrying of children are great wasters.
 
 #### Romanization:
 Illu kaṭṭi cūḍu, peṇḍli cēsi cūḍu.
+Illu katti cudu, pendli cesi cudu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ The half articulated words [of children] are pleasant [to the ear] and half pick
 
 #### Romanization:
 Vaccī rāni māṭalu ruci, vūrī vūrani vūrugāya ruci.
+Vacci rani matalu ruci, vuri vurani vurugaya ruci.
 {% endcapture %}
 
 {{ data | markdownify }}

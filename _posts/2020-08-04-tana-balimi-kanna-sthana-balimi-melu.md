@@ -19,6 +19,7 @@ Every one is a king in his own house. (Portuguese)[1]
 
 #### Romanization:
 Tana balimi kannā sthāna balimi mēlu.
+Tana balimi kanna sthana balimi melu.
 {% endcapture %}
 
 {{ data | markdownify }}

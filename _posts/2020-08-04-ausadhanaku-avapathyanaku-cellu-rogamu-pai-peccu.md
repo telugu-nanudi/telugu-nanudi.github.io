@@ -19,6 +19,7 @@ The best physicians are Dr. Diet, Dr. Quiet, and Dr. Merryman.
 
 #### Romanization:
 Auṣadhānaku avapathyānaku cellu, rōgamu pai peccu.
+Ausadhanaku avapathyanaku cellu, rogamu pai peccu.
 {% endcapture %}
 
 {{ data | markdownify }}

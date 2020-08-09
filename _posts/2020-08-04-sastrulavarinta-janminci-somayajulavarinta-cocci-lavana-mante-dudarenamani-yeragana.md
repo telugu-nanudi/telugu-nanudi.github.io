@@ -19,6 +19,7 @@ Display of ignorance.
 
 #### Romanization:
 Śāstrulavāriṇṭa janmin̄ci, sōmayājulavāriṇṭa cocci, lavaṇa maṇṭē dūḍarēṇamani yeraganā.
+Sastrulavarinta janminci, somayajulavarinta cocci, lavana mante dudarenamani yeragana.
 {% endcapture %}
 
 {{ data | markdownify }}

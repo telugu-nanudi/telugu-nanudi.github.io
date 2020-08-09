@@ -16,6 +16,7 @@ Fattening on poor fare.
 
 #### Romanization:
 Āva tinna am'maku yēva pārinadaṭa.
+Ava tinna am'maku yeva parinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

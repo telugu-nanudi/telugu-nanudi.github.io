@@ -18,6 +18,7 @@ Over sleeping is considered by Hindus to be a sign of misfortune, and
 
 #### Romanization:
 Nirbhāgyuniki nidra, abhāgyuniki ākali.
+Nirbhagyuniki nidra, abhagyuniki akali.
 {% endcapture %}
 
 {{ data | markdownify }}

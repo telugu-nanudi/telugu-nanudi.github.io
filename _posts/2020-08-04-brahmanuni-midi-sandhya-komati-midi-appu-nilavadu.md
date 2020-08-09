@@ -15,6 +15,7 @@ The prayers due by a Brahman will not remain [unsaid ], and the debt due by a Ko
 
 #### Romanization:
 Brāhmaṇuni mīdi sandhyā kōmaṭi mīdi appū nilavadu.
+Brahmanuni midi sandhya komati midi appu nilavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

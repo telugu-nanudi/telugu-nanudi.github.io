@@ -18,6 +18,7 @@ If you lend any thing good to a careless person you must take measures to preven
 
 #### Romanization:
 Pītāmbaramu yeruviccinam'ma pīṭa vembaḍi paṭṭukoni tiragavalaśinadi.
+Pitambaramu yeruviccinam'ma pita vembadi pattukoni tiragavalasinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

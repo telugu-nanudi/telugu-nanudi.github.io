@@ -18,6 +18,7 @@ Said to a hypocritical Brahman, who was neglected when his tricks
 
 #### Romanization:
 Nānāṭiki tīśipeṭṭu nāgambhoṭlu.
+Nanatiki tisipettu nagambhotlu.
 {% endcapture %}
 
 {{ data | markdownify }}

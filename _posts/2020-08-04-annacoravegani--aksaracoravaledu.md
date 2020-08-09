@@ -20,6 +20,7 @@ He has two stomachs to eat, and one to work.
 
 #### Romanization:
 Annacoravēgāni,  akṣaracoravalēdu.
+Annacoravegani,  aksaracoravaledu.
 {% endcapture %}
 
 {{ data | markdownify }}

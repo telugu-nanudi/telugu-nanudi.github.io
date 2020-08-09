@@ -18,6 +18,7 @@ Why advance a cubit, and sink a fathom?
 
 #### Romanization:
 Mūreḍu pōnēla, bāreḍu kuṅganēla.
+Muredu ponela, baredu kunganela.
 {% endcapture %}
 
 {{ data | markdownify }}

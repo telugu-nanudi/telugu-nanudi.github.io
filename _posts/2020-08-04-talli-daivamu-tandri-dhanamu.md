@@ -16,6 +16,7 @@ A mother is a divinity, a father a treasure.
 
 #### Romanization:
 Talli daivamu, taṇḍri dhanamu.
+Talli daivamu, tandri dhanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ The time of a rich Reddi is taken up in untying and tying [his purse ].
 
 #### Romanization:
 Vīsamugala reḍḍiki viḍavā muḍavā sari.
+Visamugala reddiki vidava mudava sari.
 {% endcapture %}
 
 {{ data | markdownify }}

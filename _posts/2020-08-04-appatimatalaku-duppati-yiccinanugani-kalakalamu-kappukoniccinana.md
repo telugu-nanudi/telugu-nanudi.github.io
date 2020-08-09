@@ -20,6 +20,7 @@ Give a thing and take again, And you shall ride in hell's wain.
 
 #### Romanization:
 Appaṭimāṭalaku duppaṭi yiccinānugāni, kalakālamu kappukōniccinānā.
+Appatimatalaku duppati yiccinanugani, kalakalamu kappukoniccinana.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ To be between the horns of a dilemma.
 
 #### Romanization:
 Mundara pallamu, venaka miṭṭa.
+Mundara pallamu, venaka mitta.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -22,6 +22,7 @@ Haste trips up its own heels.
 
 #### Romanization:
 Cannīḷlayinā callārcukoni tāga valenu.
+Cannillayina callarcukoni taga valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

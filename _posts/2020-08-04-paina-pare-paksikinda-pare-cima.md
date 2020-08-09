@@ -17,6 +17,7 @@ It has no chance.
 
 #### Romanization:
 Paina pārē pakṣikinda pārē cīma.
+Paina pare paksikinda pare cima.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -13,6 +13,7 @@ A poor man is even lower than a beggar.
 
 #### Romanization:
 Bīda vāḍu biccapu vāḍikī lōkuva.
+Bida vadu biccapu vadiki lokuva.
 {% endcapture %}
 
 {{ data | markdownify }}

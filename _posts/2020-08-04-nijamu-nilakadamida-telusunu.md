@@ -15,6 +15,7 @@ Truth will be known in time.
 
 #### Romanization:
 Nijamu nilakaḍamīda telusunu.
+Nijamu nilakadamida telusunu.
 {% endcapture %}
 
 {{ data | markdownify }}

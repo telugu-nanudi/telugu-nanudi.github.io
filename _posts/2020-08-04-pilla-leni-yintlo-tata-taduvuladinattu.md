@@ -16,6 +16,7 @@ Like a grandfather groping for the children in a house where there are none.
 
 #### Romanization:
 Pilla lēni yiṇṭlō tāta taḍuvulāḍinaṭṭu.
+Pilla leni yintlo tata taduvuladinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

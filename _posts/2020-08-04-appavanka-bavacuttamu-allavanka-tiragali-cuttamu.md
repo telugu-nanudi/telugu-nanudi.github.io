@@ -18,6 +18,7 @@ Allu is the plural of Aruga ( Paspalum Scrobiculatmn )
 
 #### Romanization:
 Appavaṅka bāvacuṭṭamu, āḷlavaṅka tiragali cuṭṭamu.
+Appavanka bavacuttamu, allavanka tiragali cuttamu.
 {% endcapture %}
 
 {{ data | markdownify }}

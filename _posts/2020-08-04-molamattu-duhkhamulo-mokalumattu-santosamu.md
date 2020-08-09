@@ -16,6 +16,7 @@ Up the waist in grief, up to the knees in joy.
 
 #### Romanization:
 Molamaṭṭu duḥkhamulō mōkālumaṭṭu santōṣamu.
+Molamattu duhkhamulo mokalumattu santosamu.
 {% endcapture %}
 
 {{ data | markdownify }}

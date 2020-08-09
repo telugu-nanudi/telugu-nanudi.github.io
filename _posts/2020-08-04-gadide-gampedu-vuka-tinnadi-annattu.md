@@ -17,6 +17,7 @@ Nothing wonderful.
 
 #### Romanization:
 Gāḍide gampeḍu vūka tinnadi annaṭṭu.
+Gadide gampedu vuka tinnadi annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

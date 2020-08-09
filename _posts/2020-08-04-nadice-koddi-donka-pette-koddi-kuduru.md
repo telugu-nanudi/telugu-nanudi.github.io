@@ -17,6 +17,7 @@ As you walk you widen the path, as you put [earth] you
 
 #### Romanization:
 Naḍicē koddī ḍoṅka, peṭṭē koddī kuduru.
+Nadice koddi donka, pette koddi kuduru.
 {% endcapture %}
 
 {{ data | markdownify }}

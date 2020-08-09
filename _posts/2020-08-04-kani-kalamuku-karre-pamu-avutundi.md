@@ -18,6 +18,7 @@ i.e. your own friends will turn against you.
 
 #### Romanization:
 Kāni kālamuku karrē pāmu avutundi.
+Kani kalamuku karre pamu avutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

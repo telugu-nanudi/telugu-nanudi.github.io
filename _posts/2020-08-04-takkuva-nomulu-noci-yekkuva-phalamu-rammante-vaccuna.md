@@ -17,6 +17,7 @@ If you expect much fruit from few offerings will it be obtained ?
 
 #### Romanization:
 Takkuva nōmulu nōci yekkuva phalamu ram'maṇṭē vaccunā.
+Takkuva nomulu noci yekkuva phalamu ram'mante vaccuna.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ As a public benefaction, I will buy a cloth for my wife; give me a pice from eac
 
 #### Romanization:
 Ūriki vupakāramugā āliki kōka koni peṭṭutānu, yiṇṭiṇṭikī ḍabbu yivvaṇḍi annāḍaṭa.
+Uriki vupakaramuga aliki koka koni pettutanu, yintintiki dabbu yivvandi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

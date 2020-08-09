@@ -20,6 +20,7 @@ They are hand and glove.
 
 #### Romanization:
 Oka kan̄cāna tini vaka man̄cāna paḍukonēvāru.
+Oka kancana tini vaka mancana padukonevaru.
 {% endcapture %}
 
 {{ data | markdownify }}

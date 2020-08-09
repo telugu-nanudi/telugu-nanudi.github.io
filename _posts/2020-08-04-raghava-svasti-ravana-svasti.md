@@ -18,6 +18,7 @@ The deities were compelled outwardly to bless the tyrant Ravage, but they inward
 
 #### Romanization:
 Rāghavā svasti, rāvaṇā svasti.
+Raghava svasti, ravana svasti.
 {% endcapture %}
 
 {{ data | markdownify }}

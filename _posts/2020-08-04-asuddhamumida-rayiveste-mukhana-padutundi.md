@@ -20,6 +20,7 @@ Meddle with dirt, and some of it will stick to you. (Dutch.)[2]
 
 #### Romanization:
 Aśud'dhamumīda rāyivēstē mukhāna paḍutundi.
+Asud'dhamumida rayiveste mukhana padutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ John has been to school to learn to be afaol. (French.)[1]
 
 #### Romanization:
 Cadava vēstē, vunna mati pōyinadi.
+Cadava veste, vunna mati poyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

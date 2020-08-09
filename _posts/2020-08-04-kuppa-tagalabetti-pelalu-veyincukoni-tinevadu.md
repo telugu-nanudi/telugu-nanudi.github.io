@@ -17,6 +17,7 @@ The work of a fool.
 
 #### Romanization:
 Kuppa tagalabeṭṭi pēlālu vēyin̄cukoni tinēvāḍu.
+Kuppa tagalabetti pelalu veyincukoni tinevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

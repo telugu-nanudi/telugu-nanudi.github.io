@@ -14,6 +14,7 @@ He would neither die not give up his bed.
 
 #### Romanization:
 Cāvā cāvaḍu, man̄camū vadalaḍu.
+Cava cavadu, mancamu vadaladu.
 {% endcapture %}
 
 {{ data | markdownify }}

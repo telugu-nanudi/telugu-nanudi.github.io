@@ -19,6 +19,7 @@ Said of an unfortunate young widow.
 
 #### Romanization:
 Mūḍu nāḷla muttayiduvatanāniki āru jōḷla lakka ākulā.
+Mudu nalla muttayiduvatananiki aru jolla lakka akula.
 {% endcapture %}
 
 {{ data | markdownify }}

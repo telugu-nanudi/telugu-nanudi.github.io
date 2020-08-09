@@ -19,6 +19,7 @@ Early up, and never the nearer.
 
 #### Romanization:
 Entaproddu vuṇḍagā lēcinā, tum'maguṇṭa vaddanē tellavārinadi.
+Entaproddu vundaga lecina, tum'magunta vaddane tellavarinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

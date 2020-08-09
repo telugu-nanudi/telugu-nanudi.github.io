@@ -18,6 +18,7 @@ Something beyond the reach of a man's means.
 
 #### Romanization:
 Ḍabbulēni vāniki bōgamudi talli varasa.
+Dabbuleni vaniki bogamudi talli varasa.
 {% endcapture %}
 
 {{ data | markdownify }}

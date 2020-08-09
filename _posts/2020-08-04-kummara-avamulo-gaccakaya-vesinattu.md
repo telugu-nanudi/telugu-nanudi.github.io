@@ -20,6 +20,7 @@ A great injury done by a slight action.
 
 #### Romanization:
 Kum'mara āvamulō gaccakāya vēśinaṭṭu.
+Kum'mara avamulo gaccakaya vesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

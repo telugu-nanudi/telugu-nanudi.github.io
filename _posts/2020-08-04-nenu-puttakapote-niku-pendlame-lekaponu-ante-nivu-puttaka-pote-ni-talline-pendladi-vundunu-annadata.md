@@ -17,6 +17,7 @@ i. e. a better woman.
 
 #### Romanization:
 Nēnu puṭṭakapōtē nīku peṇḍlāmē lēkapōnu aṇṭē, nīvu puṭṭaka pōtē nī tallinē peṇḍlāḍi vundunu annāḍaṭa.
+Nenu puttakapote niku pendlame lekaponu ante, nivu puttaka pote ni talline pendladi vundunu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Don't touch fire, and your hand won't be burnt.
 
 #### Romanization:
 Nippu muṭṭanidī ceyyi kāladu.
+Nippu muttanidi ceyyi kaladu.
 {% endcapture %}
 
 {{ data | markdownify }}

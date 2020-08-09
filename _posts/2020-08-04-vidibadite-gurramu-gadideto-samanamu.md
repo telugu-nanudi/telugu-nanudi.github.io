@@ -19,6 +19,7 @@ Applied to wickedness unrestrained.
 
 #### Romanization:
 Viḍibaḍitē gurramu gāḍidetō samānamu.
+Vidibadite gurramu gadideto samanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ When the gude wife's awa', the keys are tint. (Scotch)
 
 #### Romanization:
 Illālu guḍḍidayitē iṇṭi kuṇḍalaku cēṭu.
+Illalu guddidayite inti kundalaku cetu.
 {% endcapture %}
 
 {{ data | markdownify }}

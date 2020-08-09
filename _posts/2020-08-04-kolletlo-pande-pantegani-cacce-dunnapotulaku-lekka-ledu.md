@@ -18,6 +18,7 @@ Counting profit, but not loss.
 
 #### Romanization:
 Kollēṭlō paṇḍē paṇṭēgāni, caccē dunnapōtulaku lekka lēdu
+Kolletlo pande pantegani, cacce dunnapotulaku lekka ledu
 {% endcapture %}
 
 {{ data | markdownify }}

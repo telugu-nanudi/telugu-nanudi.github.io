@@ -18,6 +18,7 @@ A foolish question, and a smart answer.
 
 #### Romanization:
 Musalam'mā burra vaṇikistāvēmi aṇṭē, vūrukuṇḍi nēnēmi cēstānu annadaṭa.
+Musalam'ma burra vanikistavemi ante, vurukundi nenemi cestanu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

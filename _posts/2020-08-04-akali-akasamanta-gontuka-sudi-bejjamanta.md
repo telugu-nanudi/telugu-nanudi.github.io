@@ -18,6 +18,7 @@ Applied to great ambition, but small abilities.
 
 #### Romanization:
 Ākali ākāśamanta, gontuka sūdi bejjamanta.
+Akali akasamanta, gontuka sudi bejjamanta.
 {% endcapture %}
 
 {{ data | markdownify }}

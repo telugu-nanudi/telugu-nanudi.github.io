@@ -18,6 +18,7 @@ Disappointed expectations.
 
 #### Romanization:
 Vēstivirā kannamu aṇṭē, cēstivē kāparamu annaṭṭu.
+Vestivira kannamu ante, cestive kaparamu annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

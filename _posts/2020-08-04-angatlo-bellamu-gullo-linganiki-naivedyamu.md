@@ -20,6 +20,7 @@ Willing to be liberal at the expense of others.
 
 #### Romanization:
 Aṅgaṭlō bellamu guḷlō liṅgāniki naivēdyamu.
+Angatlo bellamu gullo linganiki naivedyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -13,6 +13,7 @@ A husband according to the worship [of the wife], a son according to the good wo
 
 #### Romanization:
 Pūja koddī puruṣuḍu, puṇyamu koddī putruḍu.
+Puja koddi purusudu, punyamu koddi putrudu.
 {% endcapture %}
 
 {{ data | markdownify }}

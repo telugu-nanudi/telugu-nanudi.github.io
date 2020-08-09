@@ -17,6 +17,7 @@ He was bathing in holy water for the attainment of eternal bestitude.
 
 #### Romanization:
 Mōkṣānaku pōtē, mosali yettukoni pōyinadi.
+Moksanaku pote, mosali yettukoni poyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

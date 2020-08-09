@@ -18,6 +18,7 @@ Of two evils choose the least.
 
 #### Romanization:
 Guḍḍi kannā mella mēlu.
+Guddi kanna mella melu.
 {% endcapture %}
 
 {{ data | markdownify }}

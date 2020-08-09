@@ -13,6 +13,7 @@ Like putting a bandicoot in a corn bin.
 
 #### Romanization:
 Vaḍla gādelō pandikokkunu peṭṭinaṭṭu.
+Vadla gadelo pandikokkunu pettinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

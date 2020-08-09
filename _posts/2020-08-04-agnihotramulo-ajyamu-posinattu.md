@@ -16,6 +16,7 @@ To cast oil in the fire is not the way to quench it.
 
 #### Romanization:
 Agnihōtramulō ajyamu pōśinaṭṭu.
+Agnihotramulo ajyamu posinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

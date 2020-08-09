@@ -18,6 +18,7 @@ Chunam is an indispensable accompaniment to betel leaf-The word Sukshma signifie
 
 #### Romanization:
 Sunnamulō vunnadi sūkṣmamu, sūkṣmamulō vunnadi mōkṣamu.
+Sunnamulo vunnadi suksmamu, suksmamulo vunnadi moksamu.
 {% endcapture %}
 
 {{ data | markdownify }}

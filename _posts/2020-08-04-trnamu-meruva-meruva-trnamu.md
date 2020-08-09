@@ -14,6 +14,7 @@ The slightest favour done to a good man is gratefully acknowledged, but a bad ma
 
 #### Romanization:
 Tr̥ṇamu mēruva, mēruva tr̥ṇamu.
+Trnamu meruva, meruva trnamu.
 {% endcapture %}
 
 {{ data | markdownify }}

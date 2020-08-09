@@ -19,6 +19,7 @@ Said of a greedy Brahman.
 
 #### Romanization:
 Pappannamaṇṭē padi āmaḍa ayinā parugetta valenu.
+Pappannamante padi amada ayina parugetta valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

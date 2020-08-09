@@ -19,6 +19,7 @@ A phrase similar to "That game won't pay," "That cock won't fight."
 
 #### Romanization:
 Ā pappu yī nīḷlaku vuḍakadu.
+A pappu yi nillaku vudakadu.
 {% endcapture %}
 
 {{ data | markdownify }}

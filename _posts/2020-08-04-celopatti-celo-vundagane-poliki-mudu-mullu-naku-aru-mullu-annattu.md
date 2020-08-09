@@ -20,6 +20,7 @@ Sane enough to cry "chick" when it's out of the shell. (Scotch)
 
 #### Romanization:
 Cēlōpatti cēlō vuṇḍagānē, pōliki mūḍu mūḷlu nāku āru mūḷlu annaṭṭu.
+Celopatti celo vundagane, poliki mudu mullu naku aru mullu annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Ill-luck is good for something. (French)[1]
 
 #### Romanization:
 Cevāku pōyinam'maku yenta vyasanamō, dorikinam'maku anta santōṣamu.
+Cevaku poyinam'maku yenta vyasanamo, dorikinam'maku anta santosamu.
 {% endcapture %}
 
 {{ data | markdownify }}

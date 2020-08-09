@@ -20,6 +20,7 @@ One to-day is butter than ten tomorrows. (Germain)[2]
 
 #### Romanization:
 Sabā aṇṭē, āru nelalu.
+Saba ante, aru nelalu.
 {% endcapture %}
 
 {{ data | markdownify }}

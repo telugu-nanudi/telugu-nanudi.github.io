@@ -18,6 +18,7 @@ Applied to having a large family to support.
 
 #### Romanization:
 Tīgeku kāya baruvā.
+Tigeku kaya baruva.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ By anger on account of some damage done to the article lent.
 
 #### Romanization:
 Icci vaccē niṣṭhuramukannā, yivvaka vaccē niṣṭhuramu nayamu.
+Icci vacce nisthuramukanna, yivvaka vacce nisthuramu nayamu.
 {% endcapture %}
 
 {{ data | markdownify }}

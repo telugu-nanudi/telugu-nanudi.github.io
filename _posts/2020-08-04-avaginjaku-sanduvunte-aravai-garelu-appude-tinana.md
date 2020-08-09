@@ -18,6 +18,7 @@ A glutton suffering from indigestion after a feast was recommended to eat some m
 
 #### Romanization:
 Āvagin̄jaku sanduvuṇṭē, aravai gārelu appuḍē tinanā.
+Avaginjaku sanduvunte, aravai garelu appude tinana.
 {% endcapture %}
 
 {{ data | markdownify }}

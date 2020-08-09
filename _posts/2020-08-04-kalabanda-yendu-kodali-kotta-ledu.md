@@ -19,6 +19,7 @@ A daughter-in-law is never a stranger.
 
 #### Romanization:
 Kalabanda yeṇḍū, kōḍali kottā lēdu.
+Kalabanda yendu, kodali kotta ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

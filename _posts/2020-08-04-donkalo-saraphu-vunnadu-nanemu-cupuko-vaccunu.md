@@ -18,6 +18,7 @@ The banker is in the thicket, you may get him to test the coin.
 
 #### Romanization:
 Ḍoṅkalō ṣarāphu vunnāḍu, nāṇemu cūpukō vaccunu.
+Donkalo saraphu vunnadu, nanemu cupuko vaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

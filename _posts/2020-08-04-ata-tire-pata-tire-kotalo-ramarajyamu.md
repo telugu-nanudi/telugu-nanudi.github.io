@@ -18,6 +18,7 @@ The dancing is over, the song is finished, and every one is as free as in the ki
 
 #### Romanization:
 Āṭā tīre, pāṭā tīre, kōṭalō rāmarājyamu.
+Ata tire, pata tire, kotalo ramarajyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

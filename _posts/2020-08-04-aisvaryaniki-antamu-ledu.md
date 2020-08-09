@@ -14,6 +14,7 @@ There is no limit to riches.
 
 #### Romanization:
 Aiśvaryāniki antamu lēdu.
+Aisvaryaniki antamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

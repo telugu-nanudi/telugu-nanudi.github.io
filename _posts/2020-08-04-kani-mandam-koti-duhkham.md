@@ -15,6 +15,7 @@ A little neglect may breed great mischief
 
 #### Romanization:
 Kāni mandaṁ kōṭi duḥkhaṁ.
+Kani mandam koti duhkham.
 {% endcapture %}
 
 {{ data | markdownify }}

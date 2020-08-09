@@ -16,6 +16,7 @@ The elephant is subject to the man who has mounted it.
 
 #### Romanization:
 Ekkina vāniki yēnuga lojju.
+Ekkina vaniki yenuga lojju.
 {% endcapture %}
 
 {{ data | markdownify }}

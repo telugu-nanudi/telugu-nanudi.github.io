@@ -18,6 +18,7 @@ Fools are pleased with their own blunders.
 
 #### Romanization:
 Evari verri vāriki ānandamu.
+Evari verri variki anandamu.
 {% endcapture %}
 
 {{ data | markdownify }}

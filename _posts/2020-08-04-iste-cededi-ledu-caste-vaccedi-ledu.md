@@ -20,6 +20,7 @@ The charitable give out at the door, and God puts in at the window.
 
 #### Romanization:
 Istē ceḍēdi lēdu, castē vaccēdi lēdu.
+Iste cededi ledu, caste vaccedi ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

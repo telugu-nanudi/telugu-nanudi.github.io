@@ -16,6 +16,7 @@ When I come to your house what will you give me ? and when you come to my house 
 
 #### Romanization:
 Mī yiṇṭiki vastānu nākēmi yistāvu, mā yiṇṭiki vastē nā kēmi testāvu.
+Mi yintiki vastanu nakemi yistavu, ma yintiki vaste na kemi testavu.
 {% endcapture %}
 
 {{ data | markdownify }}

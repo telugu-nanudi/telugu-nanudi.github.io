@@ -18,6 +18,7 @@ Equivalent to the English "there's nothing in him" or "there's nothing in it."
 
 #### Romanization:
 Pasa lēdu, gan̄jilō vārcumannaṭṭu.
+Pasa ledu, ganjilo varcumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

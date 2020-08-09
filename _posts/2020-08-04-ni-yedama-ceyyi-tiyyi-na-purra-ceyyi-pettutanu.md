@@ -18,6 +18,7 @@ A: broad as long.
 
 #### Romanization:
 Nī yeḍama ceyyi tiyyi, nā purra ceyyi peṭṭutānu.
+Ni yedama ceyyi tiyyi, na purra ceyyi pettutanu.
 {% endcapture %}
 
 {{ data | markdownify }}

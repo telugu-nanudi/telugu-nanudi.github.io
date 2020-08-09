@@ -19,6 +19,7 @@ If you have means, you can do any thing you like.
 
 #### Romanization:
 Veṇṭrukalu vuṇṭē, yē koppu ayinā peṭṭavaccunu.
+Ventrukalu vunte, ye koppu ayina pettavaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A quarrel between man and wife only lasts as long as a Pesara seed stays on a lo
 
 #### Romanization:
 Ālū mogunisandu pōṭlāṭa addamumīda pesaragīn̄ja vēśinanta sēpu.
+Alu mogunisandu potlata addamumida pesaraginja vesinanta sepu.
 {% endcapture %}
 
 {{ data | markdownify }}

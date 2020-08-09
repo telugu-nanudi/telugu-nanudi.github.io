@@ -20,6 +20,7 @@ For folks fare well, and fair children die.
 
 #### Romanization:
 Bratakani biḍḍa tegabāreḍu.
+Bratakani bidda tegabaredu.
 {% endcapture %}
 
 {{ data | markdownify }}

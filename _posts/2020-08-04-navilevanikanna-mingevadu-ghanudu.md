@@ -15,6 +15,7 @@ He who swallows is better off than he who chews.
 
 #### Romanization:
 Navilēvānikannā miṅgēvāḍu ghanuḍu.
+Navilevanikanna mingevadu ghanudu.
 {% endcapture %}
 
 {{ data | markdownify }}

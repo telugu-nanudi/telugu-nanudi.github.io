@@ -18,6 +18,7 @@ A man may make his own dog bite him.
 
 #### Romanization:
 Kukka nōṭlō karra peṭṭitē loḷlumaṇṭunnadi.
+Kukka notlo karra pettite lollumantunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

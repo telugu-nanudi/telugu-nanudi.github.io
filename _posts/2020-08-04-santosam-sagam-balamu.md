@@ -16,6 +16,7 @@ Happiness is half [a man's] strength.
 
 #### Romanization:
 Santōṣaṁ sagaṁ balamu.
+Santosam sagam balamu.
 {% endcapture %}
 
 {{ data | markdownify }}

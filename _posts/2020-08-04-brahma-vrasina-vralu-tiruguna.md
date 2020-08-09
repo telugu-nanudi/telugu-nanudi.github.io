@@ -14,6 +14,7 @@ Will the writing written by Brahma fail ?
 
 #### Romanization:
 Brahma vrāsina vrālu tirugunā.
+Brahma vrasina vralu tiruguna.
 {% endcapture %}
 
 {{ data | markdownify }}

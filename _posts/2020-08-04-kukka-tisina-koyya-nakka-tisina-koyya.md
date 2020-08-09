@@ -19,6 +19,7 @@ All at sixes and sevens.
 
 #### Romanization:
 Kukka tīśina koyyā nakka tīśina koyyā.
+Kukka tisina koyya nakka tisina koyya.
 {% endcapture %}
 
 {{ data | markdownify }}

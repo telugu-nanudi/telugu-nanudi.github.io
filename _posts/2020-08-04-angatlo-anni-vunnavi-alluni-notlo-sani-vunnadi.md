@@ -19,6 +19,7 @@ Evil fate.
 
 #### Romanization:
 Aṅgaṭlō annī vunnavi, alluni nōṭlō śani vunnadi.
+Angatlo anni vunnavi, alluni notlo sani vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

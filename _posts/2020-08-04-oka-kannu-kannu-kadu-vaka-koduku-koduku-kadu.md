@@ -14,6 +14,7 @@ One eye is no eye, one son is no son.
 
 #### Romanization:
 Oka kannu kannū kādu, vaka koḍuku koḍukū kāḍu.
+Oka kannu kannu kadu, vaka koduku koduku kadu.
 {% endcapture %}
 
 {{ data | markdownify }}

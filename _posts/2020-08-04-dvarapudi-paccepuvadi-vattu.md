@@ -16,6 +16,7 @@ Dvarapudi is a notorious village in the Godavery District.
 
 #### Romanization:
 Dvārapūḍi paccepuvāḍi vattu.
+Dvarapudi paccepuvadi vattu.
 {% endcapture %}
 
 {{ data | markdownify }}

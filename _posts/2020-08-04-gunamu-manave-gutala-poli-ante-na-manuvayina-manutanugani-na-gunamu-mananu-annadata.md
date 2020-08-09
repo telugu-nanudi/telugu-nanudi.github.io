@@ -18,6 +18,7 @@ Obstinnte behaviour. Stubborn conduct.
 
 #### Romanization:
 Guṇamu mānavē gūṭāla pōlī aṇṭē, nā manuvayinā mānutānugāni nā guṇamu mānanu annadaṭa.
+Gunamu manave gutala poli ante, na manuvayina manutanugani na gunamu mananu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

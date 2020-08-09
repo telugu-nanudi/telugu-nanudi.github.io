@@ -18,6 +18,7 @@ Every fool can find faults that a great many wise men can't remedy.
 
 #### Romanization:
 Kaṭṭina yiṇṭiki paṇukulu ceppēvāru veyyimandi.
+Kattina yintiki panukulu ceppevaru veyyimandi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ The past is better than the future.
 
 #### Romanization:
 Vaccē kālamu kannā, vaccina kālamu mēlu.
+Vacce kalamu kanna, vaccina kalamu melu.
 {% endcapture %}
 
 {{ data | markdownify }}

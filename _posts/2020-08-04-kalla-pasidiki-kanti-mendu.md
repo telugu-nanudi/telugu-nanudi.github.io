@@ -16,6 +16,7 @@ All is not gold that glitters.
 
 #### Romanization:
 Kalla pasiḍiki kānti meṇḍu.
+Kalla pasidiki kanti mendu.
 {% endcapture %}
 
 {{ data | markdownify }}

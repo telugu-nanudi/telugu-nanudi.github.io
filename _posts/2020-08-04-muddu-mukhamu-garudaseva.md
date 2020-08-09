@@ -19,6 +19,7 @@ Said ironically to an ugly fellow.
 
 #### Romanization:
 Muddu mukhamu garuḍasēvā.
+Muddu mukhamu garudaseva.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ Applied to rash acts.
 
 #### Romanization:
 Agnilō miḍata paḍḍaṭṭu.
+Agnilo midata paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

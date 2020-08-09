@@ -18,6 +18,7 @@ A great show of piety, but the prospect of future punishment for evil deeds.
 
 #### Romanization:
 Puṇyamu puṭṭeḍu, purugulu taṭṭeḍu.
+Punyamu puttedu, purugulu tattedu.
 {% endcapture %}
 
 {{ data | markdownify }}

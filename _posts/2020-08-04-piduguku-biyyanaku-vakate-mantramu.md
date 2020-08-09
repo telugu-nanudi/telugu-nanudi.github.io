@@ -22,6 +22,7 @@ Applied to impostors.
 
 #### Romanization:
 Piḍugukū biyyānakū vakaṭē mantramu.
+Piduguku biyyanaku vakate mantramu.
 {% endcapture %}
 
 {{ data | markdownify }}

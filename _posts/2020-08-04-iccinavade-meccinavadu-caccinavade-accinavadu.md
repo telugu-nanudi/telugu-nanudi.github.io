@@ -13,6 +13,7 @@ The over liberal man is ruined ; when a man dies, his debts go with him.
 
 #### Romanization:
 Iccinavāḍē meccinavāḍu, caccinavāḍē accinavāḍu.
+Iccinavade meccinavadu, caccinavade accinavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

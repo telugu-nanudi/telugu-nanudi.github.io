@@ -15,6 +15,7 @@ He walks thirty miles in a month, as fast as a round plate can be thrown.
 
 #### Romanization:
 Nelaku mūḍāmaḍa biḷla peṭṭugā naḍicēvāḍu.
+Nelaku mudamada billa pettuga nadicevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

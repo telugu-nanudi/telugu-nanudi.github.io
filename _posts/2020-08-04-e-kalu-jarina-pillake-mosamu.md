@@ -17,6 +17,7 @@ Whichever leg slips there is danger to the child.
 
 #### Romanization:
 Ē kālu jārinā, pillakē mōsamu.
+E kalu jarina, pillake mosamu.
 {% endcapture %}
 
 {{ data | markdownify }}

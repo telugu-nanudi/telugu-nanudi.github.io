@@ -19,6 +19,7 @@ Eccentric conduct.
 
 #### Romanization:
 Uḍumunu caṅka peṭṭukoni vūḷlō pravēśin̄cinaṭṭu.
+Udumunu canka pettukoni vullo pravesincinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

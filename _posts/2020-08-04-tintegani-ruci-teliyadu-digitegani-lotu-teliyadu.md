@@ -18,6 +18,7 @@ The proof of a pudding is in the eating.
 
 #### Romanization:
 Tiṇṭēgāni ruci teliyadu, digitēgāni lōtu teliyadu.
+Tintegani ruci teliyadu, digitegani lotu teliyadu.
 {% endcapture %}
 
 {{ data | markdownify }}

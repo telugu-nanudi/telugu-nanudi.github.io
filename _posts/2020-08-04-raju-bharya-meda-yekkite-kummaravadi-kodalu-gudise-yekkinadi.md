@@ -18,6 +18,7 @@ When the king's wife went on the top of the palace, the potter's daughter-in-law
 
 #### Romanization:
 Rāju bhārya mēḍa yekkitē, kum'maravāḍi kōḍalu guḍiśe yekkinadi.
+Raju bharya meda yekkite, kum'maravadi kodalu gudise yekkinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

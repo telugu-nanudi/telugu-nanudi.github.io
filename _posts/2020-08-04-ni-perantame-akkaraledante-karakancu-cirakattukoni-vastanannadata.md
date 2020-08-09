@@ -19,6 +19,7 @@ Said by a poor woman to a rich mam-At many Brahminical ceremonies gifts and food
 
 #### Romanization:
 Nī pēraṇṭamē akkaralēdaṇṭē, karakan̄cu cīrakaṭṭukoni vastānannadaṭa.
+Ni perantame akkaraledante, karakancu cirakattukoni vastanannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

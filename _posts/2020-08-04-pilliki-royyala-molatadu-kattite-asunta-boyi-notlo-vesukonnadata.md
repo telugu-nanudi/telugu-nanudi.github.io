@@ -18,6 +18,7 @@ Want of appreciation of honors conferred.
 
 #### Romanization:
 Pilliki royyala molatāḍu kaṭṭitē, aṣuṇṭā bōyi nōṭlō vēsukonnadaṭa.
+Pilliki royyala molatadu kattite, asunta boyi notlo vesukonnadata.
 {% endcapture %}
 
 {{ data | markdownify }}

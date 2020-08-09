@@ -16,6 +16,7 @@ If he says it's ISiva's bull, it is Shiva's bull; if he says it's a
 
 #### Romanization:
 Nandi aṇṭē nandi, pandi aṇṭē pandi.
+Nandi ante nandi, pandi ante pandi.
 {% endcapture %}
 
 {{ data | markdownify }}

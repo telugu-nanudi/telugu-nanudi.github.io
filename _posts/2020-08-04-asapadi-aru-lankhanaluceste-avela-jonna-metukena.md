@@ -18,6 +18,7 @@ Failure of a foolish scheme.
 
 #### Romanization:
 Āśapaḍi āru laṅkhaṇālucēstē, āvēḷā jonna metukēnā.
+Asapadi aru lankhanaluceste, avela jonna metukena.
 {% endcapture %}
 
 {{ data | markdownify }}

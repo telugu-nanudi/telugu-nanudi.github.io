@@ -18,6 +18,7 @@ If a person goes to get a wife for another, and eats in the house before the mat
 
 #### Romanization:
 Katikitē atakadu.
+Katikite atakadu.
 {% endcapture %}
 
 {{ data | markdownify }}

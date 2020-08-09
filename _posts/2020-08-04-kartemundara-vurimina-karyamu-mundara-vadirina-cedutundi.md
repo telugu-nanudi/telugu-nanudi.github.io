@@ -18,6 +18,7 @@ Karte is "the particular constellation of the 27 in which the sun happens to be.
 
 #### Romanization:
 Kārtemundara vuriminā, kāryamu mundara vadirinā, ceḍutundi.
+Kartemundara vurimina, karyamu mundara vadirina, cedutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

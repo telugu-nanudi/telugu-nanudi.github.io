@@ -17,6 +17,7 @@ Every man has his faults.
 
 #### Romanization:
 Iṇṭiṇṭikī maṭṭi poyyi.
+Intintiki matti poyyi.
 {% endcapture %}
 
 {{ data | markdownify }}

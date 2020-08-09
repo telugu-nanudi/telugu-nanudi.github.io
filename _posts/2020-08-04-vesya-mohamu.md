@@ -14,6 +14,7 @@ A harlot's love.
 
 #### Romanization:
 Vēśyā mōhamu.
+Vesya mohamu.
 {% endcapture %}
 
 {{ data | markdownify }}

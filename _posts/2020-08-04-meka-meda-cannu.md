@@ -18,6 +18,7 @@ A useless appendage.
 
 #### Romanization:
 Mēka meḍa cannu.
+Meka meda cannu.
 {% endcapture %}
 
 {{ data | markdownify }}

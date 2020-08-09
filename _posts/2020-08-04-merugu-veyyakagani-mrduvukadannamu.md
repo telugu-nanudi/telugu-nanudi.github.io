@@ -13,6 +13,7 @@ Rice is not soft unless you put ghi.
 
 #### Romanization:
 Merugu veyyakagāni mr̥duvukādannamu.
+Merugu veyyakagani mrduvukadannamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ The pot contains nothing, and the mouth being narrow, the fly has some difllcult
 
 #### Romanization:
 Kottakuṇḍalō jōrīga coccinaṭṭu.
+Kottakundalo joriga coccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

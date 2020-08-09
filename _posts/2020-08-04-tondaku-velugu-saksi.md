@@ -22,6 +22,7 @@ Ask my chum if I am a thief. (Italian)[1]
 
 #### Romanization:
 Toṇḍaku velugu sākṣi.
+Tondaku velugu saksi.
 {% endcapture %}
 
 {{ data | markdownify }}

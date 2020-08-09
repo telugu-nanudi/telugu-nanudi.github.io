@@ -18,6 +18,7 @@ A jocose proverb, half Sanscrit, half Telugu.
 
 #### Romanization:
 Tilāḥ pāpaharā nityaṁ, talā piḍikeḍu piḍikeḍu.
+Tilah papahara nityam, tala pidikedu pidikedu.
 {% endcapture %}
 
 {{ data | markdownify }}

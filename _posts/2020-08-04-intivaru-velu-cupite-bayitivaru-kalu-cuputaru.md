@@ -17,6 +17,7 @@ If the members of your family point their fingers at you, the outsiders will poi
 
 #### Romanization:
 Iṇṭivāru vēlu cūpitē, bayiṭivāru kālu cūputāru.
+Intivaru velu cupite, bayitivaru kalu cuputaru.
 {% endcapture %}
 
 {{ data | markdownify }}

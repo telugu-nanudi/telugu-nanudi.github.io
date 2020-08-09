@@ -16,6 +16,7 @@ A rash enterprise.
 
 #### Romanization:
 Puli mīsamulu paṭṭukoni vuyyāla vūginaṭṭu.
+Puli misamulu pattukoni vuyyala vuginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

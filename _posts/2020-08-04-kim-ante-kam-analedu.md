@@ -17,6 +17,7 @@ He cannot say bo to a goose.
 
 #### Romanization:
 Kiṁ aṇṭē kaṁ analēḍu.
+Kim ante kam analedu.
 {% endcapture %}
 
 {{ data | markdownify }}

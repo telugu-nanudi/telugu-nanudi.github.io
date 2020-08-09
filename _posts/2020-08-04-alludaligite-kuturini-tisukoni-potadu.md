@@ -18,6 +18,7 @@ Said by a fat-her-in-law or mother-in-law.
 
 #### Romanization:
 Alluḍaligitē kūturini tīsukoni pōtāḍu.
+Alludaligite kuturini tisukoni potadu.
 {% endcapture %}
 
 {{ data | markdownify }}

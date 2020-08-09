@@ -13,6 +13,7 @@ The jackal howls and brings evil upon its whelps.
 
 #### Romanization:
 Nakka gūsi pillalaku dōva teccunu.
+Nakka gusi pillalaku dova teccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ A fortune obtained in middle age is like a boil on the sinews.
 
 #### Romanization:
 Naḍamantrapu śiri, narālamīdi kurupu.
+Nadamantrapu siri, naralamidi kurupu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Day and night are one to the [Supreme] Ruler.
 
 #### Romanization:
 Ēlina vāniki rēyuṁ bagulu vakaṭē.
+Elina vaniki reyum bagulu vakate.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Small in price, but great in value.
 
 #### Romanization:
 Vela sulabhamu, phala madhikamu.
+Vela sulabhamu, phala madhikamu.
 {% endcapture %}
 
 {{ data | markdownify }}

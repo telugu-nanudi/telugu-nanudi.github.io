@@ -19,6 +19,7 @@ Not to be satisfied.
 
 #### Romanization:
 Mūḍu mūrā vaka cuṭṭu, mupphayi mūrā vaka cuṭṭu.
+Mudu mura vaka cuttu, mupphayi mura vaka cuttu.
 {% endcapture %}
 
 {{ data | markdownify }}

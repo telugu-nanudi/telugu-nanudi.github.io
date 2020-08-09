@@ -19,6 +19,7 @@ If you laugh to-day you may cry to-morrow.
 
 #### Romanization:
 Sukhamu kaṣṭamukē.
+Sukhamu kastamuke.
 {% endcapture %}
 
 {{ data | markdownify }}

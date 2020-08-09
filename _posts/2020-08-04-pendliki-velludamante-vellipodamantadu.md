@@ -19,6 +19,7 @@ A spirit of contradiction.
 
 #### Romanization:
 Peṇḍliki veḷludāmaṇṭē, veḷlipōdāmaṇṭāḍu.
+Pendliki velludamante, vellipodamantadu.
 {% endcapture %}
 
 {{ data | markdownify }}

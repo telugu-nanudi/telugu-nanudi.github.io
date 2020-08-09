@@ -18,6 +18,7 @@ Chaffing between Satanis, who are Vaishnava converts from all castes.
 
 #### Romanization:
 Cakkagā kūkōrā cākalināyaḍā aṇṭē, vinnāvaṭōyi yīḍiganāyaḍā maṅgalināyaḍi sarasamu annāḍaṭa.
+Cakkaga kukora cakalinayada ante, vinnavatoyi yidiganayada mangalinayadi sarasamu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

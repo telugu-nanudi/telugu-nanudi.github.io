@@ -17,6 +17,7 @@ Applied to property not watched.
 
 #### Romanization:
 Taḍakalēni yiṇṭlōki kukka dūrinaṭṭu.
+Tadakaleni yintloki kukka durinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

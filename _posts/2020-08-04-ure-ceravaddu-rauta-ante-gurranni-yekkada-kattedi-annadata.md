@@ -18,6 +18,7 @@ When a trooper was told not to come into the village, he asked where he was to p
 
 #### Romanization:
 Ūrē cēravaddu rautā aṇṭē, gurrānni yekkaḍa kaṭṭēdi annāḍaṭa.
+Ure ceravaddu rauta ante, gurranni yekkada kattedi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -13,6 +13,7 @@ A senseless speech, a tuneless song.
 
 #### Romanization:
 Mati lēni māṭa, śruti lēni pāṭa.
+Mati leni mata, sruti leni pata.
 {% endcapture %}
 
 {{ data | markdownify }}

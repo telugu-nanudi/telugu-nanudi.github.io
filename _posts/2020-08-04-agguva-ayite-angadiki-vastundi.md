@@ -17,6 +17,7 @@ When it is cheap, it comes to the bazar.
 
 #### Romanization:
 Agguva ayitē aṅgaḍiki vastundi.
+Agguva ayite angadiki vastundi.
 {% endcapture %}
 
 {{ data | markdownify }}

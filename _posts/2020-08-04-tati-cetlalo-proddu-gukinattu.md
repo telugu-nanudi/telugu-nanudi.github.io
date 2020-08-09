@@ -15,6 +15,7 @@ Left in great diffiiculty.
 
 #### Romanization:
 Tāṭi ceṭlalō proddu gūkinaṭṭu.
+Tati cetlalo proddu gukinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

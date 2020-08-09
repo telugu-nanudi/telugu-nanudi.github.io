@@ -21,6 +21,7 @@ Crooked by nature is never made straight by education.
 
 #### Romanization:
 Kukkanu andalamulō kūrcuṇḍa peṭṭitē, amēdhyamu cūci diga vurikinadi.
+Kukkanu andalamulo kurcunda pettite, amedhyamu cuci diga vurikinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

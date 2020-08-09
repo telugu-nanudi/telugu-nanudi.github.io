@@ -14,6 +14,7 @@ Employment makes the man; he is a luckless fellow if he lose it.
 
 #### Romanization:
 Udyōgaṁ puruṣalakṣaṇaṁ, adi pōtē avalakṣaṇaṁ.
+Udyogam purusalaksanam, adi pote avalaksanam.
 {% endcapture %}
 
 {{ data | markdownify }}

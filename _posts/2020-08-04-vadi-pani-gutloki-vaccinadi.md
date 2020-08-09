@@ -19,6 +19,7 @@ He is on his last legs.
 
 #### Romanization:
 Vāḍi pani gūṭlōki vaccinadi.
+Vadi pani gutloki vaccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

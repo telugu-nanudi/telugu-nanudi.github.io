@@ -17,6 +17,7 @@ A blow with a pestle on a whitlow.
 
 #### Romanization:
 Gōrucuṭṭu payina rōkaṭi pōṭu.
+Gorucuttu payina rokati potu.
 {% endcapture %}
 
 {{ data | markdownify }}

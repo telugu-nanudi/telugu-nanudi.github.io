@@ -15,6 +15,7 @@ Great conceit.
 
 #### Romanization:
 Koṇḍatō tagaru pōṭlāḍinaṭṭu.
+Kondato tagaru potladinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

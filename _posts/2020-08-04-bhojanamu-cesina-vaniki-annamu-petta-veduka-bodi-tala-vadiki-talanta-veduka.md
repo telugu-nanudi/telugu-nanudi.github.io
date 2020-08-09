@@ -16,6 +16,7 @@ The fun of setting food before a man who has had his dinner, or of anointing a s
 
 #### Romanization:
 Bhōjanamu cēśina vāniki annamu peṭṭa vēḍuka, bōḍi tala vāḍiki talaṇṭa vēḍuka.
+Bhojanamu cesina vaniki annamu petta veduka, bodi tala vadiki talanta veduka.
 {% endcapture %}
 
 {{ data | markdownify }}

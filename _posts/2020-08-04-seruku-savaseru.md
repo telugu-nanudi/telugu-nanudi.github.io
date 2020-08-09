@@ -19,6 +19,7 @@ To a rogue a rogue and a half. (French.)[1]
 
 #### Romanization:
 Śēruku savāśēru.
+Seruku savaseru.
 {% endcapture %}
 
 {{ data | markdownify }}

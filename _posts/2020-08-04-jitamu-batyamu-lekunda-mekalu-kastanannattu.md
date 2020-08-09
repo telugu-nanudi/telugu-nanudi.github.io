@@ -16,6 +16,7 @@ A man offering to serve without pay for the sake of dishonest gains.
 
 #### Romanization:
 Jītamū batyamū lēkuṇḍā mēkalu kāstānannaṭṭu.
+Jitamu batyamu lekunda mekalu kastanannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

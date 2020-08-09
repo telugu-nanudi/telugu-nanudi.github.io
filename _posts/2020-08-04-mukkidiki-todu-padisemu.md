@@ -17,6 +17,7 @@ Worse and worse.
 
 #### Romanization:
 Mukkiḍiki tōḍu paḍiśemu.
+Mukkidiki todu padisemu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Joining to oppose a common enemy.
 
 #### Romanization:
 Nuvvulū nūne vakaṭi, gāṇḍlavāḍu vēru.
+Nuvvulu nune vakati, gandlavadu veru.
 {% endcapture %}
 
 {{ data | markdownify }}

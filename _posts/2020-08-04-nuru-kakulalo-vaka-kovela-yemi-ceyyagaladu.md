@@ -16,6 +16,7 @@ What can one good man do among so many bad men ?
 
 #### Romanization:
 Nūru kākulalō vaka kōvela yēmi ceyyagaladu.
+Nuru kakulalo vaka kovela yemi ceyyagaladu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Happy go lucky.
 
 #### Romanization:
 Paṇḍu jāri pālallō paḍḍaṭṭu.
+Pandu jari palallo paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

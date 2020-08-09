@@ -18,6 +18,7 @@ i.e. you may remunerate performers as you please.
 
 #### Romanization:
 Vēḍukaku velalēdu.
+Vedukaku velaledu.
 {% endcapture %}
 
 {{ data | markdownify }}

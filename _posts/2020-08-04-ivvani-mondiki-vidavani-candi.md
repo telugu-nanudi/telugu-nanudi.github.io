@@ -16,6 +16,7 @@ One obstinate man who wouldn't give and another who wouldn't take a refusal.
 
 #### Romanization:
 Ivvani moṇḍiki viḍavani caṇḍi.
+Ivvani mondiki vidavani candi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Applied to a man who bears the appearance of having seen better days.
 
 #### Romanization:
 Rājyālu ceḍḍā lakṣaṇālu ceḍa lēdu.
+Rajyalu cedda laksanalu ceda ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

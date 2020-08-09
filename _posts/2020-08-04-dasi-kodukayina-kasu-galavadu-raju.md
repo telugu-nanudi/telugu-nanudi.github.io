@@ -15,6 +15,7 @@ A man with money is a king though he be the son of a slave girl.
 
 #### Romanization:
 Dāsī koḍukayinā kāsu galavāḍu rāju.
+Dasi kodukayina kasu galavadu raju.
 {% endcapture %}
 
 {{ data | markdownify }}

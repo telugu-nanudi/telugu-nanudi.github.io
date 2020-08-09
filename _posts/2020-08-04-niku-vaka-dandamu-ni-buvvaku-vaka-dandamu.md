@@ -17,6 +17,7 @@ Said when oil'ered bad food.
 
 #### Romanization:
 Nīku vaka daṇḍamu, nī buvvaku vaka daṇḍamu.
+Niku vaka dandamu, ni buvvaku vaka dandamu.
 {% endcapture %}
 
 {{ data | markdownify }}

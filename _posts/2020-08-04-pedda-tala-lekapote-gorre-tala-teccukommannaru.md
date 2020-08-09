@@ -20,6 +20,7 @@ When you can't get bread, oat cakes are not amiss. (Spanish)[1]
 
 #### Romanization:
 Pedda tala lēkapōtē, gorre tala teccukom'mannāru.
+Pedda tala lekapote, gorre tala teccukom'mannaru.
 {% endcapture %}
 
 {{ data | markdownify }}

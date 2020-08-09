@@ -16,6 +16,7 @@ Laughter is the hiccup of a fool.
 
 #### Romanization:
 Navvu nālugandāla naṣṭakāri.
+Navvu nalugandala nastakari.
 {% endcapture %}
 
 {{ data | markdownify }}

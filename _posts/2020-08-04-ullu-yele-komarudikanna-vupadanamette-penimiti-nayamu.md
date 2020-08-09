@@ -18,6 +18,7 @@ The one clings to his wife, the other despises his mother.
 
 #### Romanization:
 Ūḷlu yēlē komāruḍikannā vupādānamettē penimiṭi nayamu.
+Ullu yele komarudikanna vupadanamette penimiti nayamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Knowing the soil, [sow] seed; knowing the worthiness [give] gifts
 
 #### Romanization:
 Kṣētramerigi vittanamu, pātramerigi dānamu.
+Ksetramerigi vittanamu, patramerigi danamu.
 {% endcapture %}
 
 {{ data | markdownify }}

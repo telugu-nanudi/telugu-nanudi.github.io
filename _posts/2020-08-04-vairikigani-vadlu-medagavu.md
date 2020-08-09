@@ -19,6 +19,7 @@ Severe measures are required for the stubborn.
 
 #### Romanization:
 Vairikigāni vaḍlu medagavu.
+Vairikigani vadlu medagavu.
 {% endcapture %}
 
 {{ data | markdownify }}

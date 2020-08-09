@@ -14,6 +14,7 @@ Enjoyment in a dream.
 
 #### Romanization:
 Kalalō bhōgamu.
+Kalalo bhogamu.
 {% endcapture %}
 
 {{ data | markdownify }}

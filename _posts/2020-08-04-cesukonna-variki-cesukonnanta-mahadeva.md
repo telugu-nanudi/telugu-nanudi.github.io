@@ -17,6 +17,7 @@ O Mahadeva! what a man does, that does he in full receive.
 
 #### Romanization:
 Cēsukonna vāriki cēsukonnanta mahādēva.
+Cesukonna variki cesukonnanta mahadeva.
 {% endcapture %}
 
 {{ data | markdownify }}

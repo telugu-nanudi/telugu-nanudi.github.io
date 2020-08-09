@@ -19,6 +19,7 @@ Said by a man when excusing himself for not observing the rules of the house in 
 
 #### Romanization:
 Adhika āṣāḍhaṁ.
+Adhika asadham.
 {% endcapture %}
 
 {{ data | markdownify }}

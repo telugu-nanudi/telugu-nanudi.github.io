@@ -18,6 +18,7 @@ The jade who had nothing to do milked the cat.
 
 #### Romanization:
 Panilēni mācam'ma pillipālu pitikinadaṭa.
+Panileni macam'ma pillipalu pitikinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

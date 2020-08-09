@@ -18,6 +18,7 @@ Nothing belonging to others can make up for the want of one's own.
 
 #### Romanization:
 Kananidi biḍḍa kādu, kaṭṭanidi cīra kādu.
+Kananidi bidda kadu, kattanidi cira kadu.
 {% endcapture %}
 
 {{ data | markdownify }}

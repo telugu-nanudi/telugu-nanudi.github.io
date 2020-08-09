@@ -18,6 +18,7 @@ Strong measures must be used with stubborn folk.
 
 #### Romanization:
 Cerukā bellamu peṭṭamaṇṭē peṭṭunā.
+Ceruka bellamu pettamante pettuna.
 {% endcapture %}
 
 {{ data | markdownify }}

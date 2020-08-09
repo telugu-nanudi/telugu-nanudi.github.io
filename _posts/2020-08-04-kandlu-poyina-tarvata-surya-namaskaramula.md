@@ -20,6 +20,7 @@ Persisting in that which has become of no avail.
 
 #### Romanization:
 Kaṇḍlu pōyina tarvāta sūrya namaskāramulā.
+Kandlu poyina tarvata surya namaskaramula.
 {% endcapture %}
 
 {{ data | markdownify }}

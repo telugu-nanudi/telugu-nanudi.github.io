@@ -19,6 +19,7 @@ Utterly destitute.
 
 #### Romanization:
 Cūḍa cuṭṭamū, mokka daivamū lēdu.
+Cuda cuttamu, mokka daivamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

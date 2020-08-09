@@ -13,6 +13,7 @@ Does a man become a thief by finding property ?
 
 #### Romanization:
 Dorikina som'muku doṅga avutāḍā.
+Dorikina som'muku donga avutada.
 {% endcapture %}
 
 {{ data | markdownify }}

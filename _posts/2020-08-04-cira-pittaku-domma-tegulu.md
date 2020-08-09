@@ -20,6 +20,7 @@ Applied to measures quite out of proportion ;to the necessities of the case.
 
 #### Romanization:
 Cīra piṭṭaku dom'ma tegulu.
+Cira pittaku dom'ma tegulu.
 {% endcapture %}
 
 {{ data | markdownify }}

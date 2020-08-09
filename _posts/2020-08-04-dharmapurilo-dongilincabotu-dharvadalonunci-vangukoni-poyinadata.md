@@ -16,6 +16,7 @@ tags:
 
 #### Romanization:
 Dharmapurilō doṅgilin̄cabōtū dhārvāḍalōnun̄ci vaṅgukoni pōyināḍaṭa.
+Dharmapurilo dongilincabotu dharvadalonunci vangukoni poyinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

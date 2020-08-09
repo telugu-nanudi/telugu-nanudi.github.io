@@ -14,6 +14,7 @@ All her threats ended in making a hole in the molasses pot.
 
 #### Romanization:
 Bedirin̄ci bedirin̄ci bellapu kuṇḍaku tūṭu poḍicinadaṭa.
+Bedirinci bedirinci bellapu kundaku tutu podicinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

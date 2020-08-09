@@ -20,6 +20,7 @@ Put not a naked sword in a madman's hand.
 
 #### Romanization:
 Verrivāḍi cēti rāyi.
+Verrivadi ceti rayi.
 {% endcapture %}
 
 {{ data | markdownify }}

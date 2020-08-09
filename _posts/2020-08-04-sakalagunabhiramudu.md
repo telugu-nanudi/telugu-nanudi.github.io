@@ -14,6 +14,7 @@ Said ironically.
 
 #### Romanization:
 Sakalaguṇābhirāmuḍu.
+Sakalagunabhiramudu.
 {% endcapture %}
 
 {{ data | markdownify }}

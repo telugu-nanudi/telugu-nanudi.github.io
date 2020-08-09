@@ -19,6 +19,7 @@ Spirit of contradiction.
 
 #### Romanization:
 Ēti aṇṭē prēti aṇṭāḍu.
+Eti ante preti antadu.
 {% endcapture %}
 
 {{ data | markdownify }}

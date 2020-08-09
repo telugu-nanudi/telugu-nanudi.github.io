@@ -18,6 +18,7 @@ Applied to a man whose malpractiees have been put a. stop to, but who is eagerly
 
 #### Romanization:
 Tina marigina prāṇamu allāḍi caccinadi.
+Tina marigina pranamu alladi caccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

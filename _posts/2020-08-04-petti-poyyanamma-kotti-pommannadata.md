@@ -17,6 +17,7 @@ Said by a beggar.
 
 #### Romanization:
 Peṭṭi poyyanam'ma koṭṭi pom'mannadaṭa.
+Petti poyyanam'ma kotti pom'mannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

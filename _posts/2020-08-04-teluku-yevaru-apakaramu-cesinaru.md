@@ -15,6 +15,7 @@ Thoroughly bad by nature injuring others without provocation.
 
 #### Romanization:
 Tēluku yevaru apakāramu cēśināru.
+Teluku yevaru apakaramu cesinaru.
 {% endcapture %}
 
 {{ data | markdownify }}

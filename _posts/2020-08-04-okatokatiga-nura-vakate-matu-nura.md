@@ -18,6 +18,7 @@ Said in doubt of a person's liberality, as the "hundred" promised would probably
 
 #### Romanization:
 Okaṭokaṭigā nūrā vakaṭē māṭu nūrā.
+Okatokatiga nura vakate matu nura.
 {% endcapture %}
 
 {{ data | markdownify }}

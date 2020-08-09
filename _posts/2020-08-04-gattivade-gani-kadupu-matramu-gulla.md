@@ -19,6 +19,7 @@ The word rendered clever also means "solid." The expression his belly is hollow 
 
 #### Romanization:
 Gaṭṭivāḍē gāni, kaḍupu mātramu gulla.
+Gattivade gani, kadupu matramu gulla.
 {% endcapture %}
 
 {{ data | markdownify }}

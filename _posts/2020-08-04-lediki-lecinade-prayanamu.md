@@ -18,6 +18,7 @@ Said of a man ready to go any where.
 
 #### Romanization:
 Lēḍiki lēcinadē prayāṇamu.
+Lediki lecinade prayanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

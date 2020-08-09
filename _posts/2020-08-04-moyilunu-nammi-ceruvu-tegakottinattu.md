@@ -18,6 +18,7 @@ Prematurely giving up what you have, in the hopes of getting more.
 
 #### Romanization:
 Moyilunu nam'mi ceruvu tegakoṭṭinaṭṭu.
+Moyilunu nam'mi ceruvu tegakottinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

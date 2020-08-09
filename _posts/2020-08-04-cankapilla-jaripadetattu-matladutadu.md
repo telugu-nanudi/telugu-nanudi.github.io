@@ -21,6 +21,7 @@ Bees that have honey in their mouths have stings in their tails.
 
 #### Romanization:
 Caṅkapilla jāripaḍēṭaṭṭu māṭlāḍutāḍu.
+Cankapilla jaripadetattu matladutadu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ A Brahman's hand and an elephant's trunk are never quiet.
 
 #### Romanization:
 Brāhmaṇuni ceyyī yēnuga toṇḍamū vūrakuṇḍavu.
+Brahmanuni ceyyi yenuga tondamu vurakundavu.
 {% endcapture %}
 
 {{ data | markdownify }}

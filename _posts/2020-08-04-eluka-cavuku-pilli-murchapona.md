@@ -16,6 +16,7 @@ Indifference.
 
 #### Romanization:
 Eluka cāvuku pilli mūrchapōnā.
+Eluka cavuku pilli murchapona.
 {% endcapture %}
 
 {{ data | markdownify }}

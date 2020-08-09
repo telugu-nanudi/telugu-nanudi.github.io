@@ -19,6 +19,7 @@ Not to be pleased in any way.
 
 #### Romanization:
 Venakaku veḷlitē tannu, munduku vastē pōṭu.
+Venakaku vellite tannu, munduku vaste potu.
 {% endcapture %}
 
 {{ data | markdownify }}

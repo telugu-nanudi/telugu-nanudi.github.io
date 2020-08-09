@@ -18,6 +18,7 @@ Proportionate losses.
 
 #### Romanization:
 Ēnugaku kālu viragaḍamū, dōmaku rekka viragaḍamū samamu.
+Enugaku kalu viragadamu, domaku rekka viragadamu samamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ Will singing make the tamarinds drop ?
 
 #### Romanization:
 Saṅgītamunaku cintakāyalu rālunā.
+Sangitamunaku cintakayalu raluna.
 {% endcapture %}
 
 {{ data | markdownify }}

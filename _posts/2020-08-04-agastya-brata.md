@@ -19,6 +19,7 @@ Applied to a new-comer, attempting to make himself out a great personage.
 
 #### Romanization:
 Agastya brāta.
+Agastya brata.
 {% endcapture %}
 
 {{ data | markdownify }}

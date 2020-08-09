@@ -16,6 +16,7 @@ A bad man in like company.
 
 #### Romanization:
 Pēḍalō podigina vulligaḍḍa.
+Pedalo podigina vulligadda.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ A thief is but a man.
 
 #### Romanization:
 Doṅgā maniṣē.
+Donga manise.
 {% endcapture %}
 
 {{ data | markdownify }}

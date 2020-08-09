@@ -13,6 +13,7 @@ If you accuse others falsely, you will be accused truly in turn.
 
 #### Romanization:
 Vaṭṭi nindalu ceppitē, gaṭṭi nindalu vaccunu.
+Vatti nindalu ceppite, gatti nindalu vaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Liberality leads to Indra's heaven.
 
 #### Romanization:
 Teguva dēvēndra padavi.
+Teguva devendra padavi.
 {% endcapture %}
 
 {{ data | markdownify }}

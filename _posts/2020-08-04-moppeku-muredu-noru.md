@@ -14,6 +14,7 @@ A fool has a mouth a cubit broad.
 
 #### Romanization:
 Moppeku mūreḍu nōru.
+Moppeku muredu noru.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Like a fight between an elephant and a tortoise.
 
 #### Romanization:
 Gaja kacchapa pōru candamu.
+Gaja kacchapa poru candamu.
 {% endcapture %}
 
 {{ data | markdownify }}

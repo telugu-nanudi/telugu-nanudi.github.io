@@ -18,6 +18,7 @@ A small quantity of fine chunam ( lime) is eaten with betel leaf.
 
 #### Romanization:
 Sunnamu puṭṭani vūḷlō annamu puṭṭunā.
+Sunnamu puttani vullo annamu puttuna.
 {% endcapture %}
 
 {{ data | markdownify }}

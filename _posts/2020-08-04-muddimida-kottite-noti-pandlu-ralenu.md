@@ -14,6 +14,7 @@ When hit in the back his teeth fell out.
 
 #### Romanization:
 Muḍḍimīda koṭṭitē, nōṭi paṇḍlu rālenu.
+Muddimida kottite, noti pandlu ralenu.
 {% endcapture %}
 
 {{ data | markdownify }}

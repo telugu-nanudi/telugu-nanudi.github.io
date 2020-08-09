@@ -14,6 +14,7 @@ Said of foolish extravagance.
 
 #### Romanization:
 Vēlaṁ verri.
+Velam verri.
 {% endcapture %}
 
 {{ data | markdownify }}

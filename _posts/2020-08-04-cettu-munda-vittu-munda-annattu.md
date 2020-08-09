@@ -20,6 +20,7 @@ Ask which was born first, the hen or the egg. (Italian)[1]
 
 #### Romanization:
 Ceṭṭu mundā, vittu mundā annaṭṭu.
+Cettu munda, vittu munda annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

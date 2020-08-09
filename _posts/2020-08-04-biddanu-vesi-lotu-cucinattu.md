@@ -18,6 +18,7 @@ Like throwing a child into a well to find out the depth.
 
 #### Romanization:
 Biḍḍanu vēśi lōtu cūcinaṭṭu.
+Biddanu vesi lotu cucinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

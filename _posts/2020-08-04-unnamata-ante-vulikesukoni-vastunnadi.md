@@ -17,6 +17,7 @@ It is truth that makes a man angry. (Italian)[1]
 
 #### Romanization:
 Unnamāṭa aṇṭē, vulikēsukoni vastunnadi.
+Unnamata ante, vulikesukoni vastunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

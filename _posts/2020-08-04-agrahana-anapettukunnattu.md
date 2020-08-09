@@ -15,6 +15,7 @@ Like taking an oath in a fit of passion.
 
 #### Romanization:
 Āgrahāna ānapeṭṭukunnaṭṭu.
+Agrahana anapettukunnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

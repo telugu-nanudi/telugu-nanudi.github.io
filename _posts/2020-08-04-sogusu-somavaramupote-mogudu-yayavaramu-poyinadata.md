@@ -18,6 +18,7 @@ The jingle of the original is lost in the translation i. e. Monday somavaram, be
 
 #### Romanization:
 Sogusu sōmavāramupōtē, moguḍu yāyavāramu pōyināḍaṭa.
+Sogusu somavaramupote, mogudu yayavaramu poyinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

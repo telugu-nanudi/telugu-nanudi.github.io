@@ -18,6 +18,7 @@ Annoying others with unsuitable speeches.
 
 #### Romanization:
 Śubhamu palakarā peṇḍlikoḍakā aṇṭē, yevaḍi āli tāḍu tegitē nāku yēmi, nāku vēśē piṇḍākūḍu nāku vēstē avirēṇikuṇḍalakāḍa caccinaṭṭē toṅguṇṭānu annāḍaṭa.
+Subhamu palakara pendlikodaka ante, yevadi ali tadu tegite naku yemi, naku vese pindakudu naku veste avirenikundalakada caccinatte tonguntanu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

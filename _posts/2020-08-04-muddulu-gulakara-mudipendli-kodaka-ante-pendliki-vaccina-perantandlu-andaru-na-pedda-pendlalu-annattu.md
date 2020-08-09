@@ -17,6 +17,7 @@ A person making himself ridiculous.
 
 #### Romanization:
 Muddulu gulakarā mudipeṇḍli koḍakā aṇṭē, peṇḍliki vaccina pēraṇṭāṇḍlu andarū nā pedda peṇḍlālu annaṭṭu.
+Muddulu gulakara mudipendli kodaka ante, pendliki vaccina perantandlu andaru na pedda pendlalu annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Diverting the attention of people from their work.
 
 #### Romanization:
 Dunnēvāṇḍlaku lēḷla cūpin̄cinaṭṭu.
+Dunnevandlaku lella cupincinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Vain economy.
 
 #### Romanization:
 Boccu kālcitē boggulavunā.
+Boccu kalcite boggulavuna.
 {% endcapture %}
 
 {{ data | markdownify }}

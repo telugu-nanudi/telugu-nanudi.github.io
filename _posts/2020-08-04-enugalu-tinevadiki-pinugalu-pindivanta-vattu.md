@@ -19,6 +19,7 @@ A thoroughly bad man won't stick at trifies.
 
 #### Romanization:
 Ēnugalu tinēvāḍiki pīnugalu piṇḍivaṇṭa vattu.
+Enugalu tinevadiki pinugalu pindivanta vattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ The reply of the wife of s logician (who would pay no attention to household mat
 
 #### Romanization:
 Ityarthalu yiguru, itibhāvalu pulusu.
+Ityarthalu yiguru, itibhavalu pulusu.
 {% endcapture %}
 
 {{ data | markdownify }}

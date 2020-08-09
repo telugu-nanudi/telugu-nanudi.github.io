@@ -19,6 +19,7 @@ The secret of Anchuelos. (spanish)[1]
 
 #### Romanization:
 Koṇḍa mīda debagubalēmaṇṭē, kōmaṭla rahasyālu annaṭṭu.
+Konda mida debagubalemante, komatla rahasyalu annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

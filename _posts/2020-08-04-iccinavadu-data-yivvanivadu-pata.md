@@ -19,6 +19,7 @@ The impertinent speech of a beggar.
 
 #### Romanization:
 Iccinavāḍu dāta, yivvanivāḍu pāta.
+Iccinavadu data, yivvanivadu pata.
 {% endcapture %}
 
 {{ data | markdownify }}

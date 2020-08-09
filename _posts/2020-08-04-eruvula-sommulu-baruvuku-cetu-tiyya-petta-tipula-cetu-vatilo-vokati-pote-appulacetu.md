@@ -18,6 +18,7 @@ He that goes a borrowing goes a sorrowing.
 
 #### Romanization:
 Eruvula som'mulu baruvuku cēṭu, tiyyā peṭṭā tīpula cēṭu, vāṭilō vokaṭi pōtē appulacēṭu.
+Eruvula som'mulu baruvuku cetu, tiyya petta tipula cetu, vatilo vokati pote appulacetu.
 {% endcapture %}
 
 {{ data | markdownify }}

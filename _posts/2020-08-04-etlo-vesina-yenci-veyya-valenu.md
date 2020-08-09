@@ -18,6 +18,7 @@ Keep your expenditure within bounds.
 
 #### Romanization:
 Ēṭlō vēśinā yen̄ci veyya valenu.
+Etlo vesina yenci veyya valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

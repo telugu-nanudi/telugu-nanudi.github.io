@@ -13,6 +13,7 @@ Corrnnon oysters are in one spot, and pearl oysters in another.
 
 #### Romanization:
 Nattagullalannī vakarēvuna, mutyapu cippalannī vakarēvuna
+Nattagullalanni vakarevuna, mutyapu cippalanni vakarevuna
 {% endcapture %}
 
 {{ data | markdownify }}

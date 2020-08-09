@@ -18,6 +18,7 @@ To hold with the hare, and hunt with the hounds.
 
 #### Romanization:
 Iṇṭivāṇni lēpi doṅgacētiki kaṭṭe yiccinaṭṭu.
+Intivanni lepi dongacetiki katte yiccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Said of any thing neglected, as Rama's kingdom was neglected during his absence 
 
 #### Romanization:
 Bharatuḍi paṭnamu, rāmuḍi rājyamu.
+Bharatudi patnamu, ramudi rajyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

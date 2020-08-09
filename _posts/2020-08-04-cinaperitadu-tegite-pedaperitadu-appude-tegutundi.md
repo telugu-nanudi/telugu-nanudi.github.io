@@ -20,6 +20,7 @@ Both in the same boat.
 
 #### Romanization:
 Cinapēritāḍu tegitē, pedapēritāḍu appuḍē tegutundi.
+Cinaperitadu tegite, pedaperitadu appude tegutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

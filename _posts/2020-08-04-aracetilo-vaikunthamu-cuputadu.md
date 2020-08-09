@@ -16,6 +16,7 @@ Deceiving by false hopes.
 
 #### Romanization:
 Aracētilō vaikuṇṭhamu cūputāḍu.
+Aracetilo vaikunthamu cuputadu.
 {% endcapture %}
 
 {{ data | markdownify }}

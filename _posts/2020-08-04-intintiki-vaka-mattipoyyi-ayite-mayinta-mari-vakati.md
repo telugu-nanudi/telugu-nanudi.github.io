@@ -16,6 +16,7 @@ Acknowledging one's failings.
 
 #### Romanization:
 Iṇṭiṇṭikī vaka maṭṭipoyyi ayitē, māyiṇṭa mari vakaṭi.
+Intintiki vaka mattipoyyi ayite, mayinta mari vakati.
 {% endcapture %}
 
 {{ data | markdownify }}

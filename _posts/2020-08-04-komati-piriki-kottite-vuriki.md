@@ -17,6 +17,7 @@ A Komati is a coward; if you hit him, he runs away.
 
 #### Romanization:
 Kōmaṭi piriki, koṭṭitē vuriki.
+Komati piriki, kottite vuriki.
 {% endcapture %}
 
 {{ data | markdownify }}

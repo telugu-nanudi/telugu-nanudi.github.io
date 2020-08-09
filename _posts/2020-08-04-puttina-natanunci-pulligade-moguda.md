@@ -17,6 +17,7 @@ Applied to ungrateful servants or dependants.
 
 #### Romanization:
 Puṭṭina nāṭanun̄ci pulligāḍē moguḍā.
+Puttina natanunci pulligade moguda.
 {% endcapture %}
 
 {{ data | markdownify }}

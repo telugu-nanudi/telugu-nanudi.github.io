@@ -19,6 +19,7 @@ The seed of the Guruvinda (Abrus Precatorius) is a small pretty black and red se
 
 #### Romanization:
 Kōtī guruvinda sāmyamu.
+Koti guruvinda samyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

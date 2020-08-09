@@ -18,6 +18,7 @@ When the feigning woman became pregnant, she declared that she would not move fr
 
 #### Romanization:
 Vēṣālamāriki vēviḷluvastē, vunnacōṭu viḍavanu annadaṭa.
+Vesalamariki vevilluvaste, vunnacotu vidavanu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

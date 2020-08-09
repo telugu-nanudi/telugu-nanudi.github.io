@@ -19,6 +19,7 @@ Fidders' dogs an' flees come to a feast unca'd. (Scotch)
 
 #### Romanization:
 Pilavani pēraṇṭamu ceppani vakka poddu.
+Pilavani perantamu ceppani vakka poddu.
 {% endcapture %}
 
 {{ data | markdownify }}

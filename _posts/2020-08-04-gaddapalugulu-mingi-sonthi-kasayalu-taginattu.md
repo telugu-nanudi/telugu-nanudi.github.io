@@ -14,6 +14,7 @@ An insufficient remedy.
 
 #### Romanization:
 Gaḍḍapalugulu miṅgi śoṇṭhi kaṣāyālu tāginaṭṭu.
+Gaddapalugulu mingi sonthi kasayalu taginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

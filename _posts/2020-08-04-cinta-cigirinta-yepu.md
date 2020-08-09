@@ -20,6 +20,7 @@ Slow and sure.
 
 #### Romanization:
 Cintā cigirinta yēpu.
+Cinta cigirinta yepu.
 {% endcapture %}
 
 {{ data | markdownify }}

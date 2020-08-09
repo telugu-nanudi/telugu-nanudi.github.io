@@ -18,6 +18,7 @@ Said of a blockhead.
 
 #### Romanization:
 Bāvā nī bhārya muṇḍamōśinadōyi aṇṭē, morrō ani yēḍcināḍaṭa.
+Bava ni bharya mundamosinadoyi ante, morro ani yedcinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Absence of mind, but no harm done.
 
 #### Romanization:
 Marici pōyi māruboṭṭulō majjiga pōśinadi.
+Marici poyi marubottulo majjiga posinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ There is no argument like that of the stick. (Spanish)[2]
 
 #### Romanization:
 Am'ma peṭṭēvi nālugū appuḍē peṭṭitē ceyyanā.
+Am'ma pettevi nalugu appude pettite ceyyana.
 {% endcapture %}
 
 {{ data | markdownify }}

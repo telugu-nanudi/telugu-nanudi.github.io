@@ -15,6 +15,7 @@ A defiant speech in answer to a threat.
 
 #### Romanization:
 Mūreḍu yiṇṭlō bāreḍu karra.
+Muredu yintlo baredu karra.
 {% endcapture %}
 
 {{ data | markdownify }}

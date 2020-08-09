@@ -16,6 +16,7 @@ Regretting the loss of some good man.
 
 #### Romanization:
 Man̄ci vānikē vaccenā maraṇa kākitamu.
+Manci vanike vaccena marana kakitamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Give the piper a penny, and two pence to leave off.
 
 #### Romanization:
 Pāḍindē pāḍarā pācipaṇḍla dāsari.
+Padinde padara pacipandla dasari.
 {% endcapture %}
 
 {{ data | markdownify }}

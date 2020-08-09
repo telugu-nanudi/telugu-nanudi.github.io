@@ -18,6 +18,7 @@ People do not find fault with their own actions.
 
 #### Romanization:
 Tanakampu tanakimpu, parulakampu tanaku vōkilimpu.
+Tanakampu tanakimpu, parulakampu tanaku vokilimpu.
 {% endcapture %}
 
 {{ data | markdownify }}

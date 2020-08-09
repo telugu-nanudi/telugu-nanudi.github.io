@@ -17,6 +17,7 @@ The eye-ball is large, but the pupil is small.
 
 #### Romanization:
 Sthūlamu kanuguḍḍu, sūkṣmamu kanupāpa,
+Sthulamu kanuguddu, suksmamu kanupapa,
 {% endcapture %}
 
 {{ data | markdownify }}

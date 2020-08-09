@@ -19,6 +19,7 @@ A bad horse eats as much as a good one. (Dutch.)[1]
 
 #### Romanization:
 Gurramu guḍḍidayinā dāṇālō takkuva vuṇḍadu.
+Gurramu guddidayina danalo takkuva vundadu.
 {% endcapture %}
 
 {{ data | markdownify }}

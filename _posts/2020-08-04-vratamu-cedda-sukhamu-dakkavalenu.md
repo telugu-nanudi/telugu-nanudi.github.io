@@ -18,6 +18,7 @@ There must be some inducement to transgress the bounds of virtue.
 
 #### Romanization:
 Vratamu ceḍḍā, sukhamu dakkavalenu.
+Vratamu cedda, sukhamu dakkavalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

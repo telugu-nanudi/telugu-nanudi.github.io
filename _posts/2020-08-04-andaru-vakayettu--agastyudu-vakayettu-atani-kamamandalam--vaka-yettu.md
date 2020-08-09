@@ -18,6 +18,7 @@ The legend is that when all the great men of the earth had, on one occasion, ass
 
 #### Romanization:
 Andaru vakayettu,  agastyuḍu vakayettu, atani kamamaṇḍalaṁ  vaka yettu.
+Andaru vakayettu,  agastyudu vakayettu, atani kamamandalam  vaka yettu.
 {% endcapture %}
 
 {{ data | markdownify }}

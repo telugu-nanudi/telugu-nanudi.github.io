@@ -19,6 +19,7 @@ Applied to a stupid person not doing what he is told.
 
 #### Romanization:
 Ceviṭi peddam'mā cēntrāḍu tēvē aṇṭē, cevula pōgulu nā janmānā yeraganannadaṭa.
+Ceviti peddam'ma centradu teve ante, cevula pogulu na janmana yeraganannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

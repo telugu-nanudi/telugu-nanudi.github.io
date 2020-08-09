@@ -18,6 +18,7 @@ Kunalamma is the goddess said to preside over children.
 
 #### Romanization:
 Kūnalam'ma saṅgītamu viṇṭē puṇyamu lēdu, vinakuṇṭē pāpamu lēdu.
+Kunalam'ma sangitamu vinte punyamu ledu, vinakunte papamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

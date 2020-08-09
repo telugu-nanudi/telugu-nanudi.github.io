@@ -20,6 +20,7 @@ Dabbling in many things, but completing none.
 
 #### Romanization:
 Koṇḍamaṅgali goriginaṭṭu.
+Kondamangali goriginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

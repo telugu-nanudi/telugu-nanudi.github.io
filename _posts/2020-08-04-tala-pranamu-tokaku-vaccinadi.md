@@ -18,6 +18,7 @@ Applied to strenuous exertions made to accomplish a difficult task.
 
 #### Romanization:
 Tala prāṇamu tōkaku vaccinadi.
+Tala pranamu tokaku vaccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

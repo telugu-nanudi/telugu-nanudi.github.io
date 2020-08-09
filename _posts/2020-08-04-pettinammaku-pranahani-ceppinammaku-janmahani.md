@@ -18,6 +18,7 @@ The story runs thus: In the city of Matipuram, dwelt a king named Nayasali. He h
 
 #### Romanization:
 Peṭṭinam'maku prāṇahāni ceppinam'maku janmahāni.
+Pettinam'maku pranahani ceppinam'maku janmahani.
 {% endcapture %}
 
 {{ data | markdownify }}

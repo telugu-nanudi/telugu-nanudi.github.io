@@ -17,6 +17,7 @@ To give a direct answer and settle a matter one way or the other.
 
 #### Romanization:
 Okaṭē debba reṇḍē mukkalu.
+Okate debba rende mukkalu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Fish follow the bait.
 
 #### Romanization:
 Erranu cūpi cēpanu paṭṭinaṭṭu.
+Erranu cupi cepanu pattinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

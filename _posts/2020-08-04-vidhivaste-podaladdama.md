@@ -20,6 +20,7 @@ That which must be, will be. (Danish)[1]
 
 #### Romanization:
 Vidhivastē podalaḍḍamā.
+Vidhivaste podaladdama.
 {% endcapture %}
 
 {{ data | markdownify }}

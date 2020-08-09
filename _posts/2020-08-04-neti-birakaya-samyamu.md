@@ -20,6 +20,7 @@ Grand in name but not worth anything.
 
 #### Romanization:
 Nēti bīrakāya sāmyamu.
+Neti birakaya samyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

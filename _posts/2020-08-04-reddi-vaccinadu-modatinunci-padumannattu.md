@@ -18,6 +18,7 @@ A person being continually asked to recommence his song or story on the arrival 
 
 #### Romanization:
 Reḍḍi vaccināḍu, modaṭinun̄ci pāḍumannaṭṭu.
+Reddi vaccinadu, modatinunci padumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ A doubtful benefit.
 
 #### Romanization:
 Pennalō mān'yamu ceppinaṭṭu.
+Pennalo man'yamu ceppinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ A vain fellow will be ignominiously treated.
 
 #### Romanization:
 Kukka santaku pōyi tunakōla debbalu tinnaṭṭu.
+Kukka santaku poyi tunakola debbalu tinnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ An imprecation used with reference to a man who refuses an invitation.
 
 #### Romanization:
 Rānivāḍi mīda rāyi.
+Ranivadi mida rayi.
 {% endcapture %}
 
 {{ data | markdownify }}

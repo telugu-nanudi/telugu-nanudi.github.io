@@ -17,6 +17,7 @@ What is not needed is dear at a farthinng. (Latin)[1]
 
 #### Romanization:
 Cavaka dūbaradiṇḍiki kāraṇamu.
+Cavaka dubaradindiki karanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

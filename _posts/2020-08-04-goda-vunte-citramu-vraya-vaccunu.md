@@ -14,6 +14,7 @@ If there is a wall you can draw on it.
 
 #### Romanization:
 Gōḍa vuṇṭē citramu vrāya vaccunu.
+Goda vunte citramu vraya vaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

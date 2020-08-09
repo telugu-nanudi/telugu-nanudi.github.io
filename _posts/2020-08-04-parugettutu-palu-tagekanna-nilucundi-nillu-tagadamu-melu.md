@@ -16,6 +16,7 @@ A comfortable berth with a moderate salary, is better than a bad situation with 
 
 #### Romanization:
 Parugettutū pālu tāgēkannā, nilucuṇḍi nīḷlu tāgaḍamu mēlu.
+Parugettutu palu tagekanna, nilucundi nillu tagadamu melu.
 {% endcapture %}
 
 {{ data | markdownify }}

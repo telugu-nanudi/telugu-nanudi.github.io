@@ -19,6 +19,7 @@ He is not worth his salt.
 
 #### Romanization:
 Tiṇḍiki cēṭū nēlaku baruvū.
+Tindiki cetu nelaku baruvu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Despair gives courage to a coward.
 
 #### Romanization:
 Caccēvāniki samudramu mōkāli baṇṭi.
+Caccevaniki samudramu mokali banti.
 {% endcapture %}
 
 {{ data | markdownify }}

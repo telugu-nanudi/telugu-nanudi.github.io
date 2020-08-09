@@ -20,6 +20,7 @@ Did you ever before hear an ass play upon a lute?
 
 #### Romanization:
 Rāgānaku nēnu, andānaku mā akka.
+Raganaku nenu, andanaku ma akka.
 {% endcapture %}
 
 {{ data | markdownify }}

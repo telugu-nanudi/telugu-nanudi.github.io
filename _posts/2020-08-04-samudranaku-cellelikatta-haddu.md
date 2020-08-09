@@ -19,6 +19,7 @@ Used in cautioning others not to transgress due bounds.
 
 #### Romanization:
 Samudrānaku cellelikaṭṭa haddu.
+Samudranaku cellelikatta haddu.
 {% endcapture %}
 
 {{ data | markdownify }}

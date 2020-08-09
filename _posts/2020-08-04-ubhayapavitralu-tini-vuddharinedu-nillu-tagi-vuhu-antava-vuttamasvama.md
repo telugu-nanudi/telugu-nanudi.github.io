@@ -19,6 +19,7 @@ Giving little pay and expecting much work to be done.
 
 #### Romanization:
 Ubhayapavitrālū tini vud'dhariṇeḍu nīḷlū tāgi vūhū aṇṭāvā vuttamāśvamā.
+Ubhayapavitralu tini vud'dharinedu nillu tagi vuhu antava vuttamasvama.
 {% endcapture %}
 
 {{ data | markdownify }}

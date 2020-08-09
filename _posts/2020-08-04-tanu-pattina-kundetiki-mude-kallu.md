@@ -19,6 +19,7 @@ Said of a pertinaceous person.
 
 #### Romanization:
 Tānu paṭṭina kundēṭiki mūḍē kāḷlu.
+Tanu pattina kundetiki mude kallu.
 {% endcapture %}
 
 {{ data | markdownify }}

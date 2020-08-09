@@ -19,6 +19,7 @@ The devil was sick, the devil a monk would be;The devil grew well, the devil a m
 
 #### Romanization:
 Āpati mokkulu, sampati kuṇṭlu.
+Apati mokkulu, sampati kuntlu.
 {% endcapture %}
 
 {{ data | markdownify }}

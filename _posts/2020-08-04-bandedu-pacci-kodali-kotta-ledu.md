@@ -19,6 +19,7 @@ Bandedu is the Dodonaes Burmanniana, a light wood that ignites like touch-wood.
 
 #### Romanization:
 Bandēḍu paccī kōḍali kottā lēdu.
+Bandedu pacci kodali kotta ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

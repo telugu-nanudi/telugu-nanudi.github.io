@@ -14,6 +14,7 @@ A Karanaam is a village accountant.
 
 #### Romanization:
 Ākaligonna karaṇamu pātakavile tīśināḍu.
+Akaligonna karanamu patakavile tisinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

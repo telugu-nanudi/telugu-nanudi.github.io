@@ -18,6 +18,7 @@ Welcome and unwelcome intelligence.
 
 #### Romanization:
 Ēkādaśā brāhmaṇuḍā aṇṭē, kālē korivi yegasana tōstāvā annāḍaṭa -dvādaśā brāhmaṇuḍā aṇṭē, āpadalu kāpurālu cēstāvā annāḍaṭa.
+Ekadasa brahmanuda ante, kale korivi yegasana tostava annadata -dvadasa brahmanuda ante, apadalu kapuralu cestava annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

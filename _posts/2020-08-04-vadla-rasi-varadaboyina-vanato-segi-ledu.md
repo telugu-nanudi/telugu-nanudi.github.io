@@ -18,6 +18,7 @@ Though one suffer many will be benefited.
 
 #### Romanization:
 Vaḍla rāśi varadabōyinā vānatō śēgi lēdu.
+Vadla rasi varadaboyina vanato segi ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

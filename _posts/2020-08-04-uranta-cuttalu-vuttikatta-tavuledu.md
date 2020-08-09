@@ -19,6 +19,7 @@ Give out that you have many friends, and believe that you have but few. (French.
 
 #### Romanization:
 Ūrantā cuṭṭālu, vuṭṭikaṭṭa tāvulēdu.
+Uranta cuttalu, vuttikatta tavuledu.
 {% endcapture %}
 
 {{ data | markdownify }}

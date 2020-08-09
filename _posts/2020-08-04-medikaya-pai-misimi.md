@@ -19,6 +19,7 @@ outwardly fine, but inwardly bad.
 
 #### Romanization:
 Mēḍikāya pai misimi.
+Medikaya pai misimi.
 {% endcapture %}
 
 {{ data | markdownify }}

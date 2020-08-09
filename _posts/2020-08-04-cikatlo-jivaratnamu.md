@@ -16,6 +16,7 @@ A bright exception among a bad lot.
 
 #### Romanization:
 Cīkaṭlō jīvaratnamu.
+Cikatlo jivaratnamu.
 {% endcapture %}
 
 {{ data | markdownify }}

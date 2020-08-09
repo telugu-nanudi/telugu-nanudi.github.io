@@ -19,6 +19,7 @@ True greatness is not affected by a change of circumstances.
 
 #### Romanization:
 Meṭṭanuvunnā yēnugē, pallānavunnā yēnugē.
+Mettanuvunna yenuge, pallanavunna yenuge.
 {% endcapture %}
 
 {{ data | markdownify }}

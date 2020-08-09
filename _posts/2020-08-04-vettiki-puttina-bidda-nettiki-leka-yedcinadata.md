@@ -17,6 +17,7 @@ A. child born where there was no love [between the parents] suffered for want [o
 
 #### Romanization:
 Veṭṭiki puṭṭina biḍḍa nettiki lēka yēḍcinadaṭa.
+Vettiki puttina bidda nettiki leka yedcinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

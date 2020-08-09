@@ -15,6 +15,7 @@ An unfortunate coincidence.
 
 #### Romanization:
 Kāpu vaccina yēḍē karuvū vaccinadi.
+Kapu vaccina yede karuvu vaccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ He bartered a milch she buffalo for a goring he buffalo.
 
 #### Romanization:
 Pitikē barrenu yicci poḍicē dunnanu teccinaṭṭu.
+Pitike barrenu yicci podice dunnanu teccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

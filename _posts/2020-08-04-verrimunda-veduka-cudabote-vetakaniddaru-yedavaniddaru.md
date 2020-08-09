@@ -17,6 +17,7 @@ When the daft creature went to see the show, two had to search, and two to cry [
 
 #### Romanization:
 Verrimuṇḍa vēḍuka cūḍabōtē, vetakaniddaru yēḍavaniddaru.
+Verrimunda veduka cudabote, vetakaniddaru yedavaniddaru.
 {% endcapture %}
 
 {{ data | markdownify }}

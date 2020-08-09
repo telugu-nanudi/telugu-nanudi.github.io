@@ -17,6 +17,7 @@ Entirely given to the selfish pursuit of one object.
 
 #### Romanization:
 Pāṭimīdi gaṅgānam'maku kūṭimīdanē lōkamu.
+Patimidi ganganam'maku kutimidane lokamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ Like a pig in the mire.
 
 #### Romanization:
 Burada guṇṭalō pandi sāmita.
+Burada guntalo pandi samita.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Tauntingly used by a person towards those who took delight in his misfortune but
 
 #### Romanization:
 Kollu muligina konnāḷlaku kōnā muliginadi
+Kollu muligina konnallaku kona muliginadi
 {% endcapture %}
 
 {{ data | markdownify }}

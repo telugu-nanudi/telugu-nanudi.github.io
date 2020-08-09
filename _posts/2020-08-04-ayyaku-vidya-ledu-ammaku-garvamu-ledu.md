@@ -16,6 +16,7 @@ When the husband has no learning, the wife has no pride.
 
 #### Romanization:
 Ayyaku vidyā lēdu, am'maku garvamū lēdu.
+Ayyaku vidya ledu, am'maku garvamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

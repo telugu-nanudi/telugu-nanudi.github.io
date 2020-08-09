@@ -18,6 +18,7 @@ Hiding one's losses and keeping up the former style.
 
 #### Romanization:
 Śiri pōyinā cinnelu pō lēdu.
+Siri poyina cinnelu po ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

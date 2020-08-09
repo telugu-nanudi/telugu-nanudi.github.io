@@ -14,6 +14,7 @@ Attempting impossibilitics.
 
 #### Romanization:
 Moṇḍicētivāniki nuvvulu tina nērpinaṭṭu.
+Mondicetivaniki nuvvulu tina nerpinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

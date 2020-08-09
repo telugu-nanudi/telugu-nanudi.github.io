@@ -18,6 +18,7 @@ Saying and doing are two things.
 
 #### Romanization:
 Katti tīśi kampalō vēśi yēku tīśi poḍucukuṇṭānannaṭṭu.
+Katti tisi kampalo vesi yeku tisi poducukuntanannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

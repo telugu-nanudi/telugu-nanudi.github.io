@@ -15,6 +15,7 @@ Keeping quiet for a while, but soon returning to mischief.
 
 #### Romanization:
 Būḍida guṇṭalō kukka sāmita.
+Budida guntalo kukka samita.
 {% endcapture %}
 
 {{ data | markdownify }}

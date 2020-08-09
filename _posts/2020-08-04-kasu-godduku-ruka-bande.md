@@ -20,6 +20,7 @@ Expense disproportionate to the value of an article.
 
 #### Romanization:
 Kāsu goḍḍuku rūka bande.
+Kasu godduku ruka bande.
 {% endcapture %}
 
 {{ data | markdownify }}

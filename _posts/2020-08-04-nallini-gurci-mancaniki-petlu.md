@@ -16,6 +16,7 @@ Beating a bedstead on account of the bugs.
 
 #### Romanization:
 Nallini gūrci man̄cāniki peṭlu.
+Nallini gurci mancaniki petlu.
 {% endcapture %}
 
 {{ data | markdownify }}

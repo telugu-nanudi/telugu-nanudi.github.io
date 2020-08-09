@@ -15,6 +15,7 @@ When he was asked to walk round the house he walked round the shed.
 
 #### Romanization:
 Illu tirigi ram'maṇṭē, yilāraṁ tirigi vaccinaṭṭu.
+Illu tirigi ram'mante, yilaram tirigi vaccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

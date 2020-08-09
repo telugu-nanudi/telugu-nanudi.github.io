@@ -19,6 +19,7 @@ Merry in haste and repent at leisure.
 
 #### Romanization:
 Alivigāni ālini kaṭṭukoni murigicaccerā muṇḍā koḍuku.
+Alivigani alini kattukoni murigicaccera munda koduku.
 {% endcapture %}
 
 {{ data | markdownify }}

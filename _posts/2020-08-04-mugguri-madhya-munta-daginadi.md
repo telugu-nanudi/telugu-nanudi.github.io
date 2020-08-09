@@ -18,6 +18,7 @@ i. e. it could not possibly be carried off from the midst of a number of people 
 
 #### Romanization:
 Mugguri madhya munta dāginadi.
+Mugguri madhya munta daginadi.
 {% endcapture %}
 
 {{ data | markdownify }}

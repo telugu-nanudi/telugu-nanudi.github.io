@@ -19,6 +19,7 @@ Either Caesar or nobody. (latin)[1]
 
 #### Romanization:
 Ayitē ataḍi ālāye, kākapōtē dāsurālāye.
+Ayite atadi alaye, kakapote dasuralaye.
 {% endcapture %}
 
 {{ data | markdownify }}

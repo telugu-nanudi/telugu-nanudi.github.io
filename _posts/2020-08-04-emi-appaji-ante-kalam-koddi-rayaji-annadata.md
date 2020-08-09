@@ -18,6 +18,7 @@ tags:
 
 #### Romanization:
 Ēmi appājī aṇṭē, kālaṁ koddī rāyajī annāḍaṭa.
+Emi appaji ante, kalam koddi rayaji annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

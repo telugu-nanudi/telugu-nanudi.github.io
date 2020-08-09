@@ -15,6 +15,7 @@ When asked whether he could read and write, he said, "I can't read or write, but
 
 #### Romanization:
 Cadava nērtuvā vrāya nērtuvā aṇṭē, cadavā vrāyā nēranugāni cin̄ca nērtunu annāḍaṭa.
+Cadava nertuva vraya nertuva ante, cadava vraya neranugani cinca nertunu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

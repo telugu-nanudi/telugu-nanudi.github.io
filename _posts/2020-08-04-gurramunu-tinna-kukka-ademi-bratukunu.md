@@ -14,6 +14,7 @@ How can a dog which has eaten a horse live?
 
 #### Romanization:
 Gurramunu tinna kukka adēmi bratukunu.
+Gurramunu tinna kukka ademi bratukunu.
 {% endcapture %}
 
 {{ data | markdownify }}

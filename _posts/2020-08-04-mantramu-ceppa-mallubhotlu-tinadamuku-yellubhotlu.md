@@ -18,6 +18,7 @@ It was Ellubhotlu's part to read the prayers, but as he was an ignorant man Mall
 
 #### Romanization:
 Mantramu ceppa mallubhoṭlu, tinaḍamuku yellubhoṭlu.
+Mantramu ceppa mallubhotlu, tinadamuku yellubhotlu.
 {% endcapture %}
 
 {{ data | markdownify }}

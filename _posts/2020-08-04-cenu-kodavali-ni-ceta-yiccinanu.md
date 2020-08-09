@@ -18,6 +18,7 @@ To hand anything over entirely to another. To give another full powers.
 
 #### Romanization:
 Cēnū koḍavalī nī cēta yiccinānu.
+Cenu kodavali ni ceta yiccinanu.
 {% endcapture %}
 
 {{ data | markdownify }}

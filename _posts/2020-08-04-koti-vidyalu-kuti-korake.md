@@ -19,6 +19,7 @@ All professions are only so many means of livelihood.
 
 #### Romanization:
 Kōṭi vidyalū kūṭi korakē.
+Koti vidyalu kuti korake.
 {% endcapture %}
 
 {{ data | markdownify }}

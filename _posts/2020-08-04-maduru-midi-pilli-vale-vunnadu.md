@@ -19,6 +19,7 @@ Said of a cool, calculating, selfish man.
 
 #### Romanization:
 Maduru mīdi pilli vale vunnāḍu.
+Maduru midi pilli vale vunnadu.
 {% endcapture %}
 
 {{ data | markdownify }}

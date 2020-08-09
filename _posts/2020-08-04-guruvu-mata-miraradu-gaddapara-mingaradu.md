@@ -18,6 +18,7 @@ The first is as bad for you as the second.
 
 #### Romanization:
 Guruvu māṭa mīrarādu, gaḍḍapāra miṅgarādu.
+Guruvu mata miraradu, gaddapara mingaradu.
 {% endcapture %}
 
 {{ data | markdownify }}

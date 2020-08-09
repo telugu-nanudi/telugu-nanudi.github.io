@@ -19,6 +19,7 @@ A good thing thrown away on a stupid person.
 
 #### Romanization:
 Kōti cēti pūla daṇḍa.
+Koti ceti pula danda.
 {% endcapture %}
 
 {{ data | markdownify }}

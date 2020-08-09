@@ -16,6 +16,7 @@ He who has no children knows not what is love. (Italian)[1]
 
 #### Romanization:
 Goḍḍupōtu yēmi yerugurā biḍḍa cavi.
+Goddupotu yemi yerugura bidda cavi.
 {% endcapture %}
 
 {{ data | markdownify }}

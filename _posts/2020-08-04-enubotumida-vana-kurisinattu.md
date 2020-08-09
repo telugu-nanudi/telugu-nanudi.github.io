@@ -14,6 +14,7 @@ Apathetic indifference.
 
 #### Romanization:
 Enubōtumīda vāna kuriśinaṭṭu.
+Enubotumida vana kurisinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

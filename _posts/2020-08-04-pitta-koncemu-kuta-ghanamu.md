@@ -15,6 +15,7 @@ A little dog, a cow without horns, and a short man are generally proud. (Danish)
 
 #### Romanization:
 Piṭṭa kon̄cemu kūta ghanamu.
+Pitta koncemu kuta ghanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

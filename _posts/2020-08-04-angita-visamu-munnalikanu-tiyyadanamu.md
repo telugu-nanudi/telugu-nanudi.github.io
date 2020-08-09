@@ -19,6 +19,7 @@ Full of courtesy, full of craft.
 
 #### Romanization:
 Aṅgiṭa viṣamu, munnālikanu tiyyadanamu.
+Angita visamu, munnalikanu tiyyadanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Gold is no balm to a wounded spirit.
 
 #### Romanization:
 Manō vyādhiki mandu lēdu.
+Mano vyadhiki mandu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

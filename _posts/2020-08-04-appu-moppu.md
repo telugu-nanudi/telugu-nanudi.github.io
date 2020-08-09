@@ -15,6 +15,7 @@ Debt is the worst poverty.
 
 #### Romanization:
 Appu moppu.
+Appu moppu.
 {% endcapture %}
 
 {{ data | markdownify }}

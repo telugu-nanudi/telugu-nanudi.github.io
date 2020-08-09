@@ -18,6 +18,7 @@ The bridegroom looked a poor creature when stripped of all his finery.
 
 #### Romanization:
 Peṇḍli marnāḍu peṇḍli koḍuku mukhāna peddam'ma vēlāḍutunnadi.
+Pendli marnadu pendli koduku mukhana peddam'ma veladutunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

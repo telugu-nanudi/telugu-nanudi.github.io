@@ -14,6 +14,7 @@ Fetters still.
 
 #### Romanization:
 Maṇulu cekkina saṅkeḷlu.
+Manulu cekkina sankellu.
 {% endcapture %}
 
 {{ data | markdownify }}

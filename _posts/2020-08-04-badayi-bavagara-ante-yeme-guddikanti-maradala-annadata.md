@@ -14,6 +14,7 @@ When a woman said "O conceited brother-in-law," he answered "Well, one eyed sist
 
 #### Romanization:
 Baḍāyi bāvagārā aṇṭē, yēmē guḍḍikaṇṭi maradalā annāḍaṭa.
+Badayi bavagara ante, yeme guddikanti maradala annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

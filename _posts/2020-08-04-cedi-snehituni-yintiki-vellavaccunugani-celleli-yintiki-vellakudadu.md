@@ -20,6 +20,7 @@ Relationship gives rise to envy. (Latin)[3]
 
 #### Romanization:
 Ceḍi snēhituni yiṇṭiki veḷlavaccunugāni, celleli yiṇṭiki veḷlakūḍadu.
+Cedi snehituni yintiki vellavaccunugani, celleli yintiki vellakudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

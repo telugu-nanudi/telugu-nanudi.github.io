@@ -22,6 +22,7 @@ No butter will stick to his bread.
 
 #### Romanization:
 Puṭṭeḍāmudamu paṭṭin̄cukoni porlāḍinā aṇṭēdē aṇṭunu gāni aṇṭanidi aṇṭadu.
+Puttedamudamu pattincukoni porladina antede antunu gani antanidi antadu.
 {% endcapture %}
 
 {{ data | markdownify }}

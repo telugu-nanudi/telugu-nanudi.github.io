@@ -19,6 +19,7 @@ Anger makes a rich man hated, and a poor man scorned.
 
 #### Romanization:
 Pēdavāni kōpamu pedaviki cēṭu.
+Pedavani kopamu pedaviki cetu.
 {% endcapture %}
 
 {{ data | markdownify }}

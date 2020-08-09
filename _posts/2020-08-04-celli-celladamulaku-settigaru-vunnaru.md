@@ -20,6 +20,7 @@ To injure a friend unwittingly, from stupidity.
 
 #### Romanization:
 Cellī cellaḍamulaku śeṭṭigāru vunnāru.
+Celli celladamulaku settigaru vunnaru.
 {% endcapture %}
 
 {{ data | markdownify }}

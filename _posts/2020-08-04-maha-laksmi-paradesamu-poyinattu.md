@@ -17,6 +17,7 @@ Said of an avaricious person going to seek for some small gains.
 
 #### Romanization:
 Mahā lakṣmi paradēśamu pōyinaṭṭu.
+Maha laksmi paradesamu poyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

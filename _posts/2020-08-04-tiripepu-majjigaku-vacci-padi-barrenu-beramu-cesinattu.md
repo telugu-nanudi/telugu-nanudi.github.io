@@ -14,6 +14,7 @@ Pretended wealth.
 
 #### Romanization:
 Tiripepu majjigaku vacci pāḍi barrenu bēramu cēśinaṭṭu.
+Tiripepu majjigaku vacci padi barrenu beramu cesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

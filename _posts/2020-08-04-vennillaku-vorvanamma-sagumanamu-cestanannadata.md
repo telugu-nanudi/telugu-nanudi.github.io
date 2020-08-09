@@ -16,6 +16,7 @@ The woman who could not bear warm water said she would become Sati.
 
 #### Romanization:
 Vēṇnīḷlaku vōrvanam'ma sāgumānamu cēstānannadaṭa.
+Vennillaku vorvanam'ma sagumanamu cestanannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

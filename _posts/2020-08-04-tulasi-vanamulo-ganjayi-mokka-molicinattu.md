@@ -17,6 +17,7 @@ A black sheep in the family.
 
 #### Romanization:
 Tulasi vanamulō gan̄jāyi mokka molicinaṭṭu.
+Tulasi vanamulo ganjayi mokka molicinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

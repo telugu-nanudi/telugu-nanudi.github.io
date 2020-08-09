@@ -15,6 +15,7 @@ Is hire to be paid for eating sugar-cane ?
 
 #### Romanization:
 Ceruku tinaḍānaku kūli yivva valenā.
+Ceruku tinadanaku kuli yivva valena.
 {% endcapture %}
 
 {{ data | markdownify }}

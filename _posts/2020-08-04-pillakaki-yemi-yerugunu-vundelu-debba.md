@@ -16,6 +16,7 @@ Inexperience.
 
 #### Romanization:
 Pillakāki yēmi yerugunu vuṇḍēlu debba.
+Pillakaki yemi yerugunu vundelu debba.
 {% endcapture %}
 
 {{ data | markdownify }}

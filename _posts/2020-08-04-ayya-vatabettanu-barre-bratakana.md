@@ -19,6 +19,7 @@ I meant to cross myself and put out one of my eyes. (Portuguese.)[1]
 
 #### Romanization:
 Ayya vātabeṭṭanū barre bratakanā.
+Ayya vatabettanu barre bratakana.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ He is building a bridge over the sea.
 
 #### Romanization:
 Samudrānaku yētamu vēśinaṭṭu.
+Samudranaku yetamu vesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

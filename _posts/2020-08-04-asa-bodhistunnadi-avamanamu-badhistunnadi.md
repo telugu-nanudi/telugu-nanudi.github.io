@@ -16,6 +16,7 @@ Shame may restrain what the law does not prohibit.
 
 #### Romanization:
 Āśa bōdhistunnadi, avamānamu bādhistunnadi.
+Asa bodhistunnadi, avamanamu badhistunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

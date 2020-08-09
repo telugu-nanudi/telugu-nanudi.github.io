@@ -18,6 +18,7 @@ The disgrace of putting a talented man in a mean situation attaches to the emplo
 
 #### Romanization:
 Jīvaratnamu yittaḍini podigitē, ratnāniki yēmi lōpamu.
+Jivaratnamu yittadini podigite, ratnaniki yemi lopamu.
 {% endcapture %}
 
 {{ data | markdownify }}

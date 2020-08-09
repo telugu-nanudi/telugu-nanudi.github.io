@@ -13,6 +13,7 @@ I am below all, but Nambi Ramaya is below me.
 
 #### Romanization:
 Andariki nēnu lōkuva,  nāku nambi rāmāya lōkuva.
+Andariki nenu lokuva,  naku nambi ramaya lokuva.
 {% endcapture %}
 
 {{ data | markdownify }}

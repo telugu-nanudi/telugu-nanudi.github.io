@@ -19,6 +19,7 @@ The muttered grumblings of a stingy host.
 
 #### Romanization:
 Eṇḍabaḍitē vuṇḍabaḍutundi, vuṇḍabaḍitē vaṇḍabaḍutundi, vaṇḍabaḍitē tiṇḍabaḍutundi, tiṇḍabaḍitē paṇḍabaḍutundi.
+Endabadite vundabadutundi, vundabadite vandabadutundi, vandabadite tindabadutundi, tindabadite pandabadutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

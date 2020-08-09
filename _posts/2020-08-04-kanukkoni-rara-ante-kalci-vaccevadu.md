@@ -18,6 +18,7 @@ Alluding to the story of Hanuman setting fire to Lanka, when sent to look for Si
 
 #### Romanization:
 Kanukkoni rārā aṇṭē kālci vaccēvāḍu.
+Kanukkoni rara ante kalci vaccevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

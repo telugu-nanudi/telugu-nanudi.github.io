@@ -20,6 +20,7 @@ Applied to a very difficult task.
 
 #### Romanization:
 Gampa śiḍi kādu, gālapu śiḍi.
+Gampa sidi kadu, galapu sidi.
 {% endcapture %}
 
 {{ data | markdownify }}

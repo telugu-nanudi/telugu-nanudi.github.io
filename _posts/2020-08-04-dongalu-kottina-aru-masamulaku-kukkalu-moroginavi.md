@@ -13,6 +13,7 @@ The dogs barked six months after the robbery.
 
 #### Romanization:
 Doṅgalu koṭṭina āru māsamulaku kukkalu moroginavi.
+Dongalu kottina aru masamulaku kukkalu moroginavi.
 {% endcapture %}
 
 {{ data | markdownify }}

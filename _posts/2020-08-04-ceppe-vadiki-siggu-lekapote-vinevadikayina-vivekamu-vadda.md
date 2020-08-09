@@ -21,6 +21,7 @@ Every man's tale is gude till anither's be tould. (Scotch)
 
 #### Romanization:
 Ceppē vāḍiki śiggu lēkapōtē, vinēvāḍikayinā vivēkamu vaddā.
+Ceppe vadiki siggu lekapote, vinevadikayina vivekamu vadda.
 {% endcapture %}
 
 {{ data | markdownify }}

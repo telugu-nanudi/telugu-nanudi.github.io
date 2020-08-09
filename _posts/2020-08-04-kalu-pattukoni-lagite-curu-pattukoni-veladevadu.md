@@ -19,6 +19,7 @@ A man of no delicacy of feeling, not to be got rid of easily. A. toady.
 
 #### Romanization:
 Kālu paṭṭukoni lāgitē cūru paṭṭukoni vēlāḍēvāḍu.
+Kalu pattukoni lagite curu pattukoni veladevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

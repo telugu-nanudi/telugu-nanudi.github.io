@@ -19,6 +19,7 @@ Nothing is had for nothing. (French.)[1]
 
 #### Romanization:
 Konnavāḍē tinnavāḍu.
+Konnavade tinnavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

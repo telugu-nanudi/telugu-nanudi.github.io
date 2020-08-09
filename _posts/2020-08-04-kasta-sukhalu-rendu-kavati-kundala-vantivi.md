@@ -20,6 +20,7 @@ Joy and sorrow are to-day and to-morrow.
 
 #### Romanization:
 Kaṣṭa sukhālu reṇḍū kāvaṭi kuṇḍala vaṇṭivi.
+Kasta sukhalu rendu kavati kundala vantivi.
 {% endcapture %}
 
 {{ data | markdownify }}

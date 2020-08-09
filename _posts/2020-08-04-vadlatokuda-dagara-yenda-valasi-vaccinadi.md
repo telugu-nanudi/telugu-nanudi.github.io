@@ -19,6 +19,7 @@ Sharing the sufferings of others.
 
 #### Romanization:
 Vaḍlatōkūḍā dāgara yeṇḍa valaśi vaccinadi.
+Vadlatokuda dagara yenda valasi vaccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

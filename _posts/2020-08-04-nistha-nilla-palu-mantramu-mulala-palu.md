@@ -15,6 +15,7 @@ His religious rites go to the water, and his Mantras to the Pariahs.
 
 #### Romanization:
 Niṣṭha nīḷla pālu, mantramu mūlāla pālu.
+Nistha nilla palu, mantramu mulala palu.
 {% endcapture %}
 
 {{ data | markdownify }}

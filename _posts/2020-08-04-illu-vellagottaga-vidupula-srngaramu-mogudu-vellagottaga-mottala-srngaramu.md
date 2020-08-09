@@ -18,6 +18,7 @@ Trying to please when too late.
 
 #### Romanization:
 Illu veḷlagoṭṭagā viḍupula śr̥ṅgāramu, moguḍu veḷlagoṭṭagā mottala śr̥ṅgāramu.
+Illu vellagottaga vidupula srngaramu, mogudu vellagottaga mottala srngaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

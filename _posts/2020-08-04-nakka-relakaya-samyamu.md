@@ -15,6 +15,7 @@ Like the effect of the Cassia fruit on a jackal.
 
 #### Romanization:
 Nakka rēlakāya sāmyamu.
+Nakka relakaya samyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

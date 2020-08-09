@@ -14,6 +14,7 @@ A little gain once was the cause of all being lost eventually.
 
 #### Romanization:
 Kotta nīru vacci pāta nīru koṭṭukoni pōyinadi.
+Kotta niru vacci pata niru kottukoni poyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

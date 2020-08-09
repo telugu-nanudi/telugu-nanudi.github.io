@@ -19,6 +19,7 @@ Old things are thought much of, new ones are not valued.
 
 #### Romanization:
 Mundu vaccinadi muttaida, venaka vaccinadi vedhava.
+Mundu vaccinadi muttaida, venaka vaccinadi vedhava.
 {% endcapture %}
 
 {{ data | markdownify }}

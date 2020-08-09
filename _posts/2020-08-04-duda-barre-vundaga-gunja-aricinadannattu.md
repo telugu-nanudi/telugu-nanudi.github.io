@@ -14,6 +14,7 @@ Like blaming the post when the calf or the she buffalo bellowed.
 
 #### Romanization:
 Dūḍā barrē vuṇḍagā gun̄ja aricinadannaṭṭu.
+Duda barre vundaga gunja aricinadannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

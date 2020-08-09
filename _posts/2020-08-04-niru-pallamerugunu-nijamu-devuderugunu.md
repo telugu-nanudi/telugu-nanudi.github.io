@@ -14,6 +14,7 @@ Water finds the low ground, God knows the truth.
 
 #### Romanization:
 Nīru pallamerugunu, nijamu dēvuḍerugunu.
+Niru pallamerugunu, nijamu devuderugunu.
 {% endcapture %}
 
 {{ data | markdownify }}

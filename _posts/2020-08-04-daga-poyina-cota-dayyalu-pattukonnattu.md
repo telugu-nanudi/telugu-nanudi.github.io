@@ -17,6 +17,7 @@ One ill calls another. (Italian.)[1]
 
 #### Romanization:
 Dāga pōyina cōṭa dayyālu paṭṭukonnaṭṭu.
+Daga poyina cota dayyalu pattukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

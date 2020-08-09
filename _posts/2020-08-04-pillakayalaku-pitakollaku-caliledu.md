@@ -18,6 +18,7 @@ To a child all weather is cold.
 
 #### Romanization:
 Pillakāyalakū pīṭakōḷlakū calilēdu.
+Pillakayalaku pitakollaku caliledu.
 {% endcapture %}
 
 {{ data | markdownify }}

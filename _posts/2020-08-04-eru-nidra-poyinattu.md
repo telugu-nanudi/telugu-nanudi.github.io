@@ -16,6 +16,7 @@ There is no worse water than that which sleeps. (French.)[1]
 
 #### Romanization:
 Ēru nidra pōyinaṭṭu.
+Eru nidra poyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

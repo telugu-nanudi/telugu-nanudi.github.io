@@ -18,6 +18,7 @@ A child worthy of its mother, a Pandili fit for the house.
 
 #### Romanization:
 Talliki tagina biḍḍā, yiṇṭiki tagina pandili.
+Talliki tagina bidda, yintiki tagina pandili.
 {% endcapture %}
 
 {{ data | markdownify }}

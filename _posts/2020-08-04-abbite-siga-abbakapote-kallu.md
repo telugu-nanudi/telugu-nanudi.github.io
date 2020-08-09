@@ -19,6 +19,7 @@ Anoint a villain and he will prick you, prick a villain and he will anoint you. 
 
 #### Romanization:
 Abbitē śiga, abbakapōtē kāḷlu.
+Abbite siga, abbakapote kallu.
 {% endcapture %}
 
 {{ data | markdownify }}

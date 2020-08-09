@@ -15,6 +15,7 @@ If your words are good, the world will be good to you.
 
 #### Romanization:
 Nōru man̄cidayitē vūru man̄cidi.
+Noru mancidayite vuru mancidi.
 {% endcapture %}
 
 {{ data | markdownify }}

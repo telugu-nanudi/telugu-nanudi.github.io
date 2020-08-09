@@ -19,6 +19,7 @@ He brings his machines after the war is over.
 
 #### Romanization:
 Śeṭṭi śr̥ṅgārin̄cēlōgā paṭnamantā kollapōyinadi.
+Setti srngarinceloga patnamanta kollapoyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

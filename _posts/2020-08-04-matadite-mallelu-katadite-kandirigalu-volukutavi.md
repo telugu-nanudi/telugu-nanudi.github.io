@@ -17,6 +17,7 @@ When he talks his words are jasmine, but when he wrangles they are hornets.
 
 #### Romanization:
 Māṭāḍitē mallelu, kāṭāḍitē kandirīgalu volukutavi.
+Matadite mallelu, katadite kandirigalu volukutavi.
 {% endcapture %}
 
 {{ data | markdownify }}

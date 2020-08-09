@@ -16,6 +16,7 @@ When the fowl flew, it only mounted a branch.
 
 #### Romanization:
 Kōḍi pōyi kom'ma yekkinaṭṭu.
+Kodi poyi kom'ma yekkinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

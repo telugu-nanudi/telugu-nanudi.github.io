@@ -19,6 +19,7 @@ A person will suffer rather than criminate or bring shame upon himself.
 
 #### Romanization:
 Doṅgala talliki yēḍava bhayamu.
+Dongala talliki yedava bhayamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ He who lends to the poor, gets his interest from God. (German)[1]
 
 #### Romanization:
 Kaḍi gaṇḍamu gācunu.
+Kadi gandamu gacunu.
 {% endcapture %}
 
 {{ data | markdownify }}

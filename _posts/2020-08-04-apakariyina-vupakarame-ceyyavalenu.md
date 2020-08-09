@@ -18,6 +18,7 @@ You should do good even to him who has done you evil.
 
 #### Romanization:
 Apakāriyinā vupakāramē ceyyavalenu.
+Apakariyina vupakarame ceyyavalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

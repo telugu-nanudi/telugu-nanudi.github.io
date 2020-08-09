@@ -19,6 +19,7 @@ Said of a person giving himself airs.
 
 #### Romanization:
 Aṭluvaṇḍē ābiḍaku āruguru amarcavalenu.
+Atluvande abidaku aruguru amarcavalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

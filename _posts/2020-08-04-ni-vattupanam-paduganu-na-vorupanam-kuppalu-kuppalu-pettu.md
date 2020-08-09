@@ -14,6 +14,7 @@ Ruin take your ten fanams, put my one fanam in heaps.
 
 #### Romanization:
 Nī vattupaṇaṁ pāḍugānū, nā vorupaṇaṁ kuppalu kuppalu peṭṭu.
+Ni vattupanam paduganu, na vorupanam kuppalu kuppalu pettu.
 {% endcapture %}
 
 {{ data | markdownify }}

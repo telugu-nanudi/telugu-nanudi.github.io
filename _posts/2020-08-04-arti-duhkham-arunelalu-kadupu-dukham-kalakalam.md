@@ -18,6 +18,7 @@ The " grief of the neck " signifies widowhood, when the marriage cord is broken.
 
 #### Romanization:
 Arti duḥkhaṁ ārunelalu, kaḍupu dukhaṁ kalakālaṁ.
+Arti duhkham arunelalu, kadupu dukham kalakalam.
 {% endcapture %}
 
 {{ data | markdownify }}

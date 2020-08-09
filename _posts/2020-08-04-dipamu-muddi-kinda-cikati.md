@@ -14,6 +14,7 @@ Roguery hide under the judgment seat.
 
 #### Romanization:
 Dīpamu muḍḍi kinda cīkaṭi.
+Dipamu muddi kinda cikati.
 {% endcapture %}
 
 {{ data | markdownify }}

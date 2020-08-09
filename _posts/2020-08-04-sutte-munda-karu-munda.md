@@ -16,6 +16,7 @@ Was the hammer first, or were the tongs?
 
 #### Romanization:
 Sutte mundā kāru mundā.
+Sutte munda karu munda.
 {% endcapture %}
 
 {{ data | markdownify }}

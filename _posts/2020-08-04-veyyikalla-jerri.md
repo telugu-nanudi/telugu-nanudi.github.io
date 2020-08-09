@@ -15,6 +15,7 @@ Said of a very restless man.
 
 #### Romanization:
 Veyyikāḷla jerri.
+Veyyikalla jerri.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Going to Mekka and bringing back dog's dirt
 
 #### Romanization:
 Makkāku pōyi kukka malamu teccinaṭṭu.
+Makkaku poyi kukka malamu teccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

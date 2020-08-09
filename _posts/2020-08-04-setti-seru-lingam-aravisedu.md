@@ -18,6 +18,7 @@ The 'Setti [weighs] a seer and his lingam two and a half.
 
 #### Romanization:
 Śeṭṭi śēru, liṅgaṁ aravīśeḍu.
+Setti seru, lingam aravisedu.
 {% endcapture %}
 
 {{ data | markdownify }}

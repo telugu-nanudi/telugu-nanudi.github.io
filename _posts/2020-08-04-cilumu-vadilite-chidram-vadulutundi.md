@@ -18,6 +18,7 @@ Chilumu' is properly rust on other metals than iron; it is a slang term for mone
 
 #### Romanization:
 Cilumu vadilitē, chidraṁ vadulutundi.
+Cilumu vadilite, chidram vadulutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

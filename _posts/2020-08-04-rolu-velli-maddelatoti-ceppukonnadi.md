@@ -17,6 +17,7 @@ The mortar is beaten on one side ( by the pestle )--the drum is beaten on both s
 
 #### Romanization:
 Rōlu veḷli maddelatōṭi ceppukonnadi.
+Rolu velli maddelatoti ceppukonnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

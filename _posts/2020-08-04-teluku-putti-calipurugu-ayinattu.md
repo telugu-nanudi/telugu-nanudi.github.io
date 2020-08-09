@@ -16,6 +16,7 @@ An unworthy scion of a. noble stock.
 
 #### Romanization:
 Tēluku puṭṭi calipurugu ayinaṭṭu.
+Teluku putti calipurugu ayinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

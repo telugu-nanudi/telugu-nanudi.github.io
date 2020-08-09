@@ -14,6 +14,7 @@ Panakam is a rich beverage made of expensive materials.
 
 #### Romanization:
 Gatilēnam'maku gan̄jē pānakamu.
+Gatilenam'maku ganje panakamu.
 {% endcapture %}
 
 {{ data | markdownify }}

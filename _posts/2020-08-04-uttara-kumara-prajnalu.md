@@ -20,6 +20,7 @@ Bragging. Bombast.
 
 #### Romanization:
 Uttara kumāra prajñalu.
+Uttara kumara prajnalu.
 {% endcapture %}
 
 {{ data | markdownify }}

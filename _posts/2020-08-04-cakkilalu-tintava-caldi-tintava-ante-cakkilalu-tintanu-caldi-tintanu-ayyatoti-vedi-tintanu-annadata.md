@@ -18,6 +18,7 @@ The first cut, and all the loaf besides.
 
 #### Romanization:
 Cakkilālu tiṇṭāvā, caldi tiṇṭāvā aṇṭē, cakkilālū tiṇṭānu, caldī tiṇṭānu, ayyatōṭi vēḍī tiṇṭānu annāḍaṭa.
+Cakkilalu tintava, caldi tintava ante, cakkilalu tintanu, caldi tintanu, ayyatoti vedi tintanu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

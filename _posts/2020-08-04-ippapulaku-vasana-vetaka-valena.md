@@ -19,6 +19,7 @@ The flowers of the Ippa tree (see No. 236) have a very strong smell.
 
 #### Romanization:
 Ippapūlaku vāsana vetaka valenā.
+Ippapulaku vasana vetaka valena.
 {% endcapture %}
 
 {{ data | markdownify }}

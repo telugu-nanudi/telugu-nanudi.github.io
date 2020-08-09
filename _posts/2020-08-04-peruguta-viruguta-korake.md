@@ -19,6 +19,7 @@ Fortune and glass soon break, alas! (Dutch.)[2]
 
 #### Romanization:
 Peruguṭa viruguṭa korakē.
+Peruguta viruguta korake.
 {% endcapture %}
 
 {{ data | markdownify }}

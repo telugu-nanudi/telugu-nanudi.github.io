@@ -15,6 +15,7 @@ Bad is ever bad, good is ever good.
 
 #### Romanization:
 Bhārīmudra bhārīmudrē, karuku karukē.
+Bharimudra bharimudre, karuku karuke.
 {% endcapture %}
 
 {{ data | markdownify }}

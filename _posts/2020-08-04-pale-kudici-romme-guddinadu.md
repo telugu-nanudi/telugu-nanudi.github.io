@@ -18,6 +18,7 @@ He sucked the milk, and struck the breast.
 
 #### Romanization:
 Pālē kuḍici rom'mē guddināḍu.
+Pale kudici rom'me guddinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

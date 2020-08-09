@@ -18,6 +18,7 @@ Sikha is the top-lock worn by men and Koppu is a woman's chignon.
 
 #### Romanization:
 Munnūru śikhalayinā kūḍa vaccunugāni, mūḍu koppulu kūḍa rādu.
+Munnuru sikhalayina kuda vaccunugani, mudu koppulu kuda radu.
 {% endcapture %}
 
 {{ data | markdownify }}

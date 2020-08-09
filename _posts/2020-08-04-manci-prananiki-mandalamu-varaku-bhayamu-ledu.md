@@ -15,6 +15,7 @@ A strong man can exist without food for that period.
 
 #### Romanization:
 Man̄ci prāṇāniki maṇḍalamu varaku bhayamu lēdu.
+Manci prananiki mandalamu varaku bhayamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ A louse in the clothes is a sign of coming household broils, a louse in the head
 
 #### Romanization:
 Chidramunaku cīrapēlu, daridramunaku talapēlu.
+Chidramunaku cirapelu, daridramunaku talapelu.
 {% endcapture %}
 
 {{ data | markdownify }}

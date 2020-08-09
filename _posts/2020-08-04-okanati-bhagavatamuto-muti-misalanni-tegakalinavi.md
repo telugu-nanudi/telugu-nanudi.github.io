@@ -20,6 +20,7 @@ Said of a clumsy novice.
 
 #### Romanization:
 Okanāṭi bhāgavatamutō mūti mīsālannī tegakālinavi.
+Okanati bhagavatamuto muti misalanni tegakalinavi.
 {% endcapture %}
 
 {{ data | markdownify }}

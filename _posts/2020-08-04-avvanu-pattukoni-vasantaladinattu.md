@@ -20,6 +20,7 @@ Disrespectful and unseemly conduct towards elderly people.
 
 #### Romanization:
 Avvanu paṭṭukoni vasantālāḍinaṭṭu.
+Avvanu pattukoni vasantaladinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

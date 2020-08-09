@@ -20,6 +20,7 @@ Catching a Tartar.
 
 #### Romanization:
 Uḍumu pōyinā ceyyi vēstē cālunu.
+Udumu poyina ceyyi veste calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

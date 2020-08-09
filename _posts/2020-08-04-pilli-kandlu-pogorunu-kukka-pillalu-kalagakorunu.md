@@ -16,6 +16,7 @@ Both will then be well fed.
 
 #### Romanization:
 Pilli kaṇḍlu pōgōrunu, kukka pillalu kalagakōrunu.
+Pilli kandlu pogorunu, kukka pillalu kalagakorunu.
 {% endcapture %}
 
 {{ data | markdownify }}

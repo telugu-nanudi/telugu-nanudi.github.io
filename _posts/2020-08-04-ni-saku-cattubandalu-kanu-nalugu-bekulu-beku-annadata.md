@@ -17,6 +17,7 @@ Said by a greedy Telugu man at an entertainment given by a Cansrese gentleman. T
 
 #### Romanization:
 Nī sāku caṭṭubaṇḍalu kānū, nālugu bēkulu bēku annāḍaṭa.
+Ni saku cattubandalu kanu, nalugu bekulu beku annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

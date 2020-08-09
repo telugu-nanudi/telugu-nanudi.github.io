@@ -18,6 +18,7 @@ Eaten bread is soon forgotten.
 
 #### Romanization:
 Eppaṭi mēlu appaṭikē.
+Eppati melu appatike.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Like filling up a hole in a drill-plough with a thorn.
 
 #### Romanization:
 Mullu dīsi korraḍacinaṭṭu.
+Mullu disi korradacinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

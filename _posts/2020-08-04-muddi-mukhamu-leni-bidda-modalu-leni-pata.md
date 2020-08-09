@@ -13,6 +13,7 @@ A child without face or posteriors, a song without beginning.
 
 #### Romanization:
 Muḍḍī mukhamu lēni biḍḍa, modalu lēni pāṭa.
+Muddi mukhamu leni bidda, modalu leni pata.
 {% endcapture %}
 
 {{ data | markdownify }}

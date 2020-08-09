@@ -17,6 +17,7 @@ The affection of a mother-in-law for her son-in-law.
 
 #### Romanization:
 Alluḍiki vaṇḍina annamu koḍukuku peṭṭi koṭṭukonnadaṭa.
+Alludiki vandina annamu kodukuku petti kottukonnadata.
 {% endcapture %}
 
 {{ data | markdownify }}

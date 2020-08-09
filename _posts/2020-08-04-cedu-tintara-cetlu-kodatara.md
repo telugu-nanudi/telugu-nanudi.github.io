@@ -17,6 +17,7 @@ Said of anything easy, or profitable.
 
 #### Romanization:
 Cēdu tiṇṭārā ceṭlu koḍatārā.
+Cedu tintara cetlu kodatara.
 {% endcapture %}
 
 {{ data | markdownify }}

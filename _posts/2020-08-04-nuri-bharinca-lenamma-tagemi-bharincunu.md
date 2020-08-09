@@ -18,6 +18,7 @@ Can she drink [medicine] who could not bear to grind it'!
 
 #### Romanization:
 Nūri bharin̄ca lēnam'ma tāgēmi bharin̄cunu.
+Nuri bharinca lenam'ma tagemi bharincunu.
 {% endcapture %}
 
 {{ data | markdownify }}

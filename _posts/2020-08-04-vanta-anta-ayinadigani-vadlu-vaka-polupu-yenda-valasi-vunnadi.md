@@ -19,6 +19,7 @@ A hasty and ridiculous answer.
 
 #### Romanization:
 Vaṇṭa antā ayinadigāni, vaḍlu vaka polupu yeṇḍa valaśi vunnadi.
+Vanta anta ayinadigani, vadlu vaka polupu yenda valasi vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Tirapati (prop. Tirupati) is a sacred hill about 80 miles from Madras.
 
 #### Romanization:
 Tirapatiki pōgānē turaka dāsari avunā.
+Tirapatiki pogane turaka dasari avuna.
 {% endcapture %}
 
 {{ data | markdownify }}

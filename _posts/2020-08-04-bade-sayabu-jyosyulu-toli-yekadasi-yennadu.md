@@ -17,6 +17,7 @@ Asking a man something which he cannot possibly answer.
 
 #### Romanization:
 Baḍē sāyabu jyōśyulū toli yēkādaśi yennaḍu.
+Bade sayabu jyosyulu toli yekadasi yennadu.
 {% endcapture %}
 
 {{ data | markdownify }}

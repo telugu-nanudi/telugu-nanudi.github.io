@@ -13,6 +13,7 @@ Poor men's superciliousness.
 
 #### Romanization:
 Pēdala biguvu.
+Pedala biguvu.
 {% endcapture %}
 
 {{ data | markdownify }}

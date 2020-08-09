@@ -15,6 +15,7 @@ Said of any thing purchased at an exorbitant price.
 
 #### Romanization:
 Rōkali mūḍu māḍalu.
+Rokali mudu madalu.
 {% endcapture %}
 
 {{ data | markdownify }}

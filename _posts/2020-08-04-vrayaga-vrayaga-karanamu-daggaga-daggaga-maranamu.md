@@ -20,6 +20,7 @@ Constant dropping wears the stone.
 
 #### Romanization:
 Vrāyagā vrāyagā karaṇamu, daggagā daggagā maraṇamu.
+Vrayaga vrayaga karanamu, daggaga daggaga maranamu.
 {% endcapture %}
 
 {{ data | markdownify }}

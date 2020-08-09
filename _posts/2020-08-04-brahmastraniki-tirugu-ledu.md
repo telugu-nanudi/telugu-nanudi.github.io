@@ -19,6 +19,7 @@ Said of anything which is irresistible.
 
 #### Romanization:
 Brahmāstrāniki tirugu lēdu.
+Brahmastraniki tirugu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

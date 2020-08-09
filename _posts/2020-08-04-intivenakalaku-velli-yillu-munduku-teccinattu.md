@@ -17,6 +17,7 @@ Said jokingly of a man who professed to have improved the family prospects.
 
 #### Romanization:
 Iṇṭivenakālaku veḷli yillu munduku teccinaṭṭu.
+Intivenakalaku velli yillu munduku teccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

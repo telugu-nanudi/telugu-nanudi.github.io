@@ -15,6 +15,7 @@ Who is the father of a harlot's child?
 
 #### Romanization:
 Lan̄ja biḍḍaku taṇḍri yevaru.
+Lanja biddaku tandri yevaru.
 {% endcapture %}
 
 {{ data | markdownify }}

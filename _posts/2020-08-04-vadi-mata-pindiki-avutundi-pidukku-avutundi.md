@@ -18,6 +18,7 @@ Said of an ambiguous speech.
 
 #### Romanization:
 Vāḍi māṭa piṇḍikī avutundi, piḍukkū avutundi.
+Vadi mata pindiki avutundi, pidukku avutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

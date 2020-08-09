@@ -17,6 +17,7 @@ Disappointment in evil designs.
 
 #### Romanization:
 Doṅgila bōtē maṅgalaṁ dorikinadi.
+Dongila bote mangalam dorikinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

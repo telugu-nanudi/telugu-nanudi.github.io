@@ -16,6 +16,7 @@ There is no love in harlots or whiteness in coals.
 
 #### Romanization:
 Bōgaṁ valapū boggu telupū lēdu.
+Bogam valapu boggu telupu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

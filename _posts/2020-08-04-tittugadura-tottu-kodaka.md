@@ -14,6 +14,7 @@ I am not abusing you, my good son of a slut.
 
 #### Romanization:
 Tiṭṭugādurā tottu koḍakā.
+Tittugadura tottu kodaka.
 {% endcapture %}
 
 {{ data | markdownify }}

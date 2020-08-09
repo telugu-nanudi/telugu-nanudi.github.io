@@ -15,6 +15,7 @@ Like wishing for fruit which cannot be reached.
 
 #### Romanization:
 Andani māni paṇḍlaku āśa paḍḍaṭṭu.
+Andani mani pandlaku asa paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

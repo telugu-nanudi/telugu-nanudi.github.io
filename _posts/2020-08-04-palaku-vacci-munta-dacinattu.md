@@ -19,6 +19,7 @@ Poverty and pride.
 
 #### Romanization:
 Pālaku vacci munta dācinaṭṭu.
+Palaku vacci munta dacinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

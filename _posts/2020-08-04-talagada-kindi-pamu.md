@@ -16,6 +16,7 @@ A snake under the pillow.
 
 #### Romanization:
 Talagaḍa kindi pāmu.
+Talagada kindi pamu.
 {% endcapture %}
 
 {{ data | markdownify }}

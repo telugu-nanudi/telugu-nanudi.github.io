@@ -18,6 +18,7 @@ Applied to a spirit of contradiction.
 
 #### Romanization:
 Ayya dāsaṇḍlaku peṭṭitē, am'ma jaṅgālaku peṭṭinadi.
+Ayya dasandlaku pettite, am'ma jangalaku pettinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Sloth. Apathy.
 
 #### Romanization:
 Buradabukkaḍamu vaṇṭivāḍu.
+Buradabukkadamu vantivadu.
 {% endcapture %}
 
 {{ data | markdownify }}

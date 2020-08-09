@@ -17,6 +17,7 @@ Born in Makha, he died in Pubba.
 
 #### Romanization:
 Makhalō puṭṭi pubbalō pōyināḍu.
+Makhalo putti pubbalo poyinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

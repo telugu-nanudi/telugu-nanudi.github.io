@@ -18,6 +18,7 @@ A trick to get a good meal, as she said it was to be her last.
 
 #### Romanization:
 Castānani caddi annamu tiṇṭē, callagā nidra vaccinadaṭa.
+Castanani caddi annamu tinte, callaga nidra vaccinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ A clumsy expedient.
 
 #### Romanization:
 Illu kālucuṇḍagā vāsālu dūsukonnaṭṭu.
+Illu kalucundaga vasalu dusukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

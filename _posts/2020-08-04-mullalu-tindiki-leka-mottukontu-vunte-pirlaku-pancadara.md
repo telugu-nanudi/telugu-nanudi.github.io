@@ -20,6 +20,7 @@ Caring for the dead and neglecting the living.
 
 #### Romanization:
 Mullālu tiṇḍiki lēka mottukoṇṭū vuṇṭē, pīrlaku pan̄cadāra.
+Mullalu tindiki leka mottukontu vunte, pirlaku pancadara.
 {% endcapture %}
 
 {{ data | markdownify }}

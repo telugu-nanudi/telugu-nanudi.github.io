@@ -20,6 +20,7 @@ To be asked to give to others when badly of!' one's self.
 
 #### Romanization:
 Iṇṭidēvara yīgi castē, polandēvara gampajātara aḍiginadaṭa.
+Intidevara yigi caste, polandevara gampajatara adiginadata.
 {% endcapture %}
 
 {{ data | markdownify }}

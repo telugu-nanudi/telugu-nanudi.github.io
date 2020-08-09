@@ -18,6 +18,7 @@ Said of a supercilious fool.
 
 #### Romanization:
 Sāyebū cikkipōyināvēmaṇṭē, yiṅkā cikkutāṁ, marī cikkutāṁ, manasū vastē caccīpōtāṁ, nīkēmi annāḍaṭa.
+Sayebu cikkipoyinavemante, yinka cikkutam, mari cikkutam, manasu vaste caccipotam, nikemi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

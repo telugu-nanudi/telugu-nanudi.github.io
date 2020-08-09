@@ -18,6 +18,7 @@ If the headman be soft, the subordinates will be careless.
 
 #### Romanization:
 Ravutu mettanayitē, gurramu mūḍu kāḷlatō naḍustunnadi.
+Ravutu mettanayite, gurramu mudu kallato nadustunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

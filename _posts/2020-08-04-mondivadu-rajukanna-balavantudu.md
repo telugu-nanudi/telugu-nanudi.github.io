@@ -17,6 +17,7 @@ The power of importunity.
 
 #### Romanization:
 Moṇḍivāḍu rājukannā balavantuḍu.
+Mondivadu rajukanna balavantudu.
 {% endcapture %}
 
 {{ data | markdownify }}

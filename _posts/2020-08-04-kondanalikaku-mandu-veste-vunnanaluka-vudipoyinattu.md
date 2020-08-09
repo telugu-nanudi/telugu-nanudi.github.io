@@ -19,6 +19,7 @@ The remedy is worse than the disease.
 
 #### Romanization:
 Koṇḍanālikaku mandu vēstē, vunnanāluka vūḍipōyinaṭṭu.
+Kondanalikaku mandu veste, vunnanaluka vudipoyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

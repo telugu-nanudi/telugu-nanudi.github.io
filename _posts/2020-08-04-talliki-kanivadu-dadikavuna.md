@@ -18,6 +18,7 @@ Will he who is disliked by his mother, be liked by his nurse ?
 
 #### Romanization:
 Talliki kānivāḍu dādikavunā.
+Talliki kanivadu dadikavuna.
 {% endcapture %}
 
 {{ data | markdownify }}

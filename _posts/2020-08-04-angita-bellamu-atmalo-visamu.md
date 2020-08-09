@@ -19,6 +19,7 @@ Honey in his mouth, words of milk; Gall in his heart, fraud in his deeds. (Latin
 
 #### Romanization:
 Aṅgiṭa bellamu, ātmalō viṣamu.
+Angita bellamu, atmalo visamu.
 {% endcapture %}
 
 {{ data | markdownify }}

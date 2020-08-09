@@ -17,6 +17,7 @@ When Polisetti was asked how he was getting on, he replied "I am in trouble as u
 
 #### Romanization:
 Ēmi pōliśeṭṭī aṇṭē, yeppaṭi mottukōḷlē annāḍaṭa.
+Emi polisetti ante, yeppati mottukolle annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

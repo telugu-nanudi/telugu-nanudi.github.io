@@ -18,6 +18,7 @@ Assumed indifference.
 
 #### Romanization:
 Moguḍu koṭṭinā koṭṭenu, mukku cīmiḍi pōyenu.
+Mogudu kottina kottenu, mukku cimidi poyenu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Will the thirst of an elephant [be quenched] by the water which drops from the e
 
 #### Romanization:
 Ēnugaku dāhamuku cūru nīḷlā.
+Enugaku dahamuku curu nilla.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Distress caused by continual worrying.
 
 #### Romanization:
 Pacci velagakāya gontuna paḍḍaṭṭu.
+Pacci velagakaya gontuna paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

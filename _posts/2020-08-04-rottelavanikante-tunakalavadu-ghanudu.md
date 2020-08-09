@@ -14,6 +14,7 @@ The beggar of crumbs gets more than the beggar of loaves
 
 #### Romanization:
 Roṭṭelavānikaṇṭē, tunakalavāḍu ghanuḍu.
+Rottelavanikante, tunakalavadu ghanudu.
 {% endcapture %}
 
 {{ data | markdownify }}

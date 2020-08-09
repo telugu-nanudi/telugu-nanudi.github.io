@@ -19,6 +19,7 @@ What you can't have, abuse. (Italian.)[1]
 
 #### Romanization:
 Tanaku kānidi gūḍulan̄ja.
+Tanaku kanidi gudulanja.
 {% endcapture %}
 
 {{ data | markdownify }}

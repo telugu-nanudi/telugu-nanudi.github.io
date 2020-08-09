@@ -16,6 +16,7 @@ If not on my posteriors, crawl as far as Kasi (Benares).
 
 #### Romanization:
 Tana muḍḍi kākapōtē gaṅgadākā dēkumannaṭṭu.
+Tana muddi kakapote gangadaka dekumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

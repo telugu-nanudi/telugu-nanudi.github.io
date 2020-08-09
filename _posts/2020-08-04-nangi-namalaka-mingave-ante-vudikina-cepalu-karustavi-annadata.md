@@ -13,6 +13,7 @@ tags:
 
 #### Romanization:
 Naṅgī namalaka miṅgavē aṇṭē, vuḍikina cēpalu karustavi annadaṭa.
+Nangi namalaka mingave ante, vudikina cepalu karustavi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

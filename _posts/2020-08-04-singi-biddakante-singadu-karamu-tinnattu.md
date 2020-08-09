@@ -18,6 +18,7 @@ Singadu and Singi are cast names for men and women of the wandering tribes (Eruk
 
 #### Romanization:
 Śiṅgi biḍḍakaṇṭē śiṅgaḍu kāramu tinnaṭṭu.
+Singi biddakante singadu karamu tinnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -21,6 +21,7 @@ He eats tilt ha sweats, and works till he freezes.
 
 #### Romanization:
 Tiṇḍiki tim'marāju, paniki pōtarāju.
+Tindiki tim'maraju, paniki potaraju.
 {% endcapture %}
 
 {{ data | markdownify }}

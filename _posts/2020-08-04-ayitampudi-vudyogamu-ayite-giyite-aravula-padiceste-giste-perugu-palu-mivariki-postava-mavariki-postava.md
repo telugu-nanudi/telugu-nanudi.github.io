@@ -18,6 +18,7 @@ The story is, that the wife being asked this foolish question by her husband ans
 
 #### Romanization:
 Ayitampūḍi vudyōgamu ayitē giyitē, ārāvula pāḍicēstē gīstē, perugū pālū mīvāriki pōstāvā māvāriki pōstāvā.
+Ayitampudi vudyogamu ayite giyite, aravula padiceste giste, perugu palu mivariki postava mavariki postava.
 {% endcapture %}
 
 {{ data | markdownify }}

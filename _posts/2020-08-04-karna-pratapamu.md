@@ -16,6 +16,7 @@ A blusterer.
 
 #### Romanization:
 Karṇa pratāpamu.
+Karna pratapamu.
 {% endcapture %}
 
 {{ data | markdownify }}

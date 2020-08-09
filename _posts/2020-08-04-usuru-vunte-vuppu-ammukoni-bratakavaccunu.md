@@ -18,6 +18,7 @@ Used as an argument not to risk life for the sake of gain.
 
 #### Romanization:
 Usuru vuṇṭē vuppu am'mukoni bratakavaccunu.
+Usuru vunte vuppu am'mukoni bratakavaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

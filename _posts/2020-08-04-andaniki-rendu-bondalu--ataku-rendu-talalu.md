@@ -19,6 +19,7 @@ Said of an ugly and bad dancer.
 
 #### Romanization:
 Andāniki reṇḍu bondalu,  āṭaku reṇḍu tāḷālu.
+Andaniki rendu bondalu,  ataku rendu talalu.
 {% endcapture %}
 
 {{ data | markdownify }}

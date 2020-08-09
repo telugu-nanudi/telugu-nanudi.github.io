@@ -17,6 +17,7 @@ Parting with one rascal and getting a greater scoundrel in his place.
 
 #### Romanization:
 Gorrenu tinēvāḍu pōtē, barrenu tinēvāḍu vaccinaṭṭu.
+Gorrenu tinevadu pote, barrenu tinevadu vaccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

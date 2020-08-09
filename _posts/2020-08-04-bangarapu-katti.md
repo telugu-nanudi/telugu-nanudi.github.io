@@ -16,6 +16,7 @@ Said of something of intrinsic value but of no utility.
 
 #### Romanization:
 Baṅgārapu katti.
+Bangarapu katti.
 {% endcapture %}
 
 {{ data | markdownify }}

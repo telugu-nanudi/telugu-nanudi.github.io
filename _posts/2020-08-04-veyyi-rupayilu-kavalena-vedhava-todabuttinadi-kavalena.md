@@ -18,6 +18,7 @@ Among the Vaishnava Brahmans the widows make themselves very useful and earn som
 
 #### Romanization:
 Veyyi rūpāyīlu kāvalenā, vedhava tōḍabuṭṭinadi kāvalenā.
+Veyyi rupayilu kavalena, vedhava todabuttinadi kavalena.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A turband can be tied so as to hide all holes, which is not the case with the ja
 
 #### Romanization:
 Pāgāvaṇṭi bandhuvuḍū lēḍu, aṅgarakāvaṇṭi harāṅkhōrū lēḍu.
+Pagavanti bandhuvudu ledu, angarakavanti harankhoru ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

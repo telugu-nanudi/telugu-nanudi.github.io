@@ -15,6 +15,7 @@ That which is well known need not be published.
 
 #### Romanization:
 Jagamerigina brāhmaṇuniki jandhyamenduku.
+Jagamerigina brahmanuniki jandhyamenduku.
 {% endcapture %}
 
 {{ data | markdownify }}

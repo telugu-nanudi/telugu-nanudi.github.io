@@ -20,6 +20,7 @@ A hungry man discovers more than a hundred lawyers. (Spanish)[1]
 
 #### Romanization:
 Kannu yeragakunnā kaḍupu yerugutundi.
+Kannu yeragakunna kadupu yerugutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

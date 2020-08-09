@@ -14,6 +14,7 @@ Wasting away.
 
 #### Romanization:
 Sanna nūlu vaḍukutunnāḍu.
+Sanna nulu vadukutunnadu.
 {% endcapture %}
 
 {{ data | markdownify }}

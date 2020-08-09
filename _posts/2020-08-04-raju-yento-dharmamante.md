@@ -16,6 +16,7 @@ As is the king, so will the virtue [of the people] be.
 
 #### Romanization:
 Rāju yentō dharmamantē.
+Raju yento dharmamante.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ At a Sannyasi's wedding every thing is on loan from his top-lock downwards.
 
 #### Romanization:
 Sann'yāsi peṇḍliki juṭṭukāḍinun̄ci yeruvu.
+Sann'yasi pendliki juttukadinunci yeruvu.
 {% endcapture %}
 
 {{ data | markdownify }}

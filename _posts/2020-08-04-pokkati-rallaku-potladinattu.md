@@ -20,6 +20,7 @@ Quarrelling for something of no value.
 
 #### Romanization:
 Pokkaṭi rāḷlaku pōṭlāḍinaṭṭu.
+Pokkati rallaku potladinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

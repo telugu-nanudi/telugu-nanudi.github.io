@@ -18,6 +18,7 @@ In for a penny, in for a pound.
 
 #### Romanization:
 Kukka vēṣamu vēstē, moragakuṇḍā valla kādu.
+Kukka vesamu veste, moragakunda valla kadu.
 {% endcapture %}
 
 {{ data | markdownify }}

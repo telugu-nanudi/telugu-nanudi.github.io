@@ -18,6 +18,7 @@ Alluding to the habit which obtains among the natives of India of hiring other p
 
 #### Romanization:
 Cālī cālananduku cākiṇṭa guḍḍalu śānā vunnavi.
+Cali calananduku cakinta guddalu sana vunnavi.
 {% endcapture %}
 
 {{ data | markdownify }}

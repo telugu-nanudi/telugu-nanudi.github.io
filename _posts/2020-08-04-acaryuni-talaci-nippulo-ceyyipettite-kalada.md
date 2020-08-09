@@ -18,6 +18,7 @@ If you think of your spiritual guide and put your hand in the fire, will it not 
 
 #### Romanization:
 Ācāryuni talaci nippulō ceyyipeṭṭitē kāladā?
+Acaryuni talaci nippulo ceyyipettite kalada?
 {% endcapture %}
 
 {{ data | markdownify }}

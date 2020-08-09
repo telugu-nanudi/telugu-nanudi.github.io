@@ -20,6 +20,7 @@ One good turn deserves another.
 
 #### Romanization:
 Mī goḍḍuku yinta tavuḍu aṇṭē, mī biḍḍaku yinni pālu annāḍaṭa.
+Mi godduku yinta tavudu ante, mi biddaku yinni palu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

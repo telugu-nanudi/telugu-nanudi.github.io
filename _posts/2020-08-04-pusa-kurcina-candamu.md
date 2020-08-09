@@ -14,6 +14,7 @@ All in harmony.
 
 #### Romanization:
 Pūsa kūrcina candamu.
+Pusa kurcina candamu.
 {% endcapture %}
 
 {{ data | markdownify }}

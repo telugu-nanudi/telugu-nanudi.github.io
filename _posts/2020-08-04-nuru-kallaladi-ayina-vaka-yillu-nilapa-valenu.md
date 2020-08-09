@@ -13,6 +13,7 @@ You should save another even by telling a hundred lies.
 
 #### Romanization:
 Nūru kallalāḍi ayinā, vaka yillu nilapa valenu.
+Nuru kallaladi ayina, vaka yillu nilapa valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

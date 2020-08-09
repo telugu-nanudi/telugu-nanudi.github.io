@@ -20,6 +20,7 @@ Two great things to be done. Applied to keeping one great object in view.
 
 #### Romanization:
 Kāśiki pōvaḍamu vakaṭi, kāvaḍi tēvaḍamu vakaṭi.
+Kasiki povadamu vakati, kavadi tevadamu vakati.
 {% endcapture %}
 
 {{ data | markdownify }}

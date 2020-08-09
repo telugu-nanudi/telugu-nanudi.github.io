@@ -20,6 +20,7 @@ You cry out before you are hurt.
 
 #### Romanization:
 Enduku yēḍustāvurā pillavāḍā aṇṭē, yelluṇḍi māvāṇḍlu koṭṭutārannāḍaṭa.
+Enduku yedustavura pillavada ante, yellundi mavandlu kottutarannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

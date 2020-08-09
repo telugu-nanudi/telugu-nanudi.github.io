@@ -17,6 +17,7 @@ Foolish argumentation.
 
 #### Romanization:
 Barre kom'mu aṇṭē, yirri kom'mu aṇṭāḍu.
+Barre kom'mu ante, yirri kom'mu antadu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ Said of a person who is exempted by his position from the loss which falls upon 
 
 #### Romanization:
 Rōlu karuvu yeragadu.
+Rolu karuvu yeragadu.
 {% endcapture %}
 
 {{ data | markdownify }}

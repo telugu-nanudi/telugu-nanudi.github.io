@@ -20,6 +20,7 @@ A quantity quite inadequate to one's wants.
 
 #### Romanization:
 Pāpaṭakāya korakanenta yāka peṭṭanenta.
+Papatakaya korakanenta yaka pettanenta.
 {% endcapture %}
 
 {{ data | markdownify }}

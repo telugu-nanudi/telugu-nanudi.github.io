@@ -20,6 +20,7 @@ The name with one, the reality with another.
 
 #### Romanization:
 Pēru penimiṭidi, anubhavamu māmagāridi.
+Peru penimitidi, anubhavamu mamagaridi.
 {% endcapture %}
 
 {{ data | markdownify }}

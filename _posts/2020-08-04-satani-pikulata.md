@@ -18,6 +18,7 @@ The Satanis (Ramanujas) admit as members of their body all classes amongst the w
 
 #### Romanization:
 Sātāni pīkulāṭa.
+Satani pikulata.
 {% endcapture %}
 
 {{ data | markdownify }}

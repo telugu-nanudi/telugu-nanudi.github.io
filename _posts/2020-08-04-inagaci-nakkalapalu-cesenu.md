@@ -17,6 +17,7 @@ He watched [the field] until the harvest, and then let it go to the jaokals.
 
 #### Romanization:
 Īnagāci nakkalapālu cēśenu.
+Inagaci nakkalapalu cesenu.
 {% endcapture %}
 
 {{ data | markdownify }}

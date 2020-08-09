@@ -18,6 +18,7 @@ Done by a lazy fellow who wanted to make it appear that the child did not like h
 
 #### Romanization:
 Pillamuḍḍi gilli vuyyāla vūcē vāḍu.
+Pillamuddi gilli vuyyala vuce vadu.
 {% endcapture %}
 
 {{ data | markdownify }}

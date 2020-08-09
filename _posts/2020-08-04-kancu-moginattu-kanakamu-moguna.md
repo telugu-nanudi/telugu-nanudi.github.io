@@ -21,6 +21,7 @@ A deluge of words and a drop of sense.
 
 #### Romanization:
 Kan̄cu mōginaṭṭu kanakamu mōgunā.
+Kancu moginattu kanakamu moguna.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ Priests bless themselves first. (Gel-1mm)'
 
 #### Romanization:
 Nāku āyuṣyamastu, nāku ārōgyamastu.
+Naku ayusyamastu, naku arogyamastu.
 {% endcapture %}
 
 {{ data | markdownify }}

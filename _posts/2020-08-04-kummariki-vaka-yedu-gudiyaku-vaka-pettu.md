@@ -19,6 +19,7 @@ The sudden loss of that gained by much labour.
 
 #### Romanization:
 Kum'mariki vaka yēḍu, gudiyaku vaka peṭṭu.
+Kum'mariki vaka yedu, gudiyaku vaka pettu.
 {% endcapture %}
 
 {{ data | markdownify }}

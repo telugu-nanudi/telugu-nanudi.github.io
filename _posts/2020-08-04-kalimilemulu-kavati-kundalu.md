@@ -21,6 +21,7 @@ Every day hath its night, every weal its woe.
 
 #### Romanization:
 Kalimilēmulu kāvaṭi kuṇḍalu.
+Kalimilemulu kavati kundalu.
 {% endcapture %}
 
 {{ data | markdownify }}

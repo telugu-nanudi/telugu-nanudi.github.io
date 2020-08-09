@@ -18,6 +18,7 @@ Human beings are more liable to injury than inanimate objects.
 
 #### Romanization:
 Maniṣiki rāka mākuku vastunnadā.
+Manisiki raka makuku vastunnada.
 {% endcapture %}
 
 {{ data | markdownify }}

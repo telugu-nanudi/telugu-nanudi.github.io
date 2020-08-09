@@ -20,6 +20,7 @@ People do not risk their lives unless they have some great object to gain by it.
 
 #### Romanization:
 Lābhamu lēnidī śeṭṭi yēṭapaḍaḍu.
+Labhamu lenidi setti yetapadadu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ A word and a stone once let go cannot be recalled. (Spanish)[2]
 
 #### Romanization:
 Kālu jāritē tīsukōvaccunugāni, nōru jāritē tīsukō kūḍadu.
+Kalu jarite tisukovaccunugani, noru jarite tisuko kudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

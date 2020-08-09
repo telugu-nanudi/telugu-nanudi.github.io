@@ -16,6 +16,7 @@ You can wake a person who is asleep, but not one who is
 
 #### Romanization:
 Nidrapoyyēvāṇni lēpavaccunugāni, mēlukonna vāṇni lēpakūḍadu.
+Nidrapoyyevanni lepavaccunugani, melukonna vanni lepakudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

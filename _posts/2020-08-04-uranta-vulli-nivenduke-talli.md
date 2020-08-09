@@ -18,6 +18,7 @@ The village is full of garlick, what do I want with thee O mother?
 
 #### Romanization:
 Ūrantā vulli, nīvendukē talli.
+Uranta vulli, nivenduke talli.
 {% endcapture %}
 
 {{ data | markdownify }}

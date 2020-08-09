@@ -19,6 +19,7 @@ Meru or Mahammeru is the fabulous mountain on which Brahma is said to reside att
 
 #### Romanization:
 Manasu maham'mēru dāṭutunnadi, kālu kaḍapa dāṭa lēdu.
+Manasu maham'meru datutunnadi, kalu kadapa data ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

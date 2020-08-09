@@ -13,6 +13,7 @@ You should not stay near a young buffalo, or an old creditor.
 
 #### Romanization:
 Barre dūḍa vaddā pāta appula vāḍi vaddā vuṇḍarādu.
+Barre duda vadda pata appula vadi vadda vundaradu.
 {% endcapture %}
 
 {{ data | markdownify }}

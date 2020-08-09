@@ -17,6 +17,7 @@ A hireling cares not for the property of his master.
 
 #### Romanization:
 Guḍilō gaṇṭa pōtē, nambikēmi lōṭu.
+Gudilo ganta pote, nambikemi lotu.
 {% endcapture %}
 
 {{ data | markdownify }}

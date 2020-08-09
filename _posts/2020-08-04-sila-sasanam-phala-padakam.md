@@ -18,6 +18,7 @@ Said of an honest man's word.
 
 #### Romanization:
 Śilā śāsanaṁ, phalā pādakaṁ.
+Sila sasanam, phala padakam.
 {% endcapture %}
 
 {{ data | markdownify }}

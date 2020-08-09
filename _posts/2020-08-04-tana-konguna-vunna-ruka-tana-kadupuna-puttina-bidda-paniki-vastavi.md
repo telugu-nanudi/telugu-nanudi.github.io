@@ -18,6 +18,7 @@ The money tied up in your skirt and the child you have begotten will be of use t
 
 #### Romanization:
 Tana koṅguna vunna rūkā tana kaḍupuna puṭṭina biḍḍā paniki vastavi.
+Tana konguna vunna ruka tana kadupuna puttina bidda paniki vastavi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Like throwing stones at the pots in a water-shed.
 
 #### Romanization:
 Calipandiṭi kuṇḍalalō rāḷlu vēśinaṭṭu.
+Calipanditi kundalalo rallu vesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

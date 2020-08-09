@@ -15,6 +15,7 @@ Tell me something that you never knew, that I never heard, and that never existe
 
 #### Romanization:
 Nīku rānidī, nēnu vinanidī, bhūlōkamulō lēnidī ceppumannaṭṭu.
+Niku ranidi, nenu vinanidi, bhulokamulo lenidi ceppumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

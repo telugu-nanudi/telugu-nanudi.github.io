@@ -19,6 +19,7 @@ Great vaunters, little doers. (French)[2]
 
 #### Romanization:
 Māṭalu kōṭalu dāṭutavi, kālu kaḍapa dāṭa lēdu.
+Matalu kotalu datutavi, kalu kadapa data ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

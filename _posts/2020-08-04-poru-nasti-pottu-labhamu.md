@@ -19,6 +19,7 @@ Where there are friends there is wealth. (Latin)[1]
 
 #### Romanization:
 Pōru naṣṭi, pottu lābhamu.
+Poru nasti, pottu labhamu.
 {% endcapture %}
 
 {{ data | markdownify }}

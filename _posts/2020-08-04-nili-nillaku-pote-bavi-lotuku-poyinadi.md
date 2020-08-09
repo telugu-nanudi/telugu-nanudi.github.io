@@ -18,6 +18,7 @@ Said of a lazy person glad of any excuse to get off work.<references/
 
 #### Romanization:
 Nīli nīḷlaku pōtē, bāvi lōtuku pōyinadi.
+Nili nillaku pote, bavi lotuku poyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

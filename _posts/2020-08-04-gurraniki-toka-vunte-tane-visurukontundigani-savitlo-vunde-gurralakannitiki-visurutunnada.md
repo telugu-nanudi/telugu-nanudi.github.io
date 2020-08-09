@@ -20,6 +20,7 @@ An ill man in oflice is a mischief to the public.
 
 #### Romanization:
 Gurrāniki tōka vuṇṭē tānē visurukoṇṭundigāni, sāviṭlō vuṇḍē gurrālakanniṭikī visurutunnadā.
+Gurraniki toka vunte tane visurukontundigani, savitlo vunde gurralakannitiki visurutunnada.
 {% endcapture %}
 
 {{ data | markdownify }}

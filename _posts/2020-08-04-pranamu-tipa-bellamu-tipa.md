@@ -15,6 +15,7 @@ Said of a peculiarly timid nervous man.
 
 #### Romanization:
 Prāṇamu tīpā, bellamu tīpā.
+Pranamu tipa, bellamu tipa.
 {% endcapture %}
 
 {{ data | markdownify }}

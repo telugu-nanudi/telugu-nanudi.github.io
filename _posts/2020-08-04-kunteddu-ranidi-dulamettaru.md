@@ -14,6 +14,7 @@ Until the lame bullock comes, they Won't lift the beam.
 
 #### Romanization:
 Kuṇṭeddu rānidī dūlamettaru.
+Kunteddu ranidi dulamettaru.
 {% endcapture %}
 
 {{ data | markdownify }}

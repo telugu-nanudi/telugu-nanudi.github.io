@@ -19,6 +19,7 @@ What belongs to nature lasts to the grave. (Italian)[1]
 
 #### Romanization:
 Puṭṭinanāṭi bud'dhi puḍakalatōgāni pōdu.
+Puttinanati bud'dhi pudakalatogani podu.
 {% endcapture %}
 
 {{ data | markdownify }}

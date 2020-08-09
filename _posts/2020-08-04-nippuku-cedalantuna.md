@@ -13,6 +13,7 @@ Will white ants attack fire'!
 
 #### Romanization:
 Nippuku cedalaṇṭunā.
+Nippuku cedalantuna.
 {% endcapture %}
 
 {{ data | markdownify }}

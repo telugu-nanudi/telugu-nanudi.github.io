@@ -18,6 +18,7 @@ Said impertinently by a beggar when he gets nothing.
 
 #### Romanization:
 Biccapu vāṇni cūstē bīda vāniki kōpamu.
+Biccapu vanni custe bida vaniki kopamu.
 {% endcapture %}
 
 {{ data | markdownify }}

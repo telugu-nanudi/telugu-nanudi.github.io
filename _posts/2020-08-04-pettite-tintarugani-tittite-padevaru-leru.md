@@ -16,6 +16,7 @@ If you feed, [people] will eat; but if you abuse none will bear it.
 
 #### Romanization:
 Peṭṭitē tiṇṭārugāni, tiṭṭitē paḍēvāru lēru.
+Pettite tintarugani, tittite padevaru leru.
 {% endcapture %}
 
 {{ data | markdownify }}

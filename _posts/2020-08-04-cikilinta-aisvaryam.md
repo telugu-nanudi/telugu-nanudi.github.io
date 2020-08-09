@@ -16,6 +16,7 @@ Grass-like prosperity.
 
 #### Romanization:
 Cikilinta aiśvaryaṁ.
+Cikilinta aisvaryam.
 {% endcapture %}
 
 {{ data | markdownify }}

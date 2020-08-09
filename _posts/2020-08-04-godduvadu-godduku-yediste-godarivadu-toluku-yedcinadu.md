@@ -18,6 +18,7 @@ It is an ill wind that blows nobody good.
 
 #### Romanization:
 Goḍḍuvāḍu goḍḍuku yēḍistē, goḍārivāḍu tōluku yēḍcināḍu.
+Godduvadu godduku yediste, godarivadu toluku yedcinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

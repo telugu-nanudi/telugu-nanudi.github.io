@@ -19,6 +19,7 @@ He who has no house of his own is every where at home. (spanish)[1]
 
 #### Romanization:
 Kaṭṭinavāniki vakayillu ayitē kaṭṭanivāniki veyyiṇḍlu.
+Kattinavaniki vakayillu ayite kattanivaniki veyyindlu.
 {% endcapture %}
 
 {{ data | markdownify }}

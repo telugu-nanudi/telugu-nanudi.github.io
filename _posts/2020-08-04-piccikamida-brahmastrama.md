@@ -19,6 +19,7 @@ He takes a spear to kill a fly.
 
 #### Romanization:
 Piccikamīda brahmāstramā.
+Piccikamida brahmastrama.
 {% endcapture %}
 
 {{ data | markdownify }}

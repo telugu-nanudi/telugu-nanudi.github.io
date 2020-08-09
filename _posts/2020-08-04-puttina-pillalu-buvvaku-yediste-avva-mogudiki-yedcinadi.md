@@ -18,6 +18,7 @@ Wishing for something quite unsuitable to one's age.
 
 #### Romanization:
 Puṭṭina pillalu buvvaku yēḍistē, avva moguḍiki yēḍcinadi.
+Puttina pillalu buvvaku yediste, avva mogudiki yedcinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

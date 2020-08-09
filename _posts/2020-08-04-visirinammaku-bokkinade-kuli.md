@@ -14,6 +14,7 @@ The grinding woman's hire is what she gobbles up.
 
 #### Romanization:
 Viśirinam'maku bokkinadē kūli.
+Visirinam'maku bokkinade kuli.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Leading the innocent to vice.
 
 #### Romanization:
 Bōḍedduku pōṭu mappaḍamu.
+Bodedduku potu mappadamu.
 {% endcapture %}
 
 {{ data | markdownify }}

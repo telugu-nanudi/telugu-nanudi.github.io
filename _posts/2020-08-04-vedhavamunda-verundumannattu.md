@@ -17,6 +17,7 @@ Said when turning out any member of the household.
 
 #### Romanization:
 Vedhavamuṇḍā vēruṇḍumannaṭṭu.
+Vedhavamunda verundumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

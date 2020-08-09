@@ -19,6 +19,7 @@ Wishing to get a good thing and to pay little for it.
 
 #### Romanization:
 Cinnamū kāvale, cidarā kāvale, mēlimī kāvale, meḍa tiragavale.
+Cinnamu kavale, cidara kavale, melimi kavale, meda tiragavale.
 {% endcapture %}
 
 {{ data | markdownify }}

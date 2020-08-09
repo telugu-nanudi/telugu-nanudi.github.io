@@ -18,6 +18,7 @@ Thunder-struck.
 
 #### Romanization:
 Minnu virigi mīda paḍḍaṭṭu.
+Minnu virigi mida paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

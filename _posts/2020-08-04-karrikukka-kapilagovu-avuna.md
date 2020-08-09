@@ -15,6 +15,7 @@ The Kapila is a tawny cow worshipped by the Hindus.
 
 #### Romanization:
 Karrikukka kapilagōvu avunā.
+Karrikukka kapilagovu avuna.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ Strong measures will set things to right.
 
 #### Romanization:
 Debbaku dayyamu sahā aḍalutundi.
+Debbaku dayyamu saha adalutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

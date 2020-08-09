@@ -18,6 +18,7 @@ When they asked what idle Papa Razu was about, they were told that he was carvin
 
 #### Romanization:
 Panilēni pāparāju yēmi cēstunnāḍaṇṭē, kundēṭi kom'muku rēkhalu tīrustunnāḍu annāḍaṭa.
+Panileni paparaju yemi cestunnadante, kundeti kom'muku rekhalu tirustunnadu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

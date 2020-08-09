@@ -17,6 +17,7 @@ I am the head of my house, I order you to put a Panganamam on the cats face.
 
 #### Romanization:
 Nā yiṇṭiki nēnē peddanu, pilliki peṭṭarā paṅganāmamu.
+Na yintiki nene peddanu, pilliki pettara panganamamu.
 {% endcapture %}
 
 {{ data | markdownify }}

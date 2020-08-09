@@ -15,6 +15,7 @@ To look like a drowned mouse.
 
 #### Romanization:
 Āmudamulō mun̄cina yēkuvale vunnāḍu.
+Amudamulo muncina yekuvale vunnadu.
 {% endcapture %}
 
 {{ data | markdownify }}

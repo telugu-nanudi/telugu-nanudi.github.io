@@ -17,6 +17,7 @@ A stream for a rice-field, a troop for a chief.
 
 #### Romanization:
 Variki vāka, doraku mūka.
+Variki vaka, doraku muka.
 {% endcapture %}
 
 {{ data | markdownify }}

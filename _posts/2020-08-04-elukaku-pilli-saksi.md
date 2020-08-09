@@ -19,6 +19,7 @@ A fox should not be of the jury at a goose trial.
 
 #### Romanization:
 Elukaku pilli sākṣi.
+Elukaku pilli saksi.
 {% endcapture %}
 
 {{ data | markdownify }}

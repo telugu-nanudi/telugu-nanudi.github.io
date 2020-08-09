@@ -16,6 +16,7 @@ wickedness.
 
 #### Romanization:
 Viṣapun̄jamu.
+Visapunjamu.
 {% endcapture %}
 
 {{ data | markdownify }}

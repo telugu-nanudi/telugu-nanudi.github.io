@@ -17,6 +17,7 @@ Like the guilty husband who slipped out of the blanket and fell into the street 
 
 #### Romanization:
 Karmamulugala magaṇni kambaṭlōkaṭṭi bujamumīda vēsukoṇṭē jāri vīdhilō paḍdaṭṭu.
+Karmamulugala maganni kambatlokatti bujamumida vesukonte jari vidhilo paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

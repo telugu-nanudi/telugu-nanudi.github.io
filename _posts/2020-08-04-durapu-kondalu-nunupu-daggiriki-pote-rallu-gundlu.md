@@ -19,6 +19,7 @@ Mountains are smooth at a distance, but rugged when near.
 
 #### Romanization:
 Dūrapu koṇḍalu nunupu, daggiriki pōtē rāḷlū, guṇḍlū.
+Durapu kondalu nunupu, daggiriki pote rallu, gundlu.
 {% endcapture %}
 
 {{ data | markdownify }}

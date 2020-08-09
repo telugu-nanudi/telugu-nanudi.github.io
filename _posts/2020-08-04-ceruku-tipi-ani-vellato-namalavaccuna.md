@@ -22,6 +22,7 @@ Give a clown your finger and he will take your whole hand.
 
 #### Romanization:
 Ceruku tīpi ani vēḷlatō namalavaccunā.
+Ceruku tipi ani vellato namalavaccuna.
 {% endcapture %}
 
 {{ data | markdownify }}

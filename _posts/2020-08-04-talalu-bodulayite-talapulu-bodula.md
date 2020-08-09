@@ -15,6 +15,7 @@ Their heads are clean shaven, but are their thoughts :clean also ?
 
 #### Romanization:
 Talalu bōḍulayitē talapulu bōḍulā.
+Talalu bodulayite talapulu bodula.
 {% endcapture %}
 
 {{ data | markdownify }}

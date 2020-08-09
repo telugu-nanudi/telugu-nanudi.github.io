@@ -20,6 +20,7 @@ Go neither to a wedding nor a christening without invitation.
 
 #### Romanization:
 Adde pēraṇṭamu,  śidde muriki.
+Adde perantamu,  sidde muriki.
 {% endcapture %}
 
 {{ data | markdownify }}

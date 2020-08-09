@@ -14,6 +14,7 @@ One cold in the head is as bad as ten diseases.
 
 #### Romanization:
 Paḍiśemu padi rōgāla peṭṭu.
+Padisemu padi rogala pettu.
 {% endcapture %}
 
 {{ data | markdownify }}

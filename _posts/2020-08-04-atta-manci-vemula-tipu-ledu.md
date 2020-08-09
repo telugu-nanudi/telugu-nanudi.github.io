@@ -20,6 +20,7 @@ She is well married who has neither mother-in-law nor sister-in-law (Spanish)[1]
 
 #### Romanization:
 Atta man̄cī, vēmula tīpū lēdu.
+Atta manci, vemula tipu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

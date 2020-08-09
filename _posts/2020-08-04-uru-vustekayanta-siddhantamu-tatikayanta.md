@@ -19,6 +19,7 @@ Applied to exactions imposed upon people for religious purposes greater than the
 
 #### Romanization:
 Ūru vustekāyanta, sid'dhāntamu tāṭikāyanta.
+Uru vustekayanta, sid'dhantamu tatikayanta.
 {% endcapture %}
 
 {{ data | markdownify }}

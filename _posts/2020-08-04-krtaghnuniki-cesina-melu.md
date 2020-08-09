@@ -13,6 +13,7 @@ Good done to an ungrateful person.
 
 #### Romanization:
 Kr̥taghnuniki cēśina mēlu.
+Krtaghnuniki cesina melu.
 {% endcapture %}
 
 {{ data | markdownify }}

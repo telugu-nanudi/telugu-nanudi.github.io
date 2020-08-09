@@ -20,6 +20,7 @@ He is able to buy an abbey.
 
 #### Romanization:
 Kāsuku dōvalēdu, nūṭiki paravā lēdu.
+Kasuku dovaledu, nutiki parava ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

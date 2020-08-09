@@ -19,6 +19,7 @@ Very unfortunate.
 
 #### Romanization:
 Pōlnāṭilō pōkaku puṭṭeḍu am'mitē, ā pōkā dorakaka porli porlī yēḍcinadaṭa.
+Polnatilo pokaku puttedu am'mite, a poka dorakaka porli porli yedcinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

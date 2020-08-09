@@ -17,6 +17,7 @@ A "green trick."
 
 #### Romanization:
 Toṅgunna suṅkarī talamūṭa dimpu annaṭṭu.
+Tongunna sunkari talamuta dimpu annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

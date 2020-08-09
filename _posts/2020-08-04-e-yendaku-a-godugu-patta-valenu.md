@@ -19,6 +19,7 @@ Suitable to the occasion.
 
 #### Romanization:
 Ē yeṇḍaku ā goḍugu paṭṭa valenu.
+E yendaku a godugu patta valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

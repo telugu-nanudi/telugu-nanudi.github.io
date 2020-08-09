@@ -18,6 +18,7 @@ A Hindu infant is not taken out of the house during the mother's Purudu or ten d
 
 #### Romanization:
 Puriṭlōnē sandu koṭṭinadi.
+Puritlone sandu kottinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

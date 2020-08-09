@@ -16,6 +16,7 @@ Dotage.
 
 #### Romanization:
 Mudimi tappitē mūḍu varnālu.
+Mudimi tappite mudu varnalu.
 {% endcapture %}
 
 {{ data | markdownify }}

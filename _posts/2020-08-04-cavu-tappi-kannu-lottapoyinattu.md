@@ -14,6 +14,7 @@ Escaping death, but losing an eye.
 
 #### Romanization:
 Cāvu tappi kannu loṭṭapōyinaṭṭu.
+Cavu tappi kannu lottapoyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

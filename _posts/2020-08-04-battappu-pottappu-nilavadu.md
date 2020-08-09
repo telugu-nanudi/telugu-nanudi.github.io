@@ -15,6 +15,7 @@ Debts for food and clothing do not remain long unpaid.
 
 #### Romanization:
 Baṭṭappu poṭṭappu nilavadu.
+Battappu pottappu nilavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

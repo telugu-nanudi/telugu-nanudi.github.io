@@ -18,6 +18,7 @@ Ridicule is feared more than pain.
 
 #### Romanization:
 Moguḍu koṭṭinanduku kādugāni, tōḍikōḍalu depputunnadani vicāramu.
+Mogudu kottinanduku kadugani, todikodalu depputunnadani vicaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

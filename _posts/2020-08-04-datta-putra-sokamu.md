@@ -14,6 +14,7 @@ Slight grief.
 
 #### Romanization:
 Datta putra śōkamu.
+Datta putra sokamu.
 {% endcapture %}
 
 {{ data | markdownify }}

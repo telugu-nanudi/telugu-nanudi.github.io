@@ -18,6 +18,7 @@ An alligator enticed a man into the water with fair promises. But afterwards cau
 
 #### Romanization:
 Mosalibāvā kaḍinvērāyegāni, kālayinā yintēgadā.
+Mosalibava kadinverayegani, kalayina yintegada.
 {% endcapture %}
 
 {{ data | markdownify }}

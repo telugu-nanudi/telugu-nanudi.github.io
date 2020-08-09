@@ -19,6 +19,7 @@ Said of a man who accuses another without being able to substantiate his allegat
 
 #### Romanization:
 Vēlu cūpi vuttadi anipin̄cukonnaṭṭu.
+Velu cupi vuttadi anipincukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

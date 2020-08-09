@@ -19,6 +19,7 @@ He who is born to misfortune stumbles as he goes, and though he fall on his back
 
 #### Romanization:
 Daridruḍu tala kaḍagabōtē, vaḍigaṇḍla vāna vembaḍē vaccinadi.
+Daridrudu tala kadagabote, vadigandla vana vembade vaccinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Do not strip before bed time. (French)[1]
 
 #### Romanization:
 Ēru yēḍāmaḍa vuṇḍagānē, cīra vippi caṅka peṭṭukoni pōyinaṭṭu.
+Eru yedamada vundagane, cira vippi canka pettukoni poyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

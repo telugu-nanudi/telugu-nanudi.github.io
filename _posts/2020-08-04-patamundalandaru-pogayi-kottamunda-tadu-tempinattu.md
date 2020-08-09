@@ -18,6 +18,7 @@ A gang of rascals conspiring to ruin a. new comer, who they fear will be in thei
 
 #### Romanization:
 Pātamuṇḍalandarū pōgayi kottamuṇḍa tāḍu tempinaṭṭu.
+Patamundalandaru pogayi kottamunda tadu tempinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

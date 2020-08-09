@@ -19,6 +19,7 @@ An evasive answer.
 
 #### Romanization:
 Kannēla pōyenōyi kanakaliṅgamā aṇṭē, cēsukukonna karmamōyi śambhuliṅgamā annāḍaṭa.
+Kannela poyenoyi kanakalingama ante, cesukukonna karmamoyi sambhulingama annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

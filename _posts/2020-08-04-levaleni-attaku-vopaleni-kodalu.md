@@ -15,6 +15,7 @@ A useless couple.
 
 #### Romanization:
 Lēvalēni attaku vōpalēni kōḍalu.
+Levaleni attaku vopaleni kodalu.
 {% endcapture %}
 
 {{ data | markdownify }}

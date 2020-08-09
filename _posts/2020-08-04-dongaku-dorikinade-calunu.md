@@ -17,6 +17,7 @@ A thief is content with what he gets.
 
 #### Romanization:
 Doṅgaku dorikinadē cālunu.
+Dongaku dorikinade calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

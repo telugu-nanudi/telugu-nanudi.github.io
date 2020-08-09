@@ -17,6 +17,7 @@ The hand which has a bit of iron, the itch, or a bit of cane in it, never remain
 
 #### Romanization:
 Inumu, tīṭa, pēmu, paṭṭina ceyyi vūrakuṇḍadu.
+Inumu, tita, pemu, pattina ceyyi vurakundadu.
 {% endcapture %}
 
 {{ data | markdownify }}

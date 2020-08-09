@@ -20,6 +20,7 @@ Puppies imitating their mistresses. (Latin)[1]
 
 #### Romanization:
 Akkanna mādannagāru andalamekkitē,  sāṭiki varappa ceruvu kaṭṭa yekkināḍaṭa.
+Akkanna madannagaru andalamekkite,  satiki varappa ceruvu katta yekkinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ No safe wading in an unknown water.
 
 #### Romanization:
 Ūrivāḍiki kāṭibhayaṁ, porugūrivāḍiki nīṭibhayaṁ.
+Urivadiki katibhayam, porugurivadiki nitibhayam.
 {% endcapture %}
 
 {{ data | markdownify }}

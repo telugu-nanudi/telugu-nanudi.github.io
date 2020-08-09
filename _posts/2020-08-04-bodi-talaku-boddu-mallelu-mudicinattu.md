@@ -16,6 +16,7 @@ Something being thrown away upon a person.
 
 #### Romanization:
 Bōḍi talaku boḍḍu mallelu muḍicinaṭṭu.
+Bodi talaku boddu mallelu mudicinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

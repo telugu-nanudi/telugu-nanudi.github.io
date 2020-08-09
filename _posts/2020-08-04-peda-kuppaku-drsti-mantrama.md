@@ -18,6 +18,7 @@ A cringing speech. " Should such a worm as I be honored ?"
 
 #### Romanization:
 Pēḍa kuppaku dr̥ṣṭi mantramā.
+Peda kuppaku drsti mantrama.
 {% endcapture %}
 
 {{ data | markdownify }}

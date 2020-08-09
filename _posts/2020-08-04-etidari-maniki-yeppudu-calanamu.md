@@ -17,6 +17,7 @@ Said of a man in an insecure position.
 
 #### Romanization:
 Ēṭidari māniki yeppuḍū calanamu.
+Etidari maniki yeppudu calanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

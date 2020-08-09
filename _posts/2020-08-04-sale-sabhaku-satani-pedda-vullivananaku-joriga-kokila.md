@@ -18,6 +18,7 @@ In a council of weavers a Satani presides; in an onion garden the gad-fiy is a c
 
 #### Romanization:
 Sāle sabhaku sātāni pedda, vullivanānaku jōrīga kōkila.
+Sale sabhaku satani pedda, vullivananaku joriga kokila.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -15,6 +15,7 @@ If you leave it alone, it will bear fruit; if you pull it up, it will wither awa
 
 #### Romanization:
 Uṇḍanistē paṇḍutundi, vūḍadīśivēstē, yeṇḍutundi.
+Undaniste pandutundi, vudadisiveste, yendutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Said of a long-winded story.
 
 #### Romanization:
 Koṇḍavīṭi cēntrāḍu.
+Kondaviti centradu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Said of a exceedingly wicked and relentlessly cruel man.
 
 #### Romanization:
 Tallikaḍupulō corakamundu dayyāladēvata, bhūmilō puṭṭina tarvāta yamadēvata.
+Tallikadupulo corakamundu dayyaladevata, bhumilo puttina tarvata yamadevata.
 {% endcapture %}
 
 {{ data | markdownify }}

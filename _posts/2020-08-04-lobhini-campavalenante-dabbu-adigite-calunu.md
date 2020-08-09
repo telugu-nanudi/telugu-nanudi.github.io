@@ -18,6 +18,7 @@ A Dabbu is one-third of an Ana (anna), and is equivalent to a half-penny.
 
 #### Romanization:
 Lōbhini campavalenaṇṭē, ḍabbu aḍigitē cālunu.
+Lobhini campavalenante, dabbu adigite calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

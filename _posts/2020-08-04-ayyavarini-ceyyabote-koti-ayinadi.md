@@ -19,6 +19,7 @@ A ridiculous failure.
 
 #### Romanization:
 Ayyavārini ceyyabōtē kōti ayinadi.
+Ayyavarini ceyyabote koti ayinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

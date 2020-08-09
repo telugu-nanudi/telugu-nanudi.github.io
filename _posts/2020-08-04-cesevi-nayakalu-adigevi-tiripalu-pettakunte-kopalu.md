@@ -17,6 +17,7 @@ He gives himself the airs of a great man, but begs for alms, and is angry if he 
 
 #### Romanization:
 Cēsēvi nāyakālu, aḍigēvi tiripālu, peṭṭakuṇṭē kōpālu.
+Cesevi nayakalu, adigevi tiripalu, pettakunte kopalu.
 {% endcapture %}
 
 {{ data | markdownify }}

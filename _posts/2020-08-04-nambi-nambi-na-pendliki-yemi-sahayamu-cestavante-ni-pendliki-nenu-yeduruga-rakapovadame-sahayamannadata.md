@@ -16,6 +16,7 @@ tags:
 
 #### Romanization:
 Nambī nambī nā peṇḍliki yēmi sahāyamu cēstāvaṇṭē, nī peṇḍliki nēnu yedurugā rākapōvaḍamē sahāyamannāḍaṭa.
+Nambi nambi na pendliki yemi sahayamu cestavante, ni pendliki nenu yeduruga rakapovadame sahayamannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

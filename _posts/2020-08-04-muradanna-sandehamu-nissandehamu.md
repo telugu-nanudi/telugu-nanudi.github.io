@@ -18,6 +18,7 @@ Said of a man who while wavering and doubting about some undertaking is forestal
 
 #### Romanization:
 Muradanna sandēhamu nis'sandēhamu.
+Muradanna sandehamu nis'sandehamu.
 {% endcapture %}
 
 {{ data | markdownify }}

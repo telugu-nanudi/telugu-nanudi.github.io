@@ -19,6 +19,7 @@ Said of an improbable story.
 
 #### Romanization:
 Satterājuvāriṇṭiki nīvekkaḍi tottavē.
+Satterajuvarintiki nivekkadi tottave.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ All bite the bitten dog. (Portuguese)[2]
 
 #### Romanization:
 Ceḍipōyina brāhmaṇuḍiki caccipōyina āvunu dānamu cēśinaṭṭu.
+Cedipoyina brahmanudiki caccipoyina avunu danamu cesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ The one-eyed is a king in the land of the blind.
 
 #### Romanization:
 Gōvulēni vūḷlō goḍḍugēde śrī mahālakṣmi.
+Govuleni vullo goddugede sri mahalaksmi.
 {% endcapture %}
 
 {{ data | markdownify }}

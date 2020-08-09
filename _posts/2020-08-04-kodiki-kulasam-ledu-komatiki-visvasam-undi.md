@@ -18,6 +18,7 @@ The Komatis are a class of shopkeepers.
 
 #### Romanization:
 Kōḍiki kulāsaṁ lēdu, kōmaṭiki viśvāsaṁ undi.
+Kodiki kulasam ledu, komatiki visvasam undi.
 {% endcapture %}
 
 {{ data | markdownify }}

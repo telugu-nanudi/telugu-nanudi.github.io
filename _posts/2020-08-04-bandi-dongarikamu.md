@@ -15,6 +15,7 @@ Open robbery.
 
 #### Romanization:
 Baṇḍi doṅgarikamu.
+Bandi dongarikamu.
 {% endcapture %}
 
 {{ data | markdownify }}

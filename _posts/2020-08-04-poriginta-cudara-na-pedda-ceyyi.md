@@ -21,6 +21,7 @@ Broad thongs are cut from other men's leather. (Latin)[2]
 
 #### Romanization:
 Porigiṇṭa cūḍarā nā pedda ceyyi.
+Poriginta cudara na pedda ceyyi.
 {% endcapture %}
 
 {{ data | markdownify }}

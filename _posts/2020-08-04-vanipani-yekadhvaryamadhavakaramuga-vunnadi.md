@@ -18,6 +18,7 @@ A sarcastic speech used with reference to the downfall of a bad man.
 
 #### Romanization:
 Vānipani yēkādhvaryamādhavakaramugā vunnadi.
+Vanipani yekadhvaryamadhavakaramuga vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

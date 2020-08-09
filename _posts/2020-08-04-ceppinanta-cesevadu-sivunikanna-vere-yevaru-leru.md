@@ -14,6 +14,7 @@ Besides Siva, there is no other who is as good as his Word.
 
 #### Romanization:
 Ceppinanta cēśēvāḍu śivunikannā vērē yevarū lēru.
+Ceppinanta cesevadu sivunikanna vere yevaru leru.
 {% endcapture %}
 
 {{ data | markdownify }}

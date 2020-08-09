@@ -18,6 +18,7 @@ Unwillingness to acknowledge relationship when it would cost anything.
 
 #### Romanization:
 Ekkaḍayinā bāvā anvaccunugāni, vaṅgatōṭa vadda bāvā anagūḍadu.
+Ekkadayina bava anvaccunugani, vangatota vadda bava anagudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

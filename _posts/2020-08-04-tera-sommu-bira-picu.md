@@ -14,6 +14,7 @@ Bira Kaya is the Luffa Foetida.
 
 #### Romanization:
 Tēra som'mu bīra pīcu.
+Tera som'mu bira picu.
 {% endcapture %}
 
 {{ data | markdownify }}

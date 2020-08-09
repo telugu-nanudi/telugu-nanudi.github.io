@@ -18,6 +18,7 @@ How long is a man to be assisted ?
 
 #### Romanization:
 Ceṭṭu yekkēvāṇni yendākā toyyavaccunu.
+Cettu yekkevanni yendaka toyyavaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

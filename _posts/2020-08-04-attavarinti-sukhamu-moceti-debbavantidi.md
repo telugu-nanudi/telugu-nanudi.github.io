@@ -19,6 +19,7 @@ Happy is the wife who is married to a motherless son.
 
 #### Romanization:
 Attavāriṇṭi sukhamu mōcēti debbavaṇṭidi.
+Attavarinti sukhamu moceti debbavantidi.
 {% endcapture %}
 
 {{ data | markdownify }}

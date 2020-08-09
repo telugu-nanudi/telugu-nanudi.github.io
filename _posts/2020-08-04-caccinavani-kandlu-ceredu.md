@@ -19,6 +19,7 @@ Lavishing praises on the dead which were not bestowed on the living.
 
 #### Romanization:
 Caccinavāni kaṇḍlu cēreḍu.
+Caccinavani kandlu ceredu.
 {% endcapture %}
 
 {{ data | markdownify }}

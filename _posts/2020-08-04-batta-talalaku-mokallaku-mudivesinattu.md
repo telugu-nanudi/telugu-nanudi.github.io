@@ -16,6 +16,7 @@ Said of a very cunning person.
 
 #### Romanization:
 Baṭṭa talalakū mōkāḷlakū muḍivēsinaṭṭu.
+Batta talalaku mokallaku mudivesinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

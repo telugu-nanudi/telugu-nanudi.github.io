@@ -16,6 +16,7 @@ Disputing with the aged [is as wrong as] keeping company with ghosts.
 
 #### Romanization:
 Peddalatō vādu, petarulatō pondu.
+Peddalato vadu, petarulato pondu.
 {% endcapture %}
 
 {{ data | markdownify }}

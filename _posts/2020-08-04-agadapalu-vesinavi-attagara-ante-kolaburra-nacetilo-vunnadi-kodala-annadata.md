@@ -18,6 +18,7 @@ tags:
 
 #### Romanization:
 Āgaḍapalu vēśinavi attagārā aṇṭē, kolaburra nācētilō vunnadi kōḍalā annadaṭa.
+Agadapalu vesinavi attagara ante, kolaburra nacetilo vunnadi kodala annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

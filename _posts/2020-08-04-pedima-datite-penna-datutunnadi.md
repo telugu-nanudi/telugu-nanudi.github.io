@@ -21,6 +21,7 @@ Two eyes, two ears, only one mouth. (German)[2]
 
 #### Romanization:
 Pedima dāṭitē, penna dāṭutunnadi.
+Pedima datite, penna datutunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

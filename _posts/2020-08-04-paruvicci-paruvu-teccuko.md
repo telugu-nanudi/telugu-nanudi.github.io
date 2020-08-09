@@ -13,6 +13,7 @@ Give honor, get honor.
 
 #### Romanization:
 Paruvicci paruvu teccukō.
+Paruvicci paruvu teccuko.
 {% endcapture %}
 
 {{ data | markdownify }}

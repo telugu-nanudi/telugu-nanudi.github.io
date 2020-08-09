@@ -19,6 +19,7 @@ One man knocks in the nail, and another hangs his hat on it. (German)[1]
 
 #### Romanization:
 Amarcinadāṇṭlō attagāru vēlu peṭṭinadi.
+Amarcinadantlo attagaru velu pettinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

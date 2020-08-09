@@ -19,6 +19,7 @@ Being placed in a dilemma. by having to give evidence in a quarrel between two f
 
 #### Romanization:
 Egadīstē brahmatya, digadīstē gōhatya.
+Egadiste brahmatya, digadiste gohatya.
 {% endcapture %}
 
 {{ data | markdownify }}

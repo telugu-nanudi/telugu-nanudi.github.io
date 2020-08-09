@@ -16,6 +16,7 @@ A cowardly fellow.
 
 #### Romanization:
 Doṅga cikkenōyi aṇṭē, karicēnōyi annāḍaṭa.
+Donga cikkenoyi ante, karicenoyi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

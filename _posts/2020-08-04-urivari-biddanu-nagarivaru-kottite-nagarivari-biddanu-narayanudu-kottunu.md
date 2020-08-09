@@ -18,6 +18,7 @@ If one of the royal family strike a villager's child, Narayana will strike his c
 
 #### Romanization:
 Ūrivāri biḍḍanu nagarivāru koṭṭitē, nagarivāri biḍḍanu nārāyaṇuḍu koṭṭunu.
+Urivari biddanu nagarivaru kottite, nagarivari biddanu narayanudu kottunu.
 {% endcapture %}
 
 {{ data | markdownify }}

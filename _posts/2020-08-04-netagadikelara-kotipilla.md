@@ -19,6 +19,7 @@ Imprudent association with bad people.
 
 #### Romanization:
 Nētagāḍikēlarā kōtipilla.
+Netagadikelara kotipilla.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -21,6 +21,7 @@ Good riding at two anchors men have told; For if one break, the other may hold.
 
 #### Romanization:
 Ayitē āruga, kākuṇṭē kandi.
+Ayite aruga, kakunte kandi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Injury to the head of the house reaches to all the members.
 
 #### Romanization:
 Tīge paṭṭukoṇṭē, poda antā kadilinaṭṭu.
+Tige pattukonte, poda anta kadilinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

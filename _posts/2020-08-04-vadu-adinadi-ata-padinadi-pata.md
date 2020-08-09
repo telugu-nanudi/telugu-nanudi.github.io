@@ -18,6 +18,7 @@ What he dances is a dance, what he sings is a song.
 
 #### Romanization:
 Vāḍu āḍinadi āṭa, pāḍinadi pāṭa.
+Vadu adinadi ata, padinadi pata.
 {% endcapture %}
 
 {{ data | markdownify }}

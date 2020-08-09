@@ -22,6 +22,7 @@ The countenance is the index of the mind. (Latin)[1]
 
 #### Romanization:
 Mukhamu cūstē kanapaḍadā mīgāḷla vāpu.
+Mukhamu custe kanapadada migalla vapu.
 {% endcapture %}
 
 {{ data | markdownify }}

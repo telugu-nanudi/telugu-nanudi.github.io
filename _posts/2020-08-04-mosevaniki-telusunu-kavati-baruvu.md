@@ -18,6 +18,7 @@ No one knows the weight of another's burden.
 
 #### Romanization:
 Mōśēvāniki telusunu kāvaṭi baruvu.
+Mosevaniki telusunu kavati baruvu.
 {% endcapture %}
 
 {{ data | markdownify }}

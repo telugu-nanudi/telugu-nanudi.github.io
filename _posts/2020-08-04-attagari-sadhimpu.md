@@ -20,6 +20,7 @@ The husband's mother is the wife's devil. (Germain).[1]
 
 #### Romanization:
 Attagāri sādhimpu.
+Attagari sadhimpu.
 {% endcapture %}
 
 {{ data | markdownify }}

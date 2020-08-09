@@ -19,6 +19,7 @@ Great injury caused by a little evil.
 
 #### Romanization:
 Tāgēdi dam'miḍī gan̄jāyi, yillantā ceḍu vum'mulu.
+Tagedi dam'midi ganjayi, yillanta cedu vum'mulu.
 {% endcapture %}
 
 {{ data | markdownify }}

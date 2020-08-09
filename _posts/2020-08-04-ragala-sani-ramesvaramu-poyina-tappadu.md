@@ -18,6 +18,7 @@ Even if you perform a pilgrimage to Ramesvaram, the pre-destinated evil will not
 
 #### Romanization:
 Rāgala śani rāmēśvaramu pōyinā tappadu.
+Ragala sani ramesvaramu poyina tappadu.
 {% endcapture %}
 
 {{ data | markdownify }}

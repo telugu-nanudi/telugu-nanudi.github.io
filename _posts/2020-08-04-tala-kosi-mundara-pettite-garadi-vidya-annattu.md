@@ -18,6 +18,7 @@ Incredulity.
 
 #### Romanization:
 Tala kōśi mundara peṭṭitē, gāraḍī vidya annaṭṭu.
+Tala kosi mundara pettite, garadi vidya annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

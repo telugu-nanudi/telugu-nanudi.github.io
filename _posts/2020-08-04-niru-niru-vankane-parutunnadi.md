@@ -17,6 +17,7 @@ Men haste to help those of their own caste, 8:0.
 
 #### Romanization:
 Nīru nīru vaṅkanē pārutunnadi.
+Niru niru vankane parutunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A woman thought she excelled Rambha (No.1066) in beauty, but really was an ugly 
 
 #### Romanization:
 Rambha cekkili koṭṭi rāṭnamu teccinaṭṭu.
+Rambha cekkili kotti ratnamu teccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Said by a distant connexion envying the favor conferred on a near relative.
 
 #### Romanization:
 Vēluku vēlu yeḍamu.
+Veluku velu yedamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ An inextricable difficulty.
 
 #### Romanization:
 Agaḍtalō paḍḍa pilliki adē vaikuṇṭhaṁ.
+Agadtalo padda pilliki ade vaikuntham.
 {% endcapture %}
 
 {{ data | markdownify }}

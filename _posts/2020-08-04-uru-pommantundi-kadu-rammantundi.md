@@ -19,6 +19,7 @@ He is burnt to the socket.
 
 #### Romanization:
 Ūru pom'maṇṭundi, kāḍu ram'maṇṭundi.
+Uru pom'mantundi, kadu ram'mantundi.
 {% endcapture %}
 
 {{ data | markdownify }}

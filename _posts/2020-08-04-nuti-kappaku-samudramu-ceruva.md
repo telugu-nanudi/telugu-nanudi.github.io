@@ -16,6 +16,7 @@ Applied to a clumsy fellow.
 
 #### Romanization:
 Nūti kappaku samudramu cēruvā.
+Nuti kappaku samudramu ceruva.
 {% endcapture %}
 
 {{ data | markdownify }}

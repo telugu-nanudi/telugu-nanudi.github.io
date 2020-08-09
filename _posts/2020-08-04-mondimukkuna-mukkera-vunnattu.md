@@ -13,6 +13,7 @@ A nose jewel in a torn nose.
 
 #### Romanization:
 Moṇḍimukkuna mukkera vunnaṭṭu.
+Mondimukkuna mukkera vunnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

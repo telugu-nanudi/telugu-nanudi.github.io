@@ -16,6 +16,7 @@ Let our sanctity be scandalized, let the censer be shocked bring a new pot and l
 
 #### Romanization:
 Ācāraṁ adiripaḍdadī, dhūpārti tuḷlipaḍḍadi, kotta kuṇḍa tērā nettāḷlu vaṇḍukondāmu.
+Acaram adiripaddadi, dhuparti tullipaddadi, kotta kunda tera nettallu vandukondamu.
 {% endcapture %}
 
 {{ data | markdownify }}

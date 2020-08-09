@@ -13,6 +13,7 @@ He that ate prospered, and he that prospered became a Maharaja.
 
 #### Romanization:
 Tinnavāḍē mannavāḍu, mannavāḍē mahārāju.
+Tinnavade mannavadu, mannavade maharaju.
 {% endcapture %}
 
 {{ data | markdownify }}

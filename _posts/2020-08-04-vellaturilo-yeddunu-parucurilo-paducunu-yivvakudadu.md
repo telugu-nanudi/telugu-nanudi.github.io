@@ -19,6 +19,7 @@ Don't bring on yourself another's curse.
 
 #### Romanization:
 Vellaṭūrilō yeddunū parucūrilō paḍucunū yivvakūḍadu.
+Vellaturilo yeddunu parucurilo paducunu yivvakudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

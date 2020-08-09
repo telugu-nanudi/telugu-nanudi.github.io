@@ -21,6 +21,7 @@ Throw in a spirit to catch a salmon.
 
 #### Romanization:
 Ītagin̄ja yicci tāṭigin̄ja lāgēvāḍu.
+Itaginja yicci tatiginja lagevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

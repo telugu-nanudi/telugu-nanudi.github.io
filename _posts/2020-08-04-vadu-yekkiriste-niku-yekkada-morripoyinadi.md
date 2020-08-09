@@ -16,6 +16,7 @@ Words break no bones.
 
 #### Romanization:
 Vāḍu yekkiristē nīku yekkaḍa morripōyinadi.
+Vadu yekkiriste niku yekkada morripoyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

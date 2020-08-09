@@ -21,6 +21,7 @@ One ill weed mars a whole pot of pottage.
 
 #### Romanization:
 Ullipāyanta balijavuṇṭē, vūrantā cerustāḍu.
+Ullipayanta balijavunte, vuranta cerustadu.
 {% endcapture %}
 
 {{ data | markdownify }}

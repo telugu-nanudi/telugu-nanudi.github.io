@@ -20,6 +20,7 @@ Applied to something very insignificant.
 
 #### Romanization:
 Ustekāya vūranenta, nan̄ja peṭṭanenta.
+Ustekaya vuranenta, nanja pettanenta.
 {% endcapture %}
 
 {{ data | markdownify }}

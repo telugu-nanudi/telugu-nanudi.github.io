@@ -19,6 +19,7 @@ A good gaper make two gapers. (French)[1]
 
 #### Romanization:
 Āvalintaku annadam'mulunnārugāni, tum'muku tam'muḍayinā lēḍu.
+Avalintaku annadam'mulunnarugani, tum'muku tam'mudayina ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

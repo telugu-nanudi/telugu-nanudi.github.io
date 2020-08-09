@@ -19,6 +19,7 @@ Making bad matters worse.
 
 #### Romanization:
 Ēḍupulō yēḍupu yeḍama ceyyi bayaṭa peṭṭumannaṭṭu.
+Edupulo yedupu yedama ceyyi bayata pettumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

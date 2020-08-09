@@ -13,6 +13,7 @@ A monkey [-like wife] of good family is better [than a pretty wife of low origin
 
 #### Romanization:
 Kulamiṇṭi kōti ayinā mēlu.
+Kulaminti koti ayina melu.
 {% endcapture %}
 
 {{ data | markdownify }}

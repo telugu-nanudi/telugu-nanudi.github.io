@@ -18,6 +18,7 @@ Suffering by pride.
 
 #### Romanization:
 Pasupū boṭṭū peṭṭi peṇḍliki pilistē veḷlaka peṅku paṭṭukoni pulusuku veḷlinaṭṭu.
+Pasupu bottu petti pendliki piliste vellaka penku pattukoni pulusuku vellinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

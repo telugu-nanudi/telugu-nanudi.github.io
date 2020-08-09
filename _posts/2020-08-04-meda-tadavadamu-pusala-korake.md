@@ -17,6 +17,7 @@ Said of a wheedling scoundrel.
 
 #### Romanization:
 Meḍa taḍavaḍamu pūsala korakē.
+Meda tadavadamu pusala korake.
 {% endcapture %}
 
 {{ data | markdownify }}

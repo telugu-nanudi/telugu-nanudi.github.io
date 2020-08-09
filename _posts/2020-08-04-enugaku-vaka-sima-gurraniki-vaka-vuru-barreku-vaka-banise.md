@@ -17,6 +17,7 @@ To keep an elephant [a man requires] a country, to keep a horse a village, and t
 
 #### Romanization:
 Ēnugaku vaka śīma, gurrāniki vaka vūru, barreku vaka bāniśe.
+Enugaku vaka sima, gurraniki vaka vuru, barreku vaka banise.
 {% endcapture %}
 
 {{ data | markdownify }}

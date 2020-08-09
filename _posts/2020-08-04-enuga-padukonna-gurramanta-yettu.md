@@ -19,6 +19,7 @@ A man much superior to another.
 
 #### Romanization:
 Ēnuga paḍukonnā gurramanta yettu.
+Enuga padukonna gurramanta yettu.
 {% endcapture %}
 
 {{ data | markdownify }}

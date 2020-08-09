@@ -14,6 +14,7 @@ To a set of monkey-like scamps tasteless broth and plain rice [should be served]
 
 #### Romanization:
 Tim'manna bantiki tiyyacārē annamu.
+Tim'manna bantiki tiyyacare annamu.
 {% endcapture %}
 
 {{ data | markdownify }}

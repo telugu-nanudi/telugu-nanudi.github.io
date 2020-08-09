@@ -20,6 +20,7 @@ You used to be a baker though now you wear gloves. (spanish.)[1]
 
 #### Romanization:
 Vaṅkara ṭiṅkara kāyalu yēmiṭivi aṇṭē, cinnanāḍu am'mina cintakāyalu annāḍaṭa.
+Vankara tinkara kayalu yemitivi ante, cinnanadu am'mina cintakayalu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

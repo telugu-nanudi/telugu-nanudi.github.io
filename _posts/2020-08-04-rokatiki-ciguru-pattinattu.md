@@ -15,6 +15,7 @@ Said of a hopelessly ignorant fellow.
 
 #### Romanization:
 Rōkaṭiki ciguru paṭṭinaṭṭu.
+Rokatiki ciguru pattinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

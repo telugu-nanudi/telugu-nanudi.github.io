@@ -19,6 +19,7 @@ Alluding to a. flood. Said of apathetic persons who won't move to get out of dan
 
 #### Romanization:
 Muḍḍi kindiki nīḷlu vastē lēvaka mānaru.
+Muddi kindiki nillu vaste levaka manaru.
 {% endcapture %}
 
 {{ data | markdownify }}

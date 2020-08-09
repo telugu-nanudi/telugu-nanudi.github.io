@@ -17,6 +17,7 @@ Retaining vigour of mind though weakened in body.
 
 #### Romanization:
 Cinta caccinā, cinta pulupu cāvadu.
+Cinta caccina, cinta pulupu cavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

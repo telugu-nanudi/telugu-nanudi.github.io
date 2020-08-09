@@ -17,6 +17,7 @@ Mounting a ladder with a jar of ghi in one's arms.
 
 #### Romanization:
 Nētigūnacēta būni niccena yekkinaṭṭu.
+Netigunaceta buni niccena yekkinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

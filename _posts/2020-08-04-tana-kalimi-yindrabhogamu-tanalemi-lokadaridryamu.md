@@ -18,6 +18,7 @@ In prosperity a man thinks himself the wealthiest of all, and in advercity the p
 
 #### Romanization:
 Tana kalimi yindrabhōgamu, tanalēmi lōkadāridryamu.
+Tana kalimi yindrabhogamu, tanalemi lokadaridryamu.
 {% endcapture %}
 
 {{ data | markdownify }}

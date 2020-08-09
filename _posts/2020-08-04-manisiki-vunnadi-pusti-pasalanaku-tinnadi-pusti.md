@@ -14,6 +14,7 @@ A man gets fat by doing nothing, a beast gets fat by eating
 
 #### Romanization:
 Maniṣiki vunnadi puṣṭi, pasalānaku tinnadi puṣṭi.
+Manisiki vunnadi pusti, pasalanaku tinnadi pusti.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ A pun on the word Odu.
 
 #### Romanization:
 Ōḍu vōḍaṇṭē, kan̄caṁ vōḍannaṭṭu.
+Odu vodante, kancam vodannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

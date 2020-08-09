@@ -19,6 +19,7 @@ A slight acquaintance suffices to tell what a man is made of.
 
 #### Romanization:
 Cēnipaṇṭa koyyagālē cepputundi.
+Cenipanta koyyagale cepputundi.
 {% endcapture %}
 
 {{ data | markdownify }}

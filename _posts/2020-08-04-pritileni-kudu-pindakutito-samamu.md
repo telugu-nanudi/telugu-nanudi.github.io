@@ -13,6 +13,7 @@ Food given without affection, is as food offered to the dead.
 
 #### Romanization:
 Prītilēni kūḍu piṇḍākūṭitō samamu.
+Pritileni kudu pindakutito samamu.
 {% endcapture %}
 
 {{ data | markdownify }}

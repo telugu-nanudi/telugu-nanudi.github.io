@@ -18,6 +18,7 @@ An excuse made by a host for treating his guest with poor fare.
 
 #### Romanization:
 Appu dorikitē pappukūḍu.
+Appu dorikite pappukudu.
 {% endcapture %}
 
 {{ data | markdownify }}

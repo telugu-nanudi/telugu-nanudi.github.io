@@ -16,6 +16,7 @@ Tangedu is the Cassia Auriculata.
 
 #### Romanization:
 Taṅgēḍu pūcinaṭṭu.
+Tangedu pucinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

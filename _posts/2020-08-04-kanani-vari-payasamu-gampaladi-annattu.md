@@ -19,6 +19,7 @@ Exaggerating the bounty of absent persons.
 
 #### Romanization:
 Kānani vāri pāyasamu gampalādi annaṭṭu.
+Kanani vari payasamu gampaladi annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

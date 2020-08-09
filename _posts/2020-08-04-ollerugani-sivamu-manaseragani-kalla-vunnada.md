@@ -17,6 +17,7 @@ Is there any inspiration which makes a man unaware of his own actions? Is there 
 
 #### Romanization:
 Oḷlerugani śivamu, manaseragani kalla vunnadā.
+Ollerugani sivamu, manaseragani kalla vunnada.
 {% endcapture %}
 
 {{ data | markdownify }}

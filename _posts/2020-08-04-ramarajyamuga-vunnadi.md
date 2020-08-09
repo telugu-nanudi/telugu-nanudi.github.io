@@ -18,6 +18,7 @@ Neglected.
 
 #### Romanization:
 Rāmarājyamugā vunnadi.
+Ramarajyamuga vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

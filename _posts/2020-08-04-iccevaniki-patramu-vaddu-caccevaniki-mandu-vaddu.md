@@ -17,6 +17,7 @@ You need not take a bond from a man who is willing to pay, nor administer medici
 
 #### Romanization:
 Iccēvāniki patramū vaddu, caccēvāniki mandū vaddu.
+Iccevaniki patramu vaddu, caccevaniki mandu vaddu.
 {% endcapture %}
 
 {{ data | markdownify }}

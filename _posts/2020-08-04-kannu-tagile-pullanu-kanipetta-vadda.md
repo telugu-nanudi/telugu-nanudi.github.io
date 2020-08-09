@@ -17,6 +17,7 @@ Keep an eye on your enemies.
 
 #### Romanization:
 Kannu tagilē pullanu kanipeṭṭa vaddā.
+Kannu tagile pullanu kanipetta vadda.
 {% endcapture %}
 
 {{ data | markdownify }}

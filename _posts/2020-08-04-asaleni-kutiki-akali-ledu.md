@@ -13,6 +13,7 @@ There is no appetite for food unhoped for.
 
 #### Romanization:
 Āśalēni kūṭiki ākali lēdu.
+Asaleni kutiki akali ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

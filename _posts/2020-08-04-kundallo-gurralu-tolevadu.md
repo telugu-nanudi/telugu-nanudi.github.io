@@ -18,6 +18,7 @@ A man that sticks at home. A mollycoddle.
 
 #### Romanization:
 Kuṇḍallō gurrālu tōlēvāḍu.
+Kundallo gurralu tolevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

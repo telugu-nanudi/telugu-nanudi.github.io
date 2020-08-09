@@ -17,6 +17,7 @@ Said of a mean spirited creature who resents no affront.
 
 #### Romanization:
 Kālī kālani moṇḍi kaṭṭe.
+Kali kalani mondi katte.
 {% endcapture %}
 
 {{ data | markdownify }}

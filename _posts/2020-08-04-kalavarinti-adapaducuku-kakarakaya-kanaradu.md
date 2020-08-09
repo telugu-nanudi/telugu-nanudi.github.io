@@ -19,6 +19,7 @@ Puffed up with pride.
 
 #### Romanization:
 Kalavāriṇṭi āḍapaḍucuku kākarakāya kānarādu.
+Kalavarinti adapaducuku kakarakaya kanaradu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ The term Avalakshana is applied to a man who bears unlucky marks on his person, 
 
 #### Romanization:
 Avalakṣaṇamu galavāniki akṣatalu yistē, avataliki pōyi nōṭlō vēsukonnāḍaṭa.
+Avalaksanamu galavaniki aksatalu yiste, avataliki poyi notlo vesukonnadata.
 {% endcapture %}
 
 {{ data | markdownify }}

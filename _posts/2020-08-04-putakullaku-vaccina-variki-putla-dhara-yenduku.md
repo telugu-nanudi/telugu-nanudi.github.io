@@ -16,6 +16,7 @@ What have people buying cooked food, to do with the price of Puttis [of grain] ?
 
 #### Romanization:
 Pūṭakūḷlaku vaccina vāriki puṭla dhara yenduku.
+Putakullaku vaccina variki putla dhara yenduku.
 {% endcapture %}
 
 {{ data | markdownify }}

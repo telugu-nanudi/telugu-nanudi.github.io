@@ -16,6 +16,7 @@ Applied to an honorable death in a good cause.
 
 #### Romanization:
 Padimanditōṭi cāvu peṇḍlitō samamu.
+Padimanditoti cavu pendlito samamu.
 {% endcapture %}
 
 {{ data | markdownify }}

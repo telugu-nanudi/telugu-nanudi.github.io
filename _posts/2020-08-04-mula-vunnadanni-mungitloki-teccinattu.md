@@ -18,6 +18,7 @@ Treacherously revealing the secrets of another.
 
 #### Romanization:
 Mūla vunnadānni muṅgiṭlōki teccinaṭṭu.
+Mula vunnadanni mungitloki teccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

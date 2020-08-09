@@ -20,6 +20,7 @@ Potepalli literally means " Going-village."
 
 #### Romanization:
 Pōtēpallivāriki pappē sambhāvana.
+Potepallivariki pappe sambhavana.
 {% endcapture %}
 
 {{ data | markdownify }}

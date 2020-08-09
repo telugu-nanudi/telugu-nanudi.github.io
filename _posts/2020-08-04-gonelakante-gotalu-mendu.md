@@ -13,6 +13,7 @@ There are more small sacks than big ones.
 
 #### Romanization:
 Gōnelakaṇṭē gōtālu meṇḍu.
+Gonelakante gotalu mendu.
 {% endcapture %}
 
 {{ data | markdownify }}

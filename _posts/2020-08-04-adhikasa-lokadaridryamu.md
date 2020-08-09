@@ -14,6 +14,7 @@ Avarice bursts the bag. (French)[1]
 
 #### Romanization:
 Adhikāśa lōkadāridryamu.
+Adhikasa lokadaridryamu.
 {% endcapture %}
 
 {{ data | markdownify }}

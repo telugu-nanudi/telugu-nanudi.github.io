@@ -18,6 +18,7 @@ Although you feed a snake with milk, it will not refrain from biting you.
 
 #### Romanization:
 Pālupōśi pen̄cinā pāmu karavaka mānadu.
+Paluposi pencina pamu karavaka manadu.
 {% endcapture %}
 
 {{ data | markdownify }}

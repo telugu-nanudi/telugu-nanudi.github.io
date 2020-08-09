@@ -18,6 +18,7 @@ Said by a school-boy when he saw a board about to fall on his master's head. He 
 
 #### Romanization:
 Upādhyāyulavārū, uktaṁ uktaṁ.
+Upadhyayulavaru, uktam uktam.
 {% endcapture %}
 
 {{ data | markdownify }}

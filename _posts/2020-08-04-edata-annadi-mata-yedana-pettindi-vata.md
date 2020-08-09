@@ -19,6 +19,7 @@ He who praises in praesentia, and abuse in absentia, have with him pestilentia. 
 
 #### Romanization:
 Edaṭa annadi māṭa, yedāna peṭṭindi vāta.
+Edata annadi mata, yedana pettindi vata.
 {% endcapture %}
 
 {{ data | markdownify }}

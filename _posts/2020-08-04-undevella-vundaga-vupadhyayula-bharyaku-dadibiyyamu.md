@@ -19,6 +19,7 @@ Going out of your way to do something for others, and neglecting much that you h
 
 #### Romanization:
 Uṇḍēvellā vuṇḍagā, vupādhyāyula bhāryaku daḍibiyyamu.
+Undevella vundaga, vupadhyayula bharyaku dadibiyyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

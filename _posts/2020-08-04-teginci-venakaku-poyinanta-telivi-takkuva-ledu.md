@@ -20,6 +20,7 @@ Fortune lost, nothing lost; courage lost, much lost; honour lost, more lost; sou
 
 #### Romanization:
 Tegin̄ci venakaku pōyinanta telivi takkuva lēdu.
+Teginci venakaku poyinanta telivi takkuva ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

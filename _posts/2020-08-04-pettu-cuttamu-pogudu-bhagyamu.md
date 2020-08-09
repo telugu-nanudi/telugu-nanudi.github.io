@@ -19,6 +19,7 @@ While the pot boils friendship blooms. (German)[1]
 
 #### Romanization:
 Peṭṭu cuṭṭamu, poguḍu bhāgyamu.
+Pettu cuttamu, pogudu bhagyamu.
 {% endcapture %}
 
 {{ data | markdownify }}

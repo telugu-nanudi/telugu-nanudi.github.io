@@ -18,6 +18,7 @@ Applied to the absurdity of a person troubling himself with affairs in which he 
 
 #### Romanization:
 Tābōtū bolli yedduku kuḍiti.
+Tabotu bolli yedduku kuditi.
 {% endcapture %}
 
 {{ data | markdownify }}

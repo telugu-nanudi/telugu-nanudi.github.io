@@ -20,6 +20,7 @@ He points the dead.
 
 #### Romanization:
 Śavānaku cēśina alaṅkāramu.
+Savanaku cesina alankaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

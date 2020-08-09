@@ -19,6 +19,7 @@ There's nothing agrees worse, than a proud mind and a beggar's purse.
 
 #### Romanization:
 Biccānaku pōyinā biguvu tappalēdu, duppaṭi pōyinā vallevāṭu tappalēdu.
+Biccanaku poyina biguvu tappaledu, duppati poyina vallevatu tappaledu.
 {% endcapture %}
 
 {{ data | markdownify }}

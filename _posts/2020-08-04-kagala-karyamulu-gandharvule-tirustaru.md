@@ -20,6 +20,7 @@ The feet of the avenging deities are shod with wool. (Latin)[1]
 
 #### Romanization:
 Kāgala kāryamulu gandharvulē tīrustāru.
+Kagala karyamulu gandharvule tirustaru.
 {% endcapture %}
 
 {{ data | markdownify }}

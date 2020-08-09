@@ -15,6 +15,7 @@ He said "I don't know myself, how can I know you 'l"
 
 #### Romanization:
 Nannu nēnē yeraganu, ninnu nēnēmi yerugudunu annāḍaṭa.
+Nannu nene yeraganu, ninnu nenemi yerugudunu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

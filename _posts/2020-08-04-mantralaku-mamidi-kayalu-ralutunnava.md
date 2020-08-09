@@ -19,6 +19,7 @@ Said of excessive leniency or ineffective measures.
 
 #### Romanization:
 Mantrālaku māmiḍi kāyalu rālutunnavā.
+Mantralaku mamidi kayalu ralutunnava.
 {% endcapture %}
 
 {{ data | markdownify }}

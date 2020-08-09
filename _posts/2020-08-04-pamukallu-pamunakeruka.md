@@ -20,6 +20,7 @@ A man knows his own business best.
 
 #### Romanization:
 Pāmukāḷlu pāmunakeruka.
+Pamukallu pamunakeruka.
 {% endcapture %}
 
 {{ data | markdownify }}

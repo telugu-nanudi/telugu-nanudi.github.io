@@ -18,6 +18,7 @@ They say "endeavour makes the man," so bring an axe, and let us out down the cen
 
 #### Romanization:
 Udyōgaṁ puruṣalakṣaṇaṁ annāḍu, goḍḍalitērā niṭrāḍu narukudāmu.
+Udyogam purusalaksanam annadu, goddalitera nitradu narukudamu.
 {% endcapture %}
 
 {{ data | markdownify }}

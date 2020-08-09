@@ -15,6 +15,7 @@ If there be a rainbow in the west, all the dry tanks will be filled.
 
 #### Romanization:
 Paḍamaṭa koraḍu vēstē, pāḍuguṇṭalannī niṇḍunu.
+Padamata koradu veste, paduguntalanni nindunu.
 {% endcapture %}
 
 {{ data | markdownify }}

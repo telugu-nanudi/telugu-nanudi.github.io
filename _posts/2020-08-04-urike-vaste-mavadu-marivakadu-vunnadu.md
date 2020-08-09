@@ -17,6 +17,7 @@ Greediness.
 
 #### Romanization:
 Ūrike vastē māvāḍu marivakaḍu vunnāḍu.
+Urike vaste mavadu marivakadu vunnadu.
 {% endcapture %}
 
 {{ data | markdownify }}

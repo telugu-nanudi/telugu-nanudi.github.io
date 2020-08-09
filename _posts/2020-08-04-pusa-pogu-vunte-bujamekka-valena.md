@@ -18,6 +18,7 @@ Should a rich man be puffed up with pride?
 
 #### Romanization:
 Pūsa pōgu vuṇṭē, bujamekka valenā.
+Pusa pogu vunte, bujamekka valena.
 {% endcapture %}
 
 {{ data | markdownify }}

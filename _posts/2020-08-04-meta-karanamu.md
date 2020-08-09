@@ -19,6 +19,7 @@ i.e. up to any amount of bribery and corruption.
 
 #### Romanization:
 Mēta karaṇamu.
+Meta karanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

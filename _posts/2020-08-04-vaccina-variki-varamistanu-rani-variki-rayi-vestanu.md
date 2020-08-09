@@ -19,6 +19,7 @@ Used threateningly by a great personage.
 
 #### Romanization:
 Vaccina vāriki varamistānu, rāni vāriki rāyi vēstānu.
+Vaccina variki varamistanu, rani variki rayi vestanu.
 {% endcapture %}
 
 {{ data | markdownify }}

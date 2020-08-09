@@ -17,6 +17,7 @@ An absurd reason.
 
 #### Romanization:
 Kobbari ceṭṭu yenduku yekkutāvurā aṇṭē, dūḍa gaḍḍikōsaramu yekkutānannaṭṭu.
+Kobbari cettu yenduku yekkutavura ante, duda gaddikosaramu yekkutanannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ If you give yourself airs in the village where you are a stranger, will your hus
 
 #### Romanization:
 Eragani vūḷlō yem'melu cēstē, yēkulu nī moguḍu vaḍukutāḍā.
+Eragani vullo yem'melu ceste, yekulu ni mogudu vadukutada.
 {% endcapture %}
 
 {{ data | markdownify }}

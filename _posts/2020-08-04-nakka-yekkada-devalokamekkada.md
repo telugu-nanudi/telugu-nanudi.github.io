@@ -13,6 +13,7 @@ Where is the j ackal '! where is heaven'!
 
 #### Romanization:
 Nakka yekkaḍa, dēvalōkamekkaḍa.
+Nakka yekkada, devalokamekkada.
 {% endcapture %}
 
 {{ data | markdownify }}

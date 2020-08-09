@@ -18,6 +18,7 @@ A vulgar person taking airs.
 
 #### Romanization:
 Tānū vaka maniṣēnā tavuḍū vaka roṭṭēnā.
+Tanu vaka manisena tavudu vaka rottena.
 {% endcapture %}
 
 {{ data | markdownify }}

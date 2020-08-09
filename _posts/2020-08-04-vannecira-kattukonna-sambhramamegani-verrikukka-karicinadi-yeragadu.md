@@ -18,6 +18,7 @@ Engrosscd in pleasure, and blind to danger.
 
 #### Romanization:
 Vannecīra kaṭṭukonna sambhramamēgāni, verrikukka karicinadi yeragadu.
+Vannecira kattukonna sambhramamegani, verrikukka karicinadi yeragadu.
 {% endcapture %}
 
 {{ data | markdownify }}

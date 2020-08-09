@@ -16,6 +16,7 @@ If your nose won't stand sneezing how long will it last ?
 
 #### Romanization:
 Tum'mitē poyyēmukku yennāḷlu vuṇḍunu.
+Tum'mite poyyemukku yennallu vundunu.
 {% endcapture %}
 
 {{ data | markdownify }}

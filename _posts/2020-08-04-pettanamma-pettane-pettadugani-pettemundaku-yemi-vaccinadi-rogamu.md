@@ -19,6 +19,7 @@ Said by a beggar of one from whom he generally received alms.
 
 #### Romanization:
 Peṭṭanam'ma peṭṭanē peṭṭadugāni, peṭṭēmuṇḍaku yēmi vaccinadi rōgamu.
+Pettanam'ma pettane pettadugani, pettemundaku yemi vaccinadi rogamu.
 {% endcapture %}
 
 {{ data | markdownify }}

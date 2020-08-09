@@ -19,6 +19,7 @@ Said of a miserably poor person.
 
 #### Romanization:
 Pagalu castē vātiki lēdu, rātri castē dīpamuku lēdu.
+Pagalu caste vatiki ledu, ratri caste dipamuku ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

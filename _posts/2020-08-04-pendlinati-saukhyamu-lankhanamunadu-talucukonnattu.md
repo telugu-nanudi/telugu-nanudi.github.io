@@ -17,6 +17,7 @@ Thinking of the good fare at the marriage when suffering from the effects of it 
 
 #### Romanization:
 Peṇḍlināṭi saukhyamu laṅkhaṇamunāḍu talucukonnaṭṭu.
+Pendlinati saukhyamu lankhanamunadu talucukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Why do you increase the sore in my side'!
 
 #### Romanization:
 Pakkapuṇḍu pen̄cutāvēmi.
+Pakkapundu pencutavemi.
 {% endcapture %}
 
 {{ data | markdownify }}

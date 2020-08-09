@@ -19,6 +19,7 @@ Depending upon the helpless.
 
 #### Romanization:
 Vedhavaku daṇnamu peṭṭitē, tannu bōli bratukumannadi.
+Vedhavaku dannamu pettite, tannu boli bratukumannadi.
 {% endcapture %}
 
 {{ data | markdownify }}

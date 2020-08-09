@@ -17,6 +17,7 @@ She was too lazy to pound the condiments and therefore purposely spoilt them.
 
 #### Romanization:
 Tokkalēnam'ma tokkulō nīḷlu pōśinadaṭa.
+Tokkalenam'ma tokkulo nillu posinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

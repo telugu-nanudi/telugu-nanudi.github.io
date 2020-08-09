@@ -19,6 +19,7 @@ Tudum is the (onomatopoetic) name of a kind of drum (Tom-tom ). Durayi is a form
 
 #### Romanization:
 Tuḍuṁ tuḍuṁ aṇṭē, durāyi durāyi annaṭṭu.
+Tudum tudum ante, durayi durayi annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

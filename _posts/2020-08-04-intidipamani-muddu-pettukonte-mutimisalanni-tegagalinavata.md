@@ -19,6 +19,7 @@ Undue familiarity. Extravagant demonstration.
 
 #### Romanization:
 Iṇṭidīpamani muddu peṭṭukoṇṭē, mūtimīsālannī tegagālinavaṭa.
+Intidipamani muddu pettukonte, mutimisalanni tegagalinavata.
 {% endcapture %}
 
 {{ data | markdownify }}

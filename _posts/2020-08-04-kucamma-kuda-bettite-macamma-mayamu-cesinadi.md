@@ -13,6 +13,7 @@ Machamma made away with what Kuchamma gathered.
 
 #### Romanization:
 Kūcam'ma kūḍa beṭṭitē, mācam'ma māyamu cēśinadi.
+Kucam'ma kuda bettite, macam'ma mayamu cesinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

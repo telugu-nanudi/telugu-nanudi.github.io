@@ -19,6 +19,7 @@ You cannot drink and whistle at the same time. (Danish)[1]
 
 #### Romanization:
 Avvā kāvalenu, buvvā kāvalenu.
+Avva kavalenu, buvva kavalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

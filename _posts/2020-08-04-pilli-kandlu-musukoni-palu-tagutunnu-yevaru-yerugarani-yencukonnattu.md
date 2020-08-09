@@ -19,6 +19,7 @@ The forest has ears the field has eyes. (German.)[1]
 
 #### Romanization:
 Pilli kaṇḍlu mūsukoni pālu tāgutunnu yevarū yerugarani yen̄cukonnaṭṭu.
+Pilli kandlu musukoni palu tagutunnu yevaru yerugarani yencukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

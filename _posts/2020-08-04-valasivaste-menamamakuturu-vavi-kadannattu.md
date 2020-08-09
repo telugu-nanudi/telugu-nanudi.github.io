@@ -19,6 +19,7 @@ Note. Among Hindus (especially Komatis) it is obligatory for a man to marry his 
 
 #### Romanization:
 Valaśivastē mēnamāmakūturu vāvi kādannaṭṭu.
+Valasivaste menamamakuturu vavi kadannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

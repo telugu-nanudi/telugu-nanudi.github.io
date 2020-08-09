@@ -20,6 +20,7 @@ Idleness must thank itself if it go barefoot.
 
 #### Romanization:
 Ūpiri paṭṭitē bojja niṇḍunā.
+Upiri pattite bojja ninduna.
 {% endcapture %}
 
 {{ data | markdownify }}

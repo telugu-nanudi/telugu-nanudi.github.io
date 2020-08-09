@@ -17,6 +17,7 @@ An unexpected calamity.
 
 #### Romanization:
 Guḍi vacci mīda paḍḍaṭṭu.
+Gudi vacci mida paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

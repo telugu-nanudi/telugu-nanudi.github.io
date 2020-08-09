@@ -19,6 +19,7 @@ Applied to a slow conch.
 
 #### Romanization:
 Vittanālaku pōyina reḍḍi vōdelettagā vaccināḍu.
+Vittanalaku poyina reddi vodelettaga vaccinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

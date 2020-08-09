@@ -18,6 +18,7 @@ Greediness.
 
 #### Romanization:
 Iṇṭlō pāyasamunna mandalō pālukūḍānā.
+Intlo payasamunna mandalo palukudana.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A miserable end.
 
 #### Romanization:
 Innāḷlu bratiki yiṇṭivenaka caccinaṭṭu.
+Innallu bratiki yintivenaka caccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

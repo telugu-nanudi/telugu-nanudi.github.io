@@ -18,6 +18,7 @@ God helps hose who help themselves.
 
 #### Romanization:
 Dēvuḍiccunēgāni tinipin̄cunā.
+Devudiccunegani tinipincuna.
 {% endcapture %}
 
 {{ data | markdownify }}

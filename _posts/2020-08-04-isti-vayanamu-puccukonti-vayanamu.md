@@ -21,6 +21,7 @@ To one who has a pie in the oven you may give a bit of your cake. (French)[3]
 
 #### Romanization:
 Isti vāyanamu, puccukoṇṭi vāyanamu.
+Isti vayanamu, puccukonti vayanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

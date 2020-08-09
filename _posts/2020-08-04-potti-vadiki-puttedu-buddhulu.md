@@ -15,6 +15,7 @@ A short man has a Putti of wisdom.
 
 #### Romanization:
 Poṭṭi vāḍiki puṭṭeḍu bud'dhulu.
+Potti vadiki puttedu bud'dhulu.
 {% endcapture %}
 
 {{ data | markdownify }}

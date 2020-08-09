@@ -18,6 +18,7 @@ Such a man is said always to be in mischief.
 
 #### Romanization:
 Kuṇṭi kulāsaṁ, yiṇṭiki mōsaṁ.
+Kunti kulasam, yintiki mosam.
 {% endcapture %}
 
 {{ data | markdownify }}

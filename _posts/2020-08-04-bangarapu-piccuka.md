@@ -18,6 +18,7 @@ Pretty to look at but of no use.
 
 #### Romanization:
 Baṅgārapu piccuka.
+Bangarapu piccuka.
 {% endcapture %}
 
 {{ data | markdownify }}

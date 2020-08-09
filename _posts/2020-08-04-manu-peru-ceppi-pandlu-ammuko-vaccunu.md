@@ -16,6 +16,7 @@ As having been plucked from it.
 
 #### Romanization:
 Mānu pēru ceppi paṇḍlu am'mukō vaccunu.
+Manu peru ceppi pandlu am'muko vaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

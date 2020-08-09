@@ -17,6 +17,7 @@ The lady who has daughters is given a chair, but the lady who has sons has to le
 
 #### Romanization:
 Kūtuṇḍla kannam'maku kuricīpīṭalu, koḍukula kannam'maku gōḍa pan̄calu.
+Kutundla kannam'maku kuricipitalu, kodukula kannam'maku goda pancalu.
 {% endcapture %}
 
 {{ data | markdownify }}

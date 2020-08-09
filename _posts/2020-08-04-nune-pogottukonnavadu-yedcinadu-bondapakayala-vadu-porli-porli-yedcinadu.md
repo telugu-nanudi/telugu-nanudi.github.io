@@ -18,6 +18,7 @@ A bullock laden with pots of oil belonging to one man and unpeeled cocoanuts bel
 
 #### Romanization:
 Nūne pōgoṭṭukonnavāḍū yēḍcināḍu, boṇḍāpakāyala vāḍū porli porli yēḍcināḍu.
+Nune pogottukonnavadu yedcinadu, bondapakayala vadu porli porli yedcinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

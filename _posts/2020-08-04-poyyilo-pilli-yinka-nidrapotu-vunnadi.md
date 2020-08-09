@@ -18,6 +18,7 @@ No preparations for cooking, little prospect therefore of dinner.
 
 #### Romanization:
 Poyyilō pilli yiṅkā nidrapōtū vunnadi.
+Poyyilo pilli yinka nidrapotu vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

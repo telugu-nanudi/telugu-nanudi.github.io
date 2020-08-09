@@ -15,6 +15,7 @@ You may become a widow but you should not bring on yourself dishonor.
 
 #### Romanization:
 Muṇḍa moyya vaccunu, ninda moyya rādu.
+Munda moyya vaccunu, ninda moyya radu.
 {% endcapture %}
 
 {{ data | markdownify }}

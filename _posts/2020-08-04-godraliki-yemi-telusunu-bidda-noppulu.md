@@ -13,6 +13,7 @@ What does the barren woman know of the pains of child birth ?
 
 #### Romanization:
 Goḍrāliki yēmi telusunu biḍda noppulu.
+Godraliki yemi telusunu bidda noppulu.
 {% endcapture %}
 
 {{ data | markdownify }}

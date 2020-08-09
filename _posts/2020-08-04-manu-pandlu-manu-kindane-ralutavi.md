@@ -19,6 +19,7 @@ Every man bath his own planet.
 
 #### Romanization:
 Mānu paṇḍlu mānu kindanē rālutavi.
+Manu pandlu manu kindane ralutavi.
 {% endcapture %}
 
 {{ data | markdownify }}

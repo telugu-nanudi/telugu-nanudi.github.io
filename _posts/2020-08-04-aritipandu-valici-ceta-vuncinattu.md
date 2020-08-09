@@ -18,6 +18,7 @@ Applied to any thing made perfectly easy.
 
 #### Romanization:
 Ariṭipaṇḍu valici cēta vun̄cinaṭṭu.
+Aritipandu valici ceta vuncinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

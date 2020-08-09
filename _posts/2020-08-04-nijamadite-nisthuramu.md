@@ -16,6 +16,7 @@ If you tell the truth [it causes] annoyance.
 
 #### Romanization:
 Nijamāḍitē niṣṭhuramu.
+Nijamadite nisthuramu.
 {% endcapture %}
 
 {{ data | markdownify }}

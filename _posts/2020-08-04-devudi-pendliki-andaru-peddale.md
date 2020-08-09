@@ -17,6 +17,7 @@ Where there is no head, every one does what he likes.
 
 #### Romanization:
 Dēvuḍi peṇḍliki andarū peddalē.
+Devudi pendliki andaru peddale.
 {% endcapture %}
 
 {{ data | markdownify }}

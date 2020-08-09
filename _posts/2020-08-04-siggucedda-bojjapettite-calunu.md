@@ -17,6 +17,7 @@ Although I be disgraced, if I grow fat (i. e. rich)it is enough.
 
 #### Romanization:
 Śigguceḍḍā bojjapeṭṭitē cālunu.
+Siggucedda bojjapettite calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Shall I torment you as a son? shall I torment you as an enemy ? shall I torment 
 
 #### Romanization:
 Putruḍanai vēdhintunā, śatruḍanai vēdhintunā, pērulēni dayyamunai vēdhintunā, penimiṭinai vēdhintunā.
+Putrudanai vedhintuna, satrudanai vedhintuna, peruleni dayyamunai vedhintuna, penimitinai vedhintuna.
 {% endcapture %}
 
 {{ data | markdownify }}

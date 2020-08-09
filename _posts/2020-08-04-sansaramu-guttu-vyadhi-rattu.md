@@ -16,6 +16,7 @@ Family affairs [should be kept] secret, disease should be divulged.
 
 #### Romanization:
 Sansāramu guṭṭu, vyādhi raṭṭu.
+Sansaramu guttu, vyadhi rattu.
 {% endcapture %}
 
 {{ data | markdownify }}

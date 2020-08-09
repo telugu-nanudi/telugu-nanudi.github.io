@@ -15,6 +15,7 @@ When a man expressed his trust in Ramanna, the latter
 
 #### Romanization:
 Nam'miti rāmannā aṇṭē, nā antavāṇni cēstānannaṭṭu.
+Nam'miti ramanna ante, na antavanni cestanannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

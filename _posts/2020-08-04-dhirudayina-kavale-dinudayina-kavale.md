@@ -14,6 +14,7 @@ You must get a hero or a beggar [ for a husband].
 
 #### Romanization:
 Dhīruḍayinā kāvale, dīnuḍayinā kāvale
+Dhirudayina kavale, dinudayina kavale
 {% endcapture %}
 
 {{ data | markdownify }}

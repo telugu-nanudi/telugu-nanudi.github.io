@@ -18,6 +18,7 @@ The disciples of a Guru on commencing to cross a river said " May the
 
 #### Romanization:
 Nā pādamē gati annaṭṭu.
+Na padame gati annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

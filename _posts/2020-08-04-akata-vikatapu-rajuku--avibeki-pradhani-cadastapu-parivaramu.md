@@ -13,6 +13,7 @@ A foolish minister, and a clumsy retinue, to a perverse king.
 
 #### Romanization:
 Akaṭa vikaṭapu rājuku  avibēki pradhāni, cādastapu parivāramu.
+Akata vikatapu rajuku  avibeki pradhani, cadastapu parivaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

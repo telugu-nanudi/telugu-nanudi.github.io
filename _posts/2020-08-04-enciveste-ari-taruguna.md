@@ -18,6 +18,7 @@ A reply given to a cheat who thus attempted to account for a defficiency in the 
 
 #### Romanization:
 En̄civēstē āri tarugunā.
+Enciveste ari taruguna.
 {% endcapture %}
 
 {{ data | markdownify }}

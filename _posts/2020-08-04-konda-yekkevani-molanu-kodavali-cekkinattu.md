@@ -17,6 +17,7 @@ An additional danger and difficulty.
 
 #### Romanization:
 Koṇḍa yekkēvāni molanu koḍavali cekkinaṭṭu.
+Konda yekkevani molanu kodavali cekkinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

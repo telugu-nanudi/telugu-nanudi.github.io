@@ -19,6 +19,7 @@ An impertinent, unbecoming reply.
 
 #### Romanization:
 Yajñāniki yēmi yatnamaṇṭē, kattulū kaṭhārlū.
+Yajnaniki yemi yatnamante, kattulu katharlu.
 {% endcapture %}
 
 {{ data | markdownify }}

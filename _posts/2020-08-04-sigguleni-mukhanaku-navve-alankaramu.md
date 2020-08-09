@@ -18,6 +18,7 @@ Hiding a blush with a. simper.
 
 #### Romanization:
 Śiggulēni mukhānaku navvē alaṅkāramu.
+Sigguleni mukhanaku navve alankaramu.
 {% endcapture %}
 
 {{ data | markdownify }}

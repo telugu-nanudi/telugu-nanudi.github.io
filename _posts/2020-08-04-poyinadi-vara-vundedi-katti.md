@@ -19,6 +19,7 @@ That which is gone is the Scabbard, that which remains is the sword.
 
 #### Romanization:
 Pōyinadi vara, vuṇḍēdi katti.
+Poyinadi vara, vundedi katti.
 {% endcapture %}
 
 {{ data | markdownify }}

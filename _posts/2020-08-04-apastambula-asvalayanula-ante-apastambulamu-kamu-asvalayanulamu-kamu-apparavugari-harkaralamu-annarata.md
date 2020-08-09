@@ -18,6 +18,7 @@ Utter ignorance of religion.
 
 #### Romanization:
 Āpastambulā āśvalāyanulā aṇṭē, āpastambulamū kāmu, āśvalāyanulamū kāmu, appārāvugāri harkārālamu annāraṭa.
+Apastambula asvalayanula ante, apastambulamu kamu, asvalayanulamu kamu, apparavugari harkaralamu annarata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -21,6 +21,7 @@ He that has a mucklc nose thinks ilka ane is speaking o't. (Scotch)
 
 #### Romanization:
 Gum'maḍi kāyala doṅga aṇṭē, tana bujālu tānē paṭṭi cūsukonnāḍaṭa.
+Gum'madi kayala donga ante, tana bujalu tane patti cusukonnadata.
 {% endcapture %}
 
 {{ data | markdownify }}

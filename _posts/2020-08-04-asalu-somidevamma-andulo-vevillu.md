@@ -21,6 +21,7 @@ A large sheep thinks its wool heavy.
 
 #### Romanization:
 Asalu sōmidēvam'ma, andulō vēviḷlu.
+Asalu somidevam'ma, andulo vevillu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Simulating fear.
 
 #### Romanization:
 Vagalamāri vaṅkāya śegalēkanē sagamayinadi.
+Vagalamari vankaya segalekane sagamayinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

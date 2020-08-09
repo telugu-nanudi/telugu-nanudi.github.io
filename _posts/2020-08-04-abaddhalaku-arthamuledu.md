@@ -18,6 +18,7 @@ Applied to discrepancies in a statement.
 
 #### Romanization:
 Abad'dhālaku arthamulēdu.
+Abad'dhalaku arthamuledu.
 {% endcapture %}
 
 {{ data | markdownify }}

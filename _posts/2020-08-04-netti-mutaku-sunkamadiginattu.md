@@ -13,6 +13,7 @@ Like demanding duty for a bundle carried on the head.
 
 #### Romanization:
 Netti mūṭaku suṅkamaḍiginaṭṭu.
+Netti mutaku sunkamadiginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

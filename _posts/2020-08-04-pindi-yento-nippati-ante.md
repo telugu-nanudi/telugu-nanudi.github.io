@@ -18,6 +18,7 @@ Payment in proportion to work. Results according to labor.
 
 #### Romanization:
 Piṇḍi yentō nippaṭi antē.
+Pindi yento nippati ante.
 {% endcapture %}
 
 {{ data | markdownify }}

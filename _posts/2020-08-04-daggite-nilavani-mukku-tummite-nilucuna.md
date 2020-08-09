@@ -18,6 +18,7 @@ Will the nose that can't stand a cough bear a sneeze ?
 
 #### Romanization:
 Daggitē nilavani mukku tum'mitē nilucunā.
+Daggite nilavani mukku tum'mite nilucuna.
 {% endcapture %}
 
 {{ data | markdownify }}

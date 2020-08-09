@@ -17,6 +17,7 @@ Nothing is to be got out of the quarrels of the poor.
 
 #### Romanization:
 Jōgī jōgī rācukoṇṭē būḍide rālinadi.
+Jogi jogi racukonte budide ralinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

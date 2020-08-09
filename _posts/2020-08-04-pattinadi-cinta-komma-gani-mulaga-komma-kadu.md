@@ -19,6 +19,7 @@ Said by a parasite of his staunch protector.
 
 #### Romanization:
 Paṭṭinadi cinta kom'ma gāni mulaga kom'ma kādu.
+Pattinadi cinta kom'ma gani mulaga kom'ma kadu.
 {% endcapture %}
 
 {{ data | markdownify }}

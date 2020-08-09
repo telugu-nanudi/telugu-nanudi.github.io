@@ -21,6 +21,7 @@ Send a fool to the market, and a fool he'll return.
 
 #### Romanization:
 Kāśiki pōgānē karri kukka gaṅgi gōvu avunā.
+Kasiki pogane karri kukka gangi govu avuna.
 {% endcapture %}
 
 {{ data | markdownify }}

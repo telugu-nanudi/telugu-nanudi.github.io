@@ -16,6 +16,7 @@ A man suffers for his arrogance.
 
 #### Romanization:
 Nōru kovvi nīḷlu kāraḍamu.
+Noru kovvi nillu karadamu.
 {% endcapture %}
 
 {{ data | markdownify }}

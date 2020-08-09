@@ -19,6 +19,7 @@ A mean person taking advantage of his influence with a great man, to treat his b
 
 #### Romanization:
 Garuḍāya les'sā aṇṭē, śēṣāya les'sā annaṭṭu.
+Garudaya les'sa ante, sesaya les'sa annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

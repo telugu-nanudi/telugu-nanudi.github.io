@@ -18,6 +18,7 @@ When a marriage takes place, presents of cloths are sent to the bride and brideg
 
 #### Romanization:
 Caccinavāni peṇḍliki vaccinanta kaṭnamu.
+Caccinavani pendliki vaccinanta katnamu.
 {% endcapture %}
 
 {{ data | markdownify }}

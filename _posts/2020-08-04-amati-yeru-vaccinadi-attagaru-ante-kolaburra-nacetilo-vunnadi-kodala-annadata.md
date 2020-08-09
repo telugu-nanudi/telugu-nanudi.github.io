@@ -18,6 +18,7 @@ tags:
 
 #### Romanization:
 Aṁaṭi yēru vaccinadi attagārū aṇṭē, kolaburra nācētilō vunnadi kōḍalā annadaṭa.
+Amati yeru vaccinadi attagaru ante, kolaburra nacetilo vunnadi kodala annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ If you go where you ought not, you will not escape scandal.
 
 #### Romanization:
 Pōrāni cōṭlaku pōtē, rārāni nindalu rāka mānavu.
+Porani cotlaku pote, rarani nindalu raka manavu.
 {% endcapture %}
 
 {{ data | markdownify }}

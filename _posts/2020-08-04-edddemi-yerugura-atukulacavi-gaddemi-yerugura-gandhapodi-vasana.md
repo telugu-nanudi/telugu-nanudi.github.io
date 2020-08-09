@@ -19,6 +19,7 @@ Strew no roses before swine. (Dutch.)[1]
 
 #### Romanization:
 Edddēmi yerugurā aṭukulacavi, gāḍdēmi yerugurā gandhapoḍi vāsana.
+Edddemi yerugura atukulacavi, gaddemi yerugura gandhapodi vasana.
 {% endcapture %}
 
 {{ data | markdownify }}

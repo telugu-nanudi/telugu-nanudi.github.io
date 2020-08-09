@@ -18,6 +18,7 @@ Said by a quarrelsome ruffan.
 
 #### Romanization:
 Dānamu ayitē yivvalēnu, daṇḍaga ayitē peṭṭagalanu.
+Danamu ayite yivvalenu, dandaga ayite pettagalanu.
 {% endcapture %}
 
 {{ data | markdownify }}

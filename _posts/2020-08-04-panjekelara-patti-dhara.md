@@ -15,6 +15,7 @@ What has a beggar to do with the price of cotton ?
 
 #### Romanization:
 Pan̄jekēlarā patti dhara.
+Panjekelara patti dhara.
 {% endcapture %}
 
 {{ data | markdownify }}

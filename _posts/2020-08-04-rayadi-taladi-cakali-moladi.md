@@ -18,6 +18,7 @@ i. e. the lord's head cloth is used by the washerman for a lower garment.
 
 #### Romanization:
 Rāyaḍi taladi, cākali moladi.
+Rayadi taladi, cakali moladi.
 {% endcapture %}
 
 {{ data | markdownify }}

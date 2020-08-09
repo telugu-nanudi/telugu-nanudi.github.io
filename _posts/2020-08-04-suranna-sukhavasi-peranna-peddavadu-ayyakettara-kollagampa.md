@@ -18,6 +18,7 @@ Want of respect for those to whom it is due.
 
 #### Romanization:
 Sūranna sukhavāśi, pēranna peddavāḍu, ayyakettarā kōḷlagampa.
+Suranna sukhavasi, peranna peddavadu, ayyakettara kollagampa.
 {% endcapture %}
 
 {{ data | markdownify }}

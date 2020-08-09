@@ -18,6 +18,7 @@ Though you lose your life, you must preserve your honor.
 
 #### Romanization:
 Prāṇamu pōyinā, mānamu dakkin̄cukōvalenu.
+Pranamu poyina, manamu dakkincukovalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

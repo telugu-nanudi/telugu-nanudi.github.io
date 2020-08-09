@@ -19,6 +19,7 @@ Said of a man who spoils everything he meddles with.
 
 #### Romanization:
 Kukkaku vaccēvi annī goggi paṇḍlu.
+Kukkaku vaccevi anni goggi pandlu.
 {% endcapture %}
 
 {{ data | markdownify }}

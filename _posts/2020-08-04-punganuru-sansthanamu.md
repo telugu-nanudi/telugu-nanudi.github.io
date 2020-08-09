@@ -17,6 +17,7 @@ No government.
 
 #### Romanization:
 Puṅganūru sansthānamu.
+Punganuru sansthanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Attempting impossibilities.
 
 #### Romanization:
 Kōna kāvali
+Kona kavali
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ He has shut up his shop windows.
 
 #### Romanization:
 Vāḍi pani tellavārinadi.
+Vadi pani tellavarinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

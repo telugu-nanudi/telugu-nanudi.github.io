@@ -15,6 +15,7 @@ A cocoanut which cannot be chewed.
 
 #### Romanization:
 Namala kūḍani nārikēḷamu.
+Namala kudani narikelamu.
 {% endcapture %}
 
 {{ data | markdownify }}

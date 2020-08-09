@@ -19,6 +19,7 @@ Exaggeration in describing things not present.
 
 #### Romanization:
 Ēṭi āvali mutyamulu tāṭikāyalantēśi annaṭṭu.
+Eti avali mutyamulu tatikayalantesi annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Bad to his own, but good to others.
 
 #### Romanization:
 Iṇṭiki jyēṣṭhādēvi, poruguku lakṣmīdēvi.
+Intiki jyesthadevi, poruguku laksmidevi.
 {% endcapture %}
 
 {{ data | markdownify }}

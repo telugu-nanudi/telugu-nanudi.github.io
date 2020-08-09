@@ -14,6 +14,7 @@ Said of a loquacious person.
 
 #### Romanization:
 Pākalapāṭi vāri raṇakom'mu.
+Pakalapati vari ranakom'mu.
 {% endcapture %}
 
 {{ data | markdownify }}

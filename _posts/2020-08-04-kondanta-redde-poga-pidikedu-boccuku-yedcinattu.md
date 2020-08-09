@@ -19,6 +19,7 @@ Fear not the loss of the bell more than the loss of the steeple.
 
 #### Romanization:
 Koṇḍanta reḍḍē pōgā piḍikeḍu boccuku yēḍcinaṭṭu.
+Kondanta redde poga pidikedu boccuku yedcinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

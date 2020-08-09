@@ -17,6 +17,7 @@ Said of a stupid clumsy person.
 
 #### Romanization:
 Peda bāvagāru āḍaṅgulatō samamu.
+Peda bavagaru adangulato samamu.
 {% endcapture %}
 
 {{ data | markdownify }}

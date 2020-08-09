@@ -18,6 +18,7 @@ Swindling others under pretence of arbitration.
 
 #### Romanization:
 Roṭṭe taguvu kōti tīrcinadi.
+Rotte taguvu koti tircinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

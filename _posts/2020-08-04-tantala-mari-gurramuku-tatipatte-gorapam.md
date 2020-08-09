@@ -15,6 +15,7 @@ Full of splinters.
 
 #### Romanization:
 Taṇṭala māri gurramuku tāṭipaṭṭe gorapaṁ.
+Tantala mari gurramuku tatipatte gorapam.
 {% endcapture %}
 
 {{ data | markdownify }}

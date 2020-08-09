@@ -16,6 +16,7 @@ Kari Vepa is the Bergera Koenigii and is used in making curries. There is an ide
 
 #### Romanization:
 Karēpāku kōśēvāḍu vāginaṭṭu.
+Karepaku kosevadu vaginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

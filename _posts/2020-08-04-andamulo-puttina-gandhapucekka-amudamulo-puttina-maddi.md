@@ -17,6 +17,7 @@ A piece of sandal wood born of beauty, and the dregs of castor oil.
 
 #### Romanization:
 Andamulō puṭṭina gandhapucekka, āmudamulō puṭṭina maḍḍi.
+Andamulo puttina gandhapucekka, amudamulo puttina maddi.
 {% endcapture %}
 
 {{ data | markdownify }}

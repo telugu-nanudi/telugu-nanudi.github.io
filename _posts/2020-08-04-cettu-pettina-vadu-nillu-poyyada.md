@@ -21,6 +21,7 @@ God never sends mouths but he sends meat.
 
 #### Romanization:
 Ceṭṭu peṭṭina vāḍu nīḷlu poyyaḍā.
+Cettu pettina vadu nillu poyyada.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Loss in the first venture.
 
 #### Romanization:
 Vēśinadē vaka gantu, viriginadē vaka kālu.
+Vesinade vaka gantu, viriginade vaka kalu.
 {% endcapture %}
 
 {{ data | markdownify }}

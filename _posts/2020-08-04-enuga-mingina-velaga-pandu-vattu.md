@@ -20,6 +20,7 @@ Said of a person in an influential position who does not benefit others.
 
 #### Romanization:
 Ēnuga miṅgina velaga paṇḍu vattu.
+Enuga mingina velaga pandu vattu.
 {% endcapture %}
 
 {{ data | markdownify }}

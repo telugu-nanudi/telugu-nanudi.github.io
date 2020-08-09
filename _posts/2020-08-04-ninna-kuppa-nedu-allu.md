@@ -16,6 +16,7 @@ Yesterday there was a heap [of cut corn ], to-day there is Allu [thrashed].
 
 #### Romanization:
 Ninna kuppā nēḍu āḷlu.
+Ninna kuppa nedu allu.
 {% endcapture %}
 
 {{ data | markdownify }}

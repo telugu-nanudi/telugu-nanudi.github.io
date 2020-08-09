@@ -18,6 +18,7 @@ Said by an idle beggar, as an excuse for asking alms.
 
 #### Romanization:
 Kūḍaitē kaddugāni kulasthulaku veraci vaccinānu.
+Kudaite kaddugani kulasthulaku veraci vaccinanu.
 {% endcapture %}
 
 {{ data | markdownify }}

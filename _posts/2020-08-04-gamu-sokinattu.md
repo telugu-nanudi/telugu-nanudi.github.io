@@ -13,6 +13,7 @@ As though possessed of a devil.
 
 #### Romanization:
 Gāmu sōkinaṭṭu.
+Gamu sokinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

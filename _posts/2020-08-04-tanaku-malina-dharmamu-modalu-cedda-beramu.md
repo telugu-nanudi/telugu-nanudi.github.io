@@ -17,6 +17,7 @@ To give that in charity which a man himself needs to receive from others is like
 
 #### Romanization:
 Tanaku mālina dharmamu, modalu ceḍḍa bēramu.
+Tanaku malina dharmamu, modalu cedda beramu.
 {% endcapture %}
 
 {{ data | markdownify }}

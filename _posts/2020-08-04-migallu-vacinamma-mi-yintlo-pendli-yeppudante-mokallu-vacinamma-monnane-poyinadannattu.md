@@ -17,6 +17,7 @@ tags:
 
 #### Romanization:
 Mīgāḷlu vācinam'mā mī yiṇṭlō peṇḍli yeppuḍaṇṭē, mōkāḷlu vācinam'mā monnanē pōyinadannaṭṭu.
+Migallu vacinam'ma mi yintlo pendli yeppudante, mokallu vacinam'ma monnane poyinadannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

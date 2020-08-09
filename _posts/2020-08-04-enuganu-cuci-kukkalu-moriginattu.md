@@ -16,6 +16,7 @@ Like dogs barking at an elephant.
 
 #### Romanization:
 Ēnuganu cūci kukkalu moriginaṭṭu.
+Enuganu cuci kukkalu moriginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

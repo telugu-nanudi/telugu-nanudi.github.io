@@ -20,6 +20,7 @@ To sit on two stools. (Latin)[3]
 
 #### Romanization:
 Aḍusulō nāṭina stambhamu.
+Adusulo natina stambhamu.
 {% endcapture %}
 
 {{ data | markdownify }}

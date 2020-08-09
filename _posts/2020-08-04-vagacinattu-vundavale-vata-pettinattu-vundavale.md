@@ -15,6 +15,7 @@ Pretend to condole when you cauterize.
 
 #### Romanization:
 Vagacinaṭṭū vuṇḍavale, vāta peṭṭinaṭṭū vuṇḍavale.
+Vagacinattu vundavale, vata pettinattu vundavale.
 {% endcapture %}
 
 {{ data | markdownify }}

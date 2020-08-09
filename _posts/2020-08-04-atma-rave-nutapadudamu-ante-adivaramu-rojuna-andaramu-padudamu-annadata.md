@@ -21,6 +21,7 @@ Consideration is the parent of wisdom.
 
 #### Romanization:
 Atmā rāvē nūtapaḍudāmu aṇṭē, ādivāramu rōjuna andaramū paḍudāmu annadaṭa.
+Atma rave nutapadudamu ante, adivaramu rojuna andaramu padudamu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Worse and worse.
 
 #### Romanization:
 Modalē mannu, karuvu vastē gaḍḍalu.
+Modale mannu, karuvu vaste gaddalu.
 {% endcapture %}
 
 {{ data | markdownify }}

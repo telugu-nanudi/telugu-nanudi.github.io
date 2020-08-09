@@ -16,6 +16,7 @@ A very easy matter.
 
 #### Romanization:
 Ēnugaku velakkāyalu loṭa loṭa.
+Enugaku velakkayalu lota lota.
 {% endcapture %}
 
 {{ data | markdownify }}

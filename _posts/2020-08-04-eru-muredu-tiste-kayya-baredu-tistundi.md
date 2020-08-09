@@ -18,6 +18,7 @@ If you lose a little in the favor of the great, you sink four times as much in t
 
 #### Romanization:
 Ēru mūreḍu tīstē, kayya bāreḍu tīstundi.
+Eru muredu tiste, kayya baredu tistundi.
 {% endcapture %}
 
 {{ data | markdownify }}

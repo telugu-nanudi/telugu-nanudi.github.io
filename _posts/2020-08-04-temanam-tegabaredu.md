@@ -16,6 +16,7 @@ The word Bara properly signifies the length of the arms extended as when a man s
 
 #### Romanization:
 Tēmānaṁ tegabāreḍu.
+Temanam tegabaredu.
 {% endcapture %}
 
 {{ data | markdownify }}

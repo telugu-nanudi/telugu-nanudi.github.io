@@ -19,6 +19,7 @@ Said ironically of an ugly ruffian.
 
 #### Romanization:
 Andamu cindinaṭṭu,  nāgarikamu naṣṭamayinaṭṭu.
+Andamu cindinattu,  nagarikamu nastamayinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

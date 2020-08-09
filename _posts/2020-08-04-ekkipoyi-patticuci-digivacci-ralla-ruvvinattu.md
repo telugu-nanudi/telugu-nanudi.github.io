@@ -16,6 +16,7 @@ Having mounted [the tree] and felt [the fruit], he came down again and threw sto
 
 #### Romanization:
 Ekkipōyi paṭṭicūci digivacci rāḷla ruvvinaṭṭu.
+Ekkipoyi patticuci digivacci ralla ruvvinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

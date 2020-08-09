@@ -15,6 +15,7 @@ Bosom friends.
 
 #### Romanization:
 Vāṇḍlu pokkaṭi rāḷla rītigā vunnāru.
+Vandlu pokkati ralla ritiga vunnaru.
 {% endcapture %}
 
 {{ data | markdownify }}

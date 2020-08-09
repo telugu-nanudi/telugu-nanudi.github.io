@@ -14,6 +14,7 @@ There is no young corn for those who eat the cars.
 
 #### Romanization:
 Poṭṭakarukulu tinna vāriki vūca biyyālu lēvu.
+Pottakarukulu tinna variki vuca biyyalu levu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ The wolf changes his hair but not his nature. (Latin)[2]
 
 #### Romanization:
 Kāki puṭṭī nalupē perigī nalupē.
+Kaki putti nalupe perigi nalupe.
 {% endcapture %}
 
 {{ data | markdownify }}

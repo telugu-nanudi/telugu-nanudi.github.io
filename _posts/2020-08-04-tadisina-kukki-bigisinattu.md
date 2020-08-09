@@ -19,6 +19,7 @@ A bad man is puffed up when flattered.
 
 #### Romanization:
 Taḍiśina kukki bigiśinaṭṭu.
+Tadisina kukki bigisinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Said ironically of a. bitterly cold wind.
 
 #### Romanization:
 Sambarapu caligāliki yeduru vākili.
+Sambarapu caligaliki yeduru vakili.
 {% endcapture %}
 
 {{ data | markdownify }}

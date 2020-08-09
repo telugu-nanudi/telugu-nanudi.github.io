@@ -15,6 +15,7 @@ Doing any thing clumsily.
 
 #### Romanization:
 Moṇḍicētitōṭi mottukonnaṭṭu.
+Mondicetitoti mottukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

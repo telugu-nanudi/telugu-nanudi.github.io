@@ -19,6 +19,7 @@ Applied to foolish scruples.
 
 #### Romanization:
 Tambaḷa anumānamu.
+Tambala anumanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

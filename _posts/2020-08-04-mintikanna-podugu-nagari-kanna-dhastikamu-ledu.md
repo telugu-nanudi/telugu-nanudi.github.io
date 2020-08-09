@@ -14,6 +14,7 @@ There is no greater height than the sky, there is no greater oppression than tha
 
 #### Romanization:
 Miṇṭikannā poḍugu, nagari kannā dhāṣṭīkamu lēdu.
+Mintikanna podugu, nagari kanna dhastikamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

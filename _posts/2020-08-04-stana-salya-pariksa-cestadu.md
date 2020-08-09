@@ -19,6 +19,7 @@ Applied to a very minute enquiry.
 
 #### Romanization:
 Stana śalya parīkṣa cēstāḍu.
+Stana salya pariksa cestadu.
 {% endcapture %}
 
 {{ data | markdownify }}

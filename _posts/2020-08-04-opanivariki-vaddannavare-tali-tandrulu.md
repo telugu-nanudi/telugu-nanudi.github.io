@@ -17,6 +17,7 @@ An idler is delighted at every interruption.
 
 #### Romanization:
 Ōpanivāriki vaddannavārē tali taṇḍrulu.
+Opanivariki vaddannavare tali tandrulu.
 {% endcapture %}
 
 {{ data | markdownify }}

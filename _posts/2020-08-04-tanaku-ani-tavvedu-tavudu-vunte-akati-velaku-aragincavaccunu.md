@@ -19,6 +19,7 @@ Store is no sore.
 
 #### Romanization:
 Tanaku ani tavveḍu tavuḍu vuṇṭē, ākaṭi vēḷaku āragin̄cavaccunu.
+Tanaku ani tavvedu tavudu vunte, akati velaku aragincavaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

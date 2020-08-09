@@ -17,6 +17,7 @@ Said of an insolent fellow.
 
 #### Romanization:
 Guruvunu min̄cina śiṣyuḍu.
+Guruvunu mincina sisyudu.
 {% endcapture %}
 
 {{ data | markdownify }}

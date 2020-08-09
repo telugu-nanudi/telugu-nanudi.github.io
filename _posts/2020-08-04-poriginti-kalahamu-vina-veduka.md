@@ -17,6 +17,7 @@ Quarrelling in one's neighbour's house is pleasant to listen to.
 
 #### Romanization:
 Porigiṇṭi kalahamu vina vēḍuka.
+Poriginti kalahamu vina veduka.
 {% endcapture %}
 
 {{ data | markdownify }}

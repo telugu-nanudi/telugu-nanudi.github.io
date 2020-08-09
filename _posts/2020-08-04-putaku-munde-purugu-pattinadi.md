@@ -18,6 +18,7 @@ Premature. Precocious.
 
 #### Romanization:
 Pūtaku mundē purugu paṭṭinadi.
+Putaku munde purugu pattinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

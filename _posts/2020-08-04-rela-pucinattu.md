@@ -18,6 +18,7 @@ Rela chettu is the Cassia (Cathartocarpus) Fistula.
 
 #### Romanization:
 Rēla pūcinaṭṭu.
+Rela pucinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

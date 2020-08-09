@@ -19,6 +19,7 @@ The fool hunts for misfortune. (French.)[3]
 
 #### Romanization:
 Ceṭṭukoṭṭi payiki teccukonnaṭṭu.
+Cettukotti payiki teccukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -13,6 +13,7 @@ The salt seller is ruined, the pulse vendor is ruined, and the betel seller is e
 
 #### Romanization:
 Uppuvāḍū ceḍe, pappuvāḍū ceḍe, tamalapākulavāḍu tamāṁ ceḍe.
+Uppuvadu cede, pappuvadu cede, tamalapakulavadu tamam cede.
 {% endcapture %}
 
 {{ data | markdownify }}

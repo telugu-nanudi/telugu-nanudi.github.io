@@ -19,6 +19,7 @@ Boil not the pap before the child is born.
 
 #### Romanization:
 Kaḍupulō biḍḍa kaḍupulōnē vuṇḍagā, koḍuku pēru sōmaliṅgaṁ.
+Kadupulo bidda kadupulone vundaga, koduku peru somalingam.
 {% endcapture %}
 
 {{ data | markdownify }}

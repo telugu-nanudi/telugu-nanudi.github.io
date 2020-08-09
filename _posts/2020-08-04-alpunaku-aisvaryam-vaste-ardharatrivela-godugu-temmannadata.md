@@ -20,6 +20,7 @@ There is no pride like that of a beggar grown rich. (French)[1]
 
 #### Romanization:
 Alpunaku aiśvaryaṁ vastē, ardharātrivēḷa goḍugu tem'mannāḍaṭa.
+Alpunaku aisvaryam vaste, ardharatrivela godugu tem'mannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

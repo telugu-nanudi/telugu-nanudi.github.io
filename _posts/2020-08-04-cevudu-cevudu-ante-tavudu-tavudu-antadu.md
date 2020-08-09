@@ -19,6 +19,7 @@ The jingle of the Telugu words is similar to that of the English equivalents.
 
 #### Romanization:
 Cevuḍu cevuḍū aṇṭē, tavuḍu tavuḍū aṇṭāḍu.
+Cevudu cevudu ante, tavudu tavudu antadu.
 {% endcapture %}
 
 {{ data | markdownify }}

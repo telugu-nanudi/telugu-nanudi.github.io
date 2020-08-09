@@ -21,6 +21,7 @@ Say well is good, but do well is better.
 
 #### Romanization:
 Māṭalaku malli, paniki yelli.
+Matalaku malli, paniki yelli.
 {% endcapture %}
 
 {{ data | markdownify }}

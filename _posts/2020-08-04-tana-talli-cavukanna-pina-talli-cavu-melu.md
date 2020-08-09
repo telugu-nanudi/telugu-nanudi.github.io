@@ -16,6 +16,7 @@ The death of an aunt is better than the death of a mother.
 
 #### Romanization:
 Tana talli cāvukannā pina talli cāvu mēlu.
+Tana talli cavukanna pina talli cavu melu.
 {% endcapture %}
 
 {{ data | markdownify }}

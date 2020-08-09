@@ -18,6 +18,7 @@ Purchasing at unreasonable prices. The shoemaker buys his leather to make up, no
 
 #### Romanization:
 Goḍārivāni vadda tōlu konnaṭṭu.
+Godarivani vadda tolu konnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

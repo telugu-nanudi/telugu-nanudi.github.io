@@ -20,6 +20,7 @@ The treasure turned out charcoal. (Latin)[2]
 
 #### Romanization:
 Adē patakamayitē manamu bratakamā.
+Ade patakamayite manamu bratakama.
 {% endcapture %}
 
 {{ data | markdownify }}

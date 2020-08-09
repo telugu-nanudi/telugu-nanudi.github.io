@@ -13,6 +13,7 @@ A Tambali prates, but does not listen to what others say.
 
 #### Romanization:
 Tambaḷi tana loṭaloṭēgāni, yedaṭi loṭaloṭa yeragaḍu.
+Tambali tana lotalotegani, yedati lotalota yeragadu.
 {% endcapture %}
 
 {{ data | markdownify }}

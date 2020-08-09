@@ -18,6 +18,7 @@ A servant neglected by a master liberal to strangers.
 
 #### Romanization:
 Ēru yenta pārinā kukkaku katuku nīḷlē.
+Eru yenta parina kukkaku katuku nille.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Go forward, and fall; go backward, and mar all.
 
 #### Romanization:
 Mundariki vastē goyyi, venakku pōtē nuyyi.
+Mundariki vaste goyyi, venakku pote nuyyi.
 {% endcapture %}
 
 {{ data | markdownify }}

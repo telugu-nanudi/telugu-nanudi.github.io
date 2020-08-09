@@ -18,6 +18,7 @@ Said by parents to an ungrateful son, or by a benefactor to an ungrateful depend
 
 #### Romanization:
 Gāliki puṭṭi dhūḷiki periginaṭṭu.
+Galiki putti dhuliki periginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

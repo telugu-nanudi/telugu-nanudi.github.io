@@ -18,6 +18,7 @@ Engaging in a business but keeping clear of all responsibility.
 
 #### Romanization:
 Kum'marapuruguku mannu voṇṭa aṇṭadu.
+Kum'marapuruguku mannu vonta antadu.
 {% endcapture %}
 
 {{ data | markdownify }}

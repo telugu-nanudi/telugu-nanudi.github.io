@@ -19,6 +19,7 @@ There is no disputing of tastes, appetites, and fancies.
 
 #### Romanization:
 Burraku vaka guṇamu, jihvaku vaka ruci.
+Burraku vaka gunamu, jihvaku vaka ruci.
 {% endcapture %}
 
 {{ data | markdownify }}

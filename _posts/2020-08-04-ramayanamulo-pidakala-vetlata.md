@@ -17,6 +17,7 @@ Inattention and disrespect.
 
 #### Romanization:
 Rāmāyaṇamulō piḍakala vēṭlāṭa.
+Ramayanamulo pidakala vetlata.
 {% endcapture %}
 
 {{ data | markdownify }}

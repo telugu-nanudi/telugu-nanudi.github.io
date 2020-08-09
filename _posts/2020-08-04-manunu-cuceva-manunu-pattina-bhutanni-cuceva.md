@@ -18,6 +18,7 @@ You must pay respect even to a low fellow in power, because of his influence wit
 
 #### Romanization:
 Mānunu cūcēvā, mānunu paṭṭina bhūtānni cūcēvā.
+Manunu cuceva, manunu pattina bhutanni cuceva.
 {% endcapture %}
 
 {{ data | markdownify }}

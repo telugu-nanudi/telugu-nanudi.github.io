@@ -15,6 +15,7 @@ Taking advantage of liberty.
 
 #### Romanization:
 Dinamu man̄cidani tellavārlū doṅgilinaṭṭu.
+Dinamu mancidani tellavarlu dongilinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

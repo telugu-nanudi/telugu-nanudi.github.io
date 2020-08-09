@@ -19,6 +19,7 @@ All his geese are swans.
 
 #### Romanization:
 Tānu paṭṭina kōḍiki nālugu kāḷlu.
+Tanu pattina kodiki nalugu kallu.
 {% endcapture %}
 
 {{ data | markdownify }}

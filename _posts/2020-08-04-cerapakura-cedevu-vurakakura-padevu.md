@@ -18,6 +18,7 @@ He falls into the pit who leads another into it. (Spanish.)[4]
 
 #### Romanization:
 Cerapakurā ceḍēvu, vurakakurā paḍēvu.
+Cerapakura cedevu, vurakakura padevu.
 {% endcapture %}
 
 {{ data | markdownify }}

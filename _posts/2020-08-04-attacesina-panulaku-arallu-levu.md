@@ -18,6 +18,7 @@ There is no one to blame the mother-in-law.
 
 #### Romanization:
 Attacēśina panulaku āraḷlu lēvu.
+Attacesina panulaku arallu levu.
 {% endcapture %}
 
 {{ data | markdownify }}

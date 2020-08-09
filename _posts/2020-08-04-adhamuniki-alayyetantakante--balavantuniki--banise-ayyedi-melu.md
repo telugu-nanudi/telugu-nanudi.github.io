@@ -18,6 +18,7 @@ Better fare hard with good men than feast with bad.
 
 #### Romanization:
 Adhamuniki ālayyēṭantakaṇṭē,  balavantuniki  bānise ayyēdi mēlu.
+Adhamuniki alayyetantakante,  balavantuniki  banise ayyedi melu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ If the master's ox be lost what is it [to the servant?]. If the watchman's eye b
 
 #### Romanization:
 Ēlēvāni yeddu pōtēnēmi, kācēvāni kannu pōtēnēmi.
+Elevani yeddu potenemi, kacevani kannu potenemi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -17,6 +17,7 @@ Little sticks kindle a fire, but great ones put it out.
 
 #### Romanization:
 Kannu poyyēṭanta kāṭuka peṭṭukondurā.
+Kannu poyyetanta katuka pettukondura.
 {% endcapture %}
 
 {{ data | markdownify }}

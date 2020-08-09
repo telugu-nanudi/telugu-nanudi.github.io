@@ -20,6 +20,7 @@ As you make your bed, so you must lie on it.
 
 #### Romanization:
 Ī cēta cēsi ā cēta anubhavin̄cinaṭṭu.
+I ceta cesi a ceta anubhavincinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

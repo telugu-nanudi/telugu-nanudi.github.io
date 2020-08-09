@@ -19,6 +19,7 @@ A meddling rascal.
 
 #### Romanization:
 Kōḷla bērānaku veḷli kōṭalō kaburlu aḍiginaṭṭu.
+Kolla beranaku velli kotalo kaburlu adiginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

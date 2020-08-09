@@ -15,6 +15,7 @@ Is smearing the house always the sign of a feast ?
 
 #### Romanization:
 Illalakagānē paṇḍaga avutunnadā.
+Illalakagane pandaga avutunnada.
 {% endcapture %}
 
 {{ data | markdownify }}

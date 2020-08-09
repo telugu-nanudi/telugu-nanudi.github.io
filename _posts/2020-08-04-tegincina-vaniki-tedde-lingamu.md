@@ -20,6 +20,7 @@ The will is the soul of the work. (German.)[2]
 
 #### Romanization:
 Tegin̄cina vāniki teḍḍē liṅgamu.
+Tegincina vaniki tedde lingamu.
 {% endcapture %}
 
 {{ data | markdownify }}

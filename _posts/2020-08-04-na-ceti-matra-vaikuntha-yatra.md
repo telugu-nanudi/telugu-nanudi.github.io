@@ -16,6 +16,7 @@ The pill in my hand, [will take you on] a pilgrimage to
 
 #### Romanization:
 Nā cēti mātra, vaikuṇṭha yātra.
+Na ceti matra, vaikuntha yatra.
 {% endcapture %}
 
 {{ data | markdownify }}

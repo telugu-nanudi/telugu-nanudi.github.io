@@ -21,6 +21,7 @@ The old branch breaks bent. (Dutch.)[2]
 
 #### Romanization:
 Ceṭṭu ayi vaṅganidi mānu ayi vaṅgunā.
+Cettu ayi vanganidi manu ayi vanguna.
 {% endcapture %}
 
 {{ data | markdownify }}

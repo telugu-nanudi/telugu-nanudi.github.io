@@ -18,6 +18,7 @@ Said by a widow who had passed herself off as a maid, and married again.
 
 #### Romanization:
 Nā pativratā dharmamu nā modaṭi penimiṭiki telusunu.
+Na pativrata dharmamu na modati penimitiki telusunu.
 {% endcapture %}
 
 {{ data | markdownify }}

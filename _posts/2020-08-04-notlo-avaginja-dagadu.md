@@ -18,6 +18,7 @@ A gossipping fellow who repeats all he hears.
 
 #### Romanization:
 Nōṭlō āvagin̄ja dāgadu.
+Notlo avaginja dagadu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Said of a very learned and humble man.
 
 #### Romanization:
 Nivuru kappina nippu sāmita.
+Nivuru kappina nippu samita.
 {% endcapture %}
 
 {{ data | markdownify }}

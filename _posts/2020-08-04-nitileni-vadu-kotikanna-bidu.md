@@ -14,6 +14,7 @@ An unjust man is worse than a monkey.
 
 #### Romanization:
 Nītilēni vāḍu kōtikanna bīḍu.
+Nitileni vadu kotikanna bidu.
 {% endcapture %}
 
 {{ data | markdownify }}

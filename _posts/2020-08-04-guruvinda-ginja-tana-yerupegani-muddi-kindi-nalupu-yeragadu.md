@@ -20,6 +20,7 @@ No one sees his own faults. (German.)[1]
 
 #### Romanization:
 Guruvinda gin̄ja tana yerupēgāni muḍḍi kindi nalupu yeragadu.
+Guruvinda ginja tana yerupegani muddi kindi nalupu yeragadu.
 {% endcapture %}
 
 {{ data | markdownify }}

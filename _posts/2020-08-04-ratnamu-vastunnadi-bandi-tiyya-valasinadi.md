@@ -18,6 +18,7 @@ I ask your pardon, coach; I thought you were a wheelbarrow when I stumbled over 
 
 #### Romanization:
 Rāṭṇamu vastunnadi, baṇḍi tiyya valaśinadi.
+Ratnamu vastunnadi, bandi tiyya valasinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

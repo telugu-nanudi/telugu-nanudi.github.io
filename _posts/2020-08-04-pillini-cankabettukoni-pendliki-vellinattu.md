@@ -20,6 +20,7 @@ Transgressing the rules of society.
 
 #### Romanization:
 Pillini caṅkabeṭṭukoni peṇḍliki veḷlinaṭṭu.
+Pillini cankabettukoni pendliki vellinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

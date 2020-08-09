@@ -19,6 +19,7 @@ A mean person thinking of his own loss when his superiors are suffering.
 
 #### Romanization:
 Gaḍḍapalugulu gāliki koṭṭukonipōtū vuṇṭē, pullāku nā pani yēmi annadaṭa.
+Gaddapalugulu galiki kottukonipotu vunte, pullaku na pani yemi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

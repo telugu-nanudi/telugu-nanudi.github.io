@@ -16,6 +16,7 @@ Never mind giving provisions to the man setting out on a journey, but supply the
 
 #### Romanization:
 Ūriki poyyēvāniki lēkapōyinā, bahirbhūmiki poyyēvāniki batyamu kaṭṭumannaṭṭu.
+Uriki poyyevaniki lekapoyina, bahirbhumiki poyyevaniki batyamu kattumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

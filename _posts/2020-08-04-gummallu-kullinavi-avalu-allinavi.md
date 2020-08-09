@@ -18,6 +18,7 @@ Said when the base and wicked rise in power and the great and good disappear.
 
 #### Romanization:
 Gum'maḷlu kuḷlinavi, āvālu allinavi.
+Gum'mallu kullinavi, avalu allinavi.
 {% endcapture %}
 
 {{ data | markdownify }}

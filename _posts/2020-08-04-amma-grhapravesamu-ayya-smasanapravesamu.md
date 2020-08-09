@@ -21,6 +21,7 @@ After a dream of a wedding comes a corpse.
 
 #### Romanization:
 Am'ma gr̥hapravēśamu, ayya śmaśānapravēśamu.
+Am'ma grhapravesamu, ayya smasanapravesamu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -20,6 +20,7 @@ Riches have wings.
 
 #### Romanization:
 Āvu pāḍi yennāḷlu aiśvaryaṁ yennāḷlu, barre pāḍi yennāḷlu bhāgyaṁ yennāḷlu
+Avu padi yennallu aisvaryam yennallu, barre padi yennallu bhagyam yennallu
 {% endcapture %}
 
 {{ data | markdownify }}

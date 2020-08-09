@@ -19,6 +19,7 @@ Little enemies and little wounds are not to be despised. (German.)[1]
 
 #### Romanization:
 Cūḍa cun̄celuka, gōḍalutavva pandikokku.
+Cuda cunceluka, godalutavva pandikokku.
 {% endcapture %}
 
 {{ data | markdownify }}

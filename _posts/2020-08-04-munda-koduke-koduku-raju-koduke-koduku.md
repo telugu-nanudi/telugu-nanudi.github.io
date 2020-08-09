@@ -16,6 +16,7 @@ A king's son and a widow's nor: are both greatly indulged.
 
 #### Romanization:
 Muṇḍa koḍukē koḍuku, rāju koḍukē koḍuku.
+Munda koduke koduku, raju koduke koduku.
 {% endcapture %}
 
 {{ data | markdownify }}

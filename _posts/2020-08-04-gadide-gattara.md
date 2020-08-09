@@ -18,6 +18,7 @@ Nothing passes between asses but kicks. (Italian)[1]
 
 #### Romanization:
 Gāḍide gattara.
+Gadide gattara.
 {% endcapture %}
 
 {{ data | markdownify }}

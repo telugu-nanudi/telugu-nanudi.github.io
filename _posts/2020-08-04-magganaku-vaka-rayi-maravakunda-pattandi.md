@@ -18,6 +18,7 @@ Said by one of a party of weavers; --until thus betrayed, their sticks had been 
 
 #### Romanization:
 Maggānaku vaka rāyi maravakuṇḍā paṭṭaṇḍi.
+Magganaku vaka rayi maravakunda pattandi.
 {% endcapture %}
 
 {{ data | markdownify }}

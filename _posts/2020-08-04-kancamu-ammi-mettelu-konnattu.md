@@ -18,6 +18,7 @@ He has given the hen for the egg. (German)[1]
 
 #### Romanization:
 Kan̄camu am'mi meṭṭelu konnaṭṭu.
+Kancamu am'mi mettelu konnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

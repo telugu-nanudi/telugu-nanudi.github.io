@@ -19,6 +19,7 @@ Applied to that which is done because politeness requires it, but unwillingly.
 
 #### Romanization:
 Pōrāni cuṭṭamu vaccināḍu, tamalapākulu boḍḍu van̄ci kōyumannaṭṭu.
+Porani cuttamu vaccinadu, tamalapakulu boddu vanci koyumannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

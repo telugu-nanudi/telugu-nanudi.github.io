@@ -19,6 +19,7 @@ Selfish indifference.
 
 #### Romanization:
 Illu kālinadi jaṅgamayyā aṇṭē, nā jōlē kapparā nāvaddanē vunnavi annāḍaṭa.
+Illu kalinadi jangamayya ante, na jole kappara navaddane vunnavi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

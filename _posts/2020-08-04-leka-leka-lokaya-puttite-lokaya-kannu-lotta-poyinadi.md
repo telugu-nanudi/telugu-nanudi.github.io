@@ -16,6 +16,7 @@ When after being long childless, Lokaya was born to them, Lokaya's eye was sunke
 
 #### Romanization:
 Lēka lēka lōkāya puṭṭitē, lōkāya kannu loṭṭa pōyinadi.
+Leka leka lokaya puttite, lokaya kannu lotta poyinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

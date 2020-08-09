@@ -20,6 +20,7 @@ You can't fare well, but you must cry roast-meat.
 
 #### Romanization:
 Mūḍu bōnālū sid'dhamayinavi, divvekaṭṭa muḍiki vaccinadi, dora gārū suvārānaku rāvaccunu.
+Mudu bonalu sid'dhamayinavi, divvekatta mudiki vaccinadi, dora garu suvaranaku ravaccunu.
 {% endcapture %}
 
 {{ data | markdownify }}

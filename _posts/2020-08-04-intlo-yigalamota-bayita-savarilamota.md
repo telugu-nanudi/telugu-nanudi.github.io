@@ -19,6 +19,7 @@ Outward show, but poverty at home.
 
 #### Romanization:
 Iṇṭlō yīgalamōta, bayiṭa savārīlamōta.
+Intlo yigalamota, bayita savarilamota.
 {% endcapture %}
 
 {{ data | markdownify }}

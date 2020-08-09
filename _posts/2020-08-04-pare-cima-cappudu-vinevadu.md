@@ -19,6 +19,7 @@ He is so wary that he sleeps like a bare with his eyes open.
 
 #### Romanization:
 Pārē cīma cappuḍu vinēvāḍu.
+Pare cima cappudu vinevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

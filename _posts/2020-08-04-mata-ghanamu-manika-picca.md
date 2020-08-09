@@ -18,6 +18,7 @@ The greatest talkers are always the least doers.
 
 #### Romanization:
 Māṭa ghanamu, mānika picca.
+Mata ghanamu, manika picca.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -13,6 +13,7 @@ A motherless child is like a curry without onions.
 
 #### Romanization:
 Talli lēni pilla vulli lēni kūra.
+Talli leni pilla vulli leni kura.
 {% endcapture %}
 
 {{ data | markdownify }}

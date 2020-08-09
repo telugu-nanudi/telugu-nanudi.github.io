@@ -20,6 +20,7 @@ He laughs at scars who never felt a wound. (German)[2]
 
 #### Romanization:
 Ennō raṇālu kōśinānugāni, nāraṇamanta tīpu lēdannaṭṭu.
+Enno ranalu kosinanugani, naranamanta tipu ledannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

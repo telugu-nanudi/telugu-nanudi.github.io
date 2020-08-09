@@ -19,6 +19,7 @@ Applied to obstinacy.
 
 #### Romanization:
 Kōti piḍikili.
+Koti pidikili.
 {% endcapture %}
 
 {{ data | markdownify }}

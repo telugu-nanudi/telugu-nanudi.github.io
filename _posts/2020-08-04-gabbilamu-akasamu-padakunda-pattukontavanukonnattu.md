@@ -19,6 +19,7 @@ Said of a man who thinks everything depends on himself.
 
 #### Romanization:
 Gabbilamu ākāśamu paḍakuṇḍā paṭṭukoṇṭāvanukonnaṭṭu.
+Gabbilamu akasamu padakunda pattukontavanukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

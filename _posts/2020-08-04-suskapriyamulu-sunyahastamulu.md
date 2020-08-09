@@ -21,6 +21,7 @@ Words are female, deeds are male. (Italian)[2]
 
 #### Romanization:
 Śuṣkapriyamulu, śūn'yahastamulu.
+Suskapriyamulu, sun'yahastamulu.
 {% endcapture %}
 
 {{ data | markdownify }}

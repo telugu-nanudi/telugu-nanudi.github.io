@@ -18,6 +18,7 @@ Hope and expectation are a fool's income. (Danish)[3]
 
 #### Romanization:
 Aḍiyāśa poḍiyāśa duḥkhānaku kāraṇamu.
+Adiyasa podiyasa duhkhanaku karanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

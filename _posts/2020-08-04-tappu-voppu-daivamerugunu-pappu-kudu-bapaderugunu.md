@@ -16,6 +16,7 @@ God knows right and wrong; the Brahman knows Dal and rice.
 
 #### Romanization:
 Tappū voppū daivamerugunu, pappū kūḍū bāpaḍerugunu.
+Tappu voppu daivamerugunu, pappu kudu bapaderugunu.
 {% endcapture %}
 
 {{ data | markdownify }}

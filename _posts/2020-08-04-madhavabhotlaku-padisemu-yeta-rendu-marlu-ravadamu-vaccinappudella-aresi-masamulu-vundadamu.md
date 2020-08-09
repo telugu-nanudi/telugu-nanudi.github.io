@@ -16,6 +16,7 @@ Said of a man always in hot water.
 
 #### Romanization:
 Mādhavabhoṭlaku paḍiśemu yēṭā reṇḍu mārlu rāvaḍamu, vaccinappuḍellā ārēśi māsamulu vuṇḍaḍamu.
+Madhavabhotlaku padisemu yeta rendu marlu ravadamu, vaccinappudella aresi masamulu vundadamu.
 {% endcapture %}
 
 {{ data | markdownify }}

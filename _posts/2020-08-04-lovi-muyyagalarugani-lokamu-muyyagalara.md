@@ -17,6 +17,7 @@ You may shut one man's mouth, but you cannot shut the mouth of the world.
 
 #### Romanization:
 Lōvi muyyagalarugāni, lōkamu muyyagalarā.
+Lovi muyyagalarugani, lokamu muyyagalara.
 {% endcapture %}
 
 {{ data | markdownify }}

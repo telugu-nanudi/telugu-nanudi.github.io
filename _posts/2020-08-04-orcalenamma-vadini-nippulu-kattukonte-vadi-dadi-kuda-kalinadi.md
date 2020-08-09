@@ -19,6 +19,7 @@ Causing one's own ruin through envy.
 
 #### Romanization:
 Ōrcalēnam'ma vaḍini nippulu kaṭṭukoṇṭē, vaḍī daḍī kūḍā kālinadi.
+Orcalenam'ma vadini nippulu kattukonte, vadi dadi kuda kalinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

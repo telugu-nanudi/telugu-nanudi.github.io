@@ -13,6 +13,7 @@ Your paternal uncle's Wife is not your maternal aunt; your maternal uncle's wife
 
 #### Romanization:
 Pinataṇḍri peṇḍlāmu pinatalli kādu, mēnamāma peṇḍlāmu mēnatta kādu.
+Pinatandri pendlamu pinatalli kadu, menamama pendlamu menatta kadu.
 {% endcapture %}
 
 {{ data | markdownify }}

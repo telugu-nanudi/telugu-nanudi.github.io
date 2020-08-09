@@ -18,6 +18,7 @@ Sankranti is the transit of the sun from Sagittarius to Capricornus, when the Hi
 
 #### Romanization:
 Tātā saṅkrānti paṭṭu paṭṭu.
+Tata sankranti pattu pattu.
 {% endcapture %}
 
 {{ data | markdownify }}

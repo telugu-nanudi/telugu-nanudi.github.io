@@ -18,6 +18,7 @@ A useless or unprofitable work.
 
 #### Romanization:
 Būḍidalō cēśina hōmamu.
+Budidalo cesina homamu.
 {% endcapture %}
 
 {{ data | markdownify }}

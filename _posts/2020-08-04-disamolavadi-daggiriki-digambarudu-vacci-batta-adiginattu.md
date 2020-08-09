@@ -13,6 +13,7 @@ Like one naked man asking another naked man for a cloth.
 
 #### Romanization:
 Disamolavāḍi daggiriki digambaruḍu vacci baṭṭa aḍiginaṭṭu.
+Disamolavadi daggiriki digambarudu vacci batta adiginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

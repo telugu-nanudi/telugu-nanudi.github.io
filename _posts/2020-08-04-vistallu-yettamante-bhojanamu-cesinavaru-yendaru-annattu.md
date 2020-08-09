@@ -18,6 +18,7 @@ An impertinent question.
 
 #### Romanization:
 Vistaḷlu yettamaṇṭē, bhōjanamu cēśinavāru yendaru annaṭṭu.
+Vistallu yettamante, bhojanamu cesinavaru yendaru annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ The stain of plantain [can never be effaced], the grumbling of cousins never cea
 
 #### Romanization:
 Jñātigurru ariṭikarru vadalavu.
+Jnatigurru aritikarru vadalavu.
 {% endcapture %}
 
 {{ data | markdownify }}

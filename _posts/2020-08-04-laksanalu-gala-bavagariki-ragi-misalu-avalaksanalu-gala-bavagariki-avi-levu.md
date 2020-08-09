@@ -14,6 +14,7 @@ The good looking brother-in-law has red mustaches, the ugly brother-in-law has n
 
 #### Romanization:
 Lakṣaṇālu gala bāvagāriki rāgi mīsālu, avalakṣaṇālu gala bāvagāriki avī lēvu.
+Laksanalu gala bavagariki ragi misalu, avalaksanalu gala bavagariki avi levu.
 {% endcapture %}
 
 {{ data | markdownify }}

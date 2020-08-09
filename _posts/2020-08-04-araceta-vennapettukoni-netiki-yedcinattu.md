@@ -18,6 +18,7 @@ Like a man with butter in the palm of his hand, calling out for ghi.
 
 #### Romanization:
 Aracēta vennapeṭṭukoni nētiki yēḍcinaṭṭu.
+Araceta vennapettukoni netiki yedcinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

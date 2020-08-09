@@ -21,6 +21,7 @@ Devils must be driven out with devils. (German.)[2]
 
 #### Romanization:
 Korraku nakkakorra.
+Korraku nakkakorra.
 {% endcapture %}
 
 {{ data | markdownify }}

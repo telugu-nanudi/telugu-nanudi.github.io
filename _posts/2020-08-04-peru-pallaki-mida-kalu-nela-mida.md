@@ -19,6 +19,7 @@ i. e. be once rode, but now walks.
 
 #### Romanization:
 Pēru pallakī mīda, kālu nēla mīda.
+Peru pallaki mida, kalu nela mida.
 {% endcapture %}
 
 {{ data | markdownify }}

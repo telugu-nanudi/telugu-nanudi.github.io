@@ -14,6 +14,7 @@ If you get work, will food be wanting?
 
 #### Romanization:
 Pāṭu kaligitē kūṭiki kodavā.
+Patu kaligite kutiki kodava.
 {% endcapture %}
 
 {{ data | markdownify }}

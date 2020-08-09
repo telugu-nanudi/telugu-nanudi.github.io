@@ -18,6 +18,7 @@ A time server.
 
 #### Romanization:
 Dāsarivā jaṅgamavā aṇṭē, mundari vūrikoddī annāḍaṭa.
+Dasariva jangamava ante, mundari vurikoddi annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

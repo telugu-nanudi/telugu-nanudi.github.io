@@ -15,6 +15,7 @@ If the peacock shed tears, will the hunter's heart be moved'!
 
 #### Romanization:
 Nemali kaṇṭa nīru kāritē vēṭagāniki muddā.
+Nemali kanta niru karite vetaganiki mudda.
 {% endcapture %}
 
 {{ data | markdownify }}

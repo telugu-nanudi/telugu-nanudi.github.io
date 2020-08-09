@@ -19,6 +19,7 @@ Ready for any excuse.
 
 #### Romanization:
 Piriki baṇṭuku tum'māstha.
+Piriki bantuku tum'mastha.
 {% endcapture %}
 
 {{ data | markdownify }}

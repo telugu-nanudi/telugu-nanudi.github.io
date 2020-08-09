@@ -19,6 +19,7 @@ All talk and no go.
 
 #### Romanization:
 Vaṭṭi goḍḍuku arupulu meṇḍu, varapuṭēṭiki merupulu meṇḍu.
+Vatti godduku arupulu mendu, varaputetiki merupulu mendu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Digging up a mountain to catch a rat.
 
 #### Romanization:
 Koṇḍa tavvi yelukanu paṭṭinaṭṭu.
+Konda tavvi yelukanu pattinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

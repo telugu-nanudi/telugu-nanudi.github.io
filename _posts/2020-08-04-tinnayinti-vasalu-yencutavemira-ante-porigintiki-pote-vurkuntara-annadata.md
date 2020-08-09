@@ -20,6 +20,7 @@ I taught you to swim, and now you'd drown me.
 
 #### Romanization:
 Tinnayiṇṭi vāsālu yen̄cutāvēmirā aṇṭē, porigiṇṭiki pōtē vūrkuṇṭārā annāḍaṭa.
+Tinnayinti vasalu yencutavemira ante, porigintiki pote vurkuntara annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

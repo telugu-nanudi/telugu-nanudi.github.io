@@ -15,6 +15,7 @@ The people of ten villages cannot overcome men who won't open their mouths.
 
 #### Romanization:
 Palakani vāṇḍlatō padi vūḷlavāṇḍlū gelava lēru.
+Palakani vandlato padi vullavandlu gelava leru.
 {% endcapture %}
 
 {{ data | markdownify }}

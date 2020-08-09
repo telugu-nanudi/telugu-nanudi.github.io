@@ -17,6 +17,7 @@ Will not the nurse hate the child which is hated by its mother ?
 
 #### Romanization:
 Talli rōśina pillanu dādi rōyadā.
+Talli rosina pillanu dadi royada.
 {% endcapture %}
 
 {{ data | markdownify }}

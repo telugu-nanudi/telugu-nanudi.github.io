@@ -13,6 +13,7 @@ Every one who sees a jackal hunts it.
 
 #### Romanization:
 Nakkanu cūcina vāḍellā vēṭakāḍē.
+Nakkanu cucina vadella vetakade.
 {% endcapture %}
 
 {{ data | markdownify }}

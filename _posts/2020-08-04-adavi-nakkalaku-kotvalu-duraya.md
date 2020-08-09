@@ -17,6 +17,7 @@ What does the moon care if the dogs bark at her? (German.)[1]
 
 #### Romanization:
 Aḍavi nakkalaku kotvālu durāyā.
+Adavi nakkalaku kotvalu duraya.
 {% endcapture %}
 
 {{ data | markdownify }}

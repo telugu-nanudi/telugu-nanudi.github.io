@@ -18,6 +18,7 @@ But little oil is extracted from a large quantity of seed.
 
 #### Romanization:
 Gāṇḍlavāni āśa gōtamunnu paṭṭadu.
+Gandlavani asa gotamunnu pattadu.
 {% endcapture %}
 
 {{ data | markdownify }}

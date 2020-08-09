@@ -17,6 +17,7 @@ Said ironically.
 
 #### Romanization:
 Vēṇnīḷlakū vēsaṅgikī yenta calavō, nīkū nākū anta calava.
+Vennillaku vesangiki yenta calavo, niku naku anta calava.
 {% endcapture %}
 
 {{ data | markdownify }}

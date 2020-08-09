@@ -13,6 +13,7 @@ I lack nothing, but I am a widow.
 
 #### Romanization:
 Annī vunnavi,  ayiduvatanamu lēdu.
+Anni vunnavi,  ayiduvatanamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

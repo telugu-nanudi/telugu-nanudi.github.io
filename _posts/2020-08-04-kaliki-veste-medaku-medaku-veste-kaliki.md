@@ -18,6 +18,7 @@ Attempting to entrap a person by unfair questions.
 
 #### Romanization:
 Kāliki vēstē meḍaku, meḍaku vēstē kāliki.
+Kaliki veste medaku, medaku veste kaliki.
 {% endcapture %}
 
 {{ data | markdownify }}

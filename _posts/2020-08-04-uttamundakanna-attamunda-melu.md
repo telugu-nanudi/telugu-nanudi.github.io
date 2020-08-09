@@ -20,6 +20,7 @@ Better a lean jade than an empty halter.
 
 #### Romanization:
 Uttamuṇḍakannā attamuṇḍa mēlu.
+Uttamundakanna attamunda melu.
 {% endcapture %}
 
 {{ data | markdownify }}

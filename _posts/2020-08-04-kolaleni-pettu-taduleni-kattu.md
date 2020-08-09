@@ -18,6 +18,7 @@ A sudden and unaccountable calamity.
 
 #### Romanization:
 Kōlalēni peṭṭu, tāḍulēni kaṭṭu.
+Kolaleni pettu, taduleni kattu.
 {% endcapture %}
 
 {{ data | markdownify }}

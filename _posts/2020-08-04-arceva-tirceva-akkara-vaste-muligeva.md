@@ -19,6 +19,7 @@ A friend in need is a friend indeed.
 
 #### Romanization:
 Ārcēvā, tīrcēvā, akkara vastē muligēvā.
+Arceva, tirceva, akkara vaste muligeva.
 {% endcapture %}
 
 {{ data | markdownify }}

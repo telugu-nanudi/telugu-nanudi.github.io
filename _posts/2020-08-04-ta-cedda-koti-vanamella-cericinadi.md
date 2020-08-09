@@ -13,6 +13,7 @@ The monkey ruined himself, and all the forest after him.
 
 #### Romanization:
 Tā ceḍda kōti vanamellā cericinadi.
+Ta cedda koti vanamella cericinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

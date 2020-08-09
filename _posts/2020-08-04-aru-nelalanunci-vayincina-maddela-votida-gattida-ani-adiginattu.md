@@ -16,6 +16,7 @@ Like asking if the drum is cracked or strong, after using it for six months.
 
 #### Romanization:
 Āru nelalanun̄ci vāyin̄cina maddela vōṭidā gaṭṭidā ani aḍiginaṭṭu.
+Aru nelalanunci vayincina maddela votida gattida ani adiginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Useless reading, like the blazing of millet stalks.
 
 #### Romanization:
 Dhvansa pārāyaṇamu, daṇṭu maṇṭa.
+Dhvansa parayanamu, dantu manta.
 {% endcapture %}
 
 {{ data | markdownify }}

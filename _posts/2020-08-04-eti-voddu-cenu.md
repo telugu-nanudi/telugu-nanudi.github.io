@@ -19,6 +19,7 @@ A dangerous situation.
 
 #### Romanization:
 Ēṭi voḍḍu cēnu.
+Eti voddu cenu.
 {% endcapture %}
 
 {{ data | markdownify }}

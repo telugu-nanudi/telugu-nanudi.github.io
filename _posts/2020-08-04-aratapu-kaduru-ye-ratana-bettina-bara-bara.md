@@ -15,6 +15,7 @@ The restless spindle, to whatever spinning wheel it may be attached, rattles.
 
 #### Romanization:
 Ārāṭapu kaduru yē rāṭāna beṭṭinā bara bara.
+Aratapu kaduru ye ratana bettina bara bara.
 {% endcapture %}
 
 {{ data | markdownify }}

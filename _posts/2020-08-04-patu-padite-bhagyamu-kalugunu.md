@@ -13,6 +13,7 @@ If you are industrious, you will become rich.
 
 #### Romanization:
 Pāṭu paḍitē bhāgyamu kalugunu.
+Patu padite bhagyamu kalugunu.
 {% endcapture %}
 
 {{ data | markdownify }}

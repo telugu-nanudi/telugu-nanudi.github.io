@@ -20,6 +20,7 @@ A beautiful thing possessed by a person who is unworthy of it.
 
 #### Romanization:
 Kāki mukkuna doṇḍapaṇḍu karucukonnaṭṭu.
+Kaki mukkuna dondapandu karucukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

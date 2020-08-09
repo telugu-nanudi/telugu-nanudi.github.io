@@ -13,6 +13,7 @@ False gold is very rough.
 
 #### Romanization:
 Kalla payiḍiki garukulu meṇḍu.
+Kalla payidiki garukulu mendu.
 {% endcapture %}
 
 {{ data | markdownify }}

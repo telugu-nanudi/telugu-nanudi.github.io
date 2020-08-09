@@ -18,6 +18,7 @@ Nuvuu is the Sesamum Indicum. The Sesamum crops are peculiarly liable to attacks
 
 #### Romanization:
 Nuvvuku nūru rōgālu.
+Nuvvuku nuru rogalu.
 {% endcapture %}
 
 {{ data | markdownify }}

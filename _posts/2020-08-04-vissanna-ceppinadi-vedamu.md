@@ -18,6 +18,7 @@ All that he says is law.
 
 #### Romanization:
 Vis'sanna ceppinadi vēdamu.
+Vis'sanna ceppinadi vedamu.
 {% endcapture %}
 
 {{ data | markdownify }}

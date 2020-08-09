@@ -13,6 +13,7 @@ Will oaths bring harmony? Will adjurations bring profit?
 
 #### Romanization:
 Satyamulu pottuguḍucunā, bāsalu kaliśivaccunā.
+Satyamulu pottuguducuna, basalu kalisivaccuna.
 {% endcapture %}
 
 {{ data | markdownify }}

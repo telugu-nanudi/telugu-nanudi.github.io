@@ -15,6 +15,7 @@ Of the days of Nawab Sa'adat-ullah K_han's grandmother.
 
 #### Romanization:
 Navābu sātullā khān avya nāṭidi.
+Navabu satulla khan avya natidi.
 {% endcapture %}
 
 {{ data | markdownify }}

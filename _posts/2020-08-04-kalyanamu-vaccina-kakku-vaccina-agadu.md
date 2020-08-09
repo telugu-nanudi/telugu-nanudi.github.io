@@ -15,6 +15,7 @@ When marriage comes, or vomiting, it cannot be stopped.
 
 #### Romanization:
 Kaḷyāṇamu vaccinā kakku vaccinā āgadu.
+Kalyanamu vaccina kakku vaccina agadu.
 {% endcapture %}
 
 {{ data | markdownify }}

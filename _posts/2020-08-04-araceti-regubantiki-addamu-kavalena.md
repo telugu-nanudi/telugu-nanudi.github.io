@@ -21,6 +21,7 @@ As plain as a pike-staff.
 
 #### Romanization:
 Aracēti rēgubaṇṭiki addamu kāvalenā.
+Araceti regubantiki addamu kavalena.
 {% endcapture %}
 
 {{ data | markdownify }}

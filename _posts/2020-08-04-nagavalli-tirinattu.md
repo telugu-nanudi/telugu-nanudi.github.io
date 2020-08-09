@@ -21,6 +21,7 @@ Dulness after gaity, or festivity at its height.
 
 #### Romanization:
 Nāgavalli tīrinaṭṭu.
+Nagavalli tirinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

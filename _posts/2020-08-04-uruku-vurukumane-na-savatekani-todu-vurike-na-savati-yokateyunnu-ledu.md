@@ -17,6 +17,7 @@ Said by a widow when pressed to become Sati.
 
 #### Romanization:
 Uruku vurukumanē nā savatēkāni, tōḍu vurikē nā savati yokateyunnū lēdu.
+Uruku vurukumane na savatekani, todu vurike na savati yokateyunnu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

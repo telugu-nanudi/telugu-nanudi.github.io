@@ -18,6 +18,7 @@ The washerman, though illiterate, invariably distinguishes the clothes belonging
 
 #### Romanization:
 Cadivinavāni kannā cākalavāḍu nayamu.
+Cadivinavani kanna cakalavadu nayamu.
 {% endcapture %}
 
 {{ data | markdownify }}

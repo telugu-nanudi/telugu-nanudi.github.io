@@ -19,6 +19,7 @@ Sick of the idle crisis, and the belly-work in the heel.
 
 #### Romanization:
 Modalu durbalaṁ, andulō garbhiṇi.
+Modalu durbalam, andulo garbhini.
 {% endcapture %}
 
 {{ data | markdownify }}

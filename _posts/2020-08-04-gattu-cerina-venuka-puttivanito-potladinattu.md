@@ -18,6 +18,7 @@ The peril past, the saint mocked. (Italian)[2]
 
 #### Romanization:
 Gaṭṭu cērina venuka puṭṭivānitō pōṭlāḍinaṭṭu.
+Gattu cerina venuka puttivanito potladinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

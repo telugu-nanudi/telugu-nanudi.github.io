@@ -18,6 +18,7 @@ Said by s stingy Komati to a Brahman priest to whom he had presented the cheapes
 
 #### Romanization:
 Pillini campina pāpamu nīdi, bellamu tinna pāpamu nādi.
+Pillini campina papamu nidi, bellamu tinna papamu nadi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -21,6 +21,7 @@ The pan says to the pot "keep off or you'll smutch me." (Italian)[3]
 
 #### Romanization:
 Kurūpi yēmi cēstunnāḍaṇṭē, surūpālannī lekkapeṭṭutunnāḍu.
+Kurupi yemi cestunnadante, surupalanni lekkapettutunnadu.
 {% endcapture %}
 
 {{ data | markdownify }}

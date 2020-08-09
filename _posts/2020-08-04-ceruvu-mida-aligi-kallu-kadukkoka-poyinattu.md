@@ -19,6 +19,7 @@ When a man grows angry, his reason rides out.
 
 #### Romanization:
 Ceruvu mīda aligi kāḷlu kaḍukkōka pōyinaṭṭu.
+Ceruvu mida aligi kallu kadukkoka poyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

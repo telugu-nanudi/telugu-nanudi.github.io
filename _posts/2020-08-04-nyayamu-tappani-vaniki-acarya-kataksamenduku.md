@@ -13,6 +13,7 @@ What does a just man care for the favor of the priest'!
 
 #### Romanization:
 N'yāyamu tappani vāniki ācārya kaṭākṣamenduku.
+N'yayamu tappani vaniki acarya kataksamenduku.
 {% endcapture %}
 
 {{ data | markdownify }}

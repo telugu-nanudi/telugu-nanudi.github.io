@@ -13,6 +13,7 @@ Betel nut in the hand of a clerical Brahman.
 
 #### Romanization:
 Vaidikuni cēti viḍemu.
+Vaidikuni ceti videmu.
 {% endcapture %}
 
 {{ data | markdownify }}

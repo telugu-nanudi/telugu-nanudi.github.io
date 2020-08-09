@@ -21,6 +21,7 @@ If you want a pretence to whip a dog, it is enough to say he ate up the frying p
 
 #### Romanization:
 Ālini vallani vāniki yīlakūralō vuppu cāladu.
+Alini vallani vaniki yilakuralo vuppu caladu.
 {% endcapture %}
 
 {{ data | markdownify }}

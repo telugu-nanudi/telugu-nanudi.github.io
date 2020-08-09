@@ -19,6 +19,7 @@ Buying the right to carry on a heavy law suit from a stranger.
 
 #### Romanization:
 Dārini poyyē vyājyamu koni teccukonnaṭṭu.
+Darini poyye vyajyamu koni teccukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

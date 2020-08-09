@@ -17,6 +17,7 @@ Every garb (i. e. occupation) is for food.
 
 #### Romanization:
 Vēsālellā grāsālakē.
+Vesalella grasalake.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A work undertaken must be completed.
 
 #### Romanization:
 Kaḍupu vastē kani tīra valenu.
+Kadupu vaste kani tira valenu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Once an use, and ever a custom.
 
 #### Romanization:
 Miṇḍalanu marigina am'mā, mīgaḍalu tinna am'mā vūrakuṇḍaru.
+Mindalanu marigina am'ma, migadalu tinna am'ma vurakundaru.
 {% endcapture %}
 
 {{ data | markdownify }}

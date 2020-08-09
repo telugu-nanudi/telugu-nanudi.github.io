@@ -18,6 +18,7 @@ A bad man often escapes through the difference of opinion among others as to his
 
 #### Romanization:
 Padimandilō paḍḍapāmu cāvadu.
+Padimandilo paddapamu cavadu.
 {% endcapture %}
 
 {{ data | markdownify }}

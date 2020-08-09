@@ -17,6 +17,7 @@ Tom Noddy's secret.
 
 #### Romanization:
 Atirahasyaṁ baṭṭabayalu.
+Atirahasyam battabayalu.
 {% endcapture %}
 
 {{ data | markdownify }}

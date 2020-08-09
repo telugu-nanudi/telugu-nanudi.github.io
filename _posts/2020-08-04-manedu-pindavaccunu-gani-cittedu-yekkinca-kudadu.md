@@ -18,6 +18,7 @@ Manika and Chitti are measures. One of the former equals 16 of the latter.
 
 #### Romanization:
 Māneḍu piṇḍavaccunu gāni, ciṭṭeḍu yekkin̄ca kūḍadu.
+Manedu pindavaccunu gani, cittedu yekkinca kudadu.
 {% endcapture %}
 
 {{ data | markdownify }}

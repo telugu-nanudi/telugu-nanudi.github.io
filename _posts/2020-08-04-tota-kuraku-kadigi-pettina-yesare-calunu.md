@@ -17,6 +17,7 @@ The water which remains in greens after they have been washed is sfficient to bo
 
 #### Romanization:
 Tōṭa kūraku kaḍigi peṭṭina yesarē cālunu.
+Tota kuraku kadigi pettina yesare calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

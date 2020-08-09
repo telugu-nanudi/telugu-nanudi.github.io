@@ -20,6 +20,7 @@ There is no stripping a naked man. (German)[3]
 
 #### Romanization:
 Gōci pātala rāyaḍu doṅgala miṇḍaḍu.
+Goci patala rayadu dongala mindadu.
 {% endcapture %}
 
 {{ data | markdownify }}

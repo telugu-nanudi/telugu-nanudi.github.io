@@ -19,6 +19,7 @@ Appearances are deceitful.
 
 #### Romanization:
 Illellā koṭṭitē, taṭṭeḍu peṅkulu lēvu.
+Illella kottite, tattedu penkulu levu.
 {% endcapture %}
 
 {{ data | markdownify }}

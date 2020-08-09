@@ -16,6 +16,7 @@ The more you practise the better you will sing; the more you groan the more will
 
 #### Romanization:
 Tiyyagā tiyyagā rāgamu, mūlagagā mūlagagā rōgamu.
+Tiyyaga tiyyaga ragamu, mulagaga mulagaga rogamu.
 {% endcapture %}
 
 {{ data | markdownify }}

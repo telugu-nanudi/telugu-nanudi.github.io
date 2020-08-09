@@ -18,6 +18,7 @@ A lucky chance.
 
 #### Romanization:
 Pōligāḍi ceyyi bokkalō paḍḍadi.
+Poligadi ceyyi bokkalo paddadi.
 {% endcapture %}
 
 {{ data | markdownify }}

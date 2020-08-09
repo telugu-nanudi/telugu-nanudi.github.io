@@ -16,6 +16,7 @@ If you take fright at a cupful of water, who will bathe with a boilerful?
 
 #### Romanization:
 Munteḍu nīḷlakē jaḍistē, bāneḍu nīḷlu yevaru pōsukoṇṭāru.
+Muntedu nillake jadiste, banedu nillu yevaru posukontaru.
 {% endcapture %}
 
 {{ data | markdownify }}

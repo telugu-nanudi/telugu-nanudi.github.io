@@ -18,6 +18,7 @@ An ignorant professor gets on well in the absence of the learned.
 
 #### Romanization:
 Panneṇḍu āmaḍa madhya brāhmaṇuḍu lēkapōtē yajñāmu cēyistānu annāḍaṭa.
+Pannendu amada madhya brahmanudu lekapote yajnamu ceyistanu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

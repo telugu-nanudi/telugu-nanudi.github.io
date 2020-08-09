@@ -15,6 +15,7 @@ Like one who does not know the alphabet attempting multiplication.
 
 #### Romanization:
 Ōkāramu rānivāḍu vaḍlu guṇin̄cinaṭṭu.
+Okaramu ranivadu vadlu gunincinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

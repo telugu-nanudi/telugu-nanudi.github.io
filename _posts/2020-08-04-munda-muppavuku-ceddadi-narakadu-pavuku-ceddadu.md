@@ -19,6 +19,7 @@ When a man asked a widow to lend him a pagoda, she said she would only do so on 
 
 #### Romanization:
 Muṇḍa muppāvuku ceḍḍadi, narakaḍu pāvuku ceḍḍāḍu.
+Munda muppavuku ceddadi, narakadu pavuku ceddadu.
 {% endcapture %}
 
 {{ data | markdownify }}

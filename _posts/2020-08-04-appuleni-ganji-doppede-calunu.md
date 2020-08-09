@@ -20,6 +20,7 @@ Happy is he who owes nothing. (Greek)[3]
 
 #### Romanization:
 Appulēni gan̄ji doppeḍē cālunu.
+Appuleni ganji doppede calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

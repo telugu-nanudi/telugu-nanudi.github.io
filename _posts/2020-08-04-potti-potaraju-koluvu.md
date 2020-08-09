@@ -19,6 +19,7 @@ A worrying fellow, of whom it is said that when his followers were behind him. h
 
 #### Romanization:
 Poṭṭi pōtarāju koluvu.
+Potti potaraju koluvu.
 {% endcapture %}
 
 {{ data | markdownify }}

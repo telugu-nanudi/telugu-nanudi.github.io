@@ -18,6 +18,7 @@ Makha and Pubba are the 10th and 11th lunar mansions.
 
 #### Romanization:
 Makha pubbalu varapayitē, mahattayina kṣāmamu.
+Makha pubbalu varapayite, mahattayina ksamamu.
 {% endcapture %}
 
 {{ data | markdownify }}

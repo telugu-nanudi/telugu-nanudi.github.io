@@ -14,6 +14,7 @@ May a man fight with his Guru?
 
 #### Romanization:
 Guruvutō guddulāṭā.
+Guruvuto guddulata.
 {% endcapture %}
 
 {{ data | markdownify }}

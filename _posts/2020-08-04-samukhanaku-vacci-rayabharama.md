@@ -17,6 +17,7 @@ Things done unnecessarily in an indirect manner.
 
 #### Romanization:
 Samukhānaku vacci rāyabhāramā.
+Samukhanaku vacci rayabharama.
 {% endcapture %}
 
 {{ data | markdownify }}

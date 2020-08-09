@@ -17,6 +17,7 @@ Quite inadequate.
 
 #### Romanization:
 Ākunu andadu, pōkanu pondadu.
+Akunu andadu, pokanu pondadu.
 {% endcapture %}
 
 {{ data | markdownify }}

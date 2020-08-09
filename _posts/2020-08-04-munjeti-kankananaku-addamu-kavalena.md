@@ -21,6 +21,7 @@ As clear as the sun.
 
 #### Romanization:
 Mun̄jēti kaṅkaṇānaku addamu kāvalenā.
+Munjeti kankananaku addamu kavalena.
 {% endcapture %}
 
 {{ data | markdownify }}

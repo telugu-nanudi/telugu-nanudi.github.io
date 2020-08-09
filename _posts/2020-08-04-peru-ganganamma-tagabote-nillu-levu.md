@@ -19,6 +19,7 @@ Where you think Here are flitches of bacon there are not even hooks to hang them
 
 #### Romanization:
 Pēru gaṅgānam'ma, tāgabōtē nīḷlu lēvu.
+Peru ganganam'ma, tagabote nillu levu.
 {% endcapture %}
 
 {{ data | markdownify }}

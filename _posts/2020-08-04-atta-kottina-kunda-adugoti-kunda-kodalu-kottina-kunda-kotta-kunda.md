@@ -17,6 +17,7 @@ The pot broken by the mother-in-law was a cracked pot, the pot broken by the dau
 
 #### Romanization:
 Atta koṭṭina kuṇḍa aḍugōṭi kuṇḍa, kōḍalu koṭṭina kuṇḍa kotta kuṇḍa.
+Atta kottina kunda adugoti kunda, kodalu kottina kunda kotta kunda.
 {% endcapture %}
 
 {{ data | markdownify }}

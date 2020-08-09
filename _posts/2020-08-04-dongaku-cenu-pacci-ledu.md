@@ -19,6 +19,7 @@ A man is not particular about that which does not belong to him.
 
 #### Romanization:
 Doṅgaku cēnu pacci lēdu.
+Dongaku cenu pacci ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

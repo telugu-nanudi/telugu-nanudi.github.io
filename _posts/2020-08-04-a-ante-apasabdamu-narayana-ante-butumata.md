@@ -19,6 +19,7 @@ Faults are thick where love is thin. (Welsh.)
 
 #### Romanization:
 A aṇṭē apaśabdamu, nārāyaṇā aṇṭē būtumāṭa.
+A ante apasabdamu, narayana ante butumata.
 {% endcapture %}
 
 {{ data | markdownify }}

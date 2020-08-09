@@ -17,6 +17,7 @@ Said by a beggar refused alms.
 
 #### Romanization:
 Ēlukōvaḍānaku vūḷlu lēvugāni, yettukoni tinaḍānaku vūḷlu lēvā.
+Elukovadanaku vullu levugani, yettukoni tinadanaku vullu leva.
 {% endcapture %}
 
 {{ data | markdownify }}

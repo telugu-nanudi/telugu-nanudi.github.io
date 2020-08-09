@@ -17,6 +17,7 @@ The Ramayana is [a tale of] adultery; the Bharata is obscene; the Bhagavata is a
 
 #### Romanization:
 Rāmāyaṇamu raṅku, bhāratamu baṇḍu, bhāgavatamu boṅku.
+Ramayanamu ranku, bharatamu bandu, bhagavatamu bonku.
 {% endcapture %}
 
 {{ data | markdownify }}

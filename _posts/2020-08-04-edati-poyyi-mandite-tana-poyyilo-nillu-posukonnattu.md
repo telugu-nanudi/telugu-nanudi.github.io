@@ -20,6 +20,7 @@ Envy is its own torturer. (Danish)[2]
 
 #### Romanization:
 Edaṭi poyyi maṇḍitē tana poyyilō nīḷlu pōsukonnaṭṭu.
+Edati poyyi mandite tana poyyilo nillu posukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

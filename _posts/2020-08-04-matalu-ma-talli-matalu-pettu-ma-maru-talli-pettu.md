@@ -19,6 +19,7 @@ Said of a step mother.
 
 #### Romanization:
 Māṭalu mā talli māṭalu, peṭṭu mā māru talli peṭṭu.
+Matalu ma talli matalu, pettu ma maru talli pettu.
 {% endcapture %}
 
 {{ data | markdownify }}

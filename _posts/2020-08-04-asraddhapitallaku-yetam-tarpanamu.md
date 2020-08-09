@@ -20,6 +20,7 @@ An unwilling action, done to satisfy others.
 
 #### Romanization:
 Aśrad'dhapitāḷlaku yētāṁ tarpaṇamu.
+Asrad'dhapitallaku yetam tarpanamu.
 {% endcapture %}
 
 {{ data | markdownify }}

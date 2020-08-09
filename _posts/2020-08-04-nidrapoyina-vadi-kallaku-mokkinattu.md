@@ -13,6 +13,7 @@ Like falling at the feet of a sleeping man.
 
 #### Romanization:
 Nidrapōyina vāḍi kāḷlaku mokkinaṭṭu.
+Nidrapoyina vadi kallaku mokkinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

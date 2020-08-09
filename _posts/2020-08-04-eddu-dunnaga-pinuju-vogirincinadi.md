@@ -20,6 +20,7 @@ What a dust have I raised! quoth the fly upon the coach.
 
 #### Romanization:
 Eddu dunnagā piṇuju vogirin̄cinadi.
+Eddu dunnaga pinuju vogirincinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

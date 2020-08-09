@@ -19,6 +19,7 @@ Atakali is an expensive preparation used for cleansing the head.
 
 #### Romanization:
 Tāgabōtē dappiki lēdu, talaku aṭakali.
+Tagabote dappiki ledu, talaku atakali.
 {% endcapture %}
 
 {{ data | markdownify }}

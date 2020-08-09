@@ -19,6 +19,7 @@ To celebrate the triumph before the victory. (Latin)[2]
 
 #### Romanization:
 Puṭṭani biḍḍaku pēru peṭṭutāḍu.
+Puttani biddaku peru pettutadu.
 {% endcapture %}
 
 {{ data | markdownify }}

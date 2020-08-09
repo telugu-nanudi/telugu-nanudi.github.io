@@ -19,6 +19,7 @@ A trifling hindrance put in a man's way will not divert him from his purpose.
 
 #### Romanization:
 Guṇḍrāyi dāstē, kūturi peṇḍli nilucunā.
+Gundrayi daste, kuturi pendli nilucuna.
 {% endcapture %}
 
 {{ data | markdownify }}

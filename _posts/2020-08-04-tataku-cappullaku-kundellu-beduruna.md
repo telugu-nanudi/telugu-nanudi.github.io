@@ -15,6 +15,7 @@ Will hares be frightened by the rustling of palmyra leaves ?
 
 #### Romanization:
 Tāṭāku cappuḷlaku kundēḷlu bedurunā.
+Tataku cappullaku kundellu beduruna.
 {% endcapture %}
 
 {{ data | markdownify }}

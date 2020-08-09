@@ -18,6 +18,7 @@ The cry of Dvarapudi robbers on a certain occasion when they had set fire to a v
 
 #### Romanization:
 Ciccāya ciccāya aṇṭē, sandāye sandāye annaṭṭu.
+Ciccaya ciccaya ante, sandaye sandaye annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

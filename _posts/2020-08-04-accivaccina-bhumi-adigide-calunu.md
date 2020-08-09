@@ -18,6 +18,7 @@ Luck is all.
 
 #### Romanization:
 Accivaccina bhūmi aḍigiḍē cālunu.
+Accivaccina bhumi adigide calunu.
 {% endcapture %}
 
 {{ data | markdownify }}

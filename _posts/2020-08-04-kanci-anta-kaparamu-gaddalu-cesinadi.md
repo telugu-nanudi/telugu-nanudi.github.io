@@ -19,6 +19,7 @@ Kanchi is the celebrated town of Conjeveram.
 
 #### Romanization:
 Kan̄ci anta kāparamu gaḍḍalu cēsinadi.
+Kanci anta kaparamu gaddalu cesinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

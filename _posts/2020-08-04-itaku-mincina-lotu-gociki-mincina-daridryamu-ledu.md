@@ -19,6 +19,7 @@ Reduced to the last extremity.
 
 #### Romanization:
 Ītaku min̄cina lōtū, gōciki min̄cina dāridryamū lēdu.
+Itaku mincina lotu, gociki mincina daridryamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

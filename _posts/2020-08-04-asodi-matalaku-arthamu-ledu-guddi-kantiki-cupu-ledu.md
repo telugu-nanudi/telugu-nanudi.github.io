@@ -16,6 +16,7 @@ There is no sense in words of condolence nor sight in a blind eye.
 
 #### Romanization:
 Āsōdi māṭalaku arthamū lēdu, guḍḍi kaṇṭiki cūpū lēdu.
+Asodi matalaku arthamu ledu, guddi kantiki cupu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

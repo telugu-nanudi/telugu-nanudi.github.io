@@ -15,6 +15,7 @@ The reality wanting.
 
 #### Romanization:
 Divve tīśina gūḍu vale vunnadi.
+Divve tisina gudu vale vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

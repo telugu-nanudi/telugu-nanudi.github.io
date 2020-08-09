@@ -16,6 +16,7 @@ Getting on the roof [of a thatched house] and whirling a firebrand.
 
 #### Romanization:
 Illekki korivi tippinaṭṭu.
+Illekki korivi tippinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

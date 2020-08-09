@@ -18,6 +18,7 @@ Being placed in a most difiicult position.
 
 #### Romanization:
 Kaṇṭhagata prāṇamugā vunnadi.
+Kanthagata pranamuga vunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

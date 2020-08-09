@@ -18,6 +18,7 @@ Said of an unprincipled sensualist.
 
 #### Romanization:
 Mādiga man̄cānaku kāḷlavaipū talavaipū vakkaṭē.
+Madiga mancanaku kallavaipu talavaipu vakkate.
 {% endcapture %}
 
 {{ data | markdownify }}

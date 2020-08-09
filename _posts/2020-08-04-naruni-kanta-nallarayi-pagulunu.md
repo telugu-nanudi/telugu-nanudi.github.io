@@ -17,6 +17,7 @@ By the look of a man's eye, granite will be broken.
 
 #### Romanization:
 Naruni kaṇṭa nallarāyi pagulunu.
+Naruni kanta nallarayi pagulunu.
 {% endcapture %}
 
 {{ data | markdownify }}

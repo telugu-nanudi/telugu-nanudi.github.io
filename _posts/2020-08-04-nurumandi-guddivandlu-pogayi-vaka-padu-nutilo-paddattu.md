@@ -15,6 +15,7 @@ An ignorant assemblage.
 
 #### Romanization:
 Nūrumandi guḍḍivāṇḍlu pōgayi vaka pāḍu nūtilō paḍḍaṭṭu.
+Nurumandi guddivandlu pogayi vaka padu nutilo paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

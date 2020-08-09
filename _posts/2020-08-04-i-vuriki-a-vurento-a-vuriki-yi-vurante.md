@@ -19,6 +19,7 @@ Six of one and half a dozen of the other.
 
 #### Romanization:
 Ī vūriki ā vūrentō, ā vūriki yī vūrantē.
+I vuriki a vurento, a vuriki yi vurante.
 {% endcapture %}
 
 {{ data | markdownify }}

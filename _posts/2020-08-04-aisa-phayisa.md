@@ -16,6 +16,7 @@ Either one way or the other.
 
 #### Romanization:
 Aisā phayisā.
+Aisa phayisa.
 {% endcapture %}
 
 {{ data | markdownify }}

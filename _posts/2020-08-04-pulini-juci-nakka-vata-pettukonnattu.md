@@ -16,6 +16,7 @@ Apeing one's superiors.
 
 #### Romanization:
 Pulini jūci nakka vāta peṭṭukonnaṭṭu.
+Pulini juci nakka vata pettukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

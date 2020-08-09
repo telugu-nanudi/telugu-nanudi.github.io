@@ -18,6 +18,7 @@ A daughter-in-law who swallows the age (Yuga) to a mother-in-law who swallows th
 
 #### Romanization:
 Illu miṅgē attagāriki yugamu miṅgē kōḍalu.
+Illu minge attagariki yugamu minge kodalu.
 {% endcapture %}
 
 {{ data | markdownify }}

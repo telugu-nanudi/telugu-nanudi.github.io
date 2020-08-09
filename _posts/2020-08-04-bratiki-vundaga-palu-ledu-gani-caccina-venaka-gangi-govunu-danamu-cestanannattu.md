@@ -17,6 +17,7 @@ While he lived no milk was given to him, but he was promised that a sacred cow w
 
 #### Romanization:
 Bratiki vuṇḍagā pālu lēdu gāni, caccina venaka gaṅgi gōvunu dānamu cēstānannaṭṭu.
+Bratiki vundaga palu ledu gani, caccina venaka gangi govunu danamu cestanannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

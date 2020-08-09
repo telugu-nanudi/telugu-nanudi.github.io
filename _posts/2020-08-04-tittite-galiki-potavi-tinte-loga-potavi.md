@@ -19,6 +19,7 @@ A mean sycophant.
 
 #### Romanization:
 Tiṭṭitē gāliki pōtavi, tiṇṭē lōgā pōtavi.
+Tittite galiki potavi, tinte loga potavi.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ Said by one of an unhappy pair.
 
 #### Romanization:
 Taginaṭṭē kūrcerā tākaṭlamāri brahma.
+Taginatte kurcera takatlamari brahma.
 {% endcapture %}
 
 {{ data | markdownify }}

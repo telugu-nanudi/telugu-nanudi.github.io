@@ -19,6 +19,7 @@ Teach your grandmother to suck eggs.
 
 #### Romanization:
 Gurrāniki guggiḷḷu tina nērpavalenā.
+Gurraniki guggillu tina nerpavalena.
 {% endcapture %}
 
 {{ data | markdownify }}

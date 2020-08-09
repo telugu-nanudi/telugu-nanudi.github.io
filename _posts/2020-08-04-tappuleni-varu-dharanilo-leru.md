@@ -20,6 +20,7 @@ Lifeless, faultless.
 
 #### Romanization:
 Tappulēni vāru dharaṇilō lēru.
+Tappuleni varu dharanilo leru.
 {% endcapture %}
 
 {{ data | markdownify }}

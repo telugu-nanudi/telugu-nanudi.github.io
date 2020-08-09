@@ -14,6 +14,7 @@ Past reformation.
 
 #### Romanization:
 Pāśina kūḍu padunuku vastunnadā.
+Pasina kudu padunuku vastunnada.
 {% endcapture %}
 
 {{ data | markdownify }}

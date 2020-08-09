@@ -17,6 +17,7 @@ If it rains, will brands disappear? If children be born, will adultery be discon
 
 #### Romanization:
 Vānalu kuristē vātalu mānunā, biḍḍalu kaṇṭē raṅkulu mānunā.
+Vanalu kuriste vatalu manuna, biddalu kante rankulu manuna.
 {% endcapture %}
 
 {{ data | markdownify }}

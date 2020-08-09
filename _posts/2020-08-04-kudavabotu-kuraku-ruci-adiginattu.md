@@ -18,6 +18,7 @@ Want of patience.
 
 #### Romanization:
 Kuḍavabōtū kūrāku ruci aḍiginaṭṭu.
+Kudavabotu kuraku ruci adiginattu.
 {% endcapture %}
 
 {{ data | markdownify }}

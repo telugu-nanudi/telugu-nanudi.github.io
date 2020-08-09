@@ -14,6 +14,7 @@ The beneficial union of different dispositions.
 
 #### Romanization:
 Vēṇnīḷlaku cannīḷlu, cannīḷlaku vēṇnīḷlu.
+Vennillaku cannillu, cannillaku vennillu.
 {% endcapture %}
 
 {{ data | markdownify }}

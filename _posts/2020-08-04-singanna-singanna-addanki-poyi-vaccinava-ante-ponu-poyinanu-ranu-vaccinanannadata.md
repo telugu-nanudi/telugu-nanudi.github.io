@@ -18,6 +18,7 @@ Singanna was a simpleton who having heard that he was to be sent on an errand to
 
 #### Romanization:
 Śiṅgannā śiṅgannā addaṅki pōyi vaccināvā aṇṭē, pōnū pōyinānu rānū vaccinānannāḍaṭa.
+Singanna singanna addanki poyi vaccinava ante, ponu poyinanu ranu vaccinanannadata.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -16,6 +16,7 @@ I trusted it and put it to soak, it became acid and began to
 
 #### Romanization:
 Nam'mi nānabōsitē, pulisi burraṭalāḍenu.
+Nam'mi nanabosite, pulisi burrataladenu.
 {% endcapture %}
 
 {{ data | markdownify }}

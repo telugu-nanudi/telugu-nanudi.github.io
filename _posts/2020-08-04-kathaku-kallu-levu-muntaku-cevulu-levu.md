@@ -19,6 +19,7 @@ A story without a head. (Greek)[1]
 
 #### Romanization:
 Kathaku kāḷlu lēvu muntaku cevulu lēvu.
+Kathaku kallu levu muntaku cevulu levu.
 {% endcapture %}
 
 {{ data | markdownify }}

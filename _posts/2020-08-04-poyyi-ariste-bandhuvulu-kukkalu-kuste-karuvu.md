@@ -19,6 +19,7 @@ Let us have florins and we shall find cousins. (Italian)[2]
 
 #### Romanization:
 Poyyi aristē bandhuvulu, kukkalu kūstē karuvu.
+Poyyi ariste bandhuvulu, kukkalu kuste karuvu.
 {% endcapture %}
 
 {{ data | markdownify }}

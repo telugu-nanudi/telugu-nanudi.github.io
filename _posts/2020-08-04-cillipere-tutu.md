@@ -17,6 +17,7 @@ Said of persons contradicting each other, though really driving at the same end.
 
 #### Romanization:
 Cillipērē tūṭu.
+Cillipere tutu.
 {% endcapture %}
 
 {{ data | markdownify }}

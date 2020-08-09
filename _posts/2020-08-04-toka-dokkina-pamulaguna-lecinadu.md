@@ -18,6 +18,7 @@ Applied to a sudden burst of anger in any one on his evil ways being exposed.
 
 #### Romanization:
 Tōka dokkina pāmulāguna lēcināḍu.
+Toka dokkina pamulaguna lecinadu.
 {% endcapture %}
 
 {{ data | markdownify }}

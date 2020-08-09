@@ -17,6 +17,7 @@ Look at the mother before you take the daughter; see how much milk the buffalo g
 
 #### Romanization:
 Tallini cūci pillanū pāḍini cūci barrenū tīsukōvalenu.
+Tallini cuci pillanu padini cuci barrenu tisukovalenu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ Vavi signifies those degrees of relationship within which cohabitation is incest
 
 #### Romanization:
 Vāḍavadinekēla vāvi vartanamulu.
+Vadavadinekela vavi vartanamulu.
 {% endcapture %}
 
 {{ data | markdownify }}

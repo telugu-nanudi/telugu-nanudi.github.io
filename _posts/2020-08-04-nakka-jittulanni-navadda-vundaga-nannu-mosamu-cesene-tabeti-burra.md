@@ -18,6 +18,7 @@ A man sat on the back of a tortoise not knowing what it was, and sank with it.
 
 #### Romanization:
 Nakka jittulannī nāvadda vuṇḍagā nannu mōsamu cēśenē tābēṭi burra.
+Nakka jittulanni navadda vundaga nannu mosamu cesene tabeti burra.
 {% endcapture %}
 
 {{ data | markdownify }}

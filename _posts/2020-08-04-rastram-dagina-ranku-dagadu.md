@@ -18,6 +18,7 @@ i. e. it were easier to conceal the whole realm.
 
 #### Romanization:
 Rāṣṭraṁ dāginā, raṅku dāgadu.
+Rastram dagina, ranku dagadu.
 {% endcapture %}
 
 {{ data | markdownify }}

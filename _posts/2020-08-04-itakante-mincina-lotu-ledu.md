@@ -21,6 +21,7 @@ It is all the same whether a man has both legs in the stocks or one. (German)[1]
 
 #### Romanization:
 Ītakaṇṭē min̄cina lōtu lēdu.
+Itakante mincina lotu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

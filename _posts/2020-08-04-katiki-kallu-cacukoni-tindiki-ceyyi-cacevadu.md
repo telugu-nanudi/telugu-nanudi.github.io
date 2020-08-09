@@ -18,6 +18,7 @@ Greedy to the last.
 
 #### Romanization:
 Kāṭiki kāḷlu cācukoni tiṇḍiki ceyyi cācēvāḍu.
+Katiki kallu cacukoni tindiki ceyyi cacevadu.
 {% endcapture %}
 
 {{ data | markdownify }}

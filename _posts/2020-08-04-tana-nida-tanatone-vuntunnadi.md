@@ -19,6 +19,7 @@ The fruits of a man's actions go with him whether good or evil.
 
 #### Romanization:
 Tana nīḍa tanatōnē vuṇṭunnadi.
+Tana nida tanatone vuntunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

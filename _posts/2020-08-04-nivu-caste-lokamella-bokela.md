@@ -17,6 +17,7 @@ If you were to die, would the whole earth be bones ?
 
 #### Romanization:
 Nīvu castē lōkamellā bōkelā.
+Nivu caste lokamella bokela.
 {% endcapture %}
 
 {{ data | markdownify }}

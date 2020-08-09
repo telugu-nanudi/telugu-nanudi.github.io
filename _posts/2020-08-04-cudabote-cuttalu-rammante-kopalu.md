@@ -16,6 +16,7 @@ If you visit them they are relatives, if you invite them to visit you they are a
 
 #### Romanization:
 Cūḍabōtē cuṭṭālu, ram'maṇṭē kōpālu.
+Cudabote cuttalu, ram'mante kopalu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ The best at eating, the worst at working.
 
 #### Romanization:
 Dunnabōtē dūḍalalōnū, mēyabōtē āvulalōnū.
+Dunnabote dudalalonu, meyabote avulalonu.
 {% endcapture %}
 
 {{ data | markdownify }}

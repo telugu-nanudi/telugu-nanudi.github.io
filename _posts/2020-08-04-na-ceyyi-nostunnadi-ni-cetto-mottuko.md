@@ -14,6 +14,7 @@ My hand is aching,
 
 #### Romanization:
 Nā ceyyi nostunnadi, nī cēttō mottukō.
+Na ceyyi nostunnadi, ni cetto mottuko.
 {% endcapture %}
 
 {{ data | markdownify }}

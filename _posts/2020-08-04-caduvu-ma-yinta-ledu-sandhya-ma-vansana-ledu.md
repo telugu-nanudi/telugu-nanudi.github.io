@@ -18,6 +18,7 @@ Said by an uneducated and irreligious Brahman.
 
 #### Romanization:
 Caduvu mā yiṇṭa lēdu, sandhya mā vanśāna lēdu.
+Caduvu ma yinta ledu, sandhya ma vansana ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

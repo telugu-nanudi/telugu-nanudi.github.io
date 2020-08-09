@@ -18,6 +18,7 @@ A growing youth has a wolf in his belly.
 
 #### Romanization:
 Biḍḍa yedigitē kuṇḍa yedugunu.
+Bidda yedigite kunda yedugunu.
 {% endcapture %}
 
 {{ data | markdownify }}

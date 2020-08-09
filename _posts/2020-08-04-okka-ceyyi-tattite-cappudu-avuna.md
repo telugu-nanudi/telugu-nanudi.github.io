@@ -21,6 +21,7 @@ Hand washes hand, and finger finger. (Greek)[2]
 
 #### Romanization:
 Okka ceyyi taṭṭitē, cappuḍu avunā.
+Okka ceyyi tattite, cappudu avuna.
 {% endcapture %}
 
 {{ data | markdownify }}

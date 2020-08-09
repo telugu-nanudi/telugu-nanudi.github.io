@@ -18,6 +18,7 @@ In Ujjayini ( Ougein) there lived a merchant called Diptimanta. He went to Ja'in
 
 #### Romanization:
 Nōṭivaṭṭaṁ gan̄ji peḍamūṭa.
+Notivattam ganji pedamuta.
 {% endcapture %}
 
 {{ data | markdownify }}

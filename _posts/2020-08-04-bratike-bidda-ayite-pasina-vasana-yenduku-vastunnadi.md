@@ -16,6 +16,7 @@ Said of a sure sign.
 
 #### Romanization:
 Bratikē biḍḍa ayitē, pāśina vāsana yenduku vastunnadi.
+Bratike bidda ayite, pasina vasana yenduku vastunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

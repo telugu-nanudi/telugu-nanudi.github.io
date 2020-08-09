@@ -18,6 +18,7 @@ Applied to ignorant persons in high position.
 
 #### Romanization:
 Ēṭivaddi nakka kāgānē pāṭirēvu yerugunā.
+Etivaddi nakka kagane patirevu yeruguna.
 {% endcapture %}
 
 {{ data | markdownify }}

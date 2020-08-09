@@ -19,6 +19,7 @@ Ashtakshari is a sacred formula used in the worship of Vishnu, composed, as the 
 
 #### Romanization:
 Ghaṇṭākarṇuniki aṣṭākṣarīvupadēśaṁ ceyyabōyinaṭṭu.
+Ghantakarnuniki astaksarivupadesam ceyyaboyinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

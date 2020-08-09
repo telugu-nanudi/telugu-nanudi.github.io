@@ -17,6 +17,7 @@ A pig-headed fellow [feels] no shame, the trunk of a tree [feels] no wind.
 
 #### Romanization:
 Moṇḍiki śiggū lēdu, moraḍuku gālī lēdu.
+Mondiki siggu ledu, moraduku gali ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

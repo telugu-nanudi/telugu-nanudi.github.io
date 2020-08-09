@@ -19,6 +19,7 @@ Said by a man to another in whose friendship he puts no faith.
 
 #### Romanization:
 Daya darrumaṇṭē netti currumaṇṭundi.
+Daya darrumante netti currumantundi.
 {% endcapture %}
 
 {{ data | markdownify }}

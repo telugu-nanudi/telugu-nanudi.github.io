@@ -17,6 +17,7 @@ The crime of a Dasari is excused with an apology.
 
 #### Romanization:
 Dāsari tappu daṇḍamutō sari.
+Dasari tappu dandamuto sari.
 {% endcapture %}
 
 {{ data | markdownify }}

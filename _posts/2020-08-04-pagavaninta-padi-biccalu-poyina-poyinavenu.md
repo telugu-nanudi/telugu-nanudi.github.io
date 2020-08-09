@@ -17,6 +17,7 @@ If alms are given ten times in an enemy's house, so much the better.
 
 #### Romanization:
 Pagavāniṇṭa padi biccālu pōyinā pōyinavēnu.
+Pagavaninta padi biccalu poyina poyinavenu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Bringing difficulties upon one's own head.
 
 #### Romanization:
 Taddinamu koni teccukonnaṭṭu.
+Taddinamu koni teccukonnattu.
 {% endcapture %}
 
 {{ data | markdownify }}

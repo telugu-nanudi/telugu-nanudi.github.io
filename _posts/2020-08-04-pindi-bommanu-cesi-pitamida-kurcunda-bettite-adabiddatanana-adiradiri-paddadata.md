@@ -18,6 +18,7 @@ A'qla Biajgia (literally "afemale child") is the familiar name for a husband's s
 
 #### Romanization:
 Piṇḍi bom'manu cēśi pīṭamīda kūrcuṇḍa beṭṭitē, āḍabiḍḍatanāna adiradiri paḍḍadaṭa.
+Pindi bom'manu cesi pitamida kurcunda bettite, adabiddatanana adiradiri paddadata.
 {% endcapture %}
 
 {{ data | markdownify }}

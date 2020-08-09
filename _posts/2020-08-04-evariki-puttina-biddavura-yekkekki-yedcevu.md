@@ -18,6 +18,7 @@ Whose child are you, that you cry and weep so bitterly?
 
 #### Romanization:
 Evariki puṭṭina biḍdavurā yekkekki yēḍcēvu.
+Evariki puttina biddavura yekkekki yedcevu.
 {% endcapture %}
 
 {{ data | markdownify }}

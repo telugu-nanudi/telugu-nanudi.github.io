@@ -18,6 +18,7 @@ if the work be well done, never mind the instrument.
 
 #### Romanization:
 Mānupilli ayinā, maṭṭi pilli ayinā, yelukanu paṭṭinadē pilli.
+Manupilli ayina, matti pilli ayina, yelukanu pattinade pilli.
 {% endcapture %}
 
 {{ data | markdownify }}

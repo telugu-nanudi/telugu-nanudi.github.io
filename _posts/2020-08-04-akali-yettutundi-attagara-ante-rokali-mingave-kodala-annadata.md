@@ -19,6 +19,7 @@ Rokali is a wooden pestle, five or six feet long, used for pounding rice.
 
 #### Romanization:
 Ākali yettutundi attagārā aṇṭē, rōkali miṅgavē kōḍalā annadaṭa.
+Akali yettutundi attagara ante, rokali mingave kodala annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

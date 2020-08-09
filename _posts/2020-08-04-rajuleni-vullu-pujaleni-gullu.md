@@ -13,6 +13,7 @@ Villages without a king, temples without worship.
 
 #### Romanization:
 Rājulēni vūḷlu, pūjalēni guḷlu.
+Rajuleni vullu, pujaleni gullu.
 {% endcapture %}
 
 {{ data | markdownify }}

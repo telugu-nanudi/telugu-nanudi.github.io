@@ -18,6 +18,7 @@ Real want is not dainty.
 
 #### Romanization:
 Vācinam'maku pāśinakūḍu peṭṭitē, mā atta paramānnamu peṭṭinadi ani yirugiṇṭa porugiṇṭa ceppinadaṭa.
+Vacinam'maku pasinakudu pettite, ma atta paramannamu pettinadi ani yiruginta poruginta ceppinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

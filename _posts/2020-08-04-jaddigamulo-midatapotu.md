@@ -14,6 +14,7 @@ Premature ruin.
 
 #### Romanization:
 Jaḍḍigamulō miḍatapōṭu.
+Jaddigamulo midatapotu.
 {% endcapture %}
 
 {{ data | markdownify }}

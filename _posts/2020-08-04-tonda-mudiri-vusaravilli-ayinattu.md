@@ -19,6 +19,7 @@ Vice growing with age.
 
 #### Romanization:
 Toṇḍa mudiri vūsaravilli ayinaṭṭu.
+Tonda mudiri vusaravilli ayinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

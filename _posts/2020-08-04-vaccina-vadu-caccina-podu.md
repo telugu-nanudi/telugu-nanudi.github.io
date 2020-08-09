@@ -20,6 +20,7 @@ Give a day an ill name, and you may a: well hung him.
 
 #### Romanization:
 Vaccina vādu caccinā pōdu.
+Vaccina vadu caccina podu.
 {% endcapture %}
 
 {{ data | markdownify }}

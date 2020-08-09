@@ -14,6 +14,7 @@ Two lazy fellows.
 
 #### Romanization:
 Teḍḍu yēdi aṇṭē, koyya yēdi annaṭṭu.
+Teddu yedi ante, koyya yedi annattu.
 {% endcapture %}
 
 {{ data | markdownify }}

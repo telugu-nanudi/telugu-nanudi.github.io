@@ -20,6 +20,7 @@ To lock the stable door when the steed is stolen.
 
 #### Romanization:
 Anniboṇḍāla nīḷlū nīvē tāgarā ayyallā.
+Annibondala nillu nive tagara ayyalla.
 {% endcapture %}
 
 {{ data | markdownify }}

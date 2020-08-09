@@ -19,6 +19,7 @@ Rome was not built in a day.
 
 #### Romanization:
 Ōristē ōrugallu paṭnamavutundi.
+Oriste orugallu patnamavutundi.
 {% endcapture %}
 
 {{ data | markdownify }}

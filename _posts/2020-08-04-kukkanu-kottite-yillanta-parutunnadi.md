@@ -15,6 +15,7 @@ If you beat the dog, it fouls the whole house.
 
 #### Romanization:
 Kukkanu koṭṭitē yillantā pārutunnadi.
+Kukkanu kottite yillanta parutunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

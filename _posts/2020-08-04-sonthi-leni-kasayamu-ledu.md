@@ -16,6 +16,7 @@ No flying without wings.
 
 #### Romanization:
 Śoṇṭhi lēni kaṣāyamu lēdu.
+Sonthi leni kasayamu ledu.
 {% endcapture %}
 
 {{ data | markdownify }}

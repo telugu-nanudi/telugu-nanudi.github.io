@@ -18,6 +18,7 @@ Will any one refuse to receive a benefit ?
 
 #### Romanization:
 Kōḍalu koḍukunu kaṇṭānaṇṭē, vaddanē attagāru unnadā.
+Kodalu kodukunu kantanante, vaddane attagaru unnada.
 {% endcapture %}
 
 {{ data | markdownify }}

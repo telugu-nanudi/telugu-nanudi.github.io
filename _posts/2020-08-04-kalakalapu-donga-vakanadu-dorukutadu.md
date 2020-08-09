@@ -17,6 +17,7 @@ The old ape is taken at last. (Latin)[1]
 
 #### Romanization:
 Kalakālapu doṅga vakanāḍu dorukutāḍu.
+Kalakalapu donga vakanadu dorukutadu.
 {% endcapture %}
 
 {{ data | markdownify }}

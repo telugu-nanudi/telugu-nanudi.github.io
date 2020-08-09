@@ -16,6 +16,7 @@ Like sugar dropped into milk.
 
 #### Romanization:
 Pālallō pan̄cadāra volikinaṭṭu.
+Palallo pancadara volikinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -19,6 +19,7 @@ Willingly doing what one can.
 
 #### Romanization:
 Uḍataku vuḍatā bhakti.
+Udataku vudata bhakti.
 {% endcapture %}
 
 {{ data | markdownify }}

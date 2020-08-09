@@ -15,6 +15,7 @@ A slip of the leg is the excuse of a lame donkey.
 
 #### Romanization:
 Kuṇṭi gāḍideku jārinadē sāku.
+Kunti gadideku jarinade saku.
 {% endcapture %}
 
 {{ data | markdownify }}

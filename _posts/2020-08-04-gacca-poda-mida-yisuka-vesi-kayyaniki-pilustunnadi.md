@@ -19,6 +19,7 @@ Done by a Xantippe who could get no one to quarrel with.
 
 #### Romanization:
 Gacca poda mīda yisuka vēsi kayyāniki pilustunnadi.
+Gacca poda mida yisuka vesi kayyaniki pilustunnadi.
 {% endcapture %}
 
 {{ data | markdownify }}

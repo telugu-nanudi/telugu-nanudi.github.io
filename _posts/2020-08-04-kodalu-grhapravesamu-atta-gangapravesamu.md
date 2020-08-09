@@ -19,6 +19,7 @@ Death at the tae door an' heirship at the tither. (Scotch.)
 
 #### Romanization:
 Kōḍalu gr̥hapravēśamu, atta gaṅgāpravēśamu.
+Kodalu grhapravesamu, atta gangapravesamu.
 {% endcapture %}
 
 {{ data | markdownify }}

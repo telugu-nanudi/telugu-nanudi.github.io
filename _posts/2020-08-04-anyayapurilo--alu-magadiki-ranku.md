@@ -15,6 +15,7 @@ In the " city of injustice," husband and wife even are accused of adultery.
 
 #### Romanization:
 An'yāyapurilō  ālū magaḍiki raṅku.
+An'yayapurilo  alu magadiki ranku.
 {% endcapture %}
 
 {{ data | markdownify }}

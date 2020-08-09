@@ -16,6 +16,7 @@ Hindus believe that their fate is mysteriously written by the Creator': hand in 
 
 #### Romanization:
 Nosaṭa vrāśina vrālu tappavu.
+Nosata vrasina vralu tappavu.
 {% endcapture %}
 
 {{ data | markdownify }}

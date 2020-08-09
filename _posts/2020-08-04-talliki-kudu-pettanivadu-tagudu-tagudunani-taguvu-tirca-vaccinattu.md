@@ -18,6 +18,7 @@ Shamefacedness.
 
 #### Romanization:
 Talliki kūḍu peṭṭanivāḍu tagudu tagudunani taguvu tīrca vaccinaṭṭu.
+Talliki kudu pettanivadu tagudu tagudunani taguvu tirca vaccinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

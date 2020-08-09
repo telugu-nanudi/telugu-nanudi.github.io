@@ -13,6 +13,7 @@ Alli asked for it, Illi gave it, Malli made away with it.
 
 #### Romanization:
 Alli aḍiginadi, yilli yiccinadi, malli māyamu cēśinadi.
+Alli adiginadi, yilli yiccinadi, malli mayamu cesinadi.
 {% endcapture %}
 
 {{ data | markdownify }}

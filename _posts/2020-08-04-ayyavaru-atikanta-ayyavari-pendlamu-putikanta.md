@@ -18,6 +18,7 @@ Spoken of things which do not match.
 
 #### Romanization:
 Ayyavāru aṭikanta, ayyavāri peṇḍlāmu puṭikanta.
+Ayyavaru atikanta, ayyavari pendlamu putikanta.
 {% endcapture %}
 
 {{ data | markdownify }}

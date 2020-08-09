@@ -14,6 +14,7 @@ A misfortune caused by a. strange coincidence.
 
 #### Romanization:
 Mūligē nakka mīda tāṭikāya paḍḍaṭṭu.
+Mulige nakka mida tatikaya paddattu.
 {% endcapture %}
 
 {{ data | markdownify }}

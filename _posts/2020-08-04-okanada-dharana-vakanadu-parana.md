@@ -21,6 +21,7 @@ To-day a king, to-morrow nothing. (French)[1]
 
 #### Romanization:
 Okanāḍa dhāraṇa, vakanāḍu pāraṇa
+Okanada dharana, vakanadu parana
 {% endcapture %}
 
 {{ data | markdownify }}

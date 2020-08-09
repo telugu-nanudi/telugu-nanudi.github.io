@@ -21,6 +21,7 @@ He that is ashamed lo eat is ashamed to live. (French.)[1]
 
 #### Romanization:
 Intamandi doralu cāvakapōtē, nēnu mātramu castānā, nākū akkaralēdu annāḍaṭa.
+Intamandi doralu cavakapote, nenu matramu castana, naku akkaraledu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

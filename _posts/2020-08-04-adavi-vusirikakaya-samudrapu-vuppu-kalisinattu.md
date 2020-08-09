@@ -19,6 +19,7 @@ Used with reference to an advantage gained by an unlocked for coincidence.
 
 #### Romanization:
 Aḍavi vuśirikakāya, samudrapu vuppu kaliśinaṭṭu.
+Adavi vusirikakaya, samudrapu vuppu kalisinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

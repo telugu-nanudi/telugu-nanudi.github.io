@@ -16,6 +16,7 @@ Though he is old he is still a fop.
 
 #### Romanization:
 Vayasu tappinā vayāramu tappalēdu.
+Vayasu tappina vayaramu tappaledu.
 {% endcapture %}
 
 {{ data | markdownify }}

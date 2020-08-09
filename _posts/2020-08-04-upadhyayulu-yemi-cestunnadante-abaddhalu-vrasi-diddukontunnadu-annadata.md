@@ -16,6 +16,7 @@ A bad workman.
 
 #### Romanization:
 Upādhyāyulu yēmi cēstunnāḍaṇṭē, abad'dhālu vrāsi diddukoṇṭunnāḍu annāḍaṭa.
+Upadhyayulu yemi cestunnadante, abad'dhalu vrasi diddukontunnadu annadata.
 {% endcapture %}
 
 {{ data | markdownify }}

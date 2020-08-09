@@ -19,6 +19,7 @@ To draw the snake out of the hole with another's hand. (Spanish)[4]
 
 #### Romanization:
 Tana ceyyi kālutundani saviti biḍḍa cētitō kaliyapeṭṭinadaṭa.
+Tana ceyyi kalutundani saviti bidda cetito kaliyapettinadata.
 {% endcapture %}
 
 {{ data | markdownify }}

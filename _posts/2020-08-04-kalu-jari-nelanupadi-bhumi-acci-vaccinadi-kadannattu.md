@@ -18,6 +18,7 @@ Attributing events to a wrong cause.
 
 #### Romanization:
 Kālu jāri nēlanupaḍi bhūmi acci vaccinadi kādannaṭṭu.
+Kalu jari nelanupadi bhumi acci vaccinadi kadannattu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -14,6 +14,7 @@ Saturn prevented the [eating of] food got by begging.
 
 #### Romanization:
 Biccapu kūṭiki śanēśvaramaḍḍagin̄cinaṭṭu.
+Biccapu kutiki sanesvaramaddagincinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

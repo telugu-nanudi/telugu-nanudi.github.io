@@ -15,6 +15,7 @@ A lady who can't walk must have carriages on all sides.
 
 #### Romanization:
 Naḍavalēni am'maku nālugu pakkalā savāri.
+Nadavaleni am'maku nalugu pakkala savari.
 {% endcapture %}
 
 {{ data | markdownify }}

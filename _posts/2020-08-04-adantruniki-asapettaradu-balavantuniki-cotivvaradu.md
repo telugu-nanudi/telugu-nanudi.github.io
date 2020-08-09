@@ -13,6 +13,7 @@ You should not encourage vain hopes in a helpless dependant, nor give place to a
 
 #### Romanization:
 Adantruniki āśapeṭṭarādu, balavantuniki cōṭivvarādu.
+Adantruniki asapettaradu, balavantuniki cotivvaradu.
 {% endcapture %}
 
 {{ data | markdownify }}

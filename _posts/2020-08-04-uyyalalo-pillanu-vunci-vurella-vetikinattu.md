@@ -18,6 +18,7 @@ He looks for his ass and sits on its back. (French.)[2]
 
 #### Romanization:
 Uyyālalō pillanu vun̄ci vūrellā vetikinaṭṭu.
+Uyyalalo pillanu vunci vurella vetikinattu.
 {% endcapture %}
 
 {{ data | markdownify }}

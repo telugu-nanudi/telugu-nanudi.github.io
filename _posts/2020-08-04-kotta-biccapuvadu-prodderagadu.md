@@ -15,6 +15,7 @@ A new beggar knows not the time [to ask for alms]
 
 #### Romanization:
 Kotta biccapuvāḍu prodderagaḍu.
+Kotta biccapuvadu prodderagadu.
 {% endcapture %}
 
 {{ data | markdownify }}

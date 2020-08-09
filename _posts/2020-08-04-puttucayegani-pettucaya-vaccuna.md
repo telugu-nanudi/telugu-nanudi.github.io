@@ -14,6 +14,7 @@ False pretensions.
 
 #### Romanization:
 Puṭṭucāyēgāni peṭṭucāya vaccunā.
+Puttucayegani pettucaya vaccuna.
 {% endcapture %}
 
 {{ data | markdownify }}

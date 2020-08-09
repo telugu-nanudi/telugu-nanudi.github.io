@@ -19,6 +19,7 @@ Applied to any thing which can easily be tested by actual observation.
 
 #### Romanization:
 Ī kaṇṭiki yī reppalu dūramā.
+I kantiki yi reppalu durama.
 {% endcapture %}
 
 {{ data | markdownify }}

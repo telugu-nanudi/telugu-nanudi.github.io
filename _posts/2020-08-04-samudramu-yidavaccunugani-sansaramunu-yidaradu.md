@@ -14,6 +14,7 @@ You may swim over the sea, but not over family [annoyances].
 
 #### Romanization:
 Samudramu yīdavaccunugāni, sansāramunu yīdarādu.
+Samudramu yidavaccunugani, sansaramunu yidaradu.
 {% endcapture %}
 
 {{ data | markdownify }}

@@ -18,6 +18,7 @@ A cowardly mob.
 
 #### Romanization:
 Tombhai tom'maṇḍruguru pōgayi tōlu ciraga poḍicināru.
+Tombhai tom'mandruguru pogayi tolu ciraga podicinaru.
 {% endcapture %}
 
 {{ data | markdownify }}

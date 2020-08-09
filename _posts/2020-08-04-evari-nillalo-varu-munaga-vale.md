@@ -19,6 +19,7 @@ Every one bears his cross. (French)[1]
 
 #### Romanization:
 Evari nīḷlalō vāru muṇaga vale.
+Evari nillalo varu munaga vale.
 {% endcapture %}
 
 {{ data | markdownify }}

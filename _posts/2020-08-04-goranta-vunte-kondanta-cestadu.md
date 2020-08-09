@@ -18,6 +18,7 @@ To make a mountain of a mole-hill.
 
 #### Romanization:
 Gōranta vuṇṭē, koṇḍanta cēstāḍu.
+Goranta vunte, kondanta cestadu.
 {% endcapture %}
 
 {{ data | markdownify }}

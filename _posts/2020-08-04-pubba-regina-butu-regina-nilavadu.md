@@ -20,6 +20,7 @@ If the first of July it be rainy weather,
 
 #### Romanization:
 Pubba rēginā būtu rēginā nilavadu.
+Pubba regina butu regina nilavadu.
 {% endcapture %}
 
 {{ data | markdownify }}
