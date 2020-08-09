@@ -1,0 +1,23 @@
+---
+title: శంఖములో పోస్తేగాని, తీర్థము కాదు.
+tags:
+  - "water"
+  - "unless"
+  - "shell"
+  - "poured"
+  - "holy"
+---
+
+{% capture data %}
+#### Meaning in English:
+The water is not holy, unless it be poured into the shell.
+
+#### Meaning in Telugu:
+శంఖములో పోస్తేగాని, తీర్థము కాదు.
+
+#### Romanization:
+Śaṅkhamulō pōstēgāni, tīrthamu kādu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

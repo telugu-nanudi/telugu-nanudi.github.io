@@ -1,0 +1,22 @@
+---
+title: నంది అంటే నంది, పంది అంటే పంది.
+tags:
+  - "shiva"
+  - "says"
+  - "isiva"
+  - "bull"
+---
+
+{% capture data %}
+#### Meaning in English:
+If he says it's ISiva's bull, it is Shiva's bull; if he says it's a
+
+#### Meaning in Telugu:
+నంది అంటే నంది, పంది అంటే పంది.
+
+#### Romanization:
+Nandi aṇṭē nandi, pandi aṇṭē pandi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

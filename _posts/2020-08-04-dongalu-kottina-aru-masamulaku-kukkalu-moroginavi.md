@@ -1,0 +1,19 @@
+---
+title: దొంగలు కొట్టిన ఆరు మాసములకు కుక్కలు మొరొగినవి.
+tags:
+  - "robbery"
+---
+
+{% capture data %}
+#### Meaning in English:
+The dogs barked six months after the robbery.
+
+#### Meaning in Telugu:
+దొంగలు కొట్టిన ఆరు మాసములకు కుక్కలు మొరొగినవి.
+
+#### Romanization:
+Doṅgalu koṭṭina āru māsamulaku kukkalu moroginavi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

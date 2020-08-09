@@ -1,0 +1,23 @@
+---
+title: గురువును మించిన శిష్యుడు.
+tags:
+  - "see"
+  - "said"
+  - "guru"
+---
+
+{% capture data %}
+#### Meaning in English:
+A disciple greater than his Guru.
+(See No.783.)
+Said of an insolent fellow.
+
+#### Meaning in Telugu:
+గురువును మించిన శిష్యుడు.
+
+#### Romanization:
+Guruvunu min̄cina śiṣyuḍu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,24 @@
+---
+title: స్వాతికొంగలమీదికి సాళువ పోయినట్టు.
+tags:
+  - "svatikonga"
+  - "svati"
+  - "saluva"
+  - "like"
+  - "kind"
+---
+
+{% capture data %}
+#### Meaning in English:
+Like a hawk attacking a flock of cranes.
+Svatikonga is a kind of crane which emigrates in Svati, the 15th lunar mansion. Saluva is a hawk used in hunting.
+
+#### Meaning in Telugu:
+స్వాతికొంగలమీదికి సాళువ పోయినట్టు.
+
+#### Romanization:
+Svātikoṅgalamīdiki sāḷuva pōyinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

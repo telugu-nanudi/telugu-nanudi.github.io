@@ -1,0 +1,25 @@
+---
+title: పొత్తుల మగడు పుచ్చి చచ్చెను.
+tags:
+  - "see"
+  - "neglected"
+  - "joint"
+  - "husband"
+  - "died"
+---
+
+{% capture data %}
+#### Meaning in English:
+The joint-husband was neglected and died.
+(See No. 381.)
+The ass that is common property is always the worst saddled. (French)[1]
+
+#### Meaning in Telugu:
+పొత్తుల మగడు పుచ్చి చచ్చెను.
+
+#### Romanization:
+Pottula magaḍu pucci caccenu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

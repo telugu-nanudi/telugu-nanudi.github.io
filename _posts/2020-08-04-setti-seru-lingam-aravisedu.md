@@ -1,0 +1,24 @@
+---
+title: శెట్టి శేరు, లింగం అరవీశెడు.
+tags:
+  - "weighs"
+  - "setti"
+  - "seer"
+  - "half"
+  - "117"
+---
+
+{% capture data %}
+#### Meaning in English:
+The 'Setti [weighs] a seer and his lingam two and a half.
+(See Nos. 117, 2074.)
+
+#### Meaning in Telugu:
+శెట్టి శేరు, లింగం అరవీశెడు.
+
+#### Romanization:
+Śeṭṭi śēru, liṅgaṁ aravīśeḍu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

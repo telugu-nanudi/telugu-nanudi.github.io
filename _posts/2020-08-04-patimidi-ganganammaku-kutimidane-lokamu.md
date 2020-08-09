@@ -1,0 +1,23 @@
+---
+title: పాటిమీది గంగానమ్మకు కూటిమీదనే లోకము.
+tags:
+  - "thinks"
+  - "presides"
+  - "nothing"
+  - "eating"
+---
+
+{% capture data %}
+#### Meaning in English:
+The goddess Ganganamma who presides over the burial ground, thinks of nothing but eating [the corpses].
+Entirely given to the selfish pursuit of one object.
+
+#### Meaning in Telugu:
+పాటిమీది గంగానమ్మకు కూటిమీదనే లోకము.
+
+#### Romanization:
+Pāṭimīdi gaṅgānam'maku kūṭimīdanē lōkamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

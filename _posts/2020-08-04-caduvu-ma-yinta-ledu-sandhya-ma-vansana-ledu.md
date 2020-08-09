@@ -1,0 +1,24 @@
+---
+title: చదువు మా యింట లేదు, సంధ్య మా వంశాన లేదు.
+tags:
+  - "uneducated"
+  - "sandhya"
+  - "said"
+  - "performance"
+  - "learning"
+---
+
+{% capture data %}
+#### Meaning in English:
+There is no learning in my house, nor performance of Sandhya in my family.
+Said by an uneducated and irreligious Brahman.
+
+#### Meaning in Telugu:
+చదువు మా యింట లేదు, సంధ్య మా వంశాన లేదు.
+
+#### Romanization:
+Caduvu mā yiṇṭa lēdu, sandhya mā vanśāna lēdu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

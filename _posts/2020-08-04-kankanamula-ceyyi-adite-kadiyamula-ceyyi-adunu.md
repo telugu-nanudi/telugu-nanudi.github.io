@@ -1,0 +1,25 @@
+---
+title: కంకణముల చెయ్యి ఆడితే, కడియముల చెయ్యి ఆడును.
+tags:
+  - "worn"
+  - "women"
+  - "men"
+  - "konkanamulu"
+  - "kadiyamulu"
+---
+
+{% capture data %}
+#### Meaning in English:
+If the hand with Kankanamulu moves, the hand with Kadiyamulu moves also.
+Konkanamulu are bracelets worn by women. Kadiyamulu are those worn by men.
+Where woman leads man follows.
+
+#### Meaning in Telugu:
+కంకణముల చెయ్యి ఆడితే, కడియముల చెయ్యి ఆడును.
+
+#### Romanization:
+Kaṅkaṇamula ceyyi āḍitē, kaḍiyamula ceyyi āḍunu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,24 @@
+---
+title: అత్తచేశిన పనులకు ఆరళ్లు లేవు.
+tags:
+  - "see"
+  - "one"
+  - "mother"
+  - "law"
+  - "blame"
+---
+
+{% capture data %}
+#### Meaning in English:
+There is no one to blame the mother-in-law.
+(See No. 48.)
+
+#### Meaning in Telugu:
+అత్తచేశిన పనులకు ఆరళ్లు లేవు.
+
+#### Romanization:
+Attacēśina panulaku āraḷlu lēvu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

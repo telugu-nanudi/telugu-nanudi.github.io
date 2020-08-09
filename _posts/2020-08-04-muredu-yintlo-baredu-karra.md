@@ -1,0 +1,21 @@
+---
+title: మూరెడు యింట్లో బారెడు కర్ర.
+tags:
+  - "threat"
+  - "answer"
+---
+
+{% capture data %}
+#### Meaning in English:
+A stick two yards long in a room one cubit square.
+A defiant speech in answer to a threat.
+
+#### Meaning in Telugu:
+మూరెడు యింట్లో బారెడు కర్ర.
+
+#### Romanization:
+Mūreḍu yiṇṭlō bāreḍu karra.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,23 @@
+---
+title: లోవి ముయ్యగలరుగాని, లోకము ముయ్యగలరా.
+tags:
+  - "world"
+  - "pot"
+  - "mouth"
+  - "cover"
+---
+
+{% capture data %}
+#### Meaning in English:
+You may cover the mouth of a pot but can you cover up the world?
+You may shut one man's mouth, but you cannot shut the mouth of the world.
+
+#### Meaning in Telugu:
+లోవి ముయ్యగలరుగాని, లోకము ముయ్యగలరా.
+
+#### Romanization:
+Lōvi muyyagalarugāni, lōkamu muyyagalarā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

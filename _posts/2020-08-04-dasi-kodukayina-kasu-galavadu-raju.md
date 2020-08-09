@@ -1,0 +1,21 @@
+---
+title: దాసీ కొడుకయినా కాసు గలవాడు రాజు.
+tags:
+  - "son"
+  - "money"
+  - "man"
+---
+
+{% capture data %}
+#### Meaning in English:
+A man with money is a king though he be the son of a slave girl.
+
+#### Meaning in Telugu:
+దాసీ కొడుకయినా కాసు గలవాడు రాజు.
+
+#### Romanization:
+Dāsī koḍukayinā kāsu galavāḍu rāju.
+{% endcapture %}
+
+{{ data | markdownify }}
+

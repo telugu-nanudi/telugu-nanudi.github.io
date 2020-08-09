@@ -1,0 +1,22 @@
+---
+title: జ్ఞాతిగుర్రు అరిటికర్రు వదలవు.
+tags:
+  - "stain"
+  - "plantain"
+  - "never"
+  - "grumbling"
+---
+
+{% capture data %}
+#### Meaning in English:
+The stain of plantain [can never be effaced], the grumbling of cousins never ceases.
+
+#### Meaning in Telugu:
+జ్ఞాతిగుర్రు అరిటికర్రు వదలవు.
+
+#### Romanization:
+Jñātigurru ariṭikarru vadalavu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

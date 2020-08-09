@@ -1,0 +1,25 @@
+---
+title: తురకలు గొట్టగా చుక్కకెదురా.
+tags:
+  - "times"
+  - "one"
+  - "necessity"
+  - "law"
+  - "expected"
+---
+
+{% capture data %}
+#### Meaning in English:
+When a Mussulman raid is expected is one [afraid of] facing Venus ?
+Are omens observed in times of danger ?
+Necessity has no law. (Latin)[1]
+
+#### Meaning in Telugu:
+తురకలు గొట్టగా చుక్కకెదురా.
+
+#### Romanization:
+Turakalu goṭṭagā cukkakedurā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

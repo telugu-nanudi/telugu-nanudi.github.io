@@ -1,0 +1,22 @@
+---
+title: నెల తక్కువ అయినా రాజు యింట పుట్టుమన్నట్టు.
+tags:
+  - "king"
+  - "house"
+  - "child"
+  - "born"
+---
+
+{% capture data %}
+#### Meaning in English:
+Never mind though you be a seven months' child, be born in a king's house.
+
+#### Meaning in Telugu:
+నెల తక్కువ అయినా రాజు యింట పుట్టుమన్నట్టు.
+
+#### Romanization:
+Nela takkuva ayinā rāju yiṇṭa puṭṭumannaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

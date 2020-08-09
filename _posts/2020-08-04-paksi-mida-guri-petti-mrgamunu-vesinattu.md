@@ -1,0 +1,24 @@
+---
+title: పక్షి మీద గురి పెట్టి మృగమును వేశినట్టు.
+tags:
+  - "shot"
+  - "pigeon"
+  - "killed"
+  - "fired"
+  - "deer"
+---
+
+{% capture data %}
+#### Meaning in English:
+He aimed at the bird and shot the deer.
+He fired at the pigeon and he killed the crow.
+
+#### Meaning in Telugu:
+పక్షి మీద గురి పెట్టి మృగమును వేశినట్టు.
+
+#### Romanization:
+Pakṣi mīda guri peṭṭi mr̥gamunu vēśinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

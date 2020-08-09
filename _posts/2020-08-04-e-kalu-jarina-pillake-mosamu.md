@@ -1,0 +1,23 @@
+---
+title: ఏ కాలు జారినా, పిల్లకే మోసము.
+tags:
+  - "see"
+  - "danger"
+  - "child"
+  - "129"
+---
+
+{% capture data %}
+#### Meaning in English:
+Whichever leg slips there is danger to the child.
+(See No. 129)
+
+#### Meaning in Telugu:
+ఏ కాలు జారినా, పిల్లకే మోసము.
+
+#### Romanization:
+Ē kālu jārinā, pillakē mōsamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,24 @@
+---
+title: దాసరివా జంగమవా అంటే, ముందరి వూరికొద్దీ అన్నాడట.
+tags:
+  - "vishnu"
+  - "siva"
+  - "replied"
+  - "oh"
+  - "mendicant"
+---
+
+{% capture data %}
+#### Meaning in English:
+When a mendicant was asked whether he was a Dasari or a Jangam (i. e. a follower of Vishnu or Siva) he replied "Oh that depends on the next village!"
+A time server.
+
+#### Meaning in Telugu:
+దాసరివా జంగమవా అంటే, ముందరి వూరికొద్దీ అన్నాడట.
+
+#### Romanization:
+Dāsarivā jaṅgamavā aṇṭē, mundari vūrikoddī annāḍaṭa.
+{% endcapture %}
+
+{{ data | markdownify }}
+

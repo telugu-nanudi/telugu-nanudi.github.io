@@ -1,0 +1,24 @@
+---
+title: ఆకుపోయి నూతపడితే, వెతకపోయి యేడుగురు పడ్డారట.
+tags:
+  - "worth"
+  - "well"
+  - "search"
+  - "gain"
+  - "fell"
+---
+
+{% capture data %}
+#### Meaning in English:
+When the leaf went and fell into the well, seven men went in search and fell in after it.
+The gain is not worth the candle.(French)[1]
+
+#### Meaning in Telugu:
+ఆకుపోయి నూతపడితే, వెతకపోయి యేడుగురు పడ్డారట.
+
+#### Romanization:
+Ākupōyi nūtapaḍitē, vetakapōyi yēḍuguru paḍḍāraṭa.
+{% endcapture %}
+
+{{ data | markdownify }}
+

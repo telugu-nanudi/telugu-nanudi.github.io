@@ -1,0 +1,23 @@
+---
+title: కొబ్బరి చెట్టు యెందుకు యెక్కుతావురా అంటే, దూడ గడ్డికోసరము యెక్కుతానన్నట్టు.
+tags:
+  - "like"
+  - "getting"
+  - "calf"
+  - "asked"
+---
+
+{% capture data %}
+#### Meaning in English:
+Like a man saying, when asked why he was getting up the cocoanut tree, that he wanted grass for his calf.
+An absurd reason.
+
+#### Meaning in Telugu:
+కొబ్బరి చెట్టు యెందుకు యెక్కుతావురా అంటే, దూడ గడ్డికోసరము యెక్కుతానన్నట్టు.
+
+#### Romanization:
+Kobbari ceṭṭu yenduku yekkutāvurā aṇṭē, dūḍa gaḍḍikōsaramu yekkutānannaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

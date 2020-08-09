@@ -1,0 +1,23 @@
+---
+title: మూడు నెలలు సాముచేశి, మూలనున్న ముసలిదాన్ని పొడిచినాడు.
+tags:
+  - "thrust"
+  - "learning"
+  - "corner"
+  - "advantage"
+---
+
+{% capture data %}
+#### Meaning in English:
+After practising fencing for three months he thrust through the old woman in the corner.
+Learning to no advantage.
+
+#### Meaning in Telugu:
+మూడు నెలలు సాముచేశి, మూలనున్న ముసలిదాన్ని పొడిచినాడు.
+
+#### Romanization:
+Mūḍu nelalu sāmucēśi, mūlanunna musalidānni poḍicināḍu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,25 @@
+---
+title: ఓర్చలేనమ్మ వడిని నిప్పులు కట్టుకొంటే, వడీ దడీ కూడా కాలినది.
+tags:
+  - "waist"
+  - "ruin"
+  - "envy"
+  - "clothes"
+  - "burnt"
+---
+
+{% capture data %}
+#### Meaning in English:
+When the envious woman put fire in her waist, her clothes were burnt and the mat screen also.
+(See Nos. 63,386,1562. )
+Causing one's own ruin through envy.
+
+#### Meaning in Telugu:
+ఓర్చలేనమ్మ వడిని నిప్పులు కట్టుకొంటే, వడీ దడీ కూడా కాలినది.
+
+#### Romanization:
+Ōrcalēnam'ma vaḍini nippulu kaṭṭukoṇṭē, vaḍī daḍī kūḍā kālinadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,24 @@
+---
+title: ఎద్దు పుండు కాకికి ముద్దా.
+tags:
+  - "sympathy"
+  - "said"
+  - "others"
+  - "crow"
+  - "bullock"
+---
+
+{% capture data %}
+#### Meaning in English:
+Is the bullock's sore tender to the crow?
+Said of one devoid of sympathy for others.
+
+#### Meaning in Telugu:
+ఎద్దు పుండు కాకికి ముద్దా.
+
+#### Romanization:
+Eddu puṇḍu kākiki muddā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

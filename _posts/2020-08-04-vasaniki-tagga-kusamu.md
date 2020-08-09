@@ -1,0 +1,25 @@
+---
+title: వాసానికి తగ్గ కూసము.
+tags:
+  - "rafter"
+  - "peg"
+  - "725"
+  - "1698"
+  - "1648"
+---
+
+{% capture data %}
+#### Meaning in English:
+A peg for the rafter.
+(See Nos. 725, 1231, 1648, 1698, 1845.)
+A well matched pair.
+
+#### Meaning in Telugu:
+వాసానికి తగ్గ కూసము.
+
+#### Romanization:
+Vāsāniki tagga kūsamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

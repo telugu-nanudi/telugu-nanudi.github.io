@@ -1,0 +1,23 @@
+---
+title: పెట్టి పొయ్యనమ్మ కొట్టి పొమ్మన్నదట.
+tags:
+  - "said"
+  - "drink"
+  - "beggar"
+  - "beat"
+---
+
+{% capture data %}
+#### Meaning in English:
+She that gave neither food nor drink, beat [me] and said "be off"
+Said by a beggar.
+
+#### Meaning in Telugu:
+పెట్టి పొయ్యనమ్మ కొట్టి పొమ్మన్నదట.
+
+#### Romanization:
+Peṭṭi poyyanam'ma koṭṭi pom'mannadaṭa.
+{% endcapture %}
+
+{{ data | markdownify }}
+

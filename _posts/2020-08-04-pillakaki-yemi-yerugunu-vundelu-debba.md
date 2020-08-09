@@ -1,0 +1,22 @@
+---
+title: పిల్లకాకి యేమి యెరుగును వుండేలు దెబ్బ.
+tags:
+  - "pellet"
+  - "inexperience"
+  - "blow"
+---
+
+{% capture data %}
+#### Meaning in English:
+What does a young crow know about the blow of a pellet ?
+Inexperience.
+
+#### Meaning in Telugu:
+పిల్లకాకి యేమి యెరుగును వుండేలు దెబ్బ.
+
+#### Romanization:
+Pillakāki yēmi yerugunu vuṇḍēlu debba.
+{% endcapture %}
+
+{{ data | markdownify }}
+

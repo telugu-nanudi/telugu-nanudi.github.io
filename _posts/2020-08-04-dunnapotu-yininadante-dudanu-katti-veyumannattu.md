@@ -1,0 +1,24 @@
+---
+title: దున్నపోతు యీనినదంటే, దూడను కట్టి వేయుమన్నట్టు.
+tags:
+  - "tie"
+  - "see"
+  - "replied"
+  - "calved"
+  - "390"
+---
+
+{% capture data %}
+#### Meaning in English:
+When one said "The male buffalo has calved" the other replied "Then tie up the calf."
+(See No. 390)
+
+#### Meaning in Telugu:
+దున్నపోతు యీనినదంటే, దూడను కట్టి వేయుమన్నట్టు.
+
+#### Romanization:
+Dunnapōtu yīninadaṇṭē, dūḍanu kaṭṭi vēyumannaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

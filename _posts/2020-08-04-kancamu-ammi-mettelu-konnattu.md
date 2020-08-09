@@ -1,0 +1,24 @@
+---
+title: కంచము అమ్మి మెట్టెలు కొన్నట్టు.
+tags:
+  - "selling"
+  - "rings"
+  - "hen"
+  - "given"
+  - "egg"
+---
+
+{% capture data %}
+#### Meaning in English:
+Selling the dish and buying toe-rings.
+He has given the hen for the egg. (German)[1]
+
+#### Meaning in Telugu:
+కంచము అమ్మి మెట్టెలు కొన్నట్టు.
+
+#### Romanization:
+Kan̄camu am'mi meṭṭelu konnaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

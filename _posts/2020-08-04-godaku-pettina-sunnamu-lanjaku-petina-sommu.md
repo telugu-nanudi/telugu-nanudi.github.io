@@ -1,0 +1,22 @@
+---
+title: గోడకు పెట్టిన సున్నమూ, లంజకు పెటిన సొమ్మూ.
+tags:
+  - "wall"
+  - "return"
+  - "harlot"
+---
+
+{% capture data %}
+#### Meaning in English:
+Lime put on a wall, money given to a harlot.
+No return.
+
+#### Meaning in Telugu:
+గోడకు పెట్టిన సున్నమూ, లంజకు పెటిన సొమ్మూ.
+
+#### Romanization:
+Gōḍaku peṭṭina sunnamū, lan̄jaku peṭina som'mū.
+{% endcapture %}
+
+{{ data | markdownify }}
+

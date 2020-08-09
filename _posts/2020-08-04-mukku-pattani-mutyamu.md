@@ -1,0 +1,24 @@
+---
+title: ముక్కు పట్టని ముత్యము.
+tags:
+  - "suit"
+  - "pearl"
+  - "nose"
+  - "737"
+  - "253"
+---
+
+{% capture data %}
+#### Meaning in English:
+A pearl that does not suit the nose.
+(See Nos. 253, 737, 1233, 1729.)
+
+#### Meaning in Telugu:
+ముక్కు పట్టని ముత్యము.
+
+#### Romanization:
+Mukku paṭṭani mutyamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

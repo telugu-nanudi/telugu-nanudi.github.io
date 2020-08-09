@@ -1,0 +1,19 @@
+---
+title: నంగీ నమలక మింగవే అంటే, వుడికిన చేపలు కరుస్తవి అన్నదట.
+tags:
+
+---
+
+{% capture data %}
+#### Meaning in English:
+"Swallow without chewing, Nangi."---" The boiled fish are
+
+#### Meaning in Telugu:
+నంగీ నమలక మింగవే అంటే, వుడికిన చేపలు కరుస్తవి అన్నదట.
+
+#### Romanization:
+Naṅgī namalaka miṅgavē aṇṭē, vuḍikina cēpalu karustavi annadaṭa.
+{% endcapture %}
+
+{{ data | markdownify }}
+

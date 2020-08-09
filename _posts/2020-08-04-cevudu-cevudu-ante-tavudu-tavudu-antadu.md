@@ -1,0 +1,25 @@
+---
+title: చెవుడు చెవుడూ అంటే, తవుడు తవుడూ అంటాడు.
+tags:
+  - "similar"
+  - "jingle"
+  - "got"
+  - "call"
+  - "bran"
+---
+
+{% capture data %}
+#### Meaning in English:
+When they call out "Deaf man! Deaf man!" he answers "[I've got] Bran, Bran!"
+(See nos. .. 927, 928, 2050.)
+The jingle of the Telugu words is similar to that of the English equivalents.
+
+#### Meaning in Telugu:
+చెవుడు చెవుడూ అంటే, తవుడు తవుడూ అంటాడు.
+
+#### Romanization:
+Cevuḍu cevuḍū aṇṭē, tavuḍu tavuḍū aṇṭāḍu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

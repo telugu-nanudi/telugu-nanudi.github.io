@@ -1,0 +1,22 @@
+---
+title: పోరాని చోట్లకు పోతే, రారాని నిందలు రాక మానవు.
+tags:
+  - "ought"
+  - "go"
+  - "148"
+---
+
+{% capture data %}
+#### Meaning in English:
+If you go where you ought not, you will not escape scandal.
+(See Nos. 148, 338.)
+
+#### Meaning in Telugu:
+పోరాని చోట్లకు పోతే, రారాని నిందలు రాక మానవు.
+
+#### Romanization:
+Pōrāni cōṭlaku pōtē, rārāni nindalu rāka mānavu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

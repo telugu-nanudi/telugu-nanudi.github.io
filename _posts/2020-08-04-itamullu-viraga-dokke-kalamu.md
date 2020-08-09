@@ -1,0 +1,24 @@
+---
+title: ఈతముల్లు విరగ దొక్కే కాలము.
+tags:
+  - "tread"
+  - "said"
+  - "break"
+  - "age"
+---
+
+{% capture data %}
+#### Meaning in English:
+He is at the age when he can tread on and break a date thorn.
+(For Ita see No. 290.)
+Said of an unruly scamp.
+
+#### Meaning in Telugu:
+ఈతముల్లు విరగ దొక్కే కాలము.
+
+#### Romanization:
+Ītamullu viraga dokkē kālamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

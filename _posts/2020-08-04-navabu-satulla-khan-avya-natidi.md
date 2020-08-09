@@ -1,0 +1,21 @@
+---
+title: నవాబు సాతుల్లా ఖాన్ అవ్య నాటిది.
+tags:
+  - "grandmother"
+  - "days"
+  - "adat"
+---
+
+{% capture data %}
+#### Meaning in English:
+Of the days of Nawab Sa'adat-ullah K_han's grandmother.
+
+#### Meaning in Telugu:
+నవాబు సాతుల్లా ఖాన్ అవ్య నాటిది.
+
+#### Romanization:
+Navābu sātullā khān avya nāṭidi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

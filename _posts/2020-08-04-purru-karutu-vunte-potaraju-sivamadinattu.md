@@ -1,0 +1,24 @@
+---
+title: పుర్రు కారుతూ వుంటే, పోతరాజు శివమాడినట్టు.
+tags:
+  - "possessed"
+  - "man"
+  - "dying"
+  - "diarrhcea"
+  - "1413"
+---
+
+{% capture data %}
+#### Meaning in English:
+When a man was dying'from diarrhcea, some one played pranks as if possessed by Pota Razu.
+( For Pota Razu see No. 1413. )
+
+#### Meaning in Telugu:
+పుర్రు కారుతూ వుంటే, పోతరాజు శివమాడినట్టు.
+
+#### Romanization:
+Purru kārutū vuṇṭē, pōtarāju śivamāḍinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

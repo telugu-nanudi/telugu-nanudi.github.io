@@ -1,0 +1,24 @@
+---
+title: అయ్యవారు అటికంత, అయ్యవారి పెండ్లాము పుటికంత.
+tags:
+  - "wife"
+  - "things"
+  - "spoken"
+  - "match"
+  - "like"
+---
+
+{% capture data %}
+#### Meaning in English:
+The Brahman is like a small pot, and his wife is like a basket.
+Spoken of things which do not match.
+
+#### Meaning in Telugu:
+అయ్యవారు అటికంత, అయ్యవారి పెండ్లాము పుటికంత.
+
+#### Romanization:
+Ayyavāru aṭikanta, ayyavāri peṇḍlāmu puṭikanta.
+{% endcapture %}
+
+{{ data | markdownify }}
+

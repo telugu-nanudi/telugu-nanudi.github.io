@@ -1,0 +1,19 @@
+---
+title: సిద్దన్నా కవులూరన్నట్టు.
+tags:
+  - "siddanna"
+---
+
+{% capture data %}
+#### Meaning in English:
+Like saying to Siddanna "Here is Kavuluru."
+
+#### Meaning in Telugu:
+సిద్దన్నా కవులూరన్నట్టు.
+
+#### Romanization:
+Siddannā kavulūrannaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,19 @@
+---
+title: నాథుడు లేని రాజ్యము నానా దారులు అయినది.
+tags:
+  - "ways"
+---
+
+{% capture data %}
+#### Meaning in English:
+A kingdom without a ruler becomes disorganized in all ways.
+
+#### Meaning in Telugu:
+నాథుడు లేని రాజ్యము నానా దారులు అయినది.
+
+#### Romanization:
+Nāthuḍu lēni rājyamu nānā dārulu ayinadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

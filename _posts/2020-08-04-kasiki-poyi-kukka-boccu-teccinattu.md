@@ -1,0 +1,23 @@
+---
+title: కాశికి పోయి కుక్క బొచ్చు తెచ్చినట్టు.
+tags:
+  - "hair"
+  - "benares"
+  - "812"
+---
+
+{% capture data %}
+#### Meaning in English:
+Like going to Benares, and bringing back dog's hair.
+(See Nos. 812, 1687.)
+Great labour and small results.
+
+#### Meaning in Telugu:
+కాశికి పోయి కుక్క బొచ్చు తెచ్చినట్టు.
+
+#### Romanization:
+Kāśiki pōyi kukka boccu teccinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,19 @@
+---
+title: న్యాయము తప్పని వానికి ఆచార్య కటాక్షమెందుకు.
+tags:
+  - "favor"
+---
+
+{% capture data %}
+#### Meaning in English:
+What does a just man care for the favor of the priest'!
+
+#### Meaning in Telugu:
+న్యాయము తప్పని వానికి ఆచార్య కటాక్షమెందుకు.
+
+#### Romanization:
+N'yāyamu tappani vāniki ācārya kaṭākṣamenduku.
+{% endcapture %}
+
+{{ data | markdownify }}
+

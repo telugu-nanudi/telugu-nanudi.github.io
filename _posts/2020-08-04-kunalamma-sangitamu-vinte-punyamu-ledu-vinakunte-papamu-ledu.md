@@ -1,0 +1,24 @@
+---
+title: కూనలమ్మ సంగీతము వింటే పుణ్యము లేదు, వినకుంటే పాపము లేదు.
+tags:
+  - "song"
+  - "sin"
+  - "preside"
+  - "praise"
+  - "merit"
+---
+
+{% capture data %}
+#### Meaning in English:
+If you listen to the song [in praise] of Kunalamma, there is no merit; and if you don't listen to it, there is no sin.
+Kunalamma is the goddess said to preside over children.
+
+#### Meaning in Telugu:
+కూనలమ్మ సంగీతము వింటే పుణ్యము లేదు, వినకుంటే పాపము లేదు.
+
+#### Romanization:
+Kūnalam'ma saṅgītamu viṇṭē puṇyamu lēdu, vinakuṇṭē pāpamu lēdu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

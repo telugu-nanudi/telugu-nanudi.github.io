@@ -1,0 +1,25 @@
+---
+title: పాలకు వచ్చి ముంత దాచినట్టు.
+tags:
+  - "pride"
+  - "poverty"
+  - "milk"
+  - "hiding"
+  - "cup"
+---
+
+{% capture data %}
+#### Meaning in English:
+Begging for milk and hiding his cup.
+(See Nos. 30, 856, 1608, 1792.)
+Poverty and pride.
+
+#### Meaning in Telugu:
+పాలకు వచ్చి ముంత దాచినట్టు.
+
+#### Romanization:
+Pālaku vacci munta dācinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

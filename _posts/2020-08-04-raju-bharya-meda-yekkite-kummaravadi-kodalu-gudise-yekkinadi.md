@@ -1,0 +1,24 @@
+---
+title: రాజు భార్య మేడ యెక్కితే, కుమ్మరవాడి కోడలు గుడిశె యెక్కినది.
+tags:
+  - "top"
+  - "see"
+  - "potter"
+  - "palace"
+  - "king"
+---
+
+{% capture data %}
+#### Meaning in English:
+When the king's wife went on the top of the palace, the potter's daughter-in-law went on the top of the hut.
+(See No. 22.)
+
+#### Meaning in Telugu:
+రాజు భార్య మేడ యెక్కితే, కుమ్మరవాడి కోడలు గుడిశె యెక్కినది.
+
+#### Romanization:
+Rāju bhārya mēḍa yekkitē, kum'maravāḍi kōḍalu guḍiśe yekkinadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

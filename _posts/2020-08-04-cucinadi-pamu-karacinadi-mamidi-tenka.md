@@ -1,0 +1,25 @@
+---
+title: చూచినది పాము, కరచినది మామిడి తెంక.
+tags:
+  - "trodden"
+  - "toe"
+  - "snake"
+  - "seeing"
+  - "saw"
+---
+
+{% capture data %}
+#### Meaning in English:
+What he saw was a snake, that which hit him was a mango stone.
+After seeing the snake, he had trodden on a split mango stone which nipped his toe.
+Flabbergasted with fright.
+
+#### Meaning in Telugu:
+చూచినది పాము, కరచినది మామిడి తెంక.
+
+#### Romanization:
+Cūcinadi pāmu, karacinadi māmiḍi teṅka.
+{% endcapture %}
+
+{{ data | markdownify }}
+

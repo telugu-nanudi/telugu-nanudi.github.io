@@ -1,0 +1,24 @@
+---
+title: దూడ కుడిచినట్టా దుత్తలో పడ్డట్టా.
+tags:
+  - "sucked"
+  - "pail"
+  - "milk"
+  - "fallen"
+  - "calf"
+---
+
+{% capture data %}
+#### Meaning in English:
+Is it that the calf has sucked, or that [the milk] has fallen into the pail?
+In either way beneficial.
+
+#### Meaning in Telugu:
+దూడ కుడిచినట్టా దుత్తలో పడ్డట్టా.
+
+#### Romanization:
+Dūḍa kuḍicinaṭṭā duttalō paḍḍaṭṭā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

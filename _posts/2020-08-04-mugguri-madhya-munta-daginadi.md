@@ -1,0 +1,24 @@
+---
+title: ముగ్గురి మధ్య ముంత దాగినది.
+tags:
+  - "three"
+  - "possibly"
+  - "number"
+  - "midst"
+  - "e"
+---
+
+{% capture data %}
+#### Meaning in English:
+The large pot disappeared in the midst of three.
+i. e. it could not possibly be carried off from the midst of a number of people without some one perceiving it.
+
+#### Meaning in Telugu:
+ముగ్గురి మధ్య ముంత దాగినది.
+
+#### Romanization:
+Mugguri madhya munta dāginadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,25 @@
+---
+title: కొండ మీద దెబగుబలేమంటే, కోమట్ల రహస్యాలు అన్నట్టు.
+tags:
+  - "secret"
+  - "said"
+  - "row"
+  - "komatis"
+  - "hill"
+---
+
+{% capture data %}
+#### Meaning in English:
+When asked what the row on the hill was, they said " The Komatis' secrets."
+(See Nos. 47, 595, 1521.)
+The secret of Anchuelos. (spanish)[1]
+
+#### Meaning in Telugu:
+కొండ మీద దెబగుబలేమంటే, కోమట్ల రహస్యాలు అన్నట్టు.
+
+#### Romanization:
+Koṇḍa mīda debagubalēmaṇṭē, kōmaṭla rahasyālu annaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

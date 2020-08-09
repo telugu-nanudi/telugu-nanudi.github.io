@@ -1,0 +1,23 @@
+---
+title: నడిచే కొద్దీ డొంక, పెట్టే కొద్దీ కుదురు.
+tags:
+  - "widen"
+  - "walk"
+  - "put"
+  - "path"
+  - "earth"
+---
+
+{% capture data %}
+#### Meaning in English:
+As you walk you widen the path, as you put [earth] you
+
+#### Meaning in Telugu:
+నడిచే కొద్దీ డొంక, పెట్టే కొద్దీ కుదురు.
+
+#### Romanization:
+Naḍicē koddī ḍoṅka, peṭṭē koddī kuduru.
+{% endcapture %}
+
+{{ data | markdownify }}
+

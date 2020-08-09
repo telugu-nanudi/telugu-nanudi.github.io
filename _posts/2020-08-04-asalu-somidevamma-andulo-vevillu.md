@@ -1,0 +1,27 @@
+---
+title: అసలు సోమిదేవమ్మ, అందులో వేవిళ్లు.
+tags:
+  - "wife"
+  - "sick"
+  - "priest"
+  - "idles"
+  - "applied"
+---
+
+{% capture data %}
+#### Meaning in English:
+She is not only the wife of a priest, but is also in an interesting condition.
+(See Nos. 483, 1214, 1829, 2034. )
+A double excuse. Applied to idle persons.
+Sick of the idles.
+A large sheep thinks its wool heavy.
+
+#### Meaning in Telugu:
+అసలు సోమిదేవమ్మ, అందులో వేవిళ్లు.
+
+#### Romanization:
+Asalu sōmidēvam'ma, andulō vēviḷlu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

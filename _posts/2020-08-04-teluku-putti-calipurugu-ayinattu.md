@@ -1,0 +1,22 @@
+---
+title: తేలుకు పుట్టి చలిపురుగు అయినట్టు.
+tags:
+  - "scorpion"
+  - "born"
+  - "becoming"
+---
+
+{% capture data %}
+#### Meaning in English:
+Born to a scorpion and becoming a black ant.
+An unworthy scion of a. noble stock.
+
+#### Meaning in Telugu:
+తేలుకు పుట్టి చలిపురుగు అయినట్టు.
+
+#### Romanization:
+Tēluku puṭṭi calipurugu ayinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

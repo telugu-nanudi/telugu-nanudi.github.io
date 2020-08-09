@@ -1,0 +1,20 @@
+---
+title: చావుకు పెట్టితే గాని, లంఖణాలకు తెగదు.
+tags:
+  - "life"
+  - "danger"
+---
+
+{% capture data %}
+#### Meaning in English:
+He won't fast unless told that his life is in danger.
+
+#### Meaning in Telugu:
+చావుకు పెట్టితే గాని, లంఖణాలకు తెగదు.
+
+#### Romanization:
+Cāvuku peṭṭitē gāni, laṅkhaṇālaku tegadu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,25 @@
+---
+title: కానని వారి పాయసము గంపలాది అన్నట్టు.
+tags:
+  - "speaking"
+  - "people"
+  - "milk"
+  - "known"
+  - "exaggerating"
+---
+
+{% capture data %}
+#### Meaning in English:
+Speaking of people who are not known, as having distributed rice-milk by baskets full.
+(See Nos. 423, 841, 1022.)
+Exaggerating the bounty of absent persons.
+
+#### Meaning in Telugu:
+కానని వారి పాయసము గంపలాది అన్నట్టు.
+
+#### Romanization:
+Kānani vāri pāyasamu gampalādi annaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

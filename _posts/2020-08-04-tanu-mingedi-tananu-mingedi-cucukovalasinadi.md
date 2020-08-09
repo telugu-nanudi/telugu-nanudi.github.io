@@ -1,0 +1,24 @@
+---
+title: తాను మింగేది తనను మింగేది చూచుకోవలశినది.
+tags:
+  - "swallow"
+  - "see"
+  - "look"
+  - "leap"
+---
+
+{% capture data %}
+#### Meaning in English:
+You should look what you can swallow, and what can swallow you.
+(See No. 617.)
+Look before you leap.
+
+#### Meaning in Telugu:
+తాను మింగేది తనను మింగేది చూచుకోవలశినది.
+
+#### Romanization:
+Tānu miṅgēdi tananu miṅgēdi cūcukōvalaśinadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

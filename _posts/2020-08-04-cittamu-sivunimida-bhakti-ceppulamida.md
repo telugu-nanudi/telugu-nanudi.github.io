@@ -1,0 +1,23 @@
+---
+title: చిత్తము శివునిమీద, భక్తి చెప్పులమీద
+tags:
+  - "worship"
+  - "thoughts"
+  - "shoes"
+  - "mind"
+  - "iva"
+---
+
+{% capture data %}
+#### Meaning in English:
+He has a mind to worship S'iva, but his thoughts are on his shoes (left outside the temple).
+
+#### Meaning in Telugu:
+చిత్తము శివునిమీద, భక్తి చెప్పులమీద
+
+#### Romanization:
+Cittamu śivunimīda, bhakti ceppulamīda
+{% endcapture %}
+
+{{ data | markdownify }}
+

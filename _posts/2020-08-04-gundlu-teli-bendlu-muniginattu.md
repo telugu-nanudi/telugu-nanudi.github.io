@@ -1,0 +1,25 @@
+---
+title: గుండ్లు తేలి బెండ్లు ముణిగినట్టు.
+tags:
+  - "order"
+  - "models"
+  - "made"
+  - "c"
+  - "bendu"
+---
+
+{% capture data %}
+#### Meaning in English:
+Bullets floating, Bendu sinking.
+Bendu is the Eschynornene Indica from which pith hats, models, &c. are made.
+The order of nature reversed.
+
+#### Meaning in Telugu:
+గుండ్లు తేలి బెండ్లు ముణిగినట్టు.
+
+#### Romanization:
+Guṇḍlu tēli beṇḍlu muṇiginaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

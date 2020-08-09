@@ -1,0 +1,25 @@
+---
+title: వేణ్నీళ్లు పోస్తే యిల్లు కాలునా.
+tags:
+  - "lenient"
+  - "house"
+  - "burnt"
+  - "applied"
+  - "421"
+---
+
+{% capture data %}
+#### Meaning in English:
+Can your house be burnt down with hot water?
+(See Nos. 421, 1665, 2077. )
+Applied to lenient or ineffective measures.
+
+#### Meaning in Telugu:
+వేణ్నీళ్లు పోస్తే యిల్లు కాలునా.
+
+#### Romanization:
+Vēṇnīḷlu pōstē yillu kālunā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

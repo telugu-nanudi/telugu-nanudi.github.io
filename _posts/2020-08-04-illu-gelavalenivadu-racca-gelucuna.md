@@ -1,0 +1,24 @@
+---
+title: ఇల్లు గెలవలేనివాడు రచ్చ గెలుచునా.
+tags:
+  - "voice"
+  - "valley"
+  - "rule"
+  - "none"
+  - "house"
+---
+
+{% capture data %}
+#### Meaning in English:
+Will he who cannot rule his own house, rule in the council ?
+He who has no voice in the valley, will have none in the council. (spanish)[1]
+
+#### Meaning in Telugu:
+ఇల్లు గెలవలేనివాడు రచ్చ గెలుచునా.
+
+#### Romanization:
+Illu gelavalēnivāḍu racca gelucunā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

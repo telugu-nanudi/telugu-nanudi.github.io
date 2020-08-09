@@ -1,0 +1,25 @@
+---
+title: గుర్రానికి గుగ్గిళ్ళు తిన నేర్పవలెనా.
+tags:
+  - "teach"
+  - "see"
+  - "horse"
+  - "grandmother"
+  - "195"
+---
+
+{% capture data %}
+#### Meaning in English:
+Must one teach a horse to eat boiled gram ?
+(See No. 195)
+Teach your grandmother to suck eggs.
+
+#### Meaning in Telugu:
+గుర్రానికి గుగ్గిళ్ళు తిన నేర్పవలెనా.
+
+#### Romanization:
+Gurrāniki guggiḷḷu tina nērpavalenā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

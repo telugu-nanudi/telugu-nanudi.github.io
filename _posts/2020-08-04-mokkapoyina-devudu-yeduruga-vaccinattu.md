@@ -1,0 +1,23 @@
+---
+title: మొక్కపోయిన దేవుడు యెదురుగా వచ్చినట్టు.
+tags:
+  - "went"
+  - "way"
+  - "see"
+  - "god"
+---
+
+{% capture data %}
+#### Meaning in English:
+The god he went to worship met him in the way.
+(See No. 174.)
+
+#### Meaning in Telugu:
+మొక్కపోయిన దేవుడు యెదురుగా వచ్చినట్టు.
+
+#### Romanization:
+Mokkapōyina dēvuḍu yedurugā vaccinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

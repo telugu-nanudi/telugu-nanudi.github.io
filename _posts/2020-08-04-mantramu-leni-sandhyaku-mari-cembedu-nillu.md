@@ -1,0 +1,24 @@
+---
+title: మంత్రము లేని సంధ్యకు మరి చెంబెడు నీళ్లు.
+tags:
+  - "water"
+  - "pretends"
+  - "perform"
+  - "necessary"
+  - "man"
+---
+
+{% capture data %}
+#### Meaning in English:
+For the Sandhya without Mantras another pot of water
+A man who pretends to perform the Sandhya without really repeating the sacred formula, uses twice as much water as is necessary.
+
+#### Meaning in Telugu:
+మంత్రము లేని సంధ్యకు మరి చెంబెడు నీళ్లు.
+
+#### Romanization:
+Mantramu lēni sandhyaku mari cembeḍu nīḷlu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,23 @@
+---
+title: అబ్బిగాడు చస్తే ఆ పంచె నాది.
+tags:
+  - "want"
+  - "mine"
+  - "feeling"
+  - "cloth"
+---
+
+{% capture data %}
+#### Meaning in English:
+If the boy dies, that cloth is mine.
+Want of feeling.
+
+#### Meaning in Telugu:
+అబ్బిగాడు చస్తే ఆ పంచె నాది.
+
+#### Romanization:
+Abbigāḍu castē ā pan̄ce nādi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

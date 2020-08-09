@@ -1,0 +1,25 @@
+---
+title: చదివేది రామాయణము, పడగొట్టేవి దేవస్థలాలు.
+tags:
+  - "temples"
+  - "see"
+  - "reads"
+  - "ramayana"
+  - "knocks"
+---
+
+{% capture data %}
+#### Meaning in English:
+He reads the Ramayana, and knocks down temples.
+(See No. 941.)
+Much religion, but no goodness.
+
+#### Meaning in Telugu:
+చదివేది రామాయణము, పడగొట్టేవి దేవస్థలాలు.
+
+#### Romanization:
+Cadivēdi rāmāyaṇamu, paḍagoṭṭēvi dēvasthalālu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,25 @@
+---
+title: ఒక వూరికి వెయ్యి దోవలు.
+tags:
+  - "wood"
+  - "ways"
+  - "way"
+  - "village"
+  - "one"
+---
+
+{% capture data %}
+#### Meaning in English:
+There are a thousand ways to a village.
+Every man in his way.
+There are more ways to the wood than one.
+
+#### Meaning in Telugu:
+ఒక వూరికి వెయ్యి దోవలు.
+
+#### Romanization:
+Oka vūriki veyyi dōvalu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

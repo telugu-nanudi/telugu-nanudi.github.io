@@ -1,0 +1,25 @@
+---
+title: ఏ యెండకు ఆ గొడుగు పట్ట వలెను.
+tags:
+  - "suitable"
+  - "occasion"
+  - "hour"
+  - "day"
+  - "422"
+---
+
+{% capture data %}
+#### Meaning in English:
+The umbrella must suit the hour of the day.
+(See Nos. 422, 450.)
+Suitable to the occasion.
+
+#### Meaning in Telugu:
+ఏ యెండకు ఆ గొడుగు పట్ట వలెను.
+
+#### Romanization:
+Ē yeṇḍaku ā goḍugu paṭṭa valenu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

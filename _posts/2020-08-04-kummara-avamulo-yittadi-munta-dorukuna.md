@@ -1,0 +1,23 @@
+---
+title: కుమ్మర ఆవములో యిత్తడి ముంత దొరుకునా.
+tags:
+  - "worthless"
+  - "potter"
+  - "kiln"
+  - "found"
+---
+
+{% capture data %}
+#### Meaning in English:
+Will a brass pot be found in a potter's kiln ?
+A worthy person is not to be found amongst the worthless.
+
+#### Meaning in Telugu:
+కుమ్మర ఆవములో యిత్తడి ముంత దొరుకునా.
+
+#### Romanization:
+Kum'mara āvamulō yittaḍi munta dorukunā.
+{% endcapture %}
+
+{{ data | markdownify }}
+

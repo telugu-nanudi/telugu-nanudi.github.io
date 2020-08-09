@@ -1,0 +1,25 @@
+---
+title: పిరికి బంటుకు తుమ్మాస్థ.
+tags:
+  - "stopped"
+  - "sneeze"
+  - "ready"
+  - "hindus"
+  - "excuse"
+---
+
+{% capture data %}
+#### Meaning in English:
+A cowardly soldier is stopped by a sneeze.
+A sneeze is considered a bad omen among the Hindus.
+Ready for any excuse.
+
+#### Meaning in Telugu:
+పిరికి బంటుకు తుమ్మాస్థ.
+
+#### Romanization:
+Piriki baṇṭuku tum'māstha.
+{% endcapture %}
+
+{{ data | markdownify }}
+

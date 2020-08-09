@@ -1,0 +1,24 @@
+---
+title: బిడ్డను వేశి లోతు చూచినట్టు.
+tags:
+  - "well"
+  - "find"
+  - "depth"
+  - "child"
+  - "1"
+---
+
+{% capture data %}
+#### Meaning in English:
+Like throwing a child into a well to find out the depth.
+(See Nos. 1, 412.)
+
+#### Meaning in Telugu:
+బిడ్డను వేశి లోతు చూచినట్టు.
+
+#### Romanization:
+Biḍḍanu vēśi lōtu cūcinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

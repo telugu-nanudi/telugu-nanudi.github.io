@@ -1,0 +1,24 @@
+---
+title: మూల వున్నదాన్ని ముంగిట్లోకి తెచ్చినట్టు.
+tags:
+  - "yard"
+  - "secrets"
+  - "corner"
+  - "bringing"
+  - "another"
+---
+
+{% capture data %}
+#### Meaning in English:
+Bringing into the yard that which was in the corner.
+Treacherously revealing the secrets of another.
+
+#### Meaning in Telugu:
+మూల వున్నదాన్ని ముంగిట్లోకి తెచ్చినట్టు.
+
+#### Romanization:
+Mūla vunnadānni muṅgiṭlōki teccinaṭṭu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

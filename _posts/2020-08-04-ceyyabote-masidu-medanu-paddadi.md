@@ -1,0 +1,21 @@
+---
+title: చెయ్యబోతే, మశీదు మెడను పడ్డది.
+tags:
+  - "went"
+  - "pray"
+  - "neck"
+---
+
+{% capture data %}
+#### Meaning in English:
+When he went to pray, the mosque fell on his neck.
+
+#### Meaning in Telugu:
+చెయ్యబోతే, మశీదు మెడను పడ్డది.
+
+#### Romanization:
+Ceyyabōtē, maśīdu meḍanu paḍḍadi.
+{% endcapture %}
+
+{{ data | markdownify }}
+

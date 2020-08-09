@@ -1,0 +1,25 @@
+---
+title: మాటలకు పేదరికము లేదు.
+tags:
+  - "words"
+  - "wanting"
+  - "see"
+  - "ruins"
+  - "promises"
+---
+
+{% capture data %}
+#### Meaning in English:
+He is not Wanting in words.
+(See No. 1638.)
+He ruins himself in promises, and clears himself by giving nothing. (French)[1]
+
+#### Meaning in Telugu:
+మాటలకు పేదరికము లేదు.
+
+#### Romanization:
+Māṭalaku pēdarikamu lēdu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,22 @@
+---
+title: కాటిలో పండినవి కాకులు తిన్నవి.
+tags:
+  - "grew"
+  - "fruit"
+  - "forest"
+---
+
+{% capture data %}
+#### Meaning in English:
+The crows ate up the fruit which grew in the forest.
+Property common to all.
+
+#### Meaning in Telugu:
+కాటిలో పండినవి కాకులు తిన్నవి.
+
+#### Romanization:
+Kāṭilō paṇḍinavi kākulu tinnavi.
+{% endcapture %}
+
+{{ data | markdownify }}
+
