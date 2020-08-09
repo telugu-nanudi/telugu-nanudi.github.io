@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : "తెలుగు సామెతలు"
 title_separator          : "-"
 subtitle                 : "Telugu Proverbs"
-name                     : &name "Venkatesh Duppada" # &name is a YAML anchor which can be *referenced later
+# name                     : &name "Venkatesh Duppada" # &name is a YAML anchor which can be *referenced later
 description              : &description "Telugu proverbs & adages"
 url                      : https://telugu-nanudi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
