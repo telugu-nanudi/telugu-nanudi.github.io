@@ -17,6 +17,7 @@ Interest is sweeter than the principal ; a grandson is dearer than a son.
 
 #### Romanization:
 Varahākannā vaḍḍi muddu, komārunikannā manamuḍu muddu.
+
 Varahakanna vaddi muddu, komarunikanna manamudu muddu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ Indispensable accompaniments.
 
 #### Romanization:
 Piṇḍī prōlū lēnidī peṇḍli avunā.
+
 Pindi prolu lenidi pendli avuna.
 {% endcapture %}
 

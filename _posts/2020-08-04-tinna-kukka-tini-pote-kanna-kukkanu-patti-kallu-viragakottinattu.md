@@ -18,6 +18,7 @@ Making the innocent suffer for the guilty.
 
 #### Romanization:
 Tinna kukka tini pōtē, kanna kukkanu paṭṭi kāḷlu viragakoṭṭinaṭṭu.
+
 Tinna kukka tini pote, kanna kukkanu patti kallu viragakottinattu.
 {% endcapture %}
 

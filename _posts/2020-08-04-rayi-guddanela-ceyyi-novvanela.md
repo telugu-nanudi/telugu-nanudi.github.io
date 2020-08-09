@@ -18,6 +18,7 @@ Why bring trouble on your own head?
 
 #### Romanization:
 Rāyi guddanēla, ceyyi novvanēla.
+
 Rayi guddanela, ceyyi novvanela.
 {% endcapture %}
 

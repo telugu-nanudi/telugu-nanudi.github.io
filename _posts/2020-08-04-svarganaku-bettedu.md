@@ -16,6 +16,7 @@ Said ironically to a hypocrite.
 
 #### Romanization:
 Svargānaku betteḍu.
+
 Svarganaku bettedu.
 {% endcapture %}
 

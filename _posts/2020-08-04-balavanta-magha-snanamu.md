@@ -19,6 +19,7 @@ A disagreeable duty.
 
 #### Romanization:
 Balavanta māgha snānamu.
+
 Balavanta magha snanamu.
 {% endcapture %}
 

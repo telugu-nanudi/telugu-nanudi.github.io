@@ -18,6 +18,7 @@ I have determined on being liberal, bring a handful of grain.
 
 #### Romanization:
 Tegin̄ci dānamu cēstānu tērā piḍikeḍu āḷlu annaṭṭu.
+
 Teginci danamu cestanu tera pidikedu allu annattu.
 {% endcapture %}
 

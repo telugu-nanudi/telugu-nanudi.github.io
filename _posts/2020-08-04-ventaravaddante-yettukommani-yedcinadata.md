@@ -19,6 +19,7 @@ Asking much when denied a little.
 
 #### Romanization:
 Veṇṭarāvaddaṇṭē, yettukom'mani yēḍcināḍaṭa.
+
 Ventaravaddante, yettukom'mani yedcinadata.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ Independence is heaven, dependence is harassing to the life.
 
 #### Romanization:
 Svatantramu svargalōkamu, paratantramu prāṇasaṅkaṭamu.
+
 Svatantramu svargalokamu, paratantramu pranasankatamu.
 {% endcapture %}
 

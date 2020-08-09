@@ -16,6 +16,7 @@ A very unsettled state.
 
 #### Romanization:
 Tāmarākulō nīḷlu tallaḍin̄cinaṭṭu
+
 Tamarakulo nillu talladincinattu
 {% endcapture %}
 

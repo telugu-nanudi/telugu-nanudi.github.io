@@ -20,6 +20,7 @@ Anxious expectation.
 
 #### Romanization:
 Svāti vānaku mutyapucippaledurucūcinaṭṭu.
+
 Svati vanaku mutyapucippaledurucucinattu.
 {% endcapture %}
 

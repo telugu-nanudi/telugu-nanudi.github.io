@@ -16,6 +16,7 @@ Having promised, you should not fail; having spoken, you should not lie (retract
 
 #### Romanization:
 Āḍi tapparādu, paliki boṅkarādu.
+
 Adi tapparadu, paliki bonkaradu.
 {% endcapture %}
 

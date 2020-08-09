@@ -14,6 +14,7 @@ A sudden stop to anything.
 
 #### Romanization:
 Gālī vānā vastē kathē mānutundi.
+
 Gali vana vaste kathe manutundi.
 {% endcapture %}
 

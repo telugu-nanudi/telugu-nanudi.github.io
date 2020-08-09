@@ -18,6 +18,7 @@ When one said "The male buffalo has calved" the other replied "Then tie up the c
 
 #### Romanization:
 Dunnapōtu yīninadaṇṭē, dūḍanu kaṭṭi vēyumannaṭṭu.
+
 Dunnapotu yininadante, dudanu katti veyumannattu.
 {% endcapture %}
 

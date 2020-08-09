@@ -19,6 +19,7 @@ Said jokingly when a person is inattentive.
 
 #### Romanization:
 Śaraṇārthini liṅgappā aṇṭē, kandulu mūḍu māḍalu annāḍaṭa, cinnā peddā bāgunnārā aṇṭē, pappu lakkavalenē vuḍukutunnadi annāḍaṭa.
+
 Saranarthini lingappa ante, kandulu mudu madalu annadata, cinna pedda bagunnara ante, pappu lakkavalene vudukutunnadi annadata.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ He has a good estate, but the right owner keeps it from him,
 
 #### Romanization:
 Evari abba som'murā yekkekki yēḍcēvu.
+
 Evari abba som'mura yekkekki yedcevu.
 {% endcapture %}
 

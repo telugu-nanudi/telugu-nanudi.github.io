@@ -18,6 +18,7 @@ Hypocrisy. Feigned friendship.
 
 #### Romanization:
 Vellakittalā vēśipoḍistē, vaka debbakē castunnadani sann'yāsulamayina mēmu yenduku ceppavalenu.
+
 Vellakittala vesipodiste, vaka debbake castunnadani sann'yasulamayina memu yenduku ceppavalenu.
 {% endcapture %}
 

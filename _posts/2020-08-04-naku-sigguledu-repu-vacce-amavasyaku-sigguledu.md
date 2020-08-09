@@ -16,6 +16,7 @@ I am not ashamed, the Amavasya which is coming to-morrow is not ashamed.
 
 #### Romanization:
 Nākū śiggulēdu, rēpu vaccē amāvāsyakū śiggulēdu.
+
 Naku sigguledu, repu vacce amavasyaku sigguledu.
 {% endcapture %}
 

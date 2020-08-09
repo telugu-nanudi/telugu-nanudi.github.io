@@ -21,6 +21,7 @@ A happy event and a great misfortune coming together.
 
 #### Romanization:
 Pedda koḍuku peṇḍlī, asura bhōjanamu.
+
 Pedda koduku pendli, asura bhojanamu.
 {% endcapture %}
 

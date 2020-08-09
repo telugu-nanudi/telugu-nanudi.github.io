@@ -20,6 +20,7 @@ You may judge of Herles from his foot. (Latin)[3]
 
 #### Romanization:
 Vaṇḍina kuṇḍalō vaka metukē paṭṭi cūḍaḍamu.
+
 Vandina kundalo vaka metuke patti cudadamu.
 {% endcapture %}
 

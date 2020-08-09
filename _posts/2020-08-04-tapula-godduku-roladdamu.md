@@ -19,6 +19,7 @@ Applied to measures which to check the progress of crime.
 
 #### Romanization:
 Tāpula goḍḍuku rōlaḍḍamu.
+
 Tapula godduku roladdamu.
 {% endcapture %}
 

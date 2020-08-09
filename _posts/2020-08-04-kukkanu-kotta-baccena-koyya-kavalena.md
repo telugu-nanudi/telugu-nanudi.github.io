@@ -15,6 +15,7 @@ Do you require a painted stick to strike a dog with?
 
 #### Romanization:
 Kukkanu koṭṭa baccena koyya kāvalenā.
+
 Kukkanu kotta baccena koyya kavalena.
 {% endcapture %}
 

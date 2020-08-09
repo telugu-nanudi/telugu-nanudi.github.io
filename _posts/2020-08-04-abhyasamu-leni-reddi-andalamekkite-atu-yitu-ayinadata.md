@@ -18,6 +18,7 @@ When the unpractised Reddi got into a palankin, it swung from side to side.
 
 #### Romanization:
 Abhyāsamu lēni reḍḍi andalamekkitē aṭū yiṭū ayinadaṭa.
+
 Abhyasamu leni reddi andalamekkite atu yitu ayinadata.
 {% endcapture %}
 

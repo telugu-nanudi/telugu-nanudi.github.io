@@ -18,6 +18,7 @@ A story is told of a Komati who, when asked to identify a horse about which a Mu
 
 #### Romanization:
 Kōmaṭi sākṣyamu.
+
 Komati saksyamu.
 {% endcapture %}
 

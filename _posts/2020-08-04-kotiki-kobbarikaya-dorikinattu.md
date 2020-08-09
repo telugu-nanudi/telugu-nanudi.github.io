@@ -20,6 +20,7 @@ Like the dog in the manger, he will neither do nor let do.
 
 #### Romanization:
 Kōtiki kobbarikāya dorikinaṭṭu.
+
 Kotiki kobbarikaya dorikinattu.
 {% endcapture %}
 

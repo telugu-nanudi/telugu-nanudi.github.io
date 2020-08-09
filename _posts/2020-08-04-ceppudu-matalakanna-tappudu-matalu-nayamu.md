@@ -15,6 +15,7 @@ Lies are better than backbiting.
 
 #### Romanization:
 Ceppuḍu māṭalakannā tappuḍu māṭalu nayamu.
+
 Ceppudu matalakanna tappudu matalu nayamu.
 {% endcapture %}
 

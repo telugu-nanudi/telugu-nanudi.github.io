@@ -15,6 +15,7 @@ If you listen, listen to the Bharata; if you eat, eat cakes.
 
 #### Romanization:
 Viṇṭē bhāratamu vinavale, tiṇṭē gārelu tinavale.
+
 Vinte bharatamu vinavale, tinte garelu tinavale.
 {% endcapture %}
 

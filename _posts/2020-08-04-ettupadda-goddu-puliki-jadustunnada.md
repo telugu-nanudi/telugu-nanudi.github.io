@@ -18,6 +18,7 @@ Resignation to one's fate through utter helplessness.
 
 #### Romanization:
 Ettupaḍḍa goḍḍu puliki jaḍustunnadā.
+
 Ettupadda goddu puliki jadustunnada.
 {% endcapture %}
 

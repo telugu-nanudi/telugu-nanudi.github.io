@@ -20,6 +20,7 @@ Fortune is like the market, where if you hide your time, the price will fall.
 
 #### Romanization:
 Puṭṭina yinnāḷḷaku puruṣuḍu yajñamu cēśenu.
+
 Puttina yinnallaku purusudu yajnamu cesenu.
 {% endcapture %}
 

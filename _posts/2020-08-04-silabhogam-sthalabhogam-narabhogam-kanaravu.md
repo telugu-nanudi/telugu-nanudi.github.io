@@ -18,6 +18,7 @@ The first may be formed into an idol and be worshipped ; the second may be culti
 
 #### Romanization:
 Śilābhōgaṁ, sthalabhōgaṁ, narabhōgaṁ, kānarāvu.
+
 Silabhogam, sthalabhogam, narabhogam, kanaravu.
 {% endcapture %}
 

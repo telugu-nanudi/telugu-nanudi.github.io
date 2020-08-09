@@ -19,6 +19,7 @@ The jewel i: not to be valued for the cabinet.
 
 #### Romanization:
 Pālunu cūḍanā bhāṇḍānni cūḍanā.
+
 Palunu cudana bhandanni cudana.
 {% endcapture %}
 

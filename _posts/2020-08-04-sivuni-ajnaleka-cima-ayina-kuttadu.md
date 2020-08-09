@@ -17,6 +17,7 @@ Without the permission of Siva, even an ant will not bite you.
 
 #### Romanization:
 Śivuni ājñalēka cīma ayinā kuṭṭadu.
+
 Sivuni ajnaleka cima ayina kuttadu.
 {% endcapture %}
 

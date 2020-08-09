@@ -19,6 +19,7 @@ Panganamam is a very large Namam, the sectarial mark worn on the forehead by Vai
 
 #### Romanization:
 Guruvuku paṅganāmālu peṭṭinaṭṭu.
+
 Guruvuku panganamalu pettinattu.
 {% endcapture %}
 

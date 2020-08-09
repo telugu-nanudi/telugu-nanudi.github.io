@@ -18,6 +18,7 @@ A man does not cry out when he sufl'ers from his own folly.
 
 #### Romanization:
 Doṅganu tēlu kuṭṭinaṭṭu.
+
 Donganu telu kuttinattu.
 {% endcapture %}
 

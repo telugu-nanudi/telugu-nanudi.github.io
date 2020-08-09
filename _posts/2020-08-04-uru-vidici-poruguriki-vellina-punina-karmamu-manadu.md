@@ -18,6 +18,7 @@ Although you leave the village and go to another, your evil destiny will still a
 
 #### Romanization:
 Ūru viḍici porugūriki veḷlinā, pūnina karmamu mānadu.
+
 Uru vidici poruguriki vellina, punina karmamu manadu.
 {% endcapture %}
 

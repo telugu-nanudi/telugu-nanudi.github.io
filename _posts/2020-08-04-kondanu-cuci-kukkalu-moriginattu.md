@@ -16,6 +16,7 @@ Like dogs barking at a mountain.
 
 #### Romanization:
 Koṇḍanu cūci kukkalu moriginaṭṭu.
+
 Kondanu cuci kukkalu moriginattu.
 {% endcapture %}
 

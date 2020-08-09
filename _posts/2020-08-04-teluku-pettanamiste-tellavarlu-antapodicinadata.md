@@ -19,6 +19,7 @@ Applied to the abuse of authority by evil persons.
 
 #### Romanization:
 Tēluku pettanamistē, tellavārlū aṇṭapoḍicinadaṭa.
+
 Teluku pettanamiste, tellavarlu antapodicinadata.
 {% endcapture %}
 

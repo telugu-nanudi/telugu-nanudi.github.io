@@ -15,6 +15,7 @@ Said of a precocious youth.
 
 #### Romanization:
 Pindelō paṇḍina paṇḍu.
+
 Pindelo pandina pandu.
 {% endcapture %}
 

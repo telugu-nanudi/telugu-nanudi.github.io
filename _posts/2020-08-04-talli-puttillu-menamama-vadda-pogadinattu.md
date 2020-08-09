@@ -15,6 +15,7 @@ Will you boast of your mother's family before your maternal uncle ?
 
 #### Romanization:
 Talli puṭṭillu mēnamāma vadda pogaḍinaṭṭu.
+
 Talli puttillu menamama vadda pogadinattu.
 {% endcapture %}
 

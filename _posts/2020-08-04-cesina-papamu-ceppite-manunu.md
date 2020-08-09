@@ -17,6 +17,7 @@ A sin confessed is half forgiven. (Italian)[1]
 
 #### Romanization:
 Cēsina pāpamu ceppitē mānunu.
+
 Cesina papamu ceppite manunu.
 {% endcapture %}
 

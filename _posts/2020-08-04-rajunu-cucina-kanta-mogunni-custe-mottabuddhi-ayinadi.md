@@ -17,6 +17,7 @@ when she looked at her husband with the eye which had beheld the king, she had a
 
 #### Romanization:
 Rājunu cūcina kaṇṭa moguṇni cūstē moṭṭabud'dhi ayinadi.
+
 Rajunu cucina kanta mogunni custe mottabud'dhi ayinadi.
 {% endcapture %}
 

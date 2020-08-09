@@ -15,6 +15,7 @@ Encouraging beggars causes a great expenditure, an old husband is the plague of 
 
 #### Romanization:
 Muripemu tiripemu cēṭu, musali moguḍu prāṇamuku cēṭu.
+
 Muripemu tiripemu cetu, musali mogudu pranamuku cetu.
 {% endcapture %}
 

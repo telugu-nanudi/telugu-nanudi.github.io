@@ -14,6 +14,7 @@ Like a cart running over Nalleru.
 
 #### Romanization:
 Nallēru mīda baṇḍi pārinaṭṭu.
+
 Nalleru mida bandi parinattu.
 {% endcapture %}
 

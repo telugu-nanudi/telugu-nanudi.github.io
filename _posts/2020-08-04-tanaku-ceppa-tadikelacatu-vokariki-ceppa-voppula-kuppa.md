@@ -19,6 +19,7 @@ No one likea justice brought home to his own door. (Italian)[3]
 
 #### Romanization:
 Tanaku ceppa taḍikelacāṭu vokariki ceppa voppula kuppa.
+
 Tanaku ceppa tadikelacatu vokariki ceppa voppula kuppa.
 {% endcapture %}
 

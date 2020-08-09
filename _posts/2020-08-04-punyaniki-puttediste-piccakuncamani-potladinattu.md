@@ -19,6 +19,7 @@ Look not a gift horse in the mouth. (Latin.)[1]
 
 #### Romanization:
 Puṇyāniki puṭṭeḍistē, piccakun̄camani pōṭlāḍinaṭṭu.
+
 Punyaniki puttediste, piccakuncamani potladinattu.
 {% endcapture %}
 

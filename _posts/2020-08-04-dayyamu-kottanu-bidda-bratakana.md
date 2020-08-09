@@ -14,6 +14,7 @@ Said of a meddling fool.
 
 #### Romanization:
 Dayyamu koṭṭanū biḍḍa bratakanā.
+
 Dayyamu kottanu bidda bratakana.
 {% endcapture %}
 

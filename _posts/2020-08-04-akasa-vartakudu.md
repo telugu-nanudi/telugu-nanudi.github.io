@@ -17,6 +17,7 @@ A swindler. An impostor.
 
 #### Romanization:
 Ākāśa vartakuḍu.
+
 Akasa vartakudu.
 {% endcapture %}
 

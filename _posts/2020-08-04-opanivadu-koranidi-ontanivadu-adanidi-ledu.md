@@ -16,6 +16,7 @@ There is nothing which an invalid will not ask for; and there is nothing which a
 
 #### Romanization:
 Ōpanivāḍu kōranidī, oṇṭanivāḍu āḍanidī lēdu.
+
 Opanivadu koranidi, ontanivadu adanidi ledu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ I will eat as much of the rice as my Dal has been mixed with.
 
 #### Romanization:
 Nā pappu kaliśinantā nēnē tiṇṭānu.
+
 Na pappu kalisinanta nene tintanu.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ A blind man will not thank you for a looking glass.
 
 #### Romanization:
 Andhunaku addamu cūpinaṭṭu.
+
 Andhunaku addamu cupinattu.
 {% endcapture %}
 

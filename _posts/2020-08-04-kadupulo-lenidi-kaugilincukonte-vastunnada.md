@@ -17,6 +17,7 @@ Will [affection] that does not exist in the heart be caused by embracing [the bo
 
 #### Romanization:
 Kaḍupulō lēnidi kaugilin̄cukoṇṭē vastunnadā.
+
 Kadupulo lenidi kaugilincukonte vastunnada.
 {% endcapture %}
 

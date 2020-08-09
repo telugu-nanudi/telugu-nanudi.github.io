@@ -19,6 +19,7 @@ Faithlessness.
 
 #### Romanization:
 Kōmaṭi viśvāsamu.
+
 Komati visvasamu.
 {% endcapture %}
 

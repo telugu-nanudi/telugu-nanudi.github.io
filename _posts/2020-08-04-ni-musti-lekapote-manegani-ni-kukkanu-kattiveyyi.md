@@ -19,6 +19,7 @@ Said by a beggar.
 
 #### Romanization:
 Nī muṣṭi lēkapōtē mānegāni, nī kukkanu kaṭṭiveyyi.
+
 Ni musti lekapote manegani, ni kukkanu kattiveyyi.
 {% endcapture %}
 

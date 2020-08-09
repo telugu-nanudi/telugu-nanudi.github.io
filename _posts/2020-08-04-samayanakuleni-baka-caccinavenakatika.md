@@ -18,6 +18,7 @@ Said by a beggar, who blew his horn when he was being carried away by a tiger, t
 
 #### Romanization:
 Samayānakulēni bākā caccinavenakaṭikā.
+
 Samayanakuleni baka caccinavenakatika.
 {% endcapture %}
 

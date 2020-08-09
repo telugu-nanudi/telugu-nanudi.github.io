@@ -18,6 +18,7 @@ Said by a miserable daughter, who had been married to a bad husband.
 
 #### Romanization:
 Tagu dāsarikī meḍa pūsalakū, am'makanna kānpukū ayya yiccina manumukū.
+
 Tagu dasariki meda pusalaku, am'makanna kanpuku ayya yiccina manumuku.
 {% endcapture %}
 

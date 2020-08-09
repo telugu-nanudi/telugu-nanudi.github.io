@@ -20,6 +20,7 @@ Good men must die, but death cannot kill their names.
 
 #### Romanization:
 Man̄ci vāniki maraṇamē sākṣi.
+
 Manci vaniki maraname saksi.
 {% endcapture %}
 

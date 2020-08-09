@@ -21,6 +21,7 @@ Whatever way you take there is a league of bad road. (Spanish)[1]
 
 #### Romanization:
 Am'madaggira kinda paḍukonnā vakaṭē, abbadaggira nēla paḍukonnā vakaṭē.
+
 Am'madaggira kinda padukonna vakate, abbadaggira nela padukonna vakate.
 {% endcapture %}
 

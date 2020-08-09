@@ -14,6 +14,7 @@ Squabbling on the fourth day of the marriage.
 
 #### Romanization:
 Nāgavalli niṣṭhuramu.
+
 Nagavalli nisthuramu.
 {% endcapture %}
 

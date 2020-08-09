@@ -17,6 +17,7 @@ The plantain leaf alike suffers, whether it falls on the thorn, or the thorn fal
 
 #### Romanization:
 Ariṭāku vacci muṇṭimīda paḍḍā ariṭākudē kaṣṭamu, mullu vacci ariṭākumīda paḍḍā ariṭākudē kaṣṭamu.
+
 Aritaku vacci muntimida padda aritakude kastamu, mullu vacci aritakumida padda aritakude kastamu.
 {% endcapture %}
 

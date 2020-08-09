@@ -18,6 +18,7 @@ A Reddi who had oppressed the people of his village all his life, requested them
 
 #### Romanization:
 Ōrcalēni reḍḍi vuṇḍī cericenu, caccī cericenu.
+
 Orcaleni reddi vundi cericenu, cacci cericenu.
 {% endcapture %}
 

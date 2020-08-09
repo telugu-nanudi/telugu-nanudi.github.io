@@ -18,6 +18,7 @@ Small in body, great in fame.
 
 #### Romanization:
 Mūrti kon̄cemayinā kīrti vistāramu.
+
 Murti koncemayina kirti vistaramu.
 {% endcapture %}
 

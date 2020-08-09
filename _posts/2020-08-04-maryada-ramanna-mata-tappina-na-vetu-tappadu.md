@@ -18,6 +18,7 @@ Maryada Ramanna ('the respected Ramanna') was a famous minister, renowned for hi
 
 #### Romanization:
 Maryāda rāmanna māṭa tappinā, nā vēṭu tappadu.
+
 Maryada ramanna mata tappina, na vetu tappadu.
 {% endcapture %}
 

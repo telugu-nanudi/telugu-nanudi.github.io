@@ -18,6 +18,7 @@ The first at dinner gets the best of the lure, the last to bathe gets the best s
 
 #### Romanization:
 Bhōjanāniki mundu, snānāniki venaka.
+
 Bhojananiki mundu, snananiki venaka.
 {% endcapture %}
 

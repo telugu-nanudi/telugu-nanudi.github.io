@@ -18,6 +18,7 @@ The evil consequences of a crime are aggravated by its concealment.
 
 #### Romanization:
 Mūśipeṭṭitē, pāśipōyinadi.
+
 Musipettite, pasipoyinadi.
 {% endcapture %}
 

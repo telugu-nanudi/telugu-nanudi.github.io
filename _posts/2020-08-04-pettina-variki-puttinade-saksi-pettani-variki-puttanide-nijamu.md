@@ -18,6 +18,7 @@ If the charitable become poor, they will not ask for help in vain ; but the unch
 
 #### Romanization:
 Peṭṭina vāriki puṭṭinadē sākṣi, peṭṭani vāriki puṭṭanidē nijamu.
+
 Pettina variki puttinade saksi, pettani variki puttanide nijamu.
 {% endcapture %}
 

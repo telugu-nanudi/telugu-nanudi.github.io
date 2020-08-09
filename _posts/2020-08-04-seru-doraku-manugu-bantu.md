@@ -19,6 +19,7 @@ The servant is the master.
 
 #### Romanization:
 Śēru doraku, maṇugu baṇṭu.
+
 Seru doraku, manugu bantu.
 {% endcapture %}
 

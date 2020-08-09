@@ -20,6 +20,7 @@ One man foolish in one way and one man in another.
 
 #### Romanization:
 Mulakakāyaku tagina muṇḍlu yeppuḍu vunnavō, kākarakāyaku tagina garukulu appuḍē vunnavi.
+
 Mulakakayaku tagina mundlu yeppudu vunnavo, kakarakayaku tagina garukulu appude vunnavi.
 {% endcapture %}
 

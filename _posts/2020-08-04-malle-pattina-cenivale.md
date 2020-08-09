@@ -16,6 +16,7 @@ Sudden and overwhelming ruin.
 
 #### Romanization:
 Malle paṭṭina cēnivale.
+
 Malle pattina cenivale.
 {% endcapture %}
 

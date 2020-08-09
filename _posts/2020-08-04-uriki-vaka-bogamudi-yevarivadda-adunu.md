@@ -14,6 +14,7 @@ There is but one dancing girl in the village; before whom is she to dance?
 
 #### Romanization:
 Ūriki vaka bōgamudi, yevarivadda āḍunu.
+
 Uriki vaka bogamudi, yevarivadda adunu.
 {% endcapture %}
 

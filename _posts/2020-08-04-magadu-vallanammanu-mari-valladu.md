@@ -19,6 +19,7 @@ You cannot damage a wrecked ship. (Italian.)[1]
 
 #### Romanization:
 Magaḍu vallanam'manu mārī valladu.
+
 Magadu vallanam'manu mari valladu.
 {% endcapture %}
 

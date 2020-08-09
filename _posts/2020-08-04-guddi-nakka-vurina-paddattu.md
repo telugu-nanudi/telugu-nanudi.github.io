@@ -14,6 +14,7 @@ Like the blind jackal falling into the snare.
 
 #### Romanization:
 Guḍḍi nakka vurina paḍḍaṭṭu.
+
 Guddi nakka vurina paddattu.
 {% endcapture %}
 

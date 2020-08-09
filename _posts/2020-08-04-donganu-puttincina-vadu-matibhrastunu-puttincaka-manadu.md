@@ -18,6 +18,7 @@ A fool only is cheated.
 
 #### Romanization:
 Doṅganu puṭṭin̄cina vāḍu matibhraṣṭunu puṭṭin̄caka mānaḍu.
+
 Donganu puttincina vadu matibhrastunu puttincaka manadu.
 {% endcapture %}
 

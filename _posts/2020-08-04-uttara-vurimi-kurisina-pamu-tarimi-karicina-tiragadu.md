@@ -18,6 +18,7 @@ If there be rain with thunder when the sun is in Uttara, there will be no drough
 
 #### Romanization:
 Uttara vurimi kuriśinā, pāmu tarimi karicinā tiragadu.
+
 Uttara vurimi kurisina, pamu tarimi karicina tiragadu.
 {% endcapture %}
 

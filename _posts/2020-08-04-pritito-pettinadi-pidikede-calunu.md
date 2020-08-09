@@ -18,6 +18,7 @@ If given with love, a handful is sufficient.
 
 #### Romanization:
 Prītitō peṭṭinadi piḍikeḍē cālunu.
+
 Pritito pettinadi pidikede calunu.
 {% endcapture %}
 

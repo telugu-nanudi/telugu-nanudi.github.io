@@ -20,6 +20,7 @@ Applied to a person selfishly taking work out of others' bands which he is unabl
 
 #### Romanization:
 Tirapati maṅgalavāḍivattu.
+
 Tirapati mangalavadivattu.
 {% endcapture %}
 

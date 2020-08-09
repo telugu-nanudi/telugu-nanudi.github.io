@@ -16,6 +16,7 @@ What is pleasant to the eye is good for the stomach.
 
 #### Romanization:
 Kaṇṭiki yimpayitē, kaḍupuku yimpu.
+
 Kantiki yimpayite, kadupuku yimpu.
 {% endcapture %}
 

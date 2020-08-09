@@ -17,6 +17,7 @@ Though [a husband] be low in rank, he should not be younger than his wife. (Or, 
 
 #### Romanization:
 Kulahīnamayinā, varahīnamu kārādu.
+
 Kulahinamayina, varahinamu karadu.
 {% endcapture %}
 

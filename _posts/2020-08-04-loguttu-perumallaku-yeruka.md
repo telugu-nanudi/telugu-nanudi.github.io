@@ -18,6 +18,7 @@ The secrets of the heart are known to Perumal (Vishnu ).
 
 #### Romanization:
 Lōguṭṭu perumāḷlaku yeruka.
+
 Loguttu perumallaku yeruka.
 {% endcapture %}
 

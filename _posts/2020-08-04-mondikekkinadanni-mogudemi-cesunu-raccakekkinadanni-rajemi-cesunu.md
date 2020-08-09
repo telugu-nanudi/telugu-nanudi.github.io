@@ -17,6 +17,7 @@ What can a husband do to a refractory wife? What can a king do to a woman who en
 
 #### Romanization:
 Moṇḍikekkinadānni moguḍēmi cēsunu, raccakekkinadānni rājēmi cēsunu.
+
 Mondikekkinadanni mogudemi cesunu, raccakekkinadanni rajemi cesunu.
 {% endcapture %}
 

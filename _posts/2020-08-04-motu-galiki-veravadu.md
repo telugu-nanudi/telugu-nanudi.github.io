@@ -14,6 +14,7 @@ A rough man does not fear the wind.
 
 #### Romanization:
 Mōṭu gāliki veravaḍu.
+
 Motu galiki veravadu.
 {% endcapture %}
 

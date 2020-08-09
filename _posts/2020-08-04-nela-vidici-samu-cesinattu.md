@@ -18,6 +18,7 @@ If you loose your footing you will loose your power. (Brown's Tel. Diet. )
 
 #### Romanization:
 Nēla viḍici sāmu cēśinaṭṭu.
+
 Nela vidici samu cesinattu.
 {% endcapture %}
 

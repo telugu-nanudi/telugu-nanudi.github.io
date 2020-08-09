@@ -19,6 +19,7 @@ A great talker but not good at his work.
 
 #### Romanization:
 Kūta karaṇamu.
+
 Kuta karanamu.
 {% endcapture %}
 

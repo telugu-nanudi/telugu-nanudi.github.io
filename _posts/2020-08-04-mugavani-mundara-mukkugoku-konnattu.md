@@ -19,6 +19,7 @@ Deriding the defects of another.
 
 #### Romanization:
 Mūgavāni mundara mukkugōku konnaṭṭu.
+
 Mugavani mundara mukkugoku konnattu.
 {% endcapture %}
 

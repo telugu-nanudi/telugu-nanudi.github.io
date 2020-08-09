@@ -18,6 +18,7 @@ Either victory or defeat.
 
 #### Romanization:
 Daṇḍulōkipōtē, reṇṭlō vakaṭi.
+
 Dandulokipote, rentlo vakati.
 {% endcapture %}
 

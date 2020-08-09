@@ -20,6 +20,7 @@ Vows made in storms are forgotten in calms.
 
 #### Romanization:
 Prasūti vairāgyamu, purāṇa vairāgyamu, śmaśāna vairāgyamu.
+
 Prasuti vairagyamu, purana vairagyamu, smasana vairagyamu.
 {% endcapture %}
 

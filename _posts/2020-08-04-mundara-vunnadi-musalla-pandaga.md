@@ -19,6 +19,7 @@ Said of greater troubles still to be borne.
 
 #### Romanization:
 Mundara vunnadi musaḷla paṇḍaga.
+
 Mundara vunnadi musalla pandaga.
 {% endcapture %}
 

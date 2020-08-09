@@ -18,6 +18,7 @@ Whither goest thou, Misfortune? To where there is more. (Spanish.) [1]
 
 #### Romanization:
 Kum'mu ceppukonēṭanduku gūḍūru pōtē, yēḍu vūḷla kum'mu yedurugā vaccinadi.
+
 Kum'mu ceppukonetanduku guduru pote, yedu vulla kum'mu yeduruga vaccinadi.
 {% endcapture %}
 

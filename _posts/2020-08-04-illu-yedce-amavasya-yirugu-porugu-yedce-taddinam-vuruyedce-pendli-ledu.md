@@ -19,6 +19,7 @@ At the new moon the Hindus abstain from eating rice in the evening, but take car
 
 #### Romanization:
 Illu yēḍcē amāvāsya, yirugū porugū yēḍcē taddinaṁ, vūruyēḍcē peṇḍli lēdu.
+
 Illu yedce amavasya, yirugu porugu yedce taddinam, vuruyedce pendli ledu.
 {% endcapture %}
 

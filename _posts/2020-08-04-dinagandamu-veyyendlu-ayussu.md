@@ -19,6 +19,7 @@ Applied to a man always in danger of losing his situation.
 
 #### Romanization:
 Dinagaṇḍamu veyyēṇḍlu āyus'su.
+
 Dinagandamu veyyendlu ayus'su.
 {% endcapture %}
 

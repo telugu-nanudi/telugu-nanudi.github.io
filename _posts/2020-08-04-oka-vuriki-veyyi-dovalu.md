@@ -19,6 +19,7 @@ There are more ways to the wood than one.
 
 #### Romanization:
 Oka vūriki veyyi dōvalu.
+
 Oka vuriki veyyi dovalu.
 {% endcapture %}
 

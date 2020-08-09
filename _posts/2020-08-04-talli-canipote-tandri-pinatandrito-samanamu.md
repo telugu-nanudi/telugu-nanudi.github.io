@@ -17,6 +17,7 @@ He is not so affectionate as before.
 
 #### Romanization:
 Talli canipōtē taṇḍri pinataṇḍritō samānamu.
+
 Talli canipote tandri pinatandrito samanamu.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ A little fire burn: up a great deal of corn.
 
 #### Romanization:
 Koṇḍanta dūdiki koṇḍanta nippu yēla.
+
 Kondanta dudiki kondanta nippu yela.
 {% endcapture %}
 

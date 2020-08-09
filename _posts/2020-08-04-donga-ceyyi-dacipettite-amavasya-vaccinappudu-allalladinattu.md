@@ -18,6 +18,7 @@ The time it had been accustomed to steal.
 
 #### Romanization:
 Doṅga ceyyi dācipeṭṭitē, amāvāsya vaccinappuḍu allallāḍinaṭṭu.
+
 Donga ceyyi dacipettite, amavasya vaccinappudu allalladinattu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Want of natural affection. Selfish indifference.
 
 #### Romanization:
 Aṅgaṭivīthilō abbā aṇṭē, yevariki puṭṭināvurā koḍakā annaṭṭu.
+
 Angativithilo abba ante, yevariki puttinavura kodaka annattu.
 {% endcapture %}
 

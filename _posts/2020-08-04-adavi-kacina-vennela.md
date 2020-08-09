@@ -19,6 +19,7 @@ Wasted on a spot where it is not appreciated.
 
 #### Romanization:
 Aḍavi kācina vennela.
+
 Adavi kacina vennela.
 {% endcapture %}
 

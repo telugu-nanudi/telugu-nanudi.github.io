@@ -17,6 +17,7 @@ Utterly helpless.
 
 #### Romanization:
 Velugu nīḍa, grāmamu tōḍu.
+
 Velugu nida, gramamu todu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ The biter bit.
 
 #### Romanization:
 Ekkirin̄cabōyi vellakittalā paḍḍāḍaṭa.
+
 Ekkirincaboyi vellakittala paddadata.
 {% endcapture %}
 

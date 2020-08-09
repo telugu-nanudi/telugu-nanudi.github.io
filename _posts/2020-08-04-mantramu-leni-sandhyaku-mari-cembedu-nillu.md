@@ -18,6 +18,7 @@ A man who pretends to perform the Sandhya without really repeating the sacred fo
 
 #### Romanization:
 Mantramu lēni sandhyaku mari cembeḍu nīḷlu.
+
 Mantramu leni sandhyaku mari cembedu nillu.
 {% endcapture %}
 

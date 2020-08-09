@@ -20,6 +20,7 @@ Better a friendly denial than an unwilling compliance. (German)[1]
 
 #### Romanization:
 Antya niṣṭuramukannā ādi niṣṭuramē mēlu.
+
 Antya nisturamukanna adi nisturame melu.
 {% endcapture %}
 

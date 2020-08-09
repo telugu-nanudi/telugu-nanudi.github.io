@@ -14,6 +14,7 @@ By the time the rich man opened his corn bin, the poor man had died.
 
 #### Romanization:
 Kaliginayya gāde tīsēṭappaṭiki pēdavāniki prāṇamu pōyinadi.
+
 Kaliginayya gade tisetappatiki pedavaniki pranamu poyinadi.
 {% endcapture %}
 

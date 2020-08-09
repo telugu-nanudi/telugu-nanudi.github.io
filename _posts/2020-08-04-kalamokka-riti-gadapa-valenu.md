@@ -17,6 +17,7 @@ Change of circumstances should not change the man.
 
 #### Romanization:
 Kālamokka rīti gaḍapa valenu.
+
 Kalamokka riti gadapa valenu.
 {% endcapture %}
 

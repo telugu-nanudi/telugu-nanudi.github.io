@@ -19,6 +19,7 @@ When a superior is in want, an inferior must expect to be neglected.
 
 #### Romanization:
 Mahā mahā vāru maduḷlakinda vuṇṭē, gōḍa cāṭu vāriki śaraṇu śaraṇu.
+
 Maha maha varu madullakinda vunte, goda catu variki saranu saranu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Make good use of your opportunities.
 
 #### Romanization:
 Dīpamu vuṇḍagānē cakkapeṭṭukō valaśinadi.
+
 Dipamu vundagane cakkapettuko valasinadi.
 {% endcapture %}
 

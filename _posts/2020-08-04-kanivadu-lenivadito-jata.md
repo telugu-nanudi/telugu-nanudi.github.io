@@ -14,6 +14,7 @@ An unfriendly person is equal to one that is not.
 
 #### Romanization:
 Kānivāḍu lēnivāḍitō jata.
+
 Kanivadu lenivadito jata.
 {% endcapture %}
 

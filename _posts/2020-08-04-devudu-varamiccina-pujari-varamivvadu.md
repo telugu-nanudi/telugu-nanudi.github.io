@@ -16,6 +16,7 @@ Although God grant a boon, yet the priest will not grant it
 
 #### Romanization:
 Dēvuḍū varamiccinā pūjāri varamivvaḍu.
+
 Devudu varamiccina pujari varamivvadu.
 {% endcapture %}
 

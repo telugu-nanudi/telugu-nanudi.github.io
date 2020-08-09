@@ -16,6 +16,7 @@ An influential person can by a word do great things for others.
 
 #### Romanization:
 Mīku māṭa, nāku mūṭa.
+
 Miku mata, naku muta.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ In this speech a man committed the very three faults from which he boasted he wa
 
 #### Romanization:
 Ātmastutī, paranindā, arthāpēkṣā, lēni mahānubhāvuḍiki nākū ḍabbu, śud'dhaśuṇṭhaku vāḍikī ḍabbā
+
 Atmastuti, paraninda, arthapeksa, leni mahanubhavudiki naku dabbu, sud'dhasunthaku vadiki dabba
 {% endcapture %}
 

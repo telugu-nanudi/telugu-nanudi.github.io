@@ -19,6 +19,7 @@ Pulihora is a more expensive ofl'ering prepared with acid.
 
 #### Romanization:
 Guḷlō dēvuniki naivēdyamu lēkuṇṭē, pūjāri puḷihōraku yēḍcināḍaṭa
+
 Gullo devuniki naivedyamu lekunte, pujari pulihoraku yedcinadata
 {% endcapture %}
 

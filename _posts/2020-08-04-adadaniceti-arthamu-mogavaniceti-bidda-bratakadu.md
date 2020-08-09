@@ -13,6 +13,7 @@ Money left in the hands of a woman wont last ; a child left in the hands of a ma
 
 #### Romanization:
 Āḍadānicēti arthamū, mogavānicēti biḍḍā bratakadu.
+
 Adadaniceti arthamu, mogavaniceti bidda bratakadu.
 {% endcapture %}
 

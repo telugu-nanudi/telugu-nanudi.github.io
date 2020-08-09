@@ -13,6 +13,7 @@ A woman thirty years old and a man three years old are one [in strength].
 
 #### Romanization:
 Mupphayi yēṇḍla āḍadī, mūḍēṇḍla mogavāḍū vakaṭi.
+
 Mupphayi yendla adadi, mudendla mogavadu vakati.
 {% endcapture %}
 

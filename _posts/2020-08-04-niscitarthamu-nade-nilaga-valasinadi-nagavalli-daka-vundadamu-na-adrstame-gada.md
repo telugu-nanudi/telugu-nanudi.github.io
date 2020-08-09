@@ -18,6 +18,7 @@ Said ironically by a girl who had been married to an old man who died before the
 
 #### Romanization:
 Niścitārthamu nāḍē nīlaga valaśinadi, nāgavalli dākā vuṇḍaḍamu nā adr̥ṣṭamē gadā.
+
 Niscitarthamu nade nilaga valasinadi, nagavalli daka vundadamu na adrstame gada.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Said of any thing which must be expected as a matter of course.
 
 #### Romanization:
 Vānalu kurustuṇṭavi, kappalu arustuṇṭavi.
+
 Vanalu kurustuntavi, kappalu arustuntavi.
 {% endcapture %}
 

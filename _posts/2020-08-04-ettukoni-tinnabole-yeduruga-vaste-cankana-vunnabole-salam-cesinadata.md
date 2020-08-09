@@ -18,6 +18,7 @@ A begging impostor paying a visit on one occasion to a village where he thought 
 
 #### Romanization:
 Ettukoni tinnabōle yedurugā vastē, caṅkana vunnabōle salāṁ cēśinadaṭa.
+
 Ettukoni tinnabole yeduruga vaste, cankana vunnabole salam cesinadata.
 {% endcapture %}
 

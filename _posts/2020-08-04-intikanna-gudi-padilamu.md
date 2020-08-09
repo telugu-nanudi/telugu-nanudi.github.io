@@ -19,6 +19,7 @@ Make a virtue of necessity.
 
 #### Romanization:
 Iṇṭikannā guḍi padilamu.
+
 Intikanna gudi padilamu.
 {% endcapture %}
 

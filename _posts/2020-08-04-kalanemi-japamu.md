@@ -19,6 +19,7 @@ Applied to hypocrisy.
 
 #### Romanization:
 Kālanēmi japamu
+
 Kalanemi japamu
 {% endcapture %}
 

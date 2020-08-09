@@ -18,6 +18,7 @@ Attempting to obtain a person's favor by force.
 
 #### Romanization:
 Dēvuḍitōḍu nā mīda daya vun̄ca valaśinadi.
+
 Devuditodu na mida daya vunca valasinadi.
 {% endcapture %}
 

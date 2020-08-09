@@ -17,6 +17,7 @@ People in different positions in life cannot be very intimate.
 
 #### Romanization:
 Kālina mannū kālani mannū aṇṭavu.
+
 Kalina mannu kalani mannu antavu.
 {% endcapture %}
 

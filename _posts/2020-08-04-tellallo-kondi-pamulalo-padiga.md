@@ -16,6 +16,7 @@ The worst among the bad.
 
 #### Romanization:
 Tēḷlallō koṇḍi, pāmulalō paḍiga.
+
 Tellallo kondi, pamulalo padiga.
 {% endcapture %}
 

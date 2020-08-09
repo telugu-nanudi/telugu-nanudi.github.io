@@ -19,6 +19,7 @@ Said of an audacious liar.
 
 #### Romanization:
 Hariścandruḍi nōṭa abad'dhamū rādu, nā nōṭa nijamū rādu.
+
 Hariscandrudi nota abad'dhamu radu, na nota nijamu radu.
 {% endcapture %}
 

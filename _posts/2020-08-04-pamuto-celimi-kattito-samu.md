@@ -16,6 +16,7 @@ Friendship with a snake, fencing with a sword.
 
 #### Romanization:
 Pāmutō celimi, kattitō sāmu.
+
 Pamuto celimi, kattito samu.
 {% endcapture %}
 

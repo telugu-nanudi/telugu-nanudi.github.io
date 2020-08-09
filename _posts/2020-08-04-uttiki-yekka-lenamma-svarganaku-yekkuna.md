@@ -20,6 +20,7 @@ He that can't ride a gentle horse, must not attempt to back a mad call.
 
 #### Romanization:
 Uṭṭiki yekka lēnam'ma svargānaku yekkunā.
+
 Uttiki yekka lenam'ma svarganaku yekkuna.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ Habit.
 
 #### Romanization:
 Adēmi reḍḍī vaṅgi vaṅgi naḍustāvaṇṭē, yeppaṭikālu aṭṭeṭṭē annāḍaṭa.
+
 Ademi reddi vangi vangi nadustavante, yeppatikalu attette annadata.
 {% endcapture %}
 

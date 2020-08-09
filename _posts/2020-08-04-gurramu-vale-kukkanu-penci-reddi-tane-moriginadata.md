@@ -17,6 +17,7 @@ To pay a. servant extravagantly and do his work yourself.
 
 #### Romanization:
 Gurramu vale kukkanu pen̄ci reḍḍi tānē morigināḍaṭa.
+
 Gurramu vale kukkanu penci reddi tane moriginadata.
 {% endcapture %}
 

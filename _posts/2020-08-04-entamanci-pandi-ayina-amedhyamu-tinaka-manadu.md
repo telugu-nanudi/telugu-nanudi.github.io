@@ -19,6 +19,7 @@ A hay in armour is still but a hog.
 
 #### Romanization:
 Entaman̄ci pandi ayinā, amēdhyamu tinaka mānadu.
+
 Entamanci pandi ayina, amedhyamu tinaka manadu.
 {% endcapture %}
 

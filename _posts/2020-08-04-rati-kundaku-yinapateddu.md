@@ -15,6 +15,7 @@ To a hard kust a hard wedge. (Spanish)[2]
 
 #### Romanization:
 Rāti kuṇḍaku yinapateḍḍu.
+
 Rati kundaku yinapateddu.
 {% endcapture %}
 

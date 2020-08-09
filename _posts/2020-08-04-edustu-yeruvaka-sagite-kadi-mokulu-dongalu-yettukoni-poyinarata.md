@@ -13,6 +13,7 @@ While the man was sluggishly ploughing, thieves stole the rope collars.
 
 #### Romanization:
 Ēḍustū yēruvāka sāgitē, kāḍi mōkulu doṅgalu yettukoni pōyināraṭa.
+
 Edustu yeruvaka sagite, kadi mokulu dongalu yettukoni poyinarata.
 {% endcapture %}
 

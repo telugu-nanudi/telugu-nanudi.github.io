@@ -19,6 +19,7 @@ Ineffectual measures.
 
 #### Romanization:
 Ēkulu vun̄citē buṭṭa cirugutunnadā.
+
 Ekulu vuncite butta cirugutunnada.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Said of a person of a vicious disposition.
 
 #### Romanization:
 Viṣapāla vittu, nēpālapugin̄ja.
+
 Visapala vittu, nepalapuginja.
 {% endcapture %}
 

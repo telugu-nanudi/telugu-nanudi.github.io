@@ -18,6 +18,7 @@ Said of a man who is poorly treated in his father-in-law's house while his wife 
 
 #### Romanization:
 Āgabhōgālu akka kuḍistē, ambaṭi parakalu bāva kuḍicināḍu.
+
 Agabhogalu akka kudiste, ambati parakalu bava kudicinadu.
 {% endcapture %}
 

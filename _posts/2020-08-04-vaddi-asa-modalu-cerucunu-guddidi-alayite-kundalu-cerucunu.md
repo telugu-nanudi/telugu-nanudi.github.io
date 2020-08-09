@@ -14,6 +14,7 @@ By seeking usury, the principal suffers; if the wife be blind, the pots suffer.
 
 #### Romanization:
 Vaḍḍi āśa modalu cerucunu, guḍḍidi ālayitē kuṇḍalu cerucunu.
+
 Vaddi asa modalu cerucunu, guddidi alayite kundalu cerucunu.
 {% endcapture %}
 

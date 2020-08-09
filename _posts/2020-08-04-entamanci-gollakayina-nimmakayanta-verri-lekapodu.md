@@ -14,6 +14,7 @@ However good a man a shepherd may be, he will not be entirely free from foolishn
 
 #### Romanization:
 Entaman̄ci gollakayinā, nim'makāyanta verri lēkapōdu.
+
 Entamanci gollakayina, nim'makayanta verri lekapodu.
 {% endcapture %}
 

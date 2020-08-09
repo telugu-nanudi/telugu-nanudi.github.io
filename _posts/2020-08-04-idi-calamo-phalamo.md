@@ -13,6 +13,7 @@ Is this done wantonly or with an object ?
 
 #### Romanization:
 Idi calamō phalamō.
+
 Idi calamo phalamo.
 {% endcapture %}
 

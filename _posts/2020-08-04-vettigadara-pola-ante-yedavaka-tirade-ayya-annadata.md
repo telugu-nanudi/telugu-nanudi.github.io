@@ -21,6 +21,7 @@ Better sit idle than work for naught.
 
 #### Romanization:
 Veṭṭigadarā pōlā aṇṭē, yēḍavaka tīradē ayyā annāḍaṭa.
+
 Vettigadara pola ante, yedavaka tirade ayya annadata.
 {% endcapture %}
 

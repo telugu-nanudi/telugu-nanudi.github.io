@@ -18,6 +18,7 @@ She is always in danger of becoming one.
 
 #### Romanization:
 Doṅgavāḍi peṇḍlāmu yeppuḍū muṇḍamōpē.
+
 Dongavadi pendlamu yeppudu mundamope.
 {% endcapture %}
 

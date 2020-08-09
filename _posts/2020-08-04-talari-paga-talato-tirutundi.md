@@ -16,6 +16,7 @@ Talari is a village watchman.
 
 #### Romanization:
 Talāri paga talatō tīrutundi.
+
 Talari paga talato tirutundi.
 {% endcapture %}
 

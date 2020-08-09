@@ -17,6 +17,7 @@ The result of encouraging low people.
 
 #### Romanization:
 Kukkanu muddu peṭṭukoṇṭē, mūtellā tega nākutunnadi.
+
 Kukkanu muddu pettukonte, mutella tega nakutunnadi.
 {% endcapture %}
 

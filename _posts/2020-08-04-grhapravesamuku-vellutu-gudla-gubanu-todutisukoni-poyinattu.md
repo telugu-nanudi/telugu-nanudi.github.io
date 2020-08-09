@@ -20,6 +20,7 @@ Keeping company with your ill-wishers.
 
 #### Romanization:
 Gr̥hapravēśamuku veḷlutū guḍla gūbanu tōḍutīsukoni pōyinaṭṭu.
+
 Grhapravesamuku vellutu gudla gubanu todutisukoni poyinattu.
 {% endcapture %}
 

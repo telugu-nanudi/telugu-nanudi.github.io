@@ -16,6 +16,7 @@ A stingy man is always poor. (French.)[1]
 
 #### Romanization:
 Lōbhiki nālugandālā naṣṭamu.
+
 Lobhiki nalugandala nastamu.
 {% endcapture %}
 

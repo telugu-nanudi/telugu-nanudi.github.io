@@ -19,6 +19,7 @@ Idle folks lack no excuses.
 
 #### Romanization:
 Oḷlu vaṅganam'ma kāli meṭṭelanu kandipōyinadaṭa
+
 Ollu vanganam'ma kali mettelanu kandipoyinadata
 {% endcapture %}
 

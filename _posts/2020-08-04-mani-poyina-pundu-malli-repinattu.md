@@ -16,6 +16,7 @@ To rip up old sores.
 
 #### Romanization:
 Māni pōyina puṇḍu maḷlī rēpinaṭṭu.
+
 Mani poyina pundu malli repinattu.
 {% endcapture %}
 

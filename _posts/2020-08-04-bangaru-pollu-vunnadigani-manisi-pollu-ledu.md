@@ -16,6 +16,7 @@ There is dross in gold, but there is no defect in man.
 
 #### Romanization:
 Baṅgāru pollu vunnadigāni maniṣi pollu lēdu.
+
 Bangaru pollu vunnadigani manisi pollu ledu.
 {% endcapture %}
 

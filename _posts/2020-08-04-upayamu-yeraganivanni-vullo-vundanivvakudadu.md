@@ -15,6 +15,7 @@ A witless fellow should not be allowed to remain in the village.
 
 #### Romanization:
 Upāyamu yeraganivāṇni vūḷlō vuṇḍanivvakūḍadu.
+
 Upayamu yeraganivanni vullo vundanivvakudadu.
 {% endcapture %}
 

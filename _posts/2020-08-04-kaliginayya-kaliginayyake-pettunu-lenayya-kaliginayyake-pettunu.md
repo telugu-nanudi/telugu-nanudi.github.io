@@ -17,6 +17,7 @@ Who has, is - (Italian.)[1]
 
 #### Romanization:
 Kaliginayya kaliginayyakē peṭṭunu, lēnayya kaliginayyakē peṭṭunu.
+
 Kaliginayya kaliginayyake pettunu, lenayya kaliginayyake pettunu.
 {% endcapture %}
 

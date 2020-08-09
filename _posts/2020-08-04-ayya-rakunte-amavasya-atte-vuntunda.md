@@ -17,6 +17,7 @@ Time and tide wait for no man.
 
 #### Romanization:
 Ayya rākuṇṭē amāvāsya aṭṭe vuṇṭundā.
+
 Ayya rakunte amavasya atte vuntunda.
 {% endcapture %}
 

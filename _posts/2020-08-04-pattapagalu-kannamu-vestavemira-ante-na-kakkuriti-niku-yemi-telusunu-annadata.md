@@ -18,6 +18,7 @@ Distress tempts to crime.
 
 #### Romanization:
 Paṭṭapagalu kannamu vēstāvēmirā aṇṭē, nā kakkuriti nīku yēmi telusunu annāḍaṭa.
+
 Pattapagalu kannamu vestavemira ante, na kakkuriti niku yemi telusunu annadata.
 {% endcapture %}
 

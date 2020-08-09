@@ -17,6 +17,7 @@ Fresh [news is heard with] pleasure, stale [news with] disgust.
 
 #### Romanization:
 Kotta vinta, pāta rōta.
+
 Kotta vinta, pata rota.
 {% endcapture %}
 

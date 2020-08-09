@@ -13,6 +13,7 @@ Money went and madness came.
 
 #### Romanization:
 Som'mū pōyi dim'mū paṭṭinadi.
+
 Som'mu poyi dim'mu pattinadi.
 {% endcapture %}
 

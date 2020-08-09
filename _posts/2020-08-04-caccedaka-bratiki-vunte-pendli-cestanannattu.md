@@ -17,6 +17,7 @@ A jocular saying.
 
 #### Romanization:
 Caccēdākā bratiki vuṇṭē peṇḍli cēstānannaṭṭu.
+
 Caccedaka bratiki vunte pendli cestanannattu.
 {% endcapture %}
 

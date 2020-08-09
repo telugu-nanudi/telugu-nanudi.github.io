@@ -20,6 +20,7 @@ An ill wound may be cured, but not an ill name.
 
 #### Romanization:
 Payibaḍḍa māṭā, maḍi paḍḍa nīḷlū pōtavā.
+
 Payibadda mata, madi padda nillu potava.
 {% endcapture %}
 

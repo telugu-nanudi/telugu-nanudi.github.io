@@ -19,6 +19,7 @@ Outwitting a crafty man.
 
 #### Romanization:
 Doṅga vākiṭa man̄camu vēśinaṭṭu.
+
 Donga vakita mancamu vesinattu.
 {% endcapture %}
 

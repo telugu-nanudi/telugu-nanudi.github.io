@@ -15,6 +15,7 @@ Life is sweet.
 
 #### Romanization:
 Evari prāṇamu vāriki tīpu.
+
 Evari pranamu variki tipu.
 {% endcapture %}
 

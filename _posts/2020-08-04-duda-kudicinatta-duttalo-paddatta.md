@@ -18,6 +18,7 @@ In either way beneficial.
 
 #### Romanization:
 Dūḍa kuḍicinaṭṭā duttalō paḍḍaṭṭā.
+
 Duda kudicinatta duttalo paddatta.
 {% endcapture %}
 

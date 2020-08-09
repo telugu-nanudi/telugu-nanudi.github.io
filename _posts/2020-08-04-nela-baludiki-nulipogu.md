@@ -18,6 +18,7 @@ When Hindus see the new moon, they unravel a thread from one of their garments a
 
 #### Romanization:
 Nela bāluḍiki nūlipōgu.
+
 Nela baludiki nulipogu.
 {% endcapture %}
 

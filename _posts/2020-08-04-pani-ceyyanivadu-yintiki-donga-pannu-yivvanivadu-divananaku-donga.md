@@ -18,6 +18,7 @@ A man who does not work robs the house, a man who pays no taxes robs the governm
 
 #### Romanization:
 Pani ceyyanivāḍu yiṇṭiki doṅga, pannu yivvanivāḍu divāṇānaku doṅga.
+
 Pani ceyyanivadu yintiki donga, pannu yivvanivadu divananaku donga.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ What is the roughness of the ear to the man who gets grain for nothing ?
 
 #### Romanization:
 Tēragāḍiki yēmirā tella jonnanūgu.
+
 Teragadiki yemira tella jonnanugu.
 {% endcapture %}
 

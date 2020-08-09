@@ -20,6 +20,7 @@ When a man's relatives and friends won't assist him, why should help be expected
 
 #### Romanization:
 Kandaku lēdu, cēmaku lēdu, tōṭakūraku vaccenā durada.
+
 Kandaku ledu, cemaku ledu, totakuraku vaccena durada.
 {% endcapture %}
 

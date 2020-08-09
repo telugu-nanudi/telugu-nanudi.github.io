@@ -15,6 +15,7 @@ If you out fire it will be divided, but if you out water will
 
 #### Romanization:
 Nippu koṭṭitē reṇḍu avunugāni, nīḷlu koṭṭitē reṇḍu avunā.
+
 Nippu kottite rendu avunugani, nillu kottite rendu avuna.
 {% endcapture %}
 

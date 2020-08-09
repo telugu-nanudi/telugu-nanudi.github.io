@@ -13,6 +13,7 @@ You may walk among snakes, but keep clear of Vaishnava priests.
 
 #### Romanization:
 Pāmulalō melaga vaccunugāni, svāmulalō melaga kūḍadu.
+
 Pamulalo melaga vaccunugani, svamulalo melaga kudadu.
 {% endcapture %}
 

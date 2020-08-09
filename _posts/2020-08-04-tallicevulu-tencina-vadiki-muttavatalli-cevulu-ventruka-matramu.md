@@ -17,6 +17,7 @@ The man who tears [the ornaments out of] his mother's ears, will not care a rush
 
 #### Romanization:
 Tallicevulu ten̄cina vāḍiki muttavatalli cevulu veṇṭruka mātramu.
+
 Tallicevulu tencina vadiki muttavatalli cevulu ventruka matramu.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ When a Hindu dies his widow is supported by her relatives, and his portion of th
 
 #### Romanization:
 Bāva maridi bratakakōrunu, dāyādi cāva kōrunu.
+
 Bava maridi bratakakorunu, dayadi cava korunu.
 {% endcapture %}
 

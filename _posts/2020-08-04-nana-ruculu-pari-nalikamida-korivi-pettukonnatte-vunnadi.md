@@ -18,6 +18,7 @@ Said by a man to n wretched cook.
 
 #### Romanization:
 Nānā ruculu pāri nālikamīda korivi peṭṭukonnaṭṭē vunnadi.
+
 Nana ruculu pari nalikamida korivi pettukonnatte vunnadi.
 {% endcapture %}
 

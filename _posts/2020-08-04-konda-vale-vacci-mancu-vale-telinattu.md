@@ -19,6 +19,7 @@ Said of a difficulty which appears great when distant but is easily overcome whe
 
 #### Romanization:
 Koṇḍa vale vacci man̄cu vale tēlinaṭṭu
+
 Konda vale vacci mancu vale telinattu
 {% endcapture %}
 

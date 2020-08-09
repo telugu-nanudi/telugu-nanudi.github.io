@@ -17,6 +17,7 @@ Who has not, is not. (Italian.)[1]
 
 #### Romanization:
 Rūka lēni vāḍu pōka ceyya lēḍu.
+
 Ruka leni vadu poka ceyya ledu.
 {% endcapture %}
 

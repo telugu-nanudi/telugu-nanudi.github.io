@@ -19,6 +19,7 @@ Gopuram is the tower over the gate of a Hindu temple.
 
 #### Romanization:
 Koṇḍa miṅgē vāniki gōpuramu aḍḍamā.
+
 Konda minge vaniki gopuramu addama.
 {% endcapture %}
 

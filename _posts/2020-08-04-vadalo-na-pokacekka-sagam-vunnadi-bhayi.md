@@ -19,6 +19,7 @@ Said of a clever cheat.
 
 #### Romanization:
 Vāḍalō nā pōkacekka sagaṁ vunnadi bhāyī.
+
 Vadalo na pokacekka sagam vunnadi bhayi.
 {% endcapture %}
 

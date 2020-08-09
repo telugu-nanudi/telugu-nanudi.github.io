@@ -19,6 +19,7 @@ Applied to any unprofitable transaction.
 
 #### Romanization:
 Lābhamu gūbalalōki vaccinadi.
+
 Labhamu gubalaloki vaccinadi.
 {% endcapture %}
 

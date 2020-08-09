@@ -18,6 +18,7 @@ A man abusing his wife's parents.
 
 #### Romanization:
 Cākala attā, maṅgala māma.
+
 Cakala atta, mangala mama.
 {% endcapture %}
 

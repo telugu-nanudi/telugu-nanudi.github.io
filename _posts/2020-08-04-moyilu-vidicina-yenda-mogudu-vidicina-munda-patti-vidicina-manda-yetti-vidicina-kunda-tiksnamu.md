@@ -19,6 +19,7 @@ A man under no restraint is a bear without a ring.
 
 #### Romanization:
 Moyilu viḍicina yeṇḍā, moguḍu viḍicina muṇḍā, paṭṭi viḍicina maṇḍā, yetti viḍicina kuṇḍā tīkṣṇamu.
+
 Moyilu vidicina yenda, mogudu vidicina munda, patti vidicina manda, yetti vidicina kunda tiksnamu.
 {% endcapture %}
 

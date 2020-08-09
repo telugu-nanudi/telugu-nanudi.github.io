@@ -16,6 +16,7 @@ A child brought up by a widow is like a bullock without a nose-rope.
 
 #### Romanization:
 Muṇḍa pen̄cina biḍḍa mugadāḍu lēni yeddutō samānamu.
+
 Munda pencina bidda mugadadu leni yedduto samanamu.
 {% endcapture %}
 

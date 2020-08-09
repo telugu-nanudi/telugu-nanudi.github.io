@@ -19,6 +19,7 @@ Excessive obstinacy.
 
 #### Romanization:
 Maṭṭi yeddayinā, mā yeddē gelava valenu.
+
 Matti yeddayina, ma yedde gelava valenu.
 {% endcapture %}
 

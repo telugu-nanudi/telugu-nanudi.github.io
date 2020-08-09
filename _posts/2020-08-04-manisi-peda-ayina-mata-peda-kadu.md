@@ -19,6 +19,7 @@ Great words with an empty purse.
 
 #### Romanization:
 Maniṣi pēda ayinā, māṭa pēda kādu.
+
 Manisi peda ayina, mata peda kadu.
 {% endcapture %}
 

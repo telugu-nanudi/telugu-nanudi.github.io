@@ -20,6 +20,7 @@ Swindling.
 
 #### Romanization:
 Illu corabaḍi yiṇṭivāsālu lekkapeṭṭināḍaṭa.
+
 Illu corabadi yintivasalu lekkapettinadata.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Though the snake be small, you must hit him with a big stick.
 
 #### Romanization:
 Cinnapāmunayinā, pedda karratō koṭṭa valenu.
+
 Cinnapamunayina, pedda karrato kotta valenu.
 {% endcapture %}
 

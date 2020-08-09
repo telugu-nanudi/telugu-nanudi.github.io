@@ -19,6 +19,7 @@ Claiming relationship.
 
 #### Romanization:
 Aṇṭū saṇṭū lēni kōḍali dāni mēnamāma koḍuku cikkuḍu ceṭṭukindiki pōyi pakkalu yegaravēśināḍaṭa.
+
 Antu santu leni kodali dani menamama koduku cikkudu cettukindiki poyi pakkalu yegaravesinadata.
 {% endcapture %}
 

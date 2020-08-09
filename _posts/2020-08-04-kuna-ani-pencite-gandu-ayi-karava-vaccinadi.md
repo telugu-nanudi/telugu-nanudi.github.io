@@ -20,6 +20,7 @@ Foster a raven and it will peck out your eyes. (Spanish)[1]
 
 #### Romanization:
 Kūna ani pen̄citē, gaṇḍu ayi karava vaccinadi.
+
 Kuna ani pencite, gandu ayi karava vaccinadi.
 {% endcapture %}
 

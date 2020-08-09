@@ -18,6 +18,7 @@ When he was sent to find out, he ate and returned.
 
 #### Romanization:
 Vini ram'maṇṭē, tini vaccinaṭṭu.
+
 Vini ram'mante, tini vaccinattu.
 {% endcapture %}
 

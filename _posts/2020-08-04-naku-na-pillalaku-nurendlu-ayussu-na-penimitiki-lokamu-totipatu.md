@@ -19,6 +19,7 @@ The prayer of a. wife who did not love her lord.
 
 #### Romanization:
 Nākū nā pillalakū nūrēṇḍlu āyus'su, nā penimiṭiki lōkamu tōṭipāṭu.
+
 Naku na pillalaku nurendlu ayus'su, na penimitiki lokamu totipatu.
 {% endcapture %}
 

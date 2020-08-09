@@ -15,6 +15,7 @@ Patience will save you and your neighbour.
 
 #### Romanization:
 Tāḷimi tannū kācunu yedirinī kācunu.
+
 Talimi tannu kacunu yedirini kacunu.
 {% endcapture %}
 

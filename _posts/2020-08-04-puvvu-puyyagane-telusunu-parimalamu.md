@@ -18,6 +18,7 @@ A man's worth is known when he is grown up.
 
 #### Romanization:
 Puvvu puyyagānē telusunu parimaḷamu.
+
 Puvvu puyyagane telusunu parimalamu.
 {% endcapture %}
 

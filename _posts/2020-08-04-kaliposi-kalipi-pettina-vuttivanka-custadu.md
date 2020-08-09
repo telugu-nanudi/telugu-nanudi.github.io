@@ -19,6 +19,7 @@ The guest disbelieved the poor state of the house.
 
 #### Romanization:
 Kalipōsi kalipi peṭṭinā vuṭṭivaṅka cūstāḍu.
+
 Kaliposi kalipi pettina vuttivanka custadu.
 {% endcapture %}
 

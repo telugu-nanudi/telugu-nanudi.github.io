@@ -19,6 +19,7 @@ Applied to a trimmer.
 
 #### Romanization:
 Pāmunū cāvanivvaḍu, baḍitē viraganivvaḍu.
+
 Pamunu cavanivvadu, badite viraganivvadu.
 {% endcapture %}
 

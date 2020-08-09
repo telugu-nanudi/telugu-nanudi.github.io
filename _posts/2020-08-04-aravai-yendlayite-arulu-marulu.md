@@ -14,6 +14,7 @@ When sixty years have passed, dotage.
 
 #### Romanization:
 Aravai yēṇḍlayitē arulu marulu.
+
 Aravai yendlayite arulu marulu.
 {% endcapture %}
 

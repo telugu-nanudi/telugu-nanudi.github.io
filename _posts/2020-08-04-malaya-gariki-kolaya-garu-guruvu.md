@@ -18,6 +18,7 @@ Said contemptuously of a Pariah.
 
 #### Romanization:
 Mālāya gāriki kōlāya gāru guruvu.
+
 Malaya gariki kolaya garu guruvu.
 {% endcapture %}
 

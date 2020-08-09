@@ -19,6 +19,7 @@ When a great men suffers he drags others with him into trouble.
 
 #### Romanization:
 Rāca pīnuga tōḍu lēkuṇḍā cāvadu.
+
 Raca pinuga todu lekunda cavadu.
 {% endcapture %}
 

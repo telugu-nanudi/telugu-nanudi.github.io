@@ -18,6 +18,7 @@ Said by a poor man who was obliged to show hospitality which he could ill afford
 
 #### Romanization:
 Pilistē bigistē sarigāni vastē vāḍi abba taramā.
+
 Piliste bigiste sarigani vaste vadi abba tarama.
 {% endcapture %}
 

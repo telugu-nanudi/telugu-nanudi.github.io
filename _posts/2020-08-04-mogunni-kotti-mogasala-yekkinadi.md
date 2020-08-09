@@ -16,6 +16,7 @@ Beating her husband and then lodging a complaint against him.
 
 #### Romanization:
 Moguṇni koṭṭi mogasāla yekkinadi.
+
 Mogunni kotti mogasala yekkinadi.
 {% endcapture %}
 

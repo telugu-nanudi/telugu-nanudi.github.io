@@ -19,6 +19,7 @@ Halt not before a cripple.
 
 #### Romanization:
 Accaṁ tirumaṇidhāri ayitē pulla paṭṭaḍanlōnē telusunu.
+
 Accam tirumanidhari ayite pulla pattadanlone telusunu.
 {% endcapture %}
 

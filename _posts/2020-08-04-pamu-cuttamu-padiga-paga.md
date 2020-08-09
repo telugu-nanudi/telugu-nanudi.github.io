@@ -18,6 +18,7 @@ Being on friendly terms with members of a family though on bad terms with the he
 
 #### Romanization:
 Pāmu cuṭṭamu paḍiga paga.
+
 Pamu cuttamu padiga paga.
 {% endcapture %}
 

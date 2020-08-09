@@ -18,6 +18,7 @@ The helpless are mocked and ill-treated.
 
 #### Romanization:
 Verrivāḍi peṇḍlāmu vāḍavadine.
+
 Verrivadi pendlamu vadavadine.
 {% endcapture %}
 

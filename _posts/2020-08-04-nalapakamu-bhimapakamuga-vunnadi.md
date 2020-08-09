@@ -16,6 +16,7 @@ It is like the cooking of Nala and Bhima.
 
 #### Romanization:
 Nalapākamu bhīmapākamugā vunnadi.
+
 Nalapakamu bhimapakamuga vunnadi.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ Wisdom according to your birth, religious observances according to your caste.
 
 #### Romanization:
 Jātikoddī bud'dhi, kulamukoddī ācāramu.
+
 Jatikoddi bud'dhi, kulamukoddi acaramu.
 {% endcapture %}
 

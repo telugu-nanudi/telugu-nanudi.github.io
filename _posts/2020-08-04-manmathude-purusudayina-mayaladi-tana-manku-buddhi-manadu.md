@@ -17,6 +17,7 @@ Although Cupid himself were the husband of a bad 'woman, she would not give up h
 
 #### Romanization:
 Manmathuḍē puruṣuḍayinā, māyalāḍi tana maṅku bud'dhi mānadu.
+
 Manmathude purusudayina, mayaladi tana manku bud'dhi manadu.
 {% endcapture %}
 

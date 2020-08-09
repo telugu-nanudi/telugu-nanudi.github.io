@@ -19,6 +19,7 @@ A bad man is, in the estimate of his fellow men, as little valued as if he were 
 
 #### Romanization:
 Jīvanmr̥tuḍu, mr̥ta jīvuḍu.
+
 Jivanmrtudu, mrta jivudu.
 {% endcapture %}
 

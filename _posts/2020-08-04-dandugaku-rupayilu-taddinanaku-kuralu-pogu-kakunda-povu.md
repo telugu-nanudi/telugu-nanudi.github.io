@@ -18,6 +18,7 @@ Foolishly giving aid in matters which bring no personal profit.
 
 #### Romanization:
 Daṇḍugaku rūpāyilū, taddinānaku kūralū pōgu kākuṇḍā pōvu.
+
 Dandugaku rupayilu, taddinanaku kuralu pogu kakunda povu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ If [the people] stay, it is a village; if [the people] go, it is a ruin.
 
 #### Romanization:
 Uṇṭē vūru, pōtē pāḍu.
+
 Unte vuru, pote padu.
 {% endcapture %}
 

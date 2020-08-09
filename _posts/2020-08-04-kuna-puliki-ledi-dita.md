@@ -14,6 +14,7 @@ Is an antelope equal to a tiger's cub?
 
 #### Romanization:
 Kūna puliki lēḍi dīṭā.
+
 Kuna puliki ledi dita.
 {% endcapture %}
 

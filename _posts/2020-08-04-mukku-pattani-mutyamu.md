@@ -18,6 +18,7 @@ A pearl that does not suit the nose.
 
 #### Romanization:
 Mukku paṭṭani mutyamu.
+
 Mukku pattani mutyamu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ You. must take the fat with the lean.
 
 #### Romanization:
 Cēnilō puṭṭina bīḍu yekkaḍiki pōnu.
+
 Cenilo puttina bidu yekkadiki ponu.
 {% endcapture %}
 

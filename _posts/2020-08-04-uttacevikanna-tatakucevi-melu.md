@@ -19,6 +19,7 @@ Half a loaf is better than no bread.
 
 #### Romanization:
 Uttacevikannā tāṭākucevi mēlu.
+
 Uttacevikanna tatakucevi melu.
 {% endcapture %}
 

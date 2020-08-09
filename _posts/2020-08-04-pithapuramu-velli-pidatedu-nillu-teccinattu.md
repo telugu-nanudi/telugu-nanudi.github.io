@@ -18,6 +18,7 @@ He went to Pithapuram, and brought a little potful of water
 
 #### Romanization:
 Piṭhāpuramu veḷli piḍateḍu nīḷlu teccinaṭṭu.
+
 Pithapuramu velli pidatedu nillu teccinattu.
 {% endcapture %}
 

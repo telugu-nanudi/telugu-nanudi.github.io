@@ -17,6 +17,7 @@ Expressive of prosperity.
 
 #### Romanization:
 Cuṭṭū cūramaṅgaḷaṁ, naḍama jayamaṅgaḷaṁ.
+
 Cuttu curamangalam, nadama jayamangalam.
 {% endcapture %}
 

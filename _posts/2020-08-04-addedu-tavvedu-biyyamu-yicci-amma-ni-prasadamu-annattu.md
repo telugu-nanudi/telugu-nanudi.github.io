@@ -18,6 +18,7 @@ The cook gets four-fifths of the rice for herself, and yet she must be coaxed to
 
 #### Romanization:
 Aḍḍeḍu tavveḍu biyyamu yicci am'mā nī prasādamu annaṭṭu.
+
 Addedu tavvedu biyyamu yicci am'ma ni prasadamu annattu.
 {% endcapture %}
 

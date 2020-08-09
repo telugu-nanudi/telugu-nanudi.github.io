@@ -18,6 +18,7 @@ Said by an epicure.
 
 #### Romanization:
 Papputō padi kabaḷālu tiṇṭē, pulusu yenduku buggilōkā.
+
 Papputo padi kabalalu tinte, pulusu yenduku buggiloka.
 {% endcapture %}
 

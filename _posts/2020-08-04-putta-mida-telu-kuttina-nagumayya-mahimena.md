@@ -19,6 +19,7 @@ Applied to a person supposing himself to have been injured through the malice of
 
 #### Romanization:
 Puṭṭa mīda tēlu kuṭṭinā, nāgumayya mahimēnā.
+
 Putta mida telu kuttina, nagumayya mahimena.
 {% endcapture %}
 

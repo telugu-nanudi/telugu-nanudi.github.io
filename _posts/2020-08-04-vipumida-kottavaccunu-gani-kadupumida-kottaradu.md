@@ -18,6 +18,7 @@ i. e. Punish me but don't touch my pay.
 
 #### Romanization:
 Vīpumīda koṭṭavaccunu gāni, kaḍupumīda koṭṭarādu.
+
 Vipumida kottavaccunu gani, kadupumida kottaradu.
 {% endcapture %}
 

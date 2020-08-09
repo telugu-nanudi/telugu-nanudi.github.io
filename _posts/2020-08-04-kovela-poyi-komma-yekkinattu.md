@@ -18,6 +18,7 @@ kh.
 
 #### Romanization:
 Kōvela pōyi kom'ma yekkinaṭṭu.
+
 Kovela poyi kom'ma yekkinattu.
 {% endcapture %}
 

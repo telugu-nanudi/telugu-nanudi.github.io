@@ -18,6 +18,7 @@ Said of a man who tries to provide for another, when he has difficulty in managi
 
 #### Romanization:
 Tānubōnu dōvalēdu ḍōlu vakaṭi meḍanu.
+
 Tanubonu dovaledu dolu vakati medanu.
 {% endcapture %}
 

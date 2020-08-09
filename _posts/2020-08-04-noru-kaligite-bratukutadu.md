@@ -18,6 +18,7 @@ The son of the minister of a king of Ayodhya (Oudh) was caught stealing the king
 
 #### Romanization:
 Nōru kaligitē bratukutāḍu.
+
 Noru kaligite bratukutadu.
 {% endcapture %}
 

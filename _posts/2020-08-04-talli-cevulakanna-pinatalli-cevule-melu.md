@@ -19,6 +19,7 @@ To neglect one having great claims, for another whose claims are inferior.
 
 #### Romanization:
 Talli cevulakannā pinatalli cevulē mēlu.
+
 Talli cevulakanna pinatalli cevule melu.
 {% endcapture %}
 

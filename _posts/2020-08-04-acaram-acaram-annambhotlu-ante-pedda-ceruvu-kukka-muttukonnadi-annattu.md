@@ -17,6 +17,7 @@ tags:
 
 #### Romanization:
 Ācāraṁ ācāraṁ annambhoṭlū aṇṭē, pedda ceruvu kukka muṭṭukonnadi annaṭṭu
+
 Acaram acaram annambhotlu ante, pedda ceruvu kukka muttukonnadi annattu
 {% endcapture %}
 

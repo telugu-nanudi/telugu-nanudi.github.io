@@ -20,6 +20,7 @@ Know your opportunity. (Latin.)[1]
 
 #### Romanization:
 Uttara cūci yettara gampa.
+
 Uttara cuci yettara gampa.
 {% endcapture %}
 

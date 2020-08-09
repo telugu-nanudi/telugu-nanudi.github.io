@@ -15,6 +15,7 @@ You may face a royal tiger but you should not face a government official.
 
 #### Romanization:
 Pedda puli yedaṭanayinā paḍa vaccunugāni, nagari vāri yedaṭa paḍarādu.
+
 Pedda puli yedatanayina pada vaccunugani, nagari vari yedata padaradu.
 {% endcapture %}
 

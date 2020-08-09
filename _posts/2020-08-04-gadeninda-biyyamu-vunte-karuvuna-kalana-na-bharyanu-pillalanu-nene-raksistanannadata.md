@@ -17,6 +17,7 @@ He said that he himself would support his wife and family in dearth and in plent
 
 #### Romanization:
 Gādeniṇḍā biyyamu vuṇṭē, karuvunā kālānā nā bhāryanū pillalanū nēnē rakṣistānannāḍaṭa.
+
 Gadeninda biyyamu vunte, karuvuna kalana na bharyanu pillalanu nene raksistanannadata.
 {% endcapture %}
 

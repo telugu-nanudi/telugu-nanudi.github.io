@@ -13,6 +13,7 @@ The quinsy in extreme old age.
 
 #### Romanization:
 Mudimuppuna aṅgiṭamullu.
+
 Mudimuppuna angitamullu.
 {% endcapture %}
 

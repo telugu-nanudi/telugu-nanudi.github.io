@@ -19,6 +19,7 @@ Basavanna is the name of a bull sacred to Siva. Bullocks are often familiarly ca
 
 #### Romanization:
 Pattigin̄jalu tiṇṭāvā basavannā aṇṭē āhā annāḍaṭa, ganta kaṭṭanā basavannā aṇṭē vūhū annāḍaṭa.
+
 Pattiginjalu tintava basavanna ante aha annadata, ganta kattana basavanna ante vuhu annadata.
 {% endcapture %}
 

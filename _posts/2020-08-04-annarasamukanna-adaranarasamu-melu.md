@@ -17,6 +17,7 @@ In hospitality it is the spirit that is the chief thing. (Greek)[1]
 
 #### Romanization:
 Annarasamukannā ādaraṇarasamu mēlu.
+
 Annarasamukanna adaranarasamu melu.
 {% endcapture %}
 

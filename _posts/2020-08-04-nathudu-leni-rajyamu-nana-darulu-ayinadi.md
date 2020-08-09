@@ -13,6 +13,7 @@ A kingdom without a ruler becomes disorganized in all ways.
 
 #### Romanization:
 Nāthuḍu lēni rājyamu nānā dārulu ayinadi.
+
 Nathudu leni rajyamu nana darulu ayinadi.
 {% endcapture %}
 

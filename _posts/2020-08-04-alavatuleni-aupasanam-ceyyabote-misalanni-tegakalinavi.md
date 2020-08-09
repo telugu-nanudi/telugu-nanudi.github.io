@@ -18,6 +18,7 @@ The man unaccustomed to burnt-offerings burnt off his mustaches in the attempt.
 
 #### Romanization:
 Alavāṭulēni aupāsanaṁ ceyyabōtē mīsālannī tegakālinavi.
+
 Alavatuleni aupasanam ceyyabote misalanni tegakalinavi.
 {% endcapture %}
 

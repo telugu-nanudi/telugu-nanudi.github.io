@@ -19,6 +19,7 @@ A minute investigation.
 
 #### Romanization:
 Cāṇṭlō yemukalu yērinaṭṭu.
+
 Cantlo yemukalu yerinattu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ A cat [is as sacred as] a Brahman, and the stool ( used for prayers, &c.) is as 
 
 #### Romanization:
 Pilli brāhmaṇuḍu, pīṭa muttaiduva.
+
 Pilli brahmanudu, pita muttaiduva.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ The words of this proverb are Hindustani.
 
 #### Romanization:
 Nāṁ baḍā, darśan thōḍā.
+
 Nam bada, darsan thoda.
 {% endcapture %}
 

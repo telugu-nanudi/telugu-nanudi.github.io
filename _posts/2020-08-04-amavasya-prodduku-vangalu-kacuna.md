@@ -18,6 +18,7 @@ Vanga (called by Europeans "brinjal") is the Solanam Melongena.
 
 #### Romanization:
 Amāvāsya prodduku vaṅgalu kācunā.
+
 Amavasya prodduku vangalu kacuna.
 {% endcapture %}
 

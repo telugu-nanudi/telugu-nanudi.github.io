@@ -16,6 +16,7 @@ There is no loss by rain, or poverty with a husband.
 
 #### Romanization:
 Vānatō sēgi moguḍitō pēdarikamu lēdu.
+
 Vanato segi mogudito pedarikamu ledu.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ One act of adultery does away with a hundred meritorious deeds.
 
 #### Romanization:
 Nūru nōmulū vaka raṅkutō sari.
+
 Nuru nomulu vaka rankuto sari.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ The man in front is the bridegroom.
 
 #### Romanization:
 Edaṭa vunnavāḍu peṇḍlikoḍuku.
+
 Edata vunnavadu pendlikoduku.
 {% endcapture %}
 

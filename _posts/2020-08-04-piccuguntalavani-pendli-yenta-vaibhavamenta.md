@@ -17,6 +17,7 @@ Applied to the grandeur of arrogant people.
 
 #### Romanization:
 Piccuguṇṭalavāni peṇḍli yenta vaibhavamenta.
+
 Piccuguntalavani pendli yenta vaibhavamenta.
 {% endcapture %}
 

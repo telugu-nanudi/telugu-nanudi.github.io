@@ -18,6 +18,7 @@ Free lands are better when fertile, than shares of grain allotted by government.
 
 #### Romanization:
 Doralu yiccina pālukannā dharaṇi yiccina pālu mēlu.
+
 Doralu yiccina palukanna dharani yiccina palu melu.
 {% endcapture %}
 

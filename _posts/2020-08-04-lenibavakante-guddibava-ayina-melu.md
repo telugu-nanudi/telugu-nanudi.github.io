@@ -20,6 +20,7 @@ Better a blind horse than an empty halter. (Dutch)[1]
 
 #### Romanization:
 Lēnibāvakaṇṭē guḍḍibāva ayinā mēlu.
+
 Lenibavakante guddibava ayina melu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Applied to a person who takes no real interest in the performance of his duty.
 
 #### Romanization:
 San̄jaya rāyabhāramu.
+
 Sanjaya rayabharamu.
 {% endcapture %}
 

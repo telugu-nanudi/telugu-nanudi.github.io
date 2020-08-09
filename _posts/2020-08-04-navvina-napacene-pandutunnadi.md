@@ -18,6 +18,7 @@ Hindu cultivators assemble round a field which is in want of rain and laugh at i
 
 #### Romanization:
 Navvina nāpacēnē paṇḍutunnadi.
+
 Navvina napacene pandutunnadi.
 {% endcapture %}
 

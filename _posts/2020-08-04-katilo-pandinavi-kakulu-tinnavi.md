@@ -16,6 +16,7 @@ Property common to all.
 
 #### Romanization:
 Kāṭilō paṇḍinavi kākulu tinnavi.
+
 Katilo pandinavi kakulu tinnavi.
 {% endcapture %}
 

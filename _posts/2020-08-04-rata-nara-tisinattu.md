@@ -19,6 +19,7 @@ To milk a he goat. (Latin.)[1]
 
 #### Romanization:
 Rāta nāra tīśinaṭṭu.
+
 Rata nara tisinattu.
 {% endcapture %}
 

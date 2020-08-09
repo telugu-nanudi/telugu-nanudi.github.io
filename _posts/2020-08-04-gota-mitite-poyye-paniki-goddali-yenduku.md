@@ -19,6 +19,7 @@ Unnecessary labour.
 
 #### Romanization:
 Gōṭa mīṭitē poyyē paniki goḍḍali yenduku.
+
 Gota mitite poyye paniki goddali yenduku.
 {% endcapture %}
 

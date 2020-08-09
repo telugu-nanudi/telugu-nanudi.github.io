@@ -20,6 +20,7 @@ If the wife sins, the husband is not innocent. (Italian.)[1]
 
 #### Romanization:
 Attavalla doṅgatanamunnu,  maganivalla raṅkunnu nērcukonnaṭṭu.
+
 Attavalla dongatanamunnu,  maganivalla rankunnu nercukonnattu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ A more scribe.
 
 #### Romanization:
 Vrātakaraṇamu.
+
 Vratakaranamu.
 {% endcapture %}
 

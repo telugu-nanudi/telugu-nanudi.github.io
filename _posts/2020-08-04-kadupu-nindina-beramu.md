@@ -17,6 +17,7 @@ A person in easy circumstances will drive a hard bargain.
 
 #### Romanization:
 Kaḍupu niṇḍina bēramu.
+
 Kadupu nindina beramu.
 {% endcapture %}
 

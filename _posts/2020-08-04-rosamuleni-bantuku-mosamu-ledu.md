@@ -16,6 +16,7 @@ A mean-spirited servant is in no danger [of losing his life]
 
 #### Romanization:
 Rōṣamulēni baṇṭuku mōsamu lēdu.
+
 Rosamuleni bantuku mosamu ledu.
 {% endcapture %}
 

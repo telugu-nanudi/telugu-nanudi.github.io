@@ -18,6 +18,7 @@ A vain ceremony.
 
 #### Romanization:
 Pīnugaku cēśina jātara.
+
 Pinugaku cesina jatara.
 {% endcapture %}
 

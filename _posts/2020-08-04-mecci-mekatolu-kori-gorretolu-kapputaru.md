@@ -16,6 +16,7 @@ If they approve of you they will cover you with a goat skin ; and if they choose
 
 #### Romanization:
 Mecci mēkatōlū kōri gorretōlū kapputāru.
+
 Mecci mekatolu kori gorretolu kapputaru.
 {% endcapture %}
 

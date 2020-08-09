@@ -16,6 +16,7 @@ Enmity with a wise man is better than friendship with a fool.
 
 #### Romanization:
 Avivēkitō snēhamukannā vivēkitō virōdhamu mēlu.
+
 Avivekito snehamukanna vivekito virodhamu melu.
 {% endcapture %}
 

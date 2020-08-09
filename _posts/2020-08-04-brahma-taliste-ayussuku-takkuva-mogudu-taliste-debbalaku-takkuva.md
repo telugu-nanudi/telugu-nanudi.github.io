@@ -16,6 +16,7 @@ If Brahma wishes, will there be any lack in the length of your days? If the husb
 
 #### Romanization:
 Brahma talistē āyus'suku takkuvā, moguḍu talistē debbalaku takkuvā.
+
 Brahma taliste ayus'suku takkuva, mogudu taliste debbalaku takkuva.
 {% endcapture %}
 

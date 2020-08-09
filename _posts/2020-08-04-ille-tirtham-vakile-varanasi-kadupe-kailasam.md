@@ -19,6 +19,7 @@ Said by an irreligious man.
 
 #### Romanization:
 Illē tīrthaṁ, vākilē vāraṇāśi, kaḍupē kailāsaṁ.
+
 Ille tirtham, vakile varanasi, kadupe kailasam.
 {% endcapture %}
 

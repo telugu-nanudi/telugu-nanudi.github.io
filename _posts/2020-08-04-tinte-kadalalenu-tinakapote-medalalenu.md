@@ -15,6 +15,7 @@ If I eat I can't move, if I don't eat I can't stir.
 
 #### Romanization:
 Tiṇṭē kadalalēnu, tinakapōtē medalalēnu.
+
 Tinte kadalalenu, tinakapote medalalenu.
 {% endcapture %}
 

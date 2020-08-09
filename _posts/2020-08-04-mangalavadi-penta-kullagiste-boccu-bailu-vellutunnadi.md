@@ -16,6 +16,7 @@ Unprofitable labour.
 
 #### Romanization:
 Maṅgalavāḍi peṇṭa kullagistē, boccu bailu veḷlutunnadi.
+
 Mangalavadi penta kullagiste, boccu bailu vellutunnadi.
 {% endcapture %}
 

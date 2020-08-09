@@ -18,6 +18,7 @@ To do much harm when asked to do a little favor.
 
 #### Romanization:
 Poyyi vūdumaṇṭē, kuṇḍa baddalu koṭṭināḍu.
+
 Poyyi vudumante, kunda baddalu kottinadu.
 {% endcapture %}
 

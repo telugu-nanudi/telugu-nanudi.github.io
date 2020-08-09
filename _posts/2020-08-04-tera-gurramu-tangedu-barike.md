@@ -18,6 +18,7 @@ Tangedu is the Cassia Auriculata.--"When you ride gratis you use your cudgel wel
 
 #### Romanization:
 Tēra gurramu, taṅgēḍu barike.
+
 Tera gurramu, tangedu barike.
 {% endcapture %}
 

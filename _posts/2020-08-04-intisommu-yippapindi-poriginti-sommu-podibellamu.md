@@ -19,6 +19,7 @@ Applied to a niggard.
 
 #### Romanization:
 Iṇṭisom'mu yippapiṇḍi, porigiṇṭi som'mu poḍibellamu.
+
 Intisom'mu yippapindi, poriginti som'mu podibellamu.
 {% endcapture %}
 

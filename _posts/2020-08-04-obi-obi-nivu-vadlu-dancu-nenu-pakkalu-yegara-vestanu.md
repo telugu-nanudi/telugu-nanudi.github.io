@@ -21,6 +21,7 @@ Lazy folks take the most pains.
 
 #### Romanization:
 Ōbī ōbī nīvu vaḍlu dan̄cu, nēnu pakkalu yegara vēstānu.
+
 Obi obi nivu vadlu dancu, nenu pakkalu yegara vestanu.
 {% endcapture %}
 

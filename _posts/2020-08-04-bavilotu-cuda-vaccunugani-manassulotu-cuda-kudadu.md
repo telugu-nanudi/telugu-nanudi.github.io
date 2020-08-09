@@ -18,6 +18,7 @@ No one can see into another further than his teeth. (Danish)[1]
 
 #### Romanization:
 Bāvilōtu cūḍa vaccunugāni, manas'sulōtu cūḍa kūḍadu.
+
 Bavilotu cuda vaccunugani, manas'sulotu cuda kudadu.
 {% endcapture %}
 

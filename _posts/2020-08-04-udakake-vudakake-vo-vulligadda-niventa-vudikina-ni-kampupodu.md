@@ -17,6 +17,7 @@ Said to an envious person, who is said to burn inwardly.
 
 #### Romanization:
 Uḍakakē vuḍakakē vō vulligaḍda, nīventa vuḍikinā nī kampupōdu.
+
 Udakake vudakake vo vulligadda, niventa vudikina ni kampupodu.
 {% endcapture %}
 

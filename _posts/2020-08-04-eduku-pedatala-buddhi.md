@@ -18,6 +18,7 @@ Said of a man without brains.
 
 #### Romanization:
 Ēduku peḍatala bud'dhi.
+
 Eduku pedatala bud'dhi.
 {% endcapture %}
 

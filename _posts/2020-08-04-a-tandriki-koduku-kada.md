@@ -21,6 +21,7 @@ He is his father's son.(Latin)[2]
 
 #### Romanization:
 Ā taṇḍriki koḍuku kāḍā.
+
 A tandriki koduku kada.
 {% endcapture %}
 

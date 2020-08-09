@@ -18,6 +18,7 @@ A joke. The Palmyras (see No. 290) are the tallest trees, and the washermen give
 
 #### Romanization:
 Ī vūḷlō peddalu yevaraṇṭē tāḷlu, dātalu yevaraṇṭē cākaḷlu.
+
 I vullo peddalu yevarante tallu, datalu yevarante cakallu.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Though a man be poor, will he lose caste?
 
 #### Romanization:
 Kūṭiki pēdayitē, kulāniki pēdā.
+
 Kutiki pedayite, kulaniki peda.
 {% endcapture %}
 

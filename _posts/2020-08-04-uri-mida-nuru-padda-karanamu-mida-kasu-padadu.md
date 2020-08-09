@@ -20,6 +20,7 @@ The instrument of oppression does not himself suffer.
 
 #### Romanization:
 Ūri mīda nūru paḍḍā, karaṇamu mīda kāsu paḍadu.
+
 Uri mida nuru padda, karanamu mida kasu padadu.
 {% endcapture %}
 

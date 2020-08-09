@@ -20,6 +20,7 @@ Birds of a feather flock together.
 
 #### Romanization:
 Maśi mukhamu vāḍū, camurukāḷla vāḍū pōgayinaṭṭu.
+
 Masi mukhamu vadu, camurukalla vadu pogayinattu.
 {% endcapture %}
 

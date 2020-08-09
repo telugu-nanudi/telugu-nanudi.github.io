@@ -14,6 +14,7 @@ A brave heart in a weak body.
 
 #### Romanization:
 Mudimānu cēva.
+
 Mudimanu ceva.
 {% endcapture %}
 

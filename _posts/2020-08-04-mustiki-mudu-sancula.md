@@ -16,6 +16,7 @@ Applied to an ostentatious display unsuited to a man's position.
 
 #### Romanization:
 Muṣṭiki mūḍu san̄culā.
+
 Mustiki mudu sancula.
 {% endcapture %}
 

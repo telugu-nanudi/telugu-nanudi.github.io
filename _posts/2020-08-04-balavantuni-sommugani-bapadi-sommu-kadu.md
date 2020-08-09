@@ -14,6 +14,7 @@ Might overcomes right.
 
 #### Romanization:
 Balavantuni som'mugāni bāpaḍi som'mu kādu.
+
 Balavantuni som'mugani bapadi som'mu kadu.
 {% endcapture %}
 

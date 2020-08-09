@@ -18,6 +18,7 @@ A noble-minded man is above mean actions.
 
 #### Romanization:
 Sinhamu yēnugunu campunēgāni, caccina kukkanu tinunā.
+
 Sinhamu yenugunu campunegani, caccina kukkanu tinuna.
 {% endcapture %}
 

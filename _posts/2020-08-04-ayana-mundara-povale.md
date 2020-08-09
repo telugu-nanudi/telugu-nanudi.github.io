@@ -15,6 +15,7 @@ An ambiguous phrase used by a bad wife.
 
 #### Romanization:
 Āyana mundara pōvale.
+
 Ayana mundara povale.
 {% endcapture %}
 

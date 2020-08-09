@@ -16,6 +16,7 @@ One attempted to explain, the other pooh poohed him.
 
 #### Romanization:
 Mūlamu aṇṭē, nirmūlamu aṇṭāḍu.
+
 Mulamu ante, nirmulamu antadu.
 {% endcapture %}
 

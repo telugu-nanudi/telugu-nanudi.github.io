@@ -18,6 +18,7 @@ As long as the mother lives her son's greediness is concealed.
 
 #### Romanization:
 Tallicastē kaḍupu pedda, talamāstē koppu pedda.
+
 Tallicaste kadupu pedda, talamaste koppu pedda.
 {% endcapture %}
 

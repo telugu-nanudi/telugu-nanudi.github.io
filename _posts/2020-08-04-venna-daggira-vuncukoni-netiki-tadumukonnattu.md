@@ -19,6 +19,7 @@ Asking others to help you when you have all in your own power.
 
 #### Romanization:
 Venna daggira vun̄cukoni nētiki taḍumukonnaṭṭu.
+
 Venna daggira vuncukoni netiki tadumukonnattu.
 {% endcapture %}
 

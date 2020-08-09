@@ -19,6 +19,7 @@ Vain boasting.
 
 #### Romanization:
 Kūrcuṇḍi lēvalēḍu gāni, yegasi tāṭikāyalu tannutānannāḍaṭa
+
 Kurcundi levaledu gani, yegasi tatikayalu tannutanannadata
 {% endcapture %}
 

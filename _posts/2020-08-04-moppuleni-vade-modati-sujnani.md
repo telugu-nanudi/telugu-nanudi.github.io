@@ -13,6 +13,7 @@ The man without evil is the best of wise men.
 
 #### Romanization:
 Moppulēni vāḍē modaṭi sujñāni.
+
 Moppuleni vade modati sujnani.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ The first mourned the loss of a son-in-law, the second that of a son. Kannamma s
 
 #### Romanization:
 Vinnam'ma vīpu kālinadi, kannam'ma kaḍupu kālinadi.
+
 Vinnam'ma vipu kalinadi, kannam'ma kadupu kalinadi.
 {% endcapture %}
 

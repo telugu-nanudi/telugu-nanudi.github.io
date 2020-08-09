@@ -19,6 +19,7 @@ Put a snake into your bosom and when it is warm it will sting you.
 
 #### Romanization:
 Kukkanu pen̄citē gaṇḍāye kūṭi kuṇḍalakellā cēṭāye.
+
 Kukkanu pencite gandaye kuti kundalakella cetaye.
 {% endcapture %}
 

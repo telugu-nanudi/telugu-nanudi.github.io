@@ -19,6 +19,7 @@ Drop by drop the lake is drained.
 
 #### Romanization:
 Okkokkarāyi tīstū vuṇṭē, koṇḍayinā tarugutundi.
+
 Okkokkarayi tistu vunte, kondayina tarugutundi.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ A leaden sword in an ivory scabbard.
 
 #### Romanization:
 Cīparakaṭṭaku paṭṭukuccu kaṭṭinaṭṭu.
+
 Ciparakattaku pattukuccu kattinattu.
 {% endcapture %}
 

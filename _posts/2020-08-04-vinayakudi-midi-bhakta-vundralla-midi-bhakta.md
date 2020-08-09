@@ -19,6 +19,7 @@ Cupboard love.
 
 #### Romanization:
 Vināyakuḍi mīdi bhaktā vuṇḍrāḷla mīdi bhaktā.
+
 Vinayakudi midi bhakta vundralla midi bhakta.
 {% endcapture %}
 

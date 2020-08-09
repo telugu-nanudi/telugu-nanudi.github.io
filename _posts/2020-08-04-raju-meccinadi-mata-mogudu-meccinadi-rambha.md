@@ -17,6 +17,7 @@ That's the word, which pleases the king; she is Rambha, who is loved by her husb
 
 #### Romanization:
 Rāju meccinadi māṭa, moguḍu meccinadi rambha.
+
 Raju meccinadi mata, mogudu meccinadi rambha.
 {% endcapture %}
 

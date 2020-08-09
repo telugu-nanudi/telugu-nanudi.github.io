@@ -16,6 +16,7 @@ Stolid indifference. Want of feeling.
 
 #### Romanization:
 Moguḍu vastē, nā moguḍū vastāḍu.
+
 Mogudu vaste, na mogudu vastadu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Said to a great friend whose presence at an entertainment is indispensable.
 
 #### Romanization:
 Pappulēni peṇḍlī vuppulēni kūrā vunnadā.
+
 Pappuleni pendli vuppuleni kura vunnada.
 {% endcapture %}
 

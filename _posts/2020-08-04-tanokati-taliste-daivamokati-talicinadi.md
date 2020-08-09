@@ -14,6 +14,7 @@ Man proposes, God disposes.
 
 #### Romanization:
 Tānokaṭi talistē daivamokaṭi talicinadi.
+
 Tanokati taliste daivamokati talicinadi.
 {% endcapture %}
 

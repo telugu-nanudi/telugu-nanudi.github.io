@@ -18,6 +18,7 @@ Among the common people Scoggin is a doctor.
 
 #### Romanization:
 Allulalō mallu pedda.
+
 Allulalo mallu pedda.
 {% endcapture %}
 

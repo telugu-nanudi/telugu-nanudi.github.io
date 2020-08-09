@@ -18,6 +18,7 @@ A joke against the clerical Brahmans who are fond of pedantic language. The word
 
 #### Romanization:
 Vraidikapu prillī vrattipralakavē aṇṭē, mrāvu mrāvu annadaṭa.
+
 Vraidikapu prilli vrattipralakave ante, mravu mravu annadata.
 {% endcapture %}
 

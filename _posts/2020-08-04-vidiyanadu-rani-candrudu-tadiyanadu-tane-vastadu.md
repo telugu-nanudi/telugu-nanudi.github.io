@@ -18,6 +18,7 @@ Applied to the necessity of having patience.
 
 #### Romanization:
 Vidiyanāḍu rāni candruḍu tadiyanāḍu tānē vastāḍu.
+
 Vidiyanadu rani candrudu tadiyanadu tane vastadu.
 {% endcapture %}
 

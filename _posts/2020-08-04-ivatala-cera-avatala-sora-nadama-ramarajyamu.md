@@ -18,6 +18,7 @@ On this side is capture, on that side is sorrow, in the middle is the kingdom of
 
 #### Romanization:
 Ivatala cera, avatala sora, naḍama rāmarājyamu.
+
 Ivatala cera, avatala sora, nadama ramarajyamu.
 {% endcapture %}
 

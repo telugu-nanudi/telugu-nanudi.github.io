@@ -18,6 +18,7 @@ A dangerous companion.
 
 #### Romanization:
 Talakindi korivi.
+
 Talakindi korivi.
 {% endcapture %}
 

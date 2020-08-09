@@ -19,6 +19,7 @@ The impertinent speech of a beggar.
 
 #### Romanization:
 Istē peṇḍli, yivvakapōtē peṭākulu.
+
 Iste pendli, yivvakapote petakulu.
 {% endcapture %}
 

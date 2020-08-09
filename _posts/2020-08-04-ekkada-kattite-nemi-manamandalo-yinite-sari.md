@@ -18,6 +18,7 @@ Applied to an unprincipled action.
 
 #### Romanization:
 Ekkaḍa kaṭṭitē nēmi, manamandalō yīnitē sari.
+
 Ekkada kattite nemi, manamandalo yinite sari.
 {% endcapture %}
 

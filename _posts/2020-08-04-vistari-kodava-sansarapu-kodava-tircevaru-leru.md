@@ -18,6 +18,7 @@ It is difficult to entertain people to their satisfaction, or to remove all diss
 
 #### Romanization:
 Vistari kodavā sansārapu kodavā tīrcēvāru lēru.
+
 Vistari kodava sansarapu kodava tircevaru leru.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Do you want a stone roller to break an egg with?
 
 #### Romanization:
 Kōḍiguḍḍu pagalagoṭṭa guṇḍrāyi kāvalenā.
+
 Kodiguddu pagalagotta gundrayi kavalena.
 {% endcapture %}
 

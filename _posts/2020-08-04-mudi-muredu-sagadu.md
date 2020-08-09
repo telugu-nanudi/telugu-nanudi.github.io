@@ -14,6 +14,7 @@ A knot cannot be lengthened a cubit.
 
 #### Romanization:
 Muḍi mūreḍu sāgadu.
+
 Mudi muredu sagadu.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ A useless thing.
 
 #### Romanization:
 Vānalēni vaṭṭipiḍugu.
+
 Vanaleni vattipidugu.
 {% endcapture %}
 

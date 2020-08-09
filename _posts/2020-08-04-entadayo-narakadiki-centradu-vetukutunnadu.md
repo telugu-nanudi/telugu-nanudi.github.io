@@ -19,6 +19,7 @@ Said scoffingly by the wife whose husband was looking for the well rope, not to 
 
 #### Romanization:
 Entadayō narakaḍiki cēntrāḍu vetukutunnāḍu.
+
 Entadayo narakadiki centradu vetukutunnadu.
 {% endcapture %}
 

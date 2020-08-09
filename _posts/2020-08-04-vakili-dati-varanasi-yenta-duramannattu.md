@@ -18,6 +18,7 @@ Talking about the completion of a great undertaking before you have well commenc
 
 #### Romanization:
 Vākili dāṭi vāraṇāśi yenta dūramannaṭṭu.
+
 Vakili dati varanasi yenta duramannattu.
 {% endcapture %}
 

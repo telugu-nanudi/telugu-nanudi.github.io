@@ -19,6 +19,7 @@ Ane may lead a horse to the water, but four an' twenty canna gar him drink. (Sco
 
 #### Romanization:
 Morrō morrō vaddanagā liṅgamu kaṭṭērugāni, mokka cētulu tēgalarā.
+
 Morro morro vaddanaga lingamu katterugani, mokka cetulu tegalara.
 {% endcapture %}
 

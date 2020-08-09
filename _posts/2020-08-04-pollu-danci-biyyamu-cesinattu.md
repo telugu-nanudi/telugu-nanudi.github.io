@@ -14,6 +14,7 @@ Like trying to get rice by pounding empty husk.
 
 #### Romanization:
 Pollu dan̄ci biyyamu cēśinaṭṭu.
+
 Pollu danci biyyamu cesinattu.
 {% endcapture %}
 

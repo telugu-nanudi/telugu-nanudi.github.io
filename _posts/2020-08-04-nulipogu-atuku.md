@@ -15,6 +15,7 @@ No strength.
 
 #### Romanization:
 Nūlipōgu atuku.
+
 Nulipogu atuku.
 {% endcapture %}
 

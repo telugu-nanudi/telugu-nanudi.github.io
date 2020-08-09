@@ -17,6 +17,7 @@ Like the ram reared by one's self being killed by one's own hand.
 
 #### Romanization:
 Tānu pen̄cina poṭṭēlu tana cētanē campabaḍḍaṭṭu.
+
 Tanu pencina pottelu tana cetane campabaddattu.
 {% endcapture %}
 

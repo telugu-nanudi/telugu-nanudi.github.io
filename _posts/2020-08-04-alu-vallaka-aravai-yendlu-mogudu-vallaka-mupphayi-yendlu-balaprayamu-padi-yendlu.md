@@ -18,6 +18,7 @@ Applied to an unprofitable and unhappy life.
 
 #### Romanization:
 Ālu vallaka aravai yēṇḍlu, moguḍu vallaka mupphayi yēṇḍlu, bālaprāyamu padi yēṇḍlu.
+
 Alu vallaka aravai yendlu, mogudu vallaka mupphayi yendlu, balaprayamu padi yendlu.
 {% endcapture %}
 

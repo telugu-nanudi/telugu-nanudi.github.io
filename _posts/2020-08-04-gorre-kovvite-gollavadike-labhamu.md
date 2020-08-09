@@ -18,6 +18,7 @@ If the servant does in a huff more work than he is told, it is for the benefit o
 
 #### Romanization:
 Gorre kovvitē gollavāḍikē lābhamu.
+
 Gorre kovvite gollavadike labhamu.
 {% endcapture %}
 

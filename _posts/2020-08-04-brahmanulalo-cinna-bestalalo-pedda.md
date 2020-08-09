@@ -14,6 +14,7 @@ Are made drudges.
 
 #### Romanization:
 Brāhmaṇulalō cinna, bestalalō pedda.
+
 Brahmanulalo cinna, bestalalo pedda.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ There are 60 Gadiyas in a day ; a Gadiya therefore equals 24 minutes.
 
 #### Romanization:
 Abad'dhāla pan̄cā'aṅgamuku aravaigaḍiyalu tyājyamu.
+
 Abad'dhala panca'angamuku aravaigadiyalu tyajyamu.
 {% endcapture %}
 

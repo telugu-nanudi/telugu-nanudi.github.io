@@ -20,6 +20,7 @@ Great luck.
 
 #### Romanization:
 Ārela mānukinda būrela mānu viragabaḍḍaṭṭu.
+
 Arela manukinda burela manu viragabaddattu.
 {% endcapture %}
 

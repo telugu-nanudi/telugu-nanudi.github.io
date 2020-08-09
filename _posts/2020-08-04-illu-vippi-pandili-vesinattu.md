@@ -19,6 +19,7 @@ Said of an arrant fool.
 
 #### Romanization:
 Illu vippi pandili vēśinaṭṭu.
+
 Illu vippi pandili vesinattu.
 {% endcapture %}
 

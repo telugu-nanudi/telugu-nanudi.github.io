@@ -18,6 +18,7 @@ The reverse of No. 574 q. v.
 
 #### Romanization:
 Cilaka mukkuna doṇḍapaṇḍu vunnaṭṭu.
+
 Cilaka mukkuna dondapandu vunnattu.
 {% endcapture %}
 

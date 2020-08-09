@@ -19,6 +19,7 @@ Applied to any business which is attended with heavy losses.
 
 #### Romanization:
 Gājula bēramu bhōjanānaku sari.
+
 Gajula beramu bhojananaku sari.
 {% endcapture %}
 

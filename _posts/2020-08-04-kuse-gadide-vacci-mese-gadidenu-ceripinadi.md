@@ -18,6 +18,7 @@ When the one that was outside brayed, the other that was inside answered and was
 
 #### Romanization:
 Kūśē gāḍide vacci mēśē gāḍidenu ceripinadi.
+
 Kuse gadide vacci mese gadidenu ceripinadi.
 {% endcapture %}
 

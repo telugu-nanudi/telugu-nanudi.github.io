@@ -15,6 +15,7 @@ The mother-in-law gave good counsel to her daughter-in-law and went astray herse
 
 #### Romanization:
 Kōḍaliki bud'dhi ceppi atta raṅkupōyinadi.
+
 Kodaliki bud'dhi ceppi atta rankupoyinadi.
 {% endcapture %}
 

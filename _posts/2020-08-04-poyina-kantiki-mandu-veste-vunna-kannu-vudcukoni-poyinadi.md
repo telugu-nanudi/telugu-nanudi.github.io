@@ -18,6 +18,7 @@ When he applied medicine to his bad eye, the sight of the other eye was lost.
 
 #### Romanization:
 Pōyina kaṇṭiki mandu vēstē, vunna kannū vūḍcukoni pōyinadi.
+
 Poyina kantiki mandu veste, vunna kannu vudcukoni poyinadi.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Pandili is a verandah thatched with leaves.
 
 #### Romanization:
 Adikum'mu, yididum'mu, padarā pandiṭlōki.
+
 Adikum'mu, yididum'mu, padara panditloki.
 {% endcapture %}
 

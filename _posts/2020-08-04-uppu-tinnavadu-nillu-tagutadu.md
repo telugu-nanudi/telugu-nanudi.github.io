@@ -15,6 +15,7 @@ The man that has eaten salt drinks water.
 
 #### Romanization:
 Uppu tinnavāḍu nīḷlu tāgutāḍu.
+
 Uppu tinnavadu nillu tagutadu.
 {% endcapture %}
 

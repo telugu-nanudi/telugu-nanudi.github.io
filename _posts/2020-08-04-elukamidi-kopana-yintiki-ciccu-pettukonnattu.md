@@ -19,6 +19,7 @@ Burn not your house to fright away the mice.
 
 #### Romanization:
 Elukamīdi kōpāna yiṇṭiki ciccu peṭṭukonnaṭṭu.
+
 Elukamidi kopana yintiki ciccu pettukonnattu.
 {% endcapture %}
 

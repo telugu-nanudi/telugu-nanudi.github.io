@@ -16,6 +16,7 @@ Flowers are used in offerings.
 
 #### Romanization:
 Bhaktilēni pūja patri cēṭu.
+
 Bhaktileni puja patri cetu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Applied to things which are very common.
 
 #### Romanization:
 Kuḍumulu vaṇḍalēni āḍadī, kūnarāgamu tiyyalēni mogavāḍū lēru.
+
 Kudumulu vandaleni adadi, kunaragamu tiyyaleni mogavadu leru.
 {% endcapture %}
 

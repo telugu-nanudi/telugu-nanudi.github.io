@@ -18,6 +18,7 @@ Distance cannot alter true friendship.
 
 #### Romanization:
 Āmaḍalu dūramayitē, antaḥkaraṇalu dūramā.
+
 Amadalu duramayite, antahkaranalu durama.
 {% endcapture %}
 

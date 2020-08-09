@@ -14,6 +14,7 @@ If a woman lies, it's like building a wall ; if a man lies, it's like putting up
 
 #### Romanization:
 Āḍadi boṅkitē gōḍa peṭṭinaṭṭu, mogavāḍu boṅkitē taḍika kaṭṭinaṭṭu.
+
 Adadi bonkite goda pettinattu, mogavadu bonkite tadika kattinattu.
 {% endcapture %}
 

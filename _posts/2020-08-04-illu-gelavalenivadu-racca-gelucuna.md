@@ -18,6 +18,7 @@ He who has no voice in the valley, will have none in the council. (spanish)[1]
 
 #### Romanization:
 Illu gelavalēnivāḍu racca gelucunā.
+
 Illu gelavalenivadu racca gelucuna.
 {% endcapture %}
 

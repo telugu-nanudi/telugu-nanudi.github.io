@@ -19,6 +19,7 @@ It is hard to please a' parties. (Scotch)
 
 #### Romanization:
 Viḍupumaṇṭē pāmuku kōpamu, paṭṭumaṇṭē kappaku kōpamu.
+
 Vidupumante pamuku kopamu, pattumante kappaku kopamu.
 {% endcapture %}
 

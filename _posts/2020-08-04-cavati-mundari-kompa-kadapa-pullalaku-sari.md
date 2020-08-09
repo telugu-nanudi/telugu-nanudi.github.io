@@ -18,6 +18,7 @@ Bonds were formerly always written on Palmyra leaves, such as are used for thatc
 
 #### Romanization:
 Cāvaṭi mundari kompa kadapā pullalaku sari.
+
 Cavati mundari kompa kadapa pullalaku sari.
 {% endcapture %}
 

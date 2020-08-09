@@ -18,6 +18,7 @@ Seeing, blind; hearing, deaf.
 
 #### Romanization:
 Kani guḍḍu vini cevuḍu.
+
 Kani guddu vini cevudu.
 {% endcapture %}
 

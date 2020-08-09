@@ -16,6 +16,7 @@ Said of a stingy man.
 
 #### Romanization:
 Bellapu piḷlāriki muḍḍi gilli naivēdyaṁ.
+
 Bellapu pillariki muddi gilli naivedyam.
 {% endcapture %}
 

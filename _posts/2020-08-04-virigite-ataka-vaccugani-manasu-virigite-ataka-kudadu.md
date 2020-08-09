@@ -18,6 +18,7 @@ Broken friendship may be soldered, but never made sound. (spanish.)[1]
 
 #### Romanization:
 Virigitē ataka vaccugāni, manasu virigitē ataka kūḍadu.
+
 Virigite ataka vaccugani, manasu virigite ataka kudadu.
 {% endcapture %}
 

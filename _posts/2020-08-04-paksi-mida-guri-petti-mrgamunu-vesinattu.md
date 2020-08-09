@@ -18,6 +18,7 @@ He fired at the pigeon and he killed the crow.
 
 #### Romanization:
 Pakṣi mīda guri peṭṭi mr̥gamunu vēśinaṭṭu.
+
 Paksi mida guri petti mrgamunu vesinattu.
 {% endcapture %}
 

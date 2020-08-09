@@ -14,6 +14,7 @@ To be born is but for death.
 
 #### Romanization:
 Puṭṭaḍamu cāvaḍamu korakē.
+
 Puttadamu cavadamu korake.
 {% endcapture %}
 

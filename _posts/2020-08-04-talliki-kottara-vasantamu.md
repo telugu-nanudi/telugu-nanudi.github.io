@@ -15,6 +15,7 @@ Throw scarlet water over your mother.
 
 #### Romanization:
 Talliki koṭṭarā vasantamu.
+
 Talliki kottara vasantamu.
 {% endcapture %}
 

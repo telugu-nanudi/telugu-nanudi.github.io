@@ -18,6 +18,7 @@ Said of persons whose abilities are not yet known.
 
 #### Romanization:
 Ē puṭṭalō yē pāmu vunnadō teliyadu.
+
 E puttalo ye pamu vunnado teliyadu.
 {% endcapture %}
 

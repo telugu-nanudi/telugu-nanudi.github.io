@@ -18,6 +18,7 @@ Whether you do a little evil or much, it is alike bad.
 
 #### Romanization:
 Gaḍḍa tinnā kampē, pāya tinnā kampē.
+
 Gadda tinna kampe, paya tinna kampe.
 {% endcapture %}
 

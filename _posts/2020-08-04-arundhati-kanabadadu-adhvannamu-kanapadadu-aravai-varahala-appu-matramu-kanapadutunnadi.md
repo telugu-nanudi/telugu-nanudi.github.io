@@ -18,6 +18,7 @@ Said by a man who had got over head and ears in debt for his marriage, when the 
 
 #### Romanization:
 Arundhatī kanabaḍadu, adhvānnamū kanapaḍadu, aravai varahāla appu mātramu kanapaḍutunnadi.
+
 Arundhati kanabadadu, adhvannamu kanapadadu, aravai varahala appu matramu kanapadutunnadi.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Coming events cast their shadows before them.
 
 #### Romanization:
 Ceṭṭu ceḍē kālānaku kukka mūti pindelu puṭṭutunnavi.
+
 Cettu cede kalanaku kukka muti pindelu puttutunnavi.
 {% endcapture %}
 

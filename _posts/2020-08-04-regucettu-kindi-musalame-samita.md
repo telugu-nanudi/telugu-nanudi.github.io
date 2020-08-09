@@ -20,6 +20,7 @@ An unfortunate position.
 
 #### Romanization:
 Rēguceṭṭu kindi musalāme sāmita.
+
 Regucettu kindi musalame samita.
 {% endcapture %}
 

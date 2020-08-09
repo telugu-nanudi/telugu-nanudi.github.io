@@ -18,6 +18,7 @@ Said of persons whose pretensions to learning are not acknowledged.
 
 #### Romanization:
 Manameragani cevulaku maddi kāyalā.
+
 Manameragani cevulaku maddi kayala.
 {% endcapture %}
 

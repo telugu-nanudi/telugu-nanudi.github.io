@@ -15,6 +15,7 @@ Of permanent utility.
 
 #### Romanization:
 Telakula vāḍi muḍḍikindi rāyivalenē.
+
 Telakula vadi muddikindi rayivalene.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ Nothing so bad as not to be good for something.
 
 #### Romanization:
 Cāpa cirigitē cadaranta ayinā vuṇḍakapōtunnadā.
+
 Capa cirigite cadaranta ayina vundakapotunnada.
 {% endcapture %}
 

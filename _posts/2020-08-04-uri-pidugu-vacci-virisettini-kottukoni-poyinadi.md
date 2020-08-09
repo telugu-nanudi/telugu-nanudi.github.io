@@ -19,6 +19,7 @@ The innocent sutfering for the guilty.
 
 #### Romanization:
 Ūri piḍugu vacci vīriśeṭṭini koṭṭukoni pōyinadi.
+
 Uri pidugu vacci virisettini kottukoni poyinadi.
 {% endcapture %}
 

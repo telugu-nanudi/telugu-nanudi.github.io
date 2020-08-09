@@ -16,6 +16,7 @@ The sin of killing a dog cannot be expiated even by building a temple.
 
 #### Romanization:
 Kukkanu campina pāpamu guḍi kaṭṭinā pōdu.
+
 Kukkanu campina papamu gudi kattina podu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ All's well that ands well.
 
 #### Romanization:
 Kāvaḍi yenni vaṅkalu pōtēnēmi yillu cēritē sari.
+
 Kavadi yenni vankalu potenemi yillu cerite sari.
 {% endcapture %}
 

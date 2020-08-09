@@ -17,6 +17,7 @@ He is neither employed in his old trade nor supported in his new character.
 
 #### Romanization:
 Ubhaya bhraṣṭatvaṁ, vuppara sann'yāsitvaṁ.
+
 Ubhaya bhrastatvam, vuppara sann'yasitvam.
 {% endcapture %}
 

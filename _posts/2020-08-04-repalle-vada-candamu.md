@@ -19,6 +19,7 @@ It was famous for its prosperity according to some-according to others, for the 
 
 #### Romanization:
 Rēpalle vāḍa candamu.
+
 Repalle vada candamu.
 {% endcapture %}
 

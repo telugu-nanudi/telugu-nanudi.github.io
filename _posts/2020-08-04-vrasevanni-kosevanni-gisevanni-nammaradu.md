@@ -20,6 +20,7 @@ Put a miller, a weaver, and a tailor in a bag and shake them, the first that com
 
 #### Romanization:
 Vrāśēvāṇni kōśēvāṇni gīśēvāṇni nam'marādu.
+
 Vrasevanni kosevanni gisevanni nam'maradu.
 {% endcapture %}
 

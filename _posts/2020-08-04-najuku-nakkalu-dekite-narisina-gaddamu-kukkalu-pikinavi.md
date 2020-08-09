@@ -13,6 +13,7 @@ When the jackals slid on his delicacy, the dogs pulled out
 
 #### Romanization:
 Nājūku nakkalu dēkitē, nariśina gaḍḍamu kukkalu pīkinavi.
+
 Najuku nakkalu dekite, narisina gaddamu kukkalu pikinavi.
 {% endcapture %}
 

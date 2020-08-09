@@ -18,6 +18,7 @@ When a man was dying'from diarrhcea, some one played pranks as if possessed by P
 
 #### Romanization:
 Purru kārutū vuṇṭē, pōtarāju śivamāḍinaṭṭu.
+
 Purru karutu vunte, potaraju sivamadinattu.
 {% endcapture %}
 

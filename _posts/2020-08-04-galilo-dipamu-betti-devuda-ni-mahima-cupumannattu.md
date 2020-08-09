@@ -18,6 +18,7 @@ Having put the lamp in the wind, he prays "O God! show thy power."
 
 #### Romanization:
 Gālilō dīpamu beṭṭi dēvuḍā nī mahima cūpumannaṭṭu.
+
 Galilo dipamu betti devuda ni mahima cupumannattu.
 {% endcapture %}
 

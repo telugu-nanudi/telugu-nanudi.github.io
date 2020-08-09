@@ -16,6 +16,7 @@ There is no questioning the actions of a king or of Rama.
 
 #### Romanization:
 Rāju cēśina kāryālakū rāmuḍu cēśina kāryālakū yennika lēdu.
+
 Raju cesina karyalaku ramudu cesina karyalaku yennika ledu.
 {% endcapture %}
 

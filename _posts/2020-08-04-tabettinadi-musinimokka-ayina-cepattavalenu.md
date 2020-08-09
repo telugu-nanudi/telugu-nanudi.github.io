@@ -19,6 +19,7 @@ A patron must not forsake his dependent under any circumstances.
 
 #### Romanization:
 Tābeṭṭinadi muṣiṇimokka ayinā cēpaṭṭavalenu.
+
 Tabettinadi musinimokka ayina cepattavalenu.
 {% endcapture %}
 

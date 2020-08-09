@@ -18,6 +18,7 @@ Jack of all lrudcs and masler of none.
 
 #### Romanization:
 Sarvaṅkaṣaprajña kalavāḍu.
+
 Sarvankasaprajna kalavadu.
 {% endcapture %}
 

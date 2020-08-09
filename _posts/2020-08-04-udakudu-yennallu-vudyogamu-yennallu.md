@@ -16,6 +16,7 @@ How long will the Uda food last? How long will your employment continue?
 
 #### Romanization:
 Ūdakūḍu yennāḷlu, vudyōgamu yennāḷlu.
+
 Udakudu yennallu, vudyogamu yennallu.
 {% endcapture %}
 

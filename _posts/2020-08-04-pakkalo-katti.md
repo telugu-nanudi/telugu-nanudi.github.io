@@ -17,6 +17,7 @@ A sword by the side [on a bed].
 
 #### Romanization:
 Pakkalō katti.
+
 Pakkalo katti.
 {% endcapture %}
 

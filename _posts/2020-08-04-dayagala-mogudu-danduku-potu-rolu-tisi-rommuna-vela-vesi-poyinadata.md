@@ -20,6 +20,7 @@ Said ironically of a bad husband cruel to the last.
 
 #### Romanization:
 Dayagala moguḍu daṇḍuku pōtū, rōlu tīśi rom'muna vēla vēśi pōyināḍaṭa.
+
 Dayagala mogudu danduku potu, rolu tisi rom'muna vela vesi poyinadata.
 {% endcapture %}
 

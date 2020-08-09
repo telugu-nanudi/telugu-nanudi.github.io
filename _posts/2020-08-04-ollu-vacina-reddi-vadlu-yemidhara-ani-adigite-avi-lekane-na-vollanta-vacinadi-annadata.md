@@ -19,6 +19,7 @@ _ The Hindus believe that longing for any desired object causes the legs and fac
 
 #### Romanization:
 Oḷlu vācina reḍḍī vaḍlu yēmidhara ani aḍigitē, avi lēkanē nā voḷḷantā vācinadi annāḍaṭa.
+
 Ollu vacina reddi vadlu yemidhara ani adigite, avi lekane na vollanta vacinadi annadata.
 {% endcapture %}
 

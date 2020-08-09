@@ -17,6 +17,7 @@ Remains of a debt, of a sore, or of a fire should not be left.
 
 #### Romanization:
 R̥ṇaśēṣamu, vraṇaśēṣamu, agniśēṣamu, vun̄cakūḍadu.
+
 Rnasesamu, vranasesamu, agnisesamu, vuncakudadu.
 {% endcapture %}
 

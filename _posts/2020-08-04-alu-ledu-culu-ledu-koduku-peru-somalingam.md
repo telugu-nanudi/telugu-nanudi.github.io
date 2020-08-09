@@ -20,6 +20,7 @@ Count not your chicken: before they are hatched.
 
 #### Romanization:
 Ālū lēdu, cūlū lēdu, koḍuku pēru sōmaliṅgaṁ.
+
 Alu ledu, culu ledu, koduku peru somalingam.
 {% endcapture %}
 

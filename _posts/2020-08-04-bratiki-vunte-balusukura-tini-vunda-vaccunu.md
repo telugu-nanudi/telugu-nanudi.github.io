@@ -20,6 +20,7 @@ What can't be cured must be endured.
 
 #### Romanization:
 Bratiki vuṇṭē, balusukūra tini vuṇḍa vaccunu.
+
 Bratiki vunte, balusukura tini vunda vaccunu.
 {% endcapture %}
 

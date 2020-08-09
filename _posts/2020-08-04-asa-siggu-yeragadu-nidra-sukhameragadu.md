@@ -19,6 +19,7 @@ When sleep overpowers, comfort is not thought of'.
 
 #### Romanization:
 Āśa śiggu yeragadu, nidra sukhameragadu.
+
 Asa siggu yeragadu, nidra sukhameragadu.
 {% endcapture %}
 

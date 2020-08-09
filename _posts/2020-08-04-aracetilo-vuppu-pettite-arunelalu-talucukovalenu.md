@@ -18,6 +18,7 @@ The duty of gratitude.
 
 #### Romanization:
 Aracētilō vuppu peṭṭitē ārunelalu talucukōvalenu.
+
 Aracetilo vuppu pettite arunelalu talucukovalenu.
 {% endcapture %}
 

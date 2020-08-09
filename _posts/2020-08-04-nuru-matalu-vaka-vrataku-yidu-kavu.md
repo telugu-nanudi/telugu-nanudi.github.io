@@ -13,6 +13,7 @@ A hundred words are not equal to one writing.
 
 #### Romanization:
 Nūru māṭalu vaka vrātaku yīḍu kāvu.
+
 Nuru matalu vaka vrataku yidu kavu.
 {% endcapture %}
 

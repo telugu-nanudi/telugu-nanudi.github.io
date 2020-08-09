@@ -19,6 +19,7 @@ However great a family a wife may come from, she must still be subject to her hu
 
 #### Romanization:
 Kaḍavanta gum'maḍikāya ayinā kattipīṭaku lōkuva.
+
 Kadavanta gum'madikaya ayina kattipitaku lokuva.
 {% endcapture %}
 

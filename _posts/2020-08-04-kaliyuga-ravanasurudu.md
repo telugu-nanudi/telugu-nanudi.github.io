@@ -18,6 +18,7 @@ Applied to a man as bad in this, the Iron age, as Ravana was in the Golden.
 
 #### Romanization:
 Kaliyuga rāvaṇāsuruḍu.
+
 Kaliyuga ravanasurudu.
 {% endcapture %}
 

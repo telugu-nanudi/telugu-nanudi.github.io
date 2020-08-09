@@ -19,6 +19,7 @@ A sham warrior.
 
 #### Romanization:
 Silār, pillalū nēnu tayār.
+
 Silar, pillalu nenu tayar.
 {% endcapture %}
 

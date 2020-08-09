@@ -19,6 +19,7 @@ To have a belly up to one's mouth. (Spanish)[1]
 
 #### Romanization:
 Śiṣyā śiṣyā nā kāḷlanu ceppulunnavā aṇṭē, nakṣatramaṇḍalaṁ yī madhya kanapaḍalēdu annāḍaṭa.
+
 Sisya sisya na kallanu ceppulunnava ante, naksatramandalam yi madhya kanapadaledu annadata.
 {% endcapture %}
 

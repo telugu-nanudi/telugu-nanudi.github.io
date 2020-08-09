@@ -18,6 +18,7 @@ The journey was a sham, but eating (the provisions prepared) was a reality.
 
 #### Romanization:
 Prayāṇamu abad'dhamu, prasāpāṭu nibad'dhi.
+
 Prayanamu abad'dhamu, prasapatu nibad'dhi.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ By digging and digging the truth is discovered.
 
 #### Romanization:
 Tavvagā tavvagā tathyaṁ tēlutunnadi.
+
 Tavvaga tavvaga tathyam telutunnadi.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ After one trouble, think not that you have passed through all.
 
 #### Romanization:
 Oka kalagaṇṭē tellavārutunnadā.
+
 Oka kalagante tellavarutunnada.
 {% endcapture %}
 

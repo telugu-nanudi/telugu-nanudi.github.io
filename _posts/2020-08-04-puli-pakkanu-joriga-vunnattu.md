@@ -17,6 +17,7 @@ A safe refuge.
 
 #### Romanization:
 Puli pakkanu jōrīga vunnaṭṭu.
+
 Puli pakkanu joriga vunnattu.
 {% endcapture %}
 

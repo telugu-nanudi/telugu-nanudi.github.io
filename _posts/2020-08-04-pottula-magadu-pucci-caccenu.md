@@ -19,6 +19,7 @@ The ass that is common property is always the worst saddled. (French)[1]
 
 #### Romanization:
 Pottula magaḍu pucci caccenu.
+
 Pottula magadu pucci caccenu.
 {% endcapture %}
 

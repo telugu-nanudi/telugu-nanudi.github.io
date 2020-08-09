@@ -18,6 +18,7 @@ He earns a farthing and has a penn'orth of thirst. (Dutch)[1]
 
 #### Romanization:
 Vaṇḍalēni am'maku voppulu meṇḍu, tēlēni ayyaku tiṇḍi meṇḍu.
+
 Vandaleni am'maku voppulu mendu, teleni ayyaku tindi mendu.
 {% endcapture %}
 

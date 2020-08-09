@@ -20,6 +20,7 @@ Either live or die wi' honour.
 
 #### Romanization:
 Mānamu pōyina venaka prāṇamenduku.
+
 Manamu poyina venaka pranamenduku.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Trust not to a broken staff.
 
 #### Romanization:
 Kukkatōka paṭṭukoni gōdāvari yīda vaccunā.
+
 Kukkatoka pattukoni godavari yida vaccuna.
 {% endcapture %}
 

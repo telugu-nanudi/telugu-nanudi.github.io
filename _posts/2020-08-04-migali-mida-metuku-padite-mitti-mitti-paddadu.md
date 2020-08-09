@@ -18,6 +18,7 @@ It is only when a man has plenty to eat that he lets a grain fall.
 
 #### Romanization:
 Mīgāli mīda metuku paḍitē miṭṭi miṭṭi paḍḍāḍu.
+
 Migali mida metuku padite mitti mitti paddadu.
 {% endcapture %}
 

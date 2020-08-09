@@ -17,6 +17,7 @@ After the whole of the cattle had been stolen from the shed, the barren buflalo 
 
 #### Romanization:
 Doḍḍeḍu goḍlanu doṅgalu tōlukoni pōtē, goḍḍu gēde śrī mahālakṣmi ayinadi.
+
 Doddedu godlanu dongalu tolukoni pote, goddu gede sri mahalaksmi ayinadi.
 {% endcapture %}
 

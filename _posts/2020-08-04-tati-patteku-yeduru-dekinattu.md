@@ -19,6 +19,7 @@ Injuring one's self by perverse conduct.
 
 #### Romanization:
 Tāṭi paṭṭeku yeduru dēkinaṭṭu.
+
 Tati patteku yeduru dekinattu.
 {% endcapture %}
 

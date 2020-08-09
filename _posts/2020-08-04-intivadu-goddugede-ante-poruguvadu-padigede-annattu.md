@@ -19,6 +19,7 @@ Applied to a spirit of contradiction.
 
 #### Romanization:
 Iṇṭivāḍu goḍḍugēde aṇṭē, poruguvāḍu pāḍigēde annaṭṭu.
+
 Intivadu goddugede ante, poruguvadu padigede annattu.
 {% endcapture %}
 

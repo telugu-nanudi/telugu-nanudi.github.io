@@ -14,6 +14,7 @@ Said of a cowardly person.
 
 #### Romanization:
 Kappaku kāṭū, brāhmaṇuniki pōṭū lēdu.
+
 Kappaku katu, brahmanuniki potu ledu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ Will the woman who cannot bear one [trouble] bear two?
 
 #### Romanization:
 Oṇṭiki vōrvalēnam'ma reṇṭiki vōrcunā
+
 Ontiki vorvalenam'ma rentiki vorcuna
 {% endcapture %}
 

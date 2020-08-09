@@ -15,6 +15,7 @@ Applied to a selfish person.
 
 #### Romanization:
 Cilaka tana muddēgāni yedaṭi muddu kōradu.
+
 Cilaka tana muddegani yedati muddu koradu.
 {% endcapture %}
 

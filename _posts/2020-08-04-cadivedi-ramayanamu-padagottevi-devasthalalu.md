@@ -19,6 +19,7 @@ Much religion, but no goodness.
 
 #### Romanization:
 Cadivēdi rāmāyaṇamu, paḍagoṭṭēvi dēvasthalālu.
+
 Cadivedi ramayanamu, padagottevi devasthalalu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Relying upon a man who pretends to have influence.
 
 #### Romanization:
 Maṭṭi gurramunu nam'mi yēṭlō diginaṭṭu.
+
 Matti gurramunu nam'mi yetlo diginattu.
 {% endcapture %}
 

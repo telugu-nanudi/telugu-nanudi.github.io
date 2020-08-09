@@ -18,6 +18,7 @@ Defects on both sides.
 
 #### Romanization:
 Kolicēvāḍū guḍḍi, kolipin̄cukonēvāḍū guḍḍi.
+
 Kolicevadu guddi, kolipincukonevadu guddi.
 {% endcapture %}
 

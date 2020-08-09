@@ -14,6 +14,7 @@ An unjust word is the throwing of a stone.
 
 #### Romanization:
 Nīti kāni māṭa rāti vēṭu.
+
 Niti kani mata rati vetu.
 {% endcapture %}
 

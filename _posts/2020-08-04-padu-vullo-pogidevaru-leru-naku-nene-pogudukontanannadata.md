@@ -18,6 +18,7 @@ Your trumpeter's dead, and so you trumpet yourself.
 
 #### Romanization:
 Pāḍu vūḷlō pogiḍēvāru lēru, nāku nēnē poguḍukoṇṭānannāḍaṭa.
+
 Padu vullo pogidevaru leru, naku nene pogudukontanannadata.
 {% endcapture %}
 

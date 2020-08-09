@@ -18,6 +18,7 @@ Applied to a sudden and heavy misfortune.
 
 #### Romanization:
 Nuyyi tiyyabōtē, dayyamu bayalu veḷlinadi.
+
 Nuyyi tiyyabote, dayyamu bayalu vellinadi.
 {% endcapture %}
 

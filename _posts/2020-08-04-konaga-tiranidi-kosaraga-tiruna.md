@@ -15,6 +15,7 @@ Will the bad bargain be improved by receiving something over?
 
 #### Romanization:
 Konagā tīranidi kosaragā tīrunā.
+
 Konaga tiranidi kosaraga tiruna.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ Easy prey.
 
 #### Romanization:
 Gorrelalō tōḍēlu jorabaḍḍaṭṭu.
+
 Gorrelalo todelu jorabaddattu.
 {% endcapture %}
 

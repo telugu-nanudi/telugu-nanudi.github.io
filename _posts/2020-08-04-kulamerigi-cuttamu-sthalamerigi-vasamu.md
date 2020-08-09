@@ -17,6 +17,7 @@ tags:
 
 #### Romanization:
 Kulamerigi cuṭṭamu, sthalamerigi vāsamu.
+
 Kulamerigi cuttamu, sthalamerigi vasamu.
 {% endcapture %}
 

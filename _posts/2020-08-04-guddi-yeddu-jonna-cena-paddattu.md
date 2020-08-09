@@ -17,6 +17,7 @@ Not able to get much out of it.
 
 #### Romanization:
 Guḍḍi yeddu jonna cēna paḍḍaṭṭu.
+
 Guddi yeddu jonna cena paddattu.
 {% endcapture %}
 

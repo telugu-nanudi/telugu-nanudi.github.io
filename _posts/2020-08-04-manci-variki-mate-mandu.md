@@ -17,6 +17,7 @@ A word to the wise is sufficient. (Latin)[1]
 
 #### Romanization:
 Man̄ci vāriki māṭē mandu.
+
 Manci variki mate mandu.
 {% endcapture %}
 

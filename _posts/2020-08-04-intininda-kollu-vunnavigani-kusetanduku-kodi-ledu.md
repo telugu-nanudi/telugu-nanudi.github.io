@@ -19,6 +19,7 @@ Said of useless people.
 
 #### Romanization:
 Iṇṭiniṇḍā kōḷlu vunnavigani, kūśēṭanduku kōḍi lēdu.
+
 Intininda kollu vunnavigani, kusetanduku kodi ledu.
 {% endcapture %}
 

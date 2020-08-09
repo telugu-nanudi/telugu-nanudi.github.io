@@ -18,6 +18,7 @@ When a man married a blind woman, on account of the smallness of the jointure, s
 
 #### Romanization:
 Ōli takkuva ani guḍḍidānni peṇḍlāḍitē, donti kuṇḍalannī pagala koṭṭinadaṭa.
+
 Oli takkuva ani guddidanni pendladite, donti kundalanni pagala kottinadata.
 {% endcapture %}
 

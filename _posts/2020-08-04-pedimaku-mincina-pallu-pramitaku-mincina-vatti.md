@@ -18,6 +18,7 @@ He is on the high ropes
 
 #### Romanization:
 Pedimaku min̄cina pallu, pramitaku min̄cina vatti.
+
 Pedimaku mincina pallu, pramitaku mincina vatti.
 {% endcapture %}
 

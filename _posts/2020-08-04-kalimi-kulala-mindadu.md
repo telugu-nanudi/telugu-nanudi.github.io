@@ -20,6 +20,7 @@ Rich people are every where at home. (German)[2]
 
 #### Romanization:
 Kalimi kulāla miṇḍaḍu.
+
 Kalimi kulala mindadu.
 {% endcapture %}
 

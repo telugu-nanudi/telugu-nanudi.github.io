@@ -15,6 +15,7 @@ Like the hindrance of Saindhava.
 
 #### Romanization:
 Saindhavuḍu aḍḍapaḍḍaṭṭu.
+
 Saindhavudu addapaddattu.
 {% endcapture %}
 

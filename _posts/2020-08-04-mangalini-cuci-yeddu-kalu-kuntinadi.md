@@ -19,6 +19,7 @@ Malingering.
 
 #### Romanization:
 Maṅgalini cūci yeddu kālu kuṇṭinadi.
+
 Mangalini cuci yeddu kalu kuntinadi.
 {% endcapture %}
 

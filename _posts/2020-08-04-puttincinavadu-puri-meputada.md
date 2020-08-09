@@ -19,6 +19,7 @@ The Creator provides suitable food for all his creatures ; the benefactors of ot
 
 #### Romanization:
 Puṭṭin̄cinavāḍu pūri mēputāḍā.
+
 Puttincinavadu puri meputada.
 {% endcapture %}
 

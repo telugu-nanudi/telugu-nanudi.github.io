@@ -18,6 +18,7 @@ Said to a cheat.
 
 #### Romanization:
 Gānugāpē gānugāpē nīvu kūrcunna pasēgadā'a nūne poyyaḍaṁ.
+
 Ganugape ganugape nivu kurcunna pasegada'a nune poyyadam.
 {% endcapture %}
 

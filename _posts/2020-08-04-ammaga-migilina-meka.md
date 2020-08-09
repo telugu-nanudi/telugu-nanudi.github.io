@@ -14,6 +14,7 @@ A wretched fate.
 
 #### Romanization:
 Am'magā migilina mēka.
+
 Am'maga migilina meka.
 {% endcapture %}
 

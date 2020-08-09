@@ -19,6 +19,7 @@ Men of the Velama caste are said to be reserved and modest.
 
 #### Romanization:
 Velamavāri peṇḍlikoḍuku māraḍaganēraḍu, vunnadantā pūḍci peṭṭu mannaṭṭu.
+
 Velamavari pendlikoduku maradaganeradu, vunnadanta pudci pettu mannattu.
 {% endcapture %}
 

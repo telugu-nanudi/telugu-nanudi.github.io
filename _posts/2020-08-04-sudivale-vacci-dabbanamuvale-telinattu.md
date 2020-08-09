@@ -17,6 +17,7 @@ The reverse of No. 688 q.v.
 
 #### Romanization:
 Sūdivale vacci dabbanamuvale tēlinaṭṭu.
+
 Sudivale vacci dabbanamuvale telinattu.
 {% endcapture %}
 

@@ -13,6 +13,7 @@ The best part of the cold food is the pickle.
 
 #### Romanization:
 Caddikaṇṭē vūragāya ghanamu.
+
 Caddikante vuragaya ghanamu.
 {% endcapture %}
 

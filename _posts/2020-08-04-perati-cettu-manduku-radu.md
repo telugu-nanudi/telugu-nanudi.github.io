@@ -20,6 +20,7 @@ A cow from afar gives plenty of milk. (French)[1]
 
 #### Romanization:
 Peraṭi ceṭṭu manduku rādu.
+
 Perati cettu manduku radu.
 {% endcapture %}
 

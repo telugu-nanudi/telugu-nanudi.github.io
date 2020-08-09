@@ -17,6 +17,7 @@ Used ironically.
 
 #### Romanization:
 Satyahariścandruḍayyā.
+
 Satyahariscandrudayya.
 {% endcapture %}
 

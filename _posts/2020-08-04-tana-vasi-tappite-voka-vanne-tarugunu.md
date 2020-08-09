@@ -13,6 +13,7 @@ If virtue fails, honor decreases with it.
 
 #### Romanization:
 Tana vāśi tappitē, voka vanne tarugunu.
+
 Tana vasi tappite, voka vanne tarugunu.
 {% endcapture %}
 

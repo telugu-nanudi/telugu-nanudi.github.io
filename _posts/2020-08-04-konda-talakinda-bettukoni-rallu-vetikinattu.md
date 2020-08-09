@@ -18,6 +18,7 @@ Like putting a mountain under one's head and searching for stones.
 
 #### Romanization:
 Koṇḍa talakinda beṭṭukoni rāḷlu vetikinaṭṭu.
+
 Konda talakinda bettukoni rallu vetikinattu.
 {% endcapture %}
 

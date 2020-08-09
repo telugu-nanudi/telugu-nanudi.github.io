@@ -17,6 +17,7 @@ Can one expect to live always on the bounty of others ?
 
 #### Romanization:
 Peṭṭu pōtalu śāśvatamulā.
+
 Pettu potalu sasvatamula.
 {% endcapture %}
 

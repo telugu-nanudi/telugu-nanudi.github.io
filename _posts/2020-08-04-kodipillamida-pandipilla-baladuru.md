@@ -16,6 +16,7 @@ Sacrificing a pig to save a chicken.
 
 #### Romanization:
 Kōḍipillamīda pandipilla balādūru.
+
 Kodipillamida pandipilla baladuru.
 {% endcapture %}
 

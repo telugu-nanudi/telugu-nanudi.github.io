@@ -18,6 +18,7 @@ Every man should be prepared to defend himself.
 
 #### Romanization:
 Karra lēnivāṇni gorre ayinā karustundi.
+
 Karra lenivanni gorre ayina karustundi.
 {% endcapture %}
 

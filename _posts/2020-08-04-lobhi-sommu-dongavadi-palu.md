@@ -15,6 +15,7 @@ A miser's property falls to the lot of 'the thief.
 
 #### Romanization:
 Lōbhi som'mu doṅgavāḍi pālu.
+
 Lobhi som'mu dongavadi palu.
 {% endcapture %}
 

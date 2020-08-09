@@ -19,6 +19,7 @@ Said of any thing that should scrupulously be avoided.
 
 #### Romanization:
 Aṇṭā muṭṭarāni agrahāramu.
+
 Anta muttarani agraharamu.
 {% endcapture %}
 

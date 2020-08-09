@@ -20,6 +20,7 @@ A goose-guilt is more dangerous than a lion's claw.
 
 #### Romanization:
 Kattivāṇā kalanvāṇā.
+
 Kattivana kalanvana.
 {% endcapture %}
 

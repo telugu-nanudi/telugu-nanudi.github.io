@@ -15,6 +15,7 @@ Similar to the English slang expression " Bosh."
 
 #### Romanization:
 Śiṅginādaṁ jīlakarra.
+
 Singinadam jilakarra.
 {% endcapture %}
 

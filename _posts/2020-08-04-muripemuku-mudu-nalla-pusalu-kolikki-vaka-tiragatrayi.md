@@ -19,6 +19,7 @@ When a man was told that out of affection three black beads had been tied round 
 
 #### Romanization:
 Muripemuku mūḍu nalla pūsalu, kolikki vaka tiragaṭrāyi.
+
 Muripemuku mudu nalla pusalu, kolikki vaka tiragatrayi.
 {% endcapture %}
 

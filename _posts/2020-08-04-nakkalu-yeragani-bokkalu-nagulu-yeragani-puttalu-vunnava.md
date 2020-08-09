@@ -13,6 +13,7 @@ Are there holes unknown to j ackals, or anthills to snakes '!
 
 #### Romanization:
 Nakkalu yeragani bokkalū nāgulu yeragani puṭṭalū vunnavā.
+
 Nakkalu yeragani bokkalu nagulu yeragani puttalu vunnava.
 {% endcapture %}
 

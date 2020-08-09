@@ -14,6 +14,7 @@ Like licking the ladle when you're hungry.
 
 #### Romanization:
 Teḍḍu nāki vupavāsamulu mānpinaṭṭu.
+
 Teddu naki vupavasamulu manpinattu.
 {% endcapture %}
 

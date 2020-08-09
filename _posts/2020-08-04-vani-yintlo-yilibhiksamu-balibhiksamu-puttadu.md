@@ -21,6 +21,7 @@ Dogs run away with whole shoulders.
 
 #### Romanization:
 Vāni yiṇṭlō yilibhikṣamu balibhikṣamu puṭṭadu.
+
 Vani yintlo yilibhiksamu balibhiksamu puttadu.
 {% endcapture %}
 

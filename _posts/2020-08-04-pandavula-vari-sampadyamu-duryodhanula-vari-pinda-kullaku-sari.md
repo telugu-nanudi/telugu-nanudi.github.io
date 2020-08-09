@@ -19,6 +19,7 @@ Ill use of well gotten gains.
 
 #### Romanization:
 Pāṇḍavula vāri sampādyamu duryōdhanula vāri piṇḍā kūḷlaku sari.
+
 Pandavula vari sampadyamu duryodhanula vari pinda kullaku sari.
 {% endcapture %}
 

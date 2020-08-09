@@ -19,6 +19,7 @@ Cringing is a gainful accomplishment.
 
 #### Romanization:
 Kālitō cūpitē talatō ceyya valenu.
+
 Kalito cupite talato ceyya valenu.
 {% endcapture %}
 

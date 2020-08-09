@@ -18,6 +18,7 @@ Your wife's people are your own relations; your mother's people are distant rela
 
 #### Romanization:
 Āli vaṅkavāru ātmabandhuvulu, talli vaṅkavāru taginavāru, taṇḍri vaṅkavāru dāyādulu.
+
 Ali vankavaru atmabandhuvulu, talli vankavaru taginavaru, tandri vankavaru dayadulu.
 {% endcapture %}
 

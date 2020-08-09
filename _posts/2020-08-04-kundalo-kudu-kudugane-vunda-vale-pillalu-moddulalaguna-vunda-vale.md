@@ -20,6 +20,7 @@ You can't eat your cake and have it too.
 
 #### Romanization:
 Kuṇḍalō kūḍu kūḍugānē vuṇḍa vale, pillalu moddulalāguna vuṇḍa vale.
+
 Kundalo kudu kudugane vunda vale, pillalu moddulalaguna vunda vale.
 {% endcapture %}
 

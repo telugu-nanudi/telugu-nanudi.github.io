@@ -16,6 +16,7 @@ The crow is plucky, the cuckoo is cowardly.
 
 #### Romanization:
 Kāki gaṇḍāguṇḍigāni kōkila piriki.
+
 Kaki gandagundigani kokila piriki.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Like [a horse] which opens its mouth for a morsel, and shuts it for the bridle.
 
 #### Romanization:
 Kaḍi aṇṭē nōru terici, kaḷlemaṇṭē nōru mūśinaṭṭu.
+
 Kadi ante noru terici, kallemante noru musinattu.
 {% endcapture %}
 

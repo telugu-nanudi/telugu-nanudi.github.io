@@ -18,6 +18,7 @@ Though the stab of the sword may fail, the stab of the pen will not fail.
 
 #### Romanization:
 Kattipōṭu tappinā kalampōṭu tappadu.
+
 Kattipotu tappina kalampotu tappadu.
 {% endcapture %}
 

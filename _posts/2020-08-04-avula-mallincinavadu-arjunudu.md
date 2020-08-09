@@ -19,6 +19,7 @@ Used when speaking of a man to whom the credit of any successful undertaking is 
 
 #### Romanization:
 Āvula maḷlin̄cinavāḍu arjunuḍu.
+
 Avula mallincinavadu arjunudu.
 {% endcapture %}
 

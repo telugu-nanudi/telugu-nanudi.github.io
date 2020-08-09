@@ -19,6 +19,7 @@ Said by a careless Brahman.
 
 #### Romanization:
 Nōṭikī cētikī yeṅgili lēdu.
+
 Notiki cetiki yengili ledu.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ His mother's ear-ornaments went to pay fines, and his wife's necklace of beads t
 
 #### Romanization:
 Talli cevula maddikāyalu daṇḍagalaku, bhārya meḷlō pūsalu bōgālavāriki.
+
 Talli cevula maddikayalu dandagalaku, bharya mello pusalu bogalavariki.
 {% endcapture %}
 

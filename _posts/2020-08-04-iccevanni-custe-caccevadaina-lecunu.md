@@ -17,6 +17,7 @@ With the hope of receiving something from him.
 
 #### Romanization:
 Iccēvāṇni cūstē, caccēvāḍainā lēcunu.
+
 Iccevanni custe, caccevadaina lecunu.
 {% endcapture %}
 

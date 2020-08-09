@@ -17,6 +17,7 @@ Is feeding one's wife a benefit to the village ?
 
 #### Romanization:
 Āliki annamu peṭṭaḍamu vūriki vupakāramā.
+
 Aliki annamu pettadamu vuriki vupakarama.
 {% endcapture %}
 

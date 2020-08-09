@@ -15,6 +15,7 @@ By weeping at the good fortune of another he lost one eye, and by weeping at his
 
 #### Romanization:
 Okari kalimiki yēḍistē vaka kannu pōyinadi, tanalēmiki yēḍistē mari vaka kannū pōyinadi.
+
 Okari kalimiki yediste vaka kannu poyinadi, tanalemiki yediste mari vaka kannu poyinadi.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Undergoing much and yet suffering disappointment.
 
 #### Romanization:
 Māla kūṭiki lōbaḍḍā, pappu badda dorakadu.
+
 Mala kutiki lobadda, pappu badda dorakadu.
 {% endcapture %}
 

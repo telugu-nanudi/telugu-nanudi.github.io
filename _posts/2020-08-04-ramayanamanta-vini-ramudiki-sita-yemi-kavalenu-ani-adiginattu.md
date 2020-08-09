@@ -16,6 +16,7 @@ A dunderhead.
 
 #### Romanization:
 Rāmāyaṇamantā vini rāmuḍiki sīta yēmi kāvalenu ani aḍiginaṭṭu.
+
 Ramayanamanta vini ramudiki sita yemi kavalenu ani adiginattu.
 {% endcapture %}
 

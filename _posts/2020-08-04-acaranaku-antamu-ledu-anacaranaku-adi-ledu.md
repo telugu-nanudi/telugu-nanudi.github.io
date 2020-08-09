@@ -18,6 +18,7 @@ Man is sinful from his birth, and never attains to perfect purity.
 
 #### Romanization:
 Ācārānaku antamū lēdu, anācārānaku ādī lēdu.
+
 Acaranaku antamu ledu, anacaranaku adi ledu.
 {% endcapture %}
 

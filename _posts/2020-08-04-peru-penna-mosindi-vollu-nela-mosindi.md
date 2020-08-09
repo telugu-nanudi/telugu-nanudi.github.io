@@ -20,6 +20,7 @@ Fame is a magnifying glass.
 
 #### Romanization:
 Pēru penna mōśindi, voḷlu nēla mōśindi.
+
 Peru penna mosindi, vollu nela mosindi.
 {% endcapture %}
 

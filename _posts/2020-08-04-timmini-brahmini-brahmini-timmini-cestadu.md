@@ -20,6 +20,7 @@ He calls evil good, and good evil.
 
 #### Romanization:
 Tim'mini brahminī, brahmini tim'minī cēstāḍu.
+
 Tim'mini brahmini, brahmini tim'mini cestadu.
 {% endcapture %}
 

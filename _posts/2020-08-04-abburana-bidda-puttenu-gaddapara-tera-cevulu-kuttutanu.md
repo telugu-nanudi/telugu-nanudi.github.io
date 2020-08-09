@@ -19,6 +19,7 @@ Ridiculing unusual and extraordinary care being taken of any thing not worthy of
 
 #### Romanization:
 Abburāna biḍḍa puṭṭenu, gaḍḍapāra tērā cevulu kuṭṭutānu.
+
 Abburana bidda puttenu, gaddapara tera cevulu kuttutanu.
 {% endcapture %}
 

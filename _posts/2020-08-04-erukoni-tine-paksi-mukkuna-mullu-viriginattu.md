@@ -18,6 +18,7 @@ Losing the only means of support.
 
 #### Romanization:
 Ērukoni tinē pakṣi mukkuna mullu viriginaṭṭu.
+
 Erukoni tine paksi mukkuna mullu viriginattu.
 {% endcapture %}
 

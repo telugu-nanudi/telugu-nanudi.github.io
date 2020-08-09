@@ -17,6 +17,7 @@ As long as he was on board his ship, he was " Ship Mallappa" as soon as he lande
 
 #### Romanization:
 Vāḍamīda vuṇḍēvaraku vāḍamallappa, digagānē bōḍimallappa.
+
 Vadamida vundevaraku vadamallappa, digagane bodimallappa.
 {% endcapture %}
 

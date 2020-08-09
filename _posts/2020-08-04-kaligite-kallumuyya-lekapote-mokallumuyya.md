@@ -19,6 +19,7 @@ Cut your coat according Io your cloth.
 
 #### Romanization:
 Kaligitē kāḷlumuyya, lēkapōtē mōkāḷlumuyya.
+
 Kaligite kallumuyya, lekapote mokallumuyya.
 {% endcapture %}
 

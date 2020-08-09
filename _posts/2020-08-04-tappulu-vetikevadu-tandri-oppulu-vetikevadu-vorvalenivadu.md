@@ -19,6 +19,7 @@ You may be more thankful to the fault finder than to the good natured.
 
 #### Romanization:
 Tappulu vetikēvāḍu taṇḍri, oppulu vetikēvāḍu vōrvalēnivāḍu.
+
 Tappulu vetikevadu tandri, oppulu vetikevadu vorvalenivadu.
 {% endcapture %}
 

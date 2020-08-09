@@ -18,6 +18,7 @@ An injury is none the less, though it be inflicted by a. relation or friend.
 
 #### Romanization:
 Guḍi pāmu karicinaṭṭu, gaṅgigōvu poḍicinaṭṭu.
+
 Gudi pamu karicinattu, gangigovu podicinattu.
 {% endcapture %}
 

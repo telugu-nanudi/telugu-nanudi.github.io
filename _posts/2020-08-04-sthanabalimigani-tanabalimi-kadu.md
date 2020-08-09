@@ -14,6 +14,7 @@ It is the strength of his position, not his own strength.
 
 #### Romanization:
 Sthānabalimigāni tanabalimi kādu.
+
 Sthanabalimigani tanabalimi kadu.
 {% endcapture %}
 

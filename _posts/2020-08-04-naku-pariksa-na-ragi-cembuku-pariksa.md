@@ -17,6 +17,7 @@ Said by an ignorant Vaidika who with great pretentions lo learning knew nothing,
 
 #### Romanization:
 Nāku parīkṣā, nā rāgi cembuku parīkṣā.
+
 Naku pariksa, na ragi cembuku pariksa.
 {% endcapture %}
 

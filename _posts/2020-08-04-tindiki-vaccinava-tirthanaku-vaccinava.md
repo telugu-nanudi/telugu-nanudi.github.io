@@ -16,6 +16,7 @@ Have you come to eat or to visit the shrine ?
 
 #### Romanization:
 Tiṇḍiki vaccināvā tīrthānaku vaccināvā.
+
 Tindiki vaccinava tirthanaku vaccinava.
 {% endcapture %}
 

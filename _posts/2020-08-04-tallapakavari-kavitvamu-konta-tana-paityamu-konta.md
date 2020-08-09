@@ -18,6 +18,7 @@ Said of a man who has spoilt the good work of another.
 
 #### Romanization:
 Tāḷlapākavāri kavitvamu konta, tana paityamu konta.
+
 Tallapakavari kavitvamu konta, tana paityamu konta.
 {% endcapture %}
 

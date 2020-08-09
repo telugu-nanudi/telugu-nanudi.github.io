@@ -20,6 +20,7 @@ Useless appendages.
 
 #### Romanization:
 Tāḷlaku talanu caṇḍlu mēkalaku meḍanu caṇḍlu.
+
 Tallaku talanu candlu mekalaku medanu candlu.
 {% endcapture %}
 

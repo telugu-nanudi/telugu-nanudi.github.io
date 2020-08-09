@@ -18,6 +18,7 @@ Two men were dancing-One had a drum round his neck; the other, not to be out-don
 
 #### Romanization:
 Rōṣānaku rōlu meḍanu kaṭṭukonnaṭṭu.
+
 Rosanaku rolu medanu kattukonnattu.
 {% endcapture %}
 

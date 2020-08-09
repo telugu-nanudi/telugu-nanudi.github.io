@@ -17,6 +17,7 @@ An ironical phrase applied to procrastination.
 
 #### Romanization:
 Kaliyugamu reṇḍu rōjulu pōvalenu.
+
 Kaliyugamu rendu rojulu povalenu.
 {% endcapture %}
 

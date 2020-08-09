@@ -19,6 +19,7 @@ Like will to like.
 
 #### Romanization:
 Ratnālannī vaka cōṭa, nattagullalannī vaka cōṭa.
+
 Ratnalanni vaka cota, nattagullalanni vaka cota.
 {% endcapture %}
 

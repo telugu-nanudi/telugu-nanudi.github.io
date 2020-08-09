@@ -19,6 +19,7 @@ Finding things even worse than anticipated.
 
 #### Romanization:
 Vrātagadē kūturā aṇṭē, kōtimoguḍē am'mā annaṭṭu.
+
 Vratagade kutura ante, kotimogude am'ma annattu.
 {% endcapture %}
 

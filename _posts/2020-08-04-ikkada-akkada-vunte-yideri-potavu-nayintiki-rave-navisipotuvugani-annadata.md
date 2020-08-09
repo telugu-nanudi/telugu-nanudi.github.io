@@ -17,6 +17,7 @@ Said jokingly by a poor man to a young girl.
 
 #### Romanization:
 Ikkaḍa akkaḍa vuṇṭē yīḍēri pōtāvu, nāyiṇṭiki rāvē naviśipōtuvugāni annāḍaṭa.
+
 Ikkada akkada vunte yideri potavu, nayintiki rave navisipotuvugani annadata.
 {% endcapture %}
 

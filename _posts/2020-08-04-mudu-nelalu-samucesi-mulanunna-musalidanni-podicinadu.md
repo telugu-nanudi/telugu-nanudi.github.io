@@ -17,6 +17,7 @@ Learning to no advantage.
 
 #### Romanization:
 Mūḍu nelalu sāmucēśi, mūlanunna musalidānni poḍicināḍu.
+
 Mudu nelalu samucesi, mulanunna musalidanni podicinadu.
 {% endcapture %}
 

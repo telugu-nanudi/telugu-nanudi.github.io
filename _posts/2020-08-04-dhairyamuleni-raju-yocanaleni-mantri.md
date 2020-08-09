@@ -13,6 +13,7 @@ A king without courage, a minister without judgment.
 
 #### Romanization:
 Dhairyamulēni rāju, yōcanalēni mantri.
+
 Dhairyamuleni raju, yocanaleni mantri.
 {% endcapture %}
 

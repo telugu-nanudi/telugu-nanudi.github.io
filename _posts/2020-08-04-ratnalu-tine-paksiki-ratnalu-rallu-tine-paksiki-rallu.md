@@ -19,6 +19,7 @@ God provides all his creatures with that which they need.
 
 #### Romanization:
 Ratnālu tinē pakṣiki ratnālu, rāḷlu tinē pakṣiki rāḷlu.
+
 Ratnalu tine paksiki ratnalu, rallu tine paksiki rallu.
 {% endcapture %}
 

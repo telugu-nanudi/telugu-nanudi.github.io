@@ -19,6 +19,7 @@ Applied to a benevolent man surrounded by evil persons, who do not suffer others
 
 #### Romanization:
 Kalpavr̥kṣamu kinda gaccapoda vunnaṭṭu
+
 Kalpavrksamu kinda gaccapoda vunnattu
 {% endcapture %}
 

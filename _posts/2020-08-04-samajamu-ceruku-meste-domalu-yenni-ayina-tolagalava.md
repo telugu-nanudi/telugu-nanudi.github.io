@@ -16,6 +16,7 @@ When an elephant feeds on the sugar-cane, can any number of mosquitos drive him 
 
 #### Romanization:
 Sāmajamu ceruku mēstē, dōmalu yenni ayinā tōlagalavā.
+
 Samajamu ceruku meste, domalu yenni ayina tolagalava.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ If the doctor cures, the sun sees it; if he kills, the earth hides it.
 
 #### Romanization:
 Okarini yiddarini campitēnēgāni, vaidyuḍu kāḍu.
+
 Okarini yiddarini campitenegani, vaidyudu kadu.
 {% endcapture %}
 

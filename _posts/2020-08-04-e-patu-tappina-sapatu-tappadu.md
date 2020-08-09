@@ -15,6 +15,7 @@ Whatever work is neglected, eating is not forgotten.
 
 #### Romanization:
 Ē pāṭu tappinā sāpāṭu tappadu.
+
 E patu tappina sapatu tappadu.
 {% endcapture %}
 

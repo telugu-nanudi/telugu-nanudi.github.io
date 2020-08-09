@@ -13,6 +13,7 @@ If out of sight, is it out of hearing also?
 
 #### Romanization:
 Kaṇḍlaku dūramayitē cevulaku dūramā.
+
 Kandlaku duramayite cevulaku durama.
 {% endcapture %}
 

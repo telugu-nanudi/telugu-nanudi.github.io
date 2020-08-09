@@ -18,6 +18,7 @@ Rivaling each other in exaggeration. Capping a long-bow man.
 
 #### Romanization:
 Idugō puli aṇṭē, adugō tōka annaṭṭu.
+
 Idugo puli ante, adugo toka annattu.
 {% endcapture %}
 

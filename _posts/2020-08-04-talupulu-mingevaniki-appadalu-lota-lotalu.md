@@ -18,6 +18,7 @@ Cakes are trifles to a man that swallows doors.
 
 #### Romanization:
 Talupulu miṅgēvāniki appaḍālu loṭa loṭalu.
+
 Talupulu mingevaniki appadalu lota lotalu.
 {% endcapture %}
 

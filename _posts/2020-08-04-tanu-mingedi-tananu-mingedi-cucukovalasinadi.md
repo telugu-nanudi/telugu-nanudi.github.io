@@ -18,6 +18,7 @@ Look before you leap.
 
 #### Romanization:
 Tānu miṅgēdi tananu miṅgēdi cūcukōvalaśinadi.
+
 Tanu mingedi tananu mingedi cucukovalasinadi.
 {% endcapture %}
 

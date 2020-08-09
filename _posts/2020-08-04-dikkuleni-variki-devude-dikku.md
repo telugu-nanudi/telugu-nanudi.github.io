@@ -16,6 +16,7 @@ God is where He was.
 
 #### Romanization:
 Dikkulēni vāriki dēvuḍē dikku.
+
 Dikkuleni variki devude dikku.
 {% endcapture %}
 

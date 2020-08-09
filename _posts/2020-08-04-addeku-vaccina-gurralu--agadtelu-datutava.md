@@ -13,6 +13,7 @@ Will hired horses leap over ditches ?
 
 #### Romanization:
 Addeku vaccina gurrālu  agaḍtelu dāṭutavā.
+
 Addeku vaccina gurralu  agadtelu datutava.
 {% endcapture %}
 

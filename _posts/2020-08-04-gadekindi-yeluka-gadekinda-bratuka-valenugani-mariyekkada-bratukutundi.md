@@ -17,6 +17,7 @@ Said of an idle parasite.
 
 #### Romanization:
 Gādekindi yeluka gādekinda bratuka valenugāni, mariyekkaḍa bratukutundi.
+
 Gadekindi yeluka gadekinda bratuka valenugani, mariyekkada bratukutundi.
 {% endcapture %}
 

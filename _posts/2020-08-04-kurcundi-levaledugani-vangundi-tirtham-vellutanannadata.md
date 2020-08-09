@@ -19,6 +19,7 @@ Offering to do that which is difficult, when unable to do that which is easy.
 
 #### Romanization:
 Kūrcuṇḍi lēvalēḍugāni, vaṅguṇḍi tīrthaṁ veḷlutānannāḍaṭa.
+
 Kurcundi levaledugani, vangundi tirtham vellutanannadata.
 {% endcapture %}
 

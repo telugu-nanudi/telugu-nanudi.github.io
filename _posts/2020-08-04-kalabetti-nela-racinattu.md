@@ -18,6 +18,7 @@ Annoying and ill-treating another.
 
 #### Romanization:
 Kālabeṭṭi nēla rācinaṭṭu.
+
 Kalabetti nela racinattu.
 {% endcapture %}
 

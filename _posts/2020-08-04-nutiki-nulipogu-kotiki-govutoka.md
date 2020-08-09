@@ -18,6 +18,7 @@ Instead of a hundred [cloths] a bit of thread; instead of a crore [ of cows] a c
 
 #### Romanization:
 Nūṭiki nūlipōgu, kōṭiki gōvutōka.
+
 Nutiki nulipogu, kotiki govutoka.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Separating one's self wholly from anything.
 
 #### Romanization:
 Śenagalu tini, ceyyi kaḍugukonnaṭṭu.
+
 Senagalu tini, ceyyi kadugukonnattu.
 {% endcapture %}
 

@@ -16,6 +16,7 @@ On the commencement of an undertaking, if any one sneezes it is considered a bad
 
 #### Romanization:
 Tum'mu tam'muḍai ceppunu.
+
 Tum'mu tam'mudai ceppunu.
 {% endcapture %}
 

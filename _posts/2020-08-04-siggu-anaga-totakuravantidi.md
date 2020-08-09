@@ -18,6 +18,7 @@ Tlitakfira is specially applied to the Amaranthus Tristis.
 
 #### Romanization:
 Śiggu anagā tōṭakūravaṇṭidi.
+
 Siggu anaga totakuravantidi.
 {% endcapture %}
 

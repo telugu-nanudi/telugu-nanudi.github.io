@@ -19,6 +19,7 @@ The cloth spoken of is the kaatteerikook worn by pregnant women to propitiate th
 
 #### Romanization:
 Kaṭṭukonna āpe peṭṭukonna āpe vuṇḍagā, yedurupaḍḍa āpe yeṇḍipōyinadaṭa.
+
 Kattukonna ape pettukonna ape vundaga, yedurupadda ape yendipoyinadata.
 {% endcapture %}
 

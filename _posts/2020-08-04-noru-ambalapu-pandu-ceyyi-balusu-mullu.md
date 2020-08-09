@@ -21,6 +21,7 @@ Fair words don't fill the pocket. (GEURrmnn.)'
 
 #### Romanization:
 Nōru ambāḷapu paṇḍu, ceyyi balusu mullu.
+
 Noru ambalapu pandu, ceyyi balusu mullu.
 {% endcapture %}
 

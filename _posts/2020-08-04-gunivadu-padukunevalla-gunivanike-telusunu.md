@@ -16,6 +16,7 @@ Every man knows but where his own shoe pinches. (Scotch)
 
 #### Romanization:
 Gūnivāḍu paḍukunēvalla gūnivānikē telusunu.
+
 Gunivadu padukunevalla gunivanike telusunu.
 {% endcapture %}
 

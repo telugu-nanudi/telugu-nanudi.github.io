@@ -15,6 +15,7 @@ Although he knew the pit well, he fell into it.
 
 #### Romanization:
 Teliśi teliśi bondanu paḍḍaṭṭu.
+
 Telisi telisi bondanu paddattu.
 {% endcapture %}
 

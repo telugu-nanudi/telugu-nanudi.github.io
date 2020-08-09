@@ -19,6 +19,7 @@ A man of crooked ways.
 
 #### Romanization:
 Śenagalu tiṇṭū vulavalani ceppi, pattivittulu cētlō peṭṭēvāḍu.
+
 Senagalu tintu vulavalani ceppi, pattivittulu cetlo pettevadu.
 {% endcapture %}
 

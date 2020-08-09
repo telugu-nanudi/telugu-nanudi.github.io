@@ -16,6 +16,7 @@ The avaricious Brahman tied up a tumu [of grain] in his clout.
 
 #### Romanization:
 Āśā pātaka bāpaḍu gōcipātalō tūmeḍu kaṭṭukonnāḍaṭa.
+
 Asa pataka bapadu gocipatalo tumedu kattukonnadata.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ A barber learns to shave by shaving fools.
 
 #### Romanization:
 Maṅgali pāta, cākali kotta.
+
 Mangali pata, cakali kotta.
 {% endcapture %}
 

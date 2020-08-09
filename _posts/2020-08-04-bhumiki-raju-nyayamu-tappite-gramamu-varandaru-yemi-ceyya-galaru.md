@@ -16,6 +16,7 @@ If the king of the earth fails in justice, what can all the people of the villag
 
 #### Romanization:
 Bhūmiki rāju n'yāyamu tappitē, grāmamu vārandaru yēmi ceyya galaru
+
 Bhumiki raju n'yayamu tappite, gramamu varandaru yemi ceyya galaru
 {% endcapture %}
 

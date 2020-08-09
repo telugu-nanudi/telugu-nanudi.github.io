@@ -19,6 +19,7 @@ Showing kindness to an ungrateful person.
 
 #### Romanization:
 Pāmuku pālupōśinaṭṭu.
+
 Pamuku paluposinattu.
 {% endcapture %}
 

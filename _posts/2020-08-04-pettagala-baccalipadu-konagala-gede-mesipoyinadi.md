@@ -19,6 +19,7 @@ Taunting a man who is always talking but never acts.
 
 #### Romanization:
 Peṭṭagala baccalipādu konagala gēde mēśipōyinadi.
+
 Pettagala baccalipadu konagala gede mesipoyinadi.
 {% endcapture %}
 

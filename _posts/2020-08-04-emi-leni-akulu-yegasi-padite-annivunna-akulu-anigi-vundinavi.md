@@ -20,6 +20,7 @@ Shoal waters mak the maist din. (Scotch)
 
 #### Romanization:
 Ēmī lēni ākulu yegasi paḍitē, annīvunna ākulu aṇigi vuṇḍinavi.
+
 Emi leni akulu yegasi padite, annivunna akulu anigi vundinavi.
 {% endcapture %}
 

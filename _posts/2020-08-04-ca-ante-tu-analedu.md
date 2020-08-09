@@ -18,6 +18,7 @@ When one says "cha" (and), he cannot answer " tu" (but).
 
 #### Romanization:
 Cā aṇṭē, tū analēḍu.
+
 Ca ante, tu analedu.
 {% endcapture %}
 

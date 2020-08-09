@@ -22,6 +22,7 @@ A hungry ass eats any straw. (Italian)[1]
 
 #### Romanization:
 Kālē kaḍupuku maṇḍē gan̄ji.
+
 Kale kadupuku mande ganji.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Great show but no reality.
 
 #### Romanization:
 Dubbu kāgeḍu, vennu mūreḍu, dūsitē dōśeḍu, vūditē yēmī lēdu.
+
 Dubbu kagedu, vennu muredu, dusite dosedu, vudite yemi ledu.
 {% endcapture %}
 

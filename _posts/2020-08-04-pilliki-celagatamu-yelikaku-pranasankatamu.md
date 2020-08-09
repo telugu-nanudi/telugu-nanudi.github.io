@@ -19,6 +19,7 @@ What is play to the strong is death to the weak. (Dutch)[3]
 
 #### Romanization:
 Pilliki celagāṭamu yelikaku prāṇasaṅkaṭamu.
+
 Pilliki celagatamu yelikaku pranasankatamu.
 {% endcapture %}
 

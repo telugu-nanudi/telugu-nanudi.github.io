@@ -18,6 +18,7 @@ i. e. more water will be added.
 
 #### Romanization:
 Mandi yekkuvayitē majjiga palacana.
+
 Mandi yekkuvayite majjiga palacana.
 {% endcapture %}
 

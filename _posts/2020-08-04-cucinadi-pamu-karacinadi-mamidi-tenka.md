@@ -19,6 +19,7 @@ Flabbergasted with fright.
 
 #### Romanization:
 Cūcinadi pāmu, karacinadi māmiḍi teṅka.
+
 Cucinadi pamu, karacinadi mamidi tenka.
 {% endcapture %}
 

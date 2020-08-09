@@ -14,6 +14,7 @@ In an unlucky time his Kandi wouldn't boil soft.
 
 #### Romanization:
 Kāni vēḷaku kandulu guggiḷḷu ayinaṭṭu.
+
 Kani velaku kandulu guggillu ayinattu.
 {% endcapture %}
 

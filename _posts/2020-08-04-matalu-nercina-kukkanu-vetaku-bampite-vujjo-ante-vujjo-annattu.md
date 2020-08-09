@@ -18,6 +18,7 @@ The consequence of too much petting or spoiling.
 
 #### Romanization:
 Māṭalu nērcina kukkanu vēṭaku bampitē, vujjō aṇṭē vujjō annaṭṭu.
+
 Matalu nercina kukkanu vetaku bampite, vujjo ante vujjo annattu.
 {% endcapture %}
 

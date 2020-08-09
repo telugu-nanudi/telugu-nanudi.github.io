@@ -19,6 +19,7 @@ A skulk.
 
 #### Romanization:
 Mūlugulu mundaṭivalenē, tiṇḍi yeppaṭi valenē.
+
 Mulugulu mundativalene, tindi yeppati valene.
 {% endcapture %}
 

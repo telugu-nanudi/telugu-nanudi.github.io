@@ -19,6 +19,7 @@ Familiarity breeds contempt.
 
 #### Romanization:
 Sarasamu virasamu kē.
+
 Sarasamu virasamu ke.
 {% endcapture %}
 

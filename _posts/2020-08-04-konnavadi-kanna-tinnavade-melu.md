@@ -17,6 +17,7 @@ The man that ate, was better off than the man that bought the things [and did no
 
 #### Romanization:
 Konnavāḍi kanna tinnavāḍē mēlu.
+
 Konnavadi kanna tinnavade melu.
 {% endcapture %}
 

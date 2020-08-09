@@ -19,6 +19,7 @@ When a man was found cheating with a false measure, he tried to prove that his n
 
 #### Romanization:
 Tana puṭṭi piccagā vuṇṭē, porugu panduṁ parā kolicināḍaṭa.
+
 Tana putti piccaga vunte, porugu pandum para kolicinadata.
 {% endcapture %}
 

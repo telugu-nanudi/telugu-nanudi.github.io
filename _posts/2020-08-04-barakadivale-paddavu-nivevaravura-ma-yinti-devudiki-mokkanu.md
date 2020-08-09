@@ -19,6 +19,7 @@ Said to a stranger who, under pretence of worshiping the god, came for food.
 
 #### Romanization:
 Bārakāḍivale paḍḍāvu, nīvevaravurā mā yiṇṭi dēvuḍiki mokkanu.
+
 Barakadivale paddavu, nivevaravura ma yinti devudiki mokkanu.
 {% endcapture %}
 

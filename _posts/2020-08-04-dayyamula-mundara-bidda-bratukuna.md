@@ -15,6 +15,7 @@ Could a child live in front of devils?
 
 #### Romanization:
 Dayyamula mundara biḍḍa bratukunā.
+
 Dayyamula mundara bidda bratukuna.
 {% endcapture %}
 

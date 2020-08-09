@@ -18,6 +18,7 @@ Said jokingly of a great liar.
 
 #### Romanization:
 Hariścandruṇni lampakāya koṭṭi puṭṭināḍu.
+
 Hariscandrunni lampakaya kotti puttinadu.
 {% endcapture %}
 

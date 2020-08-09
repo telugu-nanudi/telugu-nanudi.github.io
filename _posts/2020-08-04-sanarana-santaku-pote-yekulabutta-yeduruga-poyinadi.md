@@ -18,6 +18,7 @@ Said of a man being brought to his bearings.
 
 #### Romanization:
 Sanaraṇa santaku pōtē, yēkulabuṭṭa yedurugā pōyinadi.
+
 Sanarana santaku pote, yekulabutta yeduruga poyinadi.
 {% endcapture %}
 

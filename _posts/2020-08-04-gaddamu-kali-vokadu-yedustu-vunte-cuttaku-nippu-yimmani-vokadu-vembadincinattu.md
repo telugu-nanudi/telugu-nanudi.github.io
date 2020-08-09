@@ -18,6 +18,7 @@ If my beard is burnt, others try to light their pipes at it. (Turkish.)$?
 
 #### Romanization:
 Gaḍḍamu kāli vokaḍu yēḍustū vuṇṭē, cuṭṭaku nippu yim'mani vokaḍu vembaḍin̄cinaṭṭu.
+
 Gaddamu kali vokadu yedustu vunte, cuttaku nippu yim'mani vokadu vembadincinattu.
 {% endcapture %}
 

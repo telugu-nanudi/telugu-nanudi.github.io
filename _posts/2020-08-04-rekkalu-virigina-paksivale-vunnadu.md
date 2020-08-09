@@ -15,6 +15,7 @@ Utterly helpless.
 
 #### Romanization:
 Rekkalu virigina pakṣivale vunnāḍu.
+
 Rekkalu virigina paksivale vunnadu.
 {% endcapture %}
 

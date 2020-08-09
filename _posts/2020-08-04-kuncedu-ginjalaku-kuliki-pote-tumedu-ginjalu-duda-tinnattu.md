@@ -20,6 +20,7 @@ One step forwards and two backwards.
 
 #### Romanization:
 Kun̄ceḍu gin̄jalaku kūliki pōtē, tūmeḍu gin̄jalu dūḍa tinnaṭṭu.
+
 Kuncedu ginjalaku kuliki pote, tumedu ginjalu duda tinnattu.
 {% endcapture %}
 

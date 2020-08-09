@@ -15,6 +15,7 @@ A government which affords no protection.
 
 #### Romanization:
 Dikkulēni divāṇamugā vunnadi.
+
 Dikkuleni divanamuga vunnadi.
 {% endcapture %}
 

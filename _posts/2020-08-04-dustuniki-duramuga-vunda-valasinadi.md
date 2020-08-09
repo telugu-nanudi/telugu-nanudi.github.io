@@ -13,6 +13,7 @@ Shun a wicked man.
 
 #### Romanization:
 Duṣṭuniki dūramugā vuṇḍa valaśinadi.
+
 Dustuniki duramuga vunda valasinadi.
 {% endcapture %}
 

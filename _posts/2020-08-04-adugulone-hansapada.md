@@ -21,6 +21,7 @@ Well begun is half done.
 
 #### Romanization:
 Aḍugulōnē hansapādā.
+
 Adugulone hansapada.
 {% endcapture %}
 

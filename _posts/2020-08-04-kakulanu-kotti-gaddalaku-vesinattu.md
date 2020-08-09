@@ -17,6 +17,7 @@ He robs Peter to pay Paul.
 
 #### Romanization:
 Kākulanu koṭṭi gaddalaku vēsinaṭṭu
+
 Kakulanu kotti gaddalaku vesinattu
 {% endcapture %}
 

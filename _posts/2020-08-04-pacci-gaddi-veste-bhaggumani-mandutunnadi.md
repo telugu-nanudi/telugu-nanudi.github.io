@@ -13,6 +13,7 @@ Put green grass [between two rivals], and it will blaze up.
 
 #### Romanization:
 Pacci gaḍḍi vēstē bhaggumani maṇḍutunnadi.
+
 Pacci gaddi veste bhaggumani mandutunnadi.
 {% endcapture %}
 

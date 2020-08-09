@@ -18,6 +18,7 @@ One no better off than the other.
 
 #### Romanization:
 Nā śirikannā akkaśiri ghanamu, akkaśirikannā nā śiri ghanamu.
+
 Na sirikanna akkasiri ghanamu, akkasirikanna na siri ghanamu.
 {% endcapture %}
 

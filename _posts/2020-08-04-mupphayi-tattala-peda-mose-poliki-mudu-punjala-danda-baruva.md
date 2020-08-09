@@ -17,6 +17,7 @@ Would a necklace of three skeins of thread be heavy for P611 who carries thirty 
 
 #### Romanization:
 Mupphayi taṭṭala pēḍa mōsē pōliki, mūḍu pun̄jāla daṇḍa baruvā.
+
 Mupphayi tattala peda mose poliki, mudu punjala danda baruva.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ The evil results of mixing with bad company.
 
 #### Romanization:
 Ekkaḍiki pōtāvu vidham'mā aṇṭē, veṇṭanē vastānu padam'mā annadaṭa.
+
 Ekkadiki potavu vidham'ma ante, ventane vastanu padam'ma annadata.
 {% endcapture %}
 

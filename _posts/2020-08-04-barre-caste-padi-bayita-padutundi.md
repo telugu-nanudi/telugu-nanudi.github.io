@@ -14,6 +14,7 @@ When the buffalo dies, it comes out how much milk she gave.
 
 #### Romanization:
 Barre castē pāḍi bayiṭa paḍutundi.
+
 Barre caste padi bayita padutundi.
 {% endcapture %}
 

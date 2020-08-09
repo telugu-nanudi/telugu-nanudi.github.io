@@ -20,6 +20,7 @@ A proud mind and a poor purse are ill met.
 
 #### Romanization:
 Ambali tāgēvāriki mīsālu egabaṭṭēvāru kondarā.
+
 Ambali tagevariki misalu egabattevaru kondara.
 {% endcapture %}
 

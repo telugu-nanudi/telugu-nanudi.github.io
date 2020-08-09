@@ -18,6 +18,7 @@ Said of a helpless dependant who must be supported.
 
 #### Romanization:
 Kāḷlanu cuṭṭukonna pāmu karavaka mānunā.
+
 Kallanu cuttukonna pamu karavaka manuna.
 {% endcapture %}
 

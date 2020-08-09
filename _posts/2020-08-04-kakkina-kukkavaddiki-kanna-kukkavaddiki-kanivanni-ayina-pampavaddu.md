@@ -16,6 +16,7 @@ Don't send even your enemy near a dog which has vomited, or a bitch which has pu
 
 #### Romanization:
 Kakkina kukkavaddikī kanna kukkavaddikī kānivāṇni ayinā pampavaddu.
+
 Kakkina kukkavaddiki kanna kukkavaddiki kanivanni ayina pampavaddu.
 {% endcapture %}
 

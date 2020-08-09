@@ -17,6 +17,7 @@ A man will not build a hut until he has been drenched, nor stoop until he has hi
 
 #### Romanization:
 Taḍiśigāni guḍiśe kaṭṭaḍu, tākigāni moggaḍu.
+
 Tadisigani gudise kattadu, takigani moggadu.
 {% endcapture %}
 

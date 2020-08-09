@@ -16,6 +16,7 @@ Sitting in the middle of the road and being abused by every passer by.
 
 #### Romanization:
 Dōvalō kūrcuḍi dobbulu tinnaṭṭu.
+
 Dovalo kurcudi dobbulu tinnattu.
 {% endcapture %}
 

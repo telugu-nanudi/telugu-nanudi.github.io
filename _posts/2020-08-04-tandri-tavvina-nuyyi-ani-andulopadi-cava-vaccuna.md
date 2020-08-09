@@ -14,6 +14,7 @@ Will you drown yourself in the well because your father dug it ?
 
 #### Romanization:
 Taṇḍri tavvina nuyyi ani andulōpaḍi cāva vaccunā.
+
 Tandri tavvina nuyyi ani andulopadi cava vaccuna.
 {% endcapture %}
 

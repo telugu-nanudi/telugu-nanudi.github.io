@@ -19,6 +19,7 @@ What the abbot of Bamba cannot eat, he gives away for the good of his soul. (spa
 
 #### Romanization:
 Gāliki pōyina pēlapiṇḍi bhagavadarpitamannaṭṭu.
+
 Galiki poyina pelapindi bhagavadarpitamannattu.
 {% endcapture %}
 

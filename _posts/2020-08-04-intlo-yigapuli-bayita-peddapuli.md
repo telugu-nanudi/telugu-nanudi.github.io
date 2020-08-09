@@ -19,6 +19,7 @@ He looks as if butler would not melt in his mouth.
 
 #### Romanization:
 Iṇṭlō yīgapuli, bayiṭa peddapuli.
+
 Intlo yigapuli, bayita peddapuli.
 {% endcapture %}
 

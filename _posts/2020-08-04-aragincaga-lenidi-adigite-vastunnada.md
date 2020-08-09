@@ -18,6 +18,7 @@ Will a man get by begging, what was wanting in the feast ?
 
 #### Romanization:
 Āragin̄cagā lēnidi aḍigitē vastunnadā.
+
 Aragincaga lenidi adigite vastunnada.
 {% endcapture %}
 

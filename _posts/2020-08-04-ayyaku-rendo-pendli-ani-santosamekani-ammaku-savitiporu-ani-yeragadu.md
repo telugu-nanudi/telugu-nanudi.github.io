@@ -17,6 +17,7 @@ tags:
 
 #### Romanization:
 Ayyaku reṇḍō peṇḍli ani santōṣamēkāni, am'maku savitipōru ani yeragaḍu.
+
 Ayyaku rendo pendli ani santosamekani, am'maku savitiporu ani yeragadu.
 {% endcapture %}
 

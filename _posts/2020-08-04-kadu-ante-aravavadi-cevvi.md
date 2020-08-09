@@ -16,6 +16,7 @@ If you say Kadu, it is a Tamilian's ear.
 
 #### Romanization:
 Kādu aṇṭē aravavāḍi cevvi.
+
 Kadu ante aravavadi cevvi.
 {% endcapture %}
 

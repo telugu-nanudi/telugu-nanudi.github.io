@@ -16,6 +16,7 @@ A fortunate coincidence.
 
 #### Romanization:
 Rōginni pālē kōrināḍu, vaidyuḍunnu pālē ceppināḍu.
+
 Roginni pale korinadu, vaidyudunnu pale ceppinadu.
 {% endcapture %}
 

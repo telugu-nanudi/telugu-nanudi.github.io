@@ -17,6 +17,7 @@ A man that breaks his word and a vagrant are alike.
 
 #### Romanization:
 Bāna tappinavāḍū baḍiṁ tiriginavāḍū vakaṭi.
+
 Bana tappinavadu badim tiriginavadu vakati.
 {% endcapture %}
 

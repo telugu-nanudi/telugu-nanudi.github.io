@@ -19,6 +19,7 @@ Cat after kind.
 
 #### Romanization:
 Pulipilla pulipillē, mēkapilla mēkapillē.
+
 Pulipilla pulipille, mekapilla mekapille.
 {% endcapture %}
 

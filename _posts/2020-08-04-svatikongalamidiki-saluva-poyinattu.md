@@ -18,6 +18,7 @@ Svatikonga is a kind of crane which emigrates in Svati, the 15th lunar mansion. 
 
 #### Romanization:
 Svātikoṅgalamīdiki sāḷuva pōyinaṭṭu.
+
 Svatikongalamidiki saluva poyinattu.
 {% endcapture %}
 

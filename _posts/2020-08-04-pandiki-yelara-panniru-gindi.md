@@ -15,6 +15,7 @@ Gindi is a. narrow mouthed vessel used for rose water.
 
 #### Romanization:
 Pandiki yēlarā pannīru giṇḍi.
+
 Pandiki yelara panniru gindi.
 {% endcapture %}
 

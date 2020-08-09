@@ -18,6 +18,7 @@ A friend's frown is better than a fool': smile.
 
 #### Romanization:
 Navva ceppēvāḍu ceḍa jeppunu, yēḍava ceppēvāḍu brataka ceppunu.
+
 Navva ceppevadu ceda jeppunu, yedava ceppevadu brataka ceppunu.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Differently interpreted to mean five good and five bad qualities ; the five sens
 
 #### Romanization:
 Pan̄caśubhaṁ pan̄cāśubhaṁ.
+
 Pancasubham pancasubham.
 {% endcapture %}
 

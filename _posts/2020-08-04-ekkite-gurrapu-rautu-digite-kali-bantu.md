@@ -18,6 +18,7 @@ A man who makes himself useful in any position.
 
 #### Romanization:
 Ekkitē gurrapu rautu, digitē kāli baṇṭu.
+
 Ekkite gurrapu rautu, digite kali bantu.
 {% endcapture %}
 

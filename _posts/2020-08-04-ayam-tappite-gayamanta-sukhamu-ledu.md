@@ -16,6 +16,7 @@ An invalid receives every attention from his friends.
 
 #### Romanization:
 Āyaṁ tappitē gāyamanta sukhamu lēdu.
+
 Ayam tappite gayamanta sukhamu ledu.
 {% endcapture %}
 

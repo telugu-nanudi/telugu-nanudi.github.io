@@ -20,6 +20,7 @@ Penniless, but bragging of having a plum.
 
 #### Romanization:
 Kāsuku gatilēdu, kōṭiki koḍi vēsināḍu.
+
 Kasuku gatiledu, kotiki kodi vesinadu.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Killing a sacred cow that gores you is not sin.
 
 #### Romanization:
 Tananu poḍicina gaṅgigōvunayinā poḍistē pāpamulēdu.
+
 Tananu podicina gangigovunayina podiste papamuledu.
 {% endcapture %}
 

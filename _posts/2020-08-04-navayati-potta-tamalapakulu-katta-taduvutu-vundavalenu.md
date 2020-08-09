@@ -13,6 +13,7 @@ You must keep a Nawayati lad and a bundle of betel leaves
 
 #### Romanization:
 Navāyatī poṭṭā tamalapākulu kaṭṭā taḍuvutū vuṇḍavalenu.
+
 Navayati potta tamalapakulu katta taduvutu vundavalenu.
 {% endcapture %}
 

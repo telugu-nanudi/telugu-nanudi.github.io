@@ -19,6 +19,7 @@ The Settis (merchants) are very greedy and very cowardly.
 
 #### Romanization:
 Ādāyamu lēkanē śeṭṭi varadabōḍu.
+
 Adayamu lekane setti varadabodu.
 {% endcapture %}
 

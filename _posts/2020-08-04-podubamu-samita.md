@@ -19,6 +19,7 @@ Applied to indolent persons; or to those who, from religious motives, separate t
 
 #### Romanization:
 Pōḍubāmu sāmita.
+
 Podubamu samita.
 {% endcapture %}
 

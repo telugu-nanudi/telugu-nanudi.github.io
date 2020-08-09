@@ -19,6 +19,7 @@ Necessity has no law. (Latin)[1]
 
 #### Romanization:
 Turakalu goṭṭagā cukkakedurā.
+
 Turakalu gottaga cukkakedura.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ Fair words butter no parsnips.
 
 #### Romanization:
 Kūḍū guḍḍā aḍagakapōtē, biḍḍanu sākinaṭṭu sākutānu annāḍaṭa.
+
 Kudu gudda adagakapote, biddanu sakinattu sakutanu annadata.
 {% endcapture %}
 

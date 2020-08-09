@@ -16,6 +16,7 @@ A fool's bolt may sometimes hit the mark.
 
 #### Romanization:
 Vēśinaṭṭē vēstē, verrivāḍu ayinā gelucunu.
+
 Vesinatte veste, verrivadu ayina gelucunu.
 {% endcapture %}
 

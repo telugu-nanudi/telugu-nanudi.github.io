@@ -20,6 +20,7 @@ The wolf loses his teeth but not his inclination. (Spanish)[2]
 
 #### Romanization:
 Kaṭṭevaṅka poyyi tīrustunnadi.
+
 Kattevanka poyyi tirustunnadi.
 {% endcapture %}
 

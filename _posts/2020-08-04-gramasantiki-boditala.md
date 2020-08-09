@@ -17,6 +17,7 @@ No other will submit to the ignominy.
 
 #### Romanization:
 Grāmaśāntiki bōḍitala.
+
 Gramasantiki boditala.
 {% endcapture %}
 

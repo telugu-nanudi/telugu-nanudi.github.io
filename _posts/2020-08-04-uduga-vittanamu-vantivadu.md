@@ -19,6 +19,7 @@ To stick to a man like a leech in spite of all rebuffs.
 
 #### Romanization:
 Ūḍuga vittanamu vaṇṭivāḍu.
+
 Uduga vittanamu vantivadu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ His bad luck followed him.--Sanesvaram is an incorrect name given to the planet 
 
 #### Romanization:
 Rāmēśvaramu pōtē, śanēśvaramu kūḍā vaccinadi.
+
 Ramesvaramu pote, sanesvaramu kuda vaccinadi.
 {% endcapture %}
 

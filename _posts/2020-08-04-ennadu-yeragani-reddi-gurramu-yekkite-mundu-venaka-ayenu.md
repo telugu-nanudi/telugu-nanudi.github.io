@@ -18,6 +18,7 @@ The Reddi who had never mounted a horse before, sat with his face to the tail.
 
 #### Romanization:
 Ennaḍū yeragani reḍḍi gurramu yekkitē, mundū venaka āyenu.
+
 Ennadu yeragani reddi gurramu yekkite, mundu venaka ayenu.
 {% endcapture %}
 

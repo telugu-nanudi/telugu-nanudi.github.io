@@ -19,6 +19,7 @@ Providing one's self with what is necessary.
 
 #### Romanization:
 Eddula vembaḍē tāḷlu.
+
 Eddula vembade tallu.
 {% endcapture %}
 

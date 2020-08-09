@@ -17,6 +17,7 @@ Can the original source not be applied to, when that derived from it has been lo
 
 #### Romanization:
 Pan̄cāṅgamulu pōtē nakṣatramulu pōnā.
+
 Pancangamulu pote naksatramulu pona.
 {% endcapture %}
 

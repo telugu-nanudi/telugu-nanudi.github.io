@@ -18,6 +18,7 @@ To him who swallows the temple, the lingam in it is a sugar-plum.
 
 #### Romanization:
 Guḍimiṅgē vāniki guḷlō liṅgamu vuṭravaḍiyamu.
+
 Gudiminge vaniki gullo lingamu vutravadiyamu.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Seek redress from the person who has injured you.
 
 #### Romanization:
 Pāravēsukonna cōṭanē vetukkō valaśinadi.
+
 Paravesukonna cotane vetukko valasinadi.
 {% endcapture %}
 

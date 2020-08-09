@@ -18,6 +18,7 @@ A silly request made by a female, who was not allowed to indulge her taste for m
 
 #### Romanization:
 Kānakuṇḍā kaṭṭeḍiccēnu kāni vinakuṇḍā vīraṇālu vāyin̄cēvā.
+
 Kanakunda kattediccenu kani vinakunda viranalu vayinceva.
 {% endcapture %}
 

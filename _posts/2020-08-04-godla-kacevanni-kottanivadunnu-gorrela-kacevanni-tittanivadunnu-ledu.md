@@ -17,6 +17,7 @@ Despised people.
 
 #### Romanization:
 Goḍla kācēvāṇni koṭṭanivāḍunnu, gorrela kācēvāṇni tiṭṭanivāḍunnu lēḍu.
+
 Godla kacevanni kottanivadunnu, gorrela kacevanni tittanivadunnu ledu.
 {% endcapture %}
 

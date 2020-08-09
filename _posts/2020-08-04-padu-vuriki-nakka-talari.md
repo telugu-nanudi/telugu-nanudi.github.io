@@ -19,6 +19,7 @@ Applied to a person who gets on well with his work when there is no one to quest
 
 #### Romanization:
 Pāḍu vūriki nakka talāri.
+
 Padu vuriki nakka talari.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Said by a jackass of a bridegroom who had hidden himself on the top of the shed 
 
 #### Romanization:
 Ōhō kanukkōlēka pōtirigadā annaṭṭu.
+
 Oho kanukkoleka potirigada annattu.
 {% endcapture %}
 

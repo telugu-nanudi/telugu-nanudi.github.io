@@ -19,6 +19,7 @@ False economy.
 
 #### Romanization:
 Ōli takkuva ani guḍḍidānni peṇḍlāḍitē nelaku mūḍu āvālu.
+
 Oli takkuva ani guddidanni pendladite nelaku mudu avalu.
 {% endcapture %}
 

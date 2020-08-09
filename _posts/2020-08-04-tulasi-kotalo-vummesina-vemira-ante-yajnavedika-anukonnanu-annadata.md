@@ -18,6 +18,7 @@ The irreverent answer of a sacrilegious sceptic, an altar being still more sacre
 
 #### Romanization:
 Tulasi kōṭalō vum'mēśinā vēmirā aṇṭē, yajñavēdika anukonnānu annāḍaṭa.
+
 Tulasi kotalo vum'mesina vemira ante, yajnavedika anukonnanu annadata.
 {% endcapture %}
 

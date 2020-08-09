@@ -17,6 +17,7 @@ The god he went to worship met him in the way.
 
 #### Romanization:
 Mokkapōyina dēvuḍu yedurugā vaccinaṭṭu.
+
 Mokkapoyina devudu yeduruga vaccinattu.
 {% endcapture %}
 

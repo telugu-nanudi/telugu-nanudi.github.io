@@ -18,6 +18,7 @@ Prataparudrudu king of orugallu, (Warrangal) had a very sagacious minister, by n
 
 #### Romanization:
 Vintalēni āvalinta puṭṭadu.
+
 Vintaleni avalinta puttadu.
 {% endcapture %}
 

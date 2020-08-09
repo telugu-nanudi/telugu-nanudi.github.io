@@ -14,6 +14,7 @@ To make swords when the war comes.
 
 #### Romanization:
 Laḍāyi vaccinappuḍā kattulu cēsukōvaḍamu.
+
 Ladayi vaccinappuda kattulu cesukovadamu.
 {% endcapture %}
 

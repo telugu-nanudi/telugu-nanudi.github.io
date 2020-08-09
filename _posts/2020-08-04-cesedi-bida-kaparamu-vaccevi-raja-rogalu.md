@@ -19,6 +19,7 @@ The cure of the disease alluded to costs much money.
 
 #### Romanization:
 Cēsēdi bīda kāparamu, vaccēvi rāja rōgālu.
+
 Cesedi bida kaparamu, vaccevi raja rogalu.
 {% endcapture %}
 

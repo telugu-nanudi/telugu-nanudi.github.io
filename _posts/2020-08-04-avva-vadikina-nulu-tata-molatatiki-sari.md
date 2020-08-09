@@ -18,6 +18,7 @@ Waste of that gained by another's industry.
 
 #### Romanization:
 Avva vaḍikina nūlu tāta molatāṭiki sari.
+
 Avva vadikina nulu tata molatatiki sari.
 {% endcapture %}
 

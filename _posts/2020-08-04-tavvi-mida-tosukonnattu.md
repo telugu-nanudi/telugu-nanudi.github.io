@@ -16,6 +16,7 @@ He dug and threw [the earth] on his own head.
 
 #### Romanization:
 Tavvi mīda tōsukonnaṭṭu.
+
 Tavvi mida tosukonnattu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Deceit.
 
 #### Romanization:
 Maśi pūśi nērēḍu kāya cēsinaṭṭu.
+
 Masi pusi neredu kaya cesinattu.
 {% endcapture %}
 

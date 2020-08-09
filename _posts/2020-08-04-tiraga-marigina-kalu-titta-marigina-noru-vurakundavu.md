@@ -17,6 +17,7 @@ The feet which are wont to wander, and the mouth which is accustomed to abuse, w
 
 #### Romanization:
 Tiraga marigina kālū tiṭṭa marigina nōrū vūrakuṇḍavu.
+
 Tiraga marigina kalu titta marigina noru vurakundavu.
 {% endcapture %}
 

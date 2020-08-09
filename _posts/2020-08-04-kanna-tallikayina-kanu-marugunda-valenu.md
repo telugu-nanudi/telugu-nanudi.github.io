@@ -14,6 +14,7 @@ Some things must be hidden even from the mother that bore you.
 
 #### Romanization:
 Kanna tallikayinā kanu maruguṇḍa valenu
+
 Kanna tallikayina kanu marugunda valenu
 {% endcapture %}
 

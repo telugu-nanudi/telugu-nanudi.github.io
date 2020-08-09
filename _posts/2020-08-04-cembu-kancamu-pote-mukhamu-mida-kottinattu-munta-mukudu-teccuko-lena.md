@@ -18,6 +18,7 @@ A determined man will not be discouraged by difliculties.
 
 #### Romanization:
 Cembū kan̄camū pōtē, mukhamu mīda koṭṭinaṭṭu muntā mūkuḍū teccukō lēnā.
+
 Cembu kancamu pote, mukhamu mida kottinattu munta mukudu teccuko lena.
 {% endcapture %}
 

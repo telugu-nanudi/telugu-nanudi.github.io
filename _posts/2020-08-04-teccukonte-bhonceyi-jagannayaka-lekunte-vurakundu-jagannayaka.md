@@ -18,6 +18,7 @@ Jagannayaka is the idol at Jagannatha, in Orissa.
 
 #### Romanization:
 Teccukoṇṭē bhōn̄ceyi jagannāyakā, lēkuṇṭē vūrakuṇḍu jagannāyakā.
+
 Teccukonte bhonceyi jagannayaka, lekunte vurakundu jagannayaka.
 {% endcapture %}
 

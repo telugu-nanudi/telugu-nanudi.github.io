@@ -16,6 +16,7 @@ Continual liability.
 
 #### Romanization:
 Mukku vuṇḍēvaraku paḍiśemu vuṇṭunnadi.
+
 Mukku vundevaraku padisemu vuntunnadi.
 {% endcapture %}
 

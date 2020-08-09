@@ -13,6 +13,7 @@ A rich stingy man is better than a poor liberal man.
 
 #### Romanization:
 Lēni vudārikaṇṭē kaligina moṇḍi mēlu.
+
 Leni vudarikante kaligina mondi melu.
 {% endcapture %}
 

@@ -16,6 +16,7 @@ Never mind though you be a seven months' child, be born in a king's house.
 
 #### Romanization:
 Nela takkuva ayinā rāju yiṇṭa puṭṭumannaṭṭu.
+
 Nela takkuva ayina raju yinta puttumannattu.
 {% endcapture %}
 

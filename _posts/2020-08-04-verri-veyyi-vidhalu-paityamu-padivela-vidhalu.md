@@ -14,6 +14,7 @@ Idiocy [takes] a thousand forms, and madness ten thousand.
 
 #### Romanization:
 Verri veyyi vidhālu, paityamu padivēla vidhālu.
+
 Verri veyyi vidhalu, paityamu padivela vidhalu.
 {% endcapture %}
 

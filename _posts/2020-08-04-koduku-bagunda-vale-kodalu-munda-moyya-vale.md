@@ -16,6 +16,7 @@ The son must flourish, and the daughter-in-law must become a Widow.
 
 #### Romanization:
 Koḍuku bāguṇḍa vale, kōḍalu muṇḍa moyya vale.
+
 Koduku bagunda vale, kodalu munda moyya vale.
 {% endcapture %}
 

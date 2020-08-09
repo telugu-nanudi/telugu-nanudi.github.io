@@ -17,6 +17,7 @@ Said of a. plausible swindler.
 
 #### Romanization:
 Sampanna grahastu vastunnāḍu, tappēlālu muntalu tīśi yiṇṭlō vēyumannaṭṭu.
+
 Sampanna grahastu vastunnadu, tappelalu muntalu tisi yintlo veyumannattu.
 {% endcapture %}
 

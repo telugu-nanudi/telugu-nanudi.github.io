@@ -17,6 +17,7 @@ A smart repartee.
 
 #### Romanization:
 Ekkaḍa vunnāvē kambaḷī aṇṭē, vēśina cōṭanē vunnānu veṅgaḷī annadaṭa.
+
 Ekkada vunnave kambali ante, vesina cotane vunnanu vengali annadata.
 {% endcapture %}
 

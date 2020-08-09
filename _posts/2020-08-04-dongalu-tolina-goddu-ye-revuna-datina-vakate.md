@@ -17,6 +17,7 @@ When one suffers a. loss the cause matters little.
 
 #### Romanization:
 Doṅgalu tōlina goḍḍu yē rēvuna dāṭinā vakaṭē.
+
 Dongalu tolina goddu ye revuna datina vakate.
 {% endcapture %}
 

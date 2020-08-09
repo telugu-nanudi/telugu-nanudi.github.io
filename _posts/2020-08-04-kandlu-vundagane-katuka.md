@@ -19,6 +19,7 @@ Make use of your opportunities before they pass from you.
 
 #### Romanization:
 Kaṇḍlu vuṇḍagānē kāṭuka.
+
 Kandlu vundagane katuka.
 {% endcapture %}
 

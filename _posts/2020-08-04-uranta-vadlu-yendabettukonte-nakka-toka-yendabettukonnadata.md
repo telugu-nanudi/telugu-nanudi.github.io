@@ -17,6 +17,7 @@ Foolish imitation.
 
 #### Romanization:
 Ūrantā vaḍlu yeṇḍabeṭṭukoṇṭē, nakka tōka yeṇḍabeṭṭukonnadaṭa.
+
 Uranta vadlu yendabettukonte, nakka toka yendabettukonnadata.
 {% endcapture %}
 

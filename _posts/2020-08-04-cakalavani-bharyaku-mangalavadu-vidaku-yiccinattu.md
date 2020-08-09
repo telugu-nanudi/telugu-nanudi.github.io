@@ -17,6 +17,7 @@ Like the barber's giving a written divorcement to the washerwoman's wife.b
 
 #### Romanization:
 Cākalavāni bhāryaku maṅgalavāḍu viḍāku yiccinaṭṭu.
+
 Cakalavani bharyaku mangalavadu vidaku yiccinattu.
 {% endcapture %}
 

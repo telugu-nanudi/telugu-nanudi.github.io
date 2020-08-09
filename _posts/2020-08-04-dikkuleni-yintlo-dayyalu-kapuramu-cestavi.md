@@ -13,6 +13,7 @@ In a neglected house, devils take up their abode.
 
 #### Romanization:
 Dikkulēni yiṇṭlō dayyālu kāpuramu cēstavi.
+
 Dikkuleni yintlo dayyalu kapuramu cestavi.
 {% endcapture %}
 

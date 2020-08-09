@@ -18,6 +18,7 @@ Various interpretations are given-One is that a man devoid of pride, modesty, an
 
 #### Romanization:
 Mūṭikī muḍivēstē, yēmī lēdu.
+
 Mutiki mudiveste, yemi ledu.
 {% endcapture %}
 

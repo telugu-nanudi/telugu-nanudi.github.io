@@ -13,6 +13,7 @@ To a good man silence is reproof.
 
 #### Romanization:
 Man̄ci vāniki māṭlāḍanidē mandu.
+
 Manci vaniki matladanide mandu.
 {% endcapture %}
 

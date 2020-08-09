@@ -19,6 +19,7 @@ The order of nature reversed.
 
 #### Romanization:
 Guṇḍlu tēli beṇḍlu muṇiginaṭṭu.
+
 Gundlu teli bendlu muniginattu.
 {% endcapture %}
 

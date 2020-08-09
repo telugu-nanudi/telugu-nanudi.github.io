@@ -18,6 +18,7 @@ A brave spirit under adverse circumstances.
 
 #### Romanization:
 Puccina miriyālayinā, jonnalaku sari tūgaka pōvu.
+
 Puccina miriyalayina, jonnalaku sari tugaka povu.
 {% endcapture %}
 

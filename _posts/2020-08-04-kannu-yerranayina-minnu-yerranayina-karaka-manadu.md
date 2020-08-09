@@ -17,6 +17,7 @@ When the eye is red, or the sky is red, (at sunset) there will surely be a dropp
 
 #### Romanization:
 Kannu yerranayinā minnu yerranayinā kāraka mānadu.
+
 Kannu yerranayina minnu yerranayina karaka manadu.
 {% endcapture %}
 

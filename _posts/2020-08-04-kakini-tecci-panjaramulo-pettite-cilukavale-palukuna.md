@@ -19,6 +19,7 @@ Wash a dog, comb a dog, still a dog is but a dog. (French)[1]
 
 #### Romanization:
 Kākini tecci pan̄jaramulō peṭṭitē cilukavale palukunā.
+
 Kakini tecci panjaramulo pettite cilukavale palukuna.
 {% endcapture %}
 

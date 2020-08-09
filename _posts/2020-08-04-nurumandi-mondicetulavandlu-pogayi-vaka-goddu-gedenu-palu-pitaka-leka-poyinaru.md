@@ -15,6 +15,7 @@ A thing in every way impossible.
 
 #### Romanization:
 Nūrumandi moṇḍicētulavāṇḍlu pōgayi vaka goḍḍu gēdenu pālu pitaka lēka pōyināru.
+
 Nurumandi mondicetulavandlu pogayi vaka goddu gedenu palu pitaka leka poyinaru.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ Useless possessions.
 
 #### Romanization:
 Kōḷlaku rekkalū tāḷlaku caṇḍlū vunnaṭṭu
+
 Kollaku rekkalu tallaku candlu vunnattu
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Without obsequiousness, nothing is to be had.
 
 #### Romanization:
 Vēlu vaṅgabeṭṭanidī, venna ayinā rādu.
+
 Velu vangabettanidi, venna ayina radu.
 {% endcapture %}
 

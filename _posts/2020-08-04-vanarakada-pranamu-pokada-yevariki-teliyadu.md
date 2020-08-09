@@ -19,6 +19,7 @@ Death keeps no calendar.
 
 #### Romanization:
 Vānarākaḍa, prāṇamu pōkaḍa, yevariki teliyadu.
+
 Vanarakada, pranamu pokada, yevariki teliyadu.
 {% endcapture %}
 

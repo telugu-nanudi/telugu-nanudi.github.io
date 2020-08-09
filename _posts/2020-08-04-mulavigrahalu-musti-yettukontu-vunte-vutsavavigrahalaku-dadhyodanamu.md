@@ -20,6 +20,7 @@ Forwardness. Impertinent demands.
 
 #### Romanization:
 Mūlavigrahālu muṣṭi yettukoṇṭū vuṇṭē, vutsavavigrahālaku dadhyōdanamu.
+
 Mulavigrahalu musti yettukontu vunte, vutsavavigrahalaku dadhyodanamu.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ Talking in the day time spoils one's business; talking in the night time spoils 
 
 #### Romanization:
 Pagaṭi māṭalu paniki cēṭu, rātri māṭalu nidraku cēṭu.
+
 Pagati matalu paniki cetu, ratri matalu nidraku cetu.
 {% endcapture %}
 

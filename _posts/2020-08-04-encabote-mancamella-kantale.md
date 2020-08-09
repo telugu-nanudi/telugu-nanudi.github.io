@@ -21,6 +21,7 @@ When love fails we copy all faults.
 
 #### Romanization:
 En̄cabōtē man̄camellā kantalē.
+
 Encabote mancamella kantale.
 {% endcapture %}
 

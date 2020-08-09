@@ -18,6 +18,7 @@ i. e. upon her love for him, and the amount of attention he pays her.
 
 #### Romanization:
 Śirikoddī cinnelu, maganikoddī vannelu.
+
 Sirikoddi cinnelu, maganikoddi vannelu.
 {% endcapture %}
 

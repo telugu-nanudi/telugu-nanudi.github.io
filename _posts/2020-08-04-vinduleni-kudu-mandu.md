@@ -16,6 +16,7 @@ To dine alone is disagreeable.
 
 #### Romanization:
 Vindulēni kūḍu mandu.
+
 Vinduleni kudu mandu.
 {% endcapture %}
 

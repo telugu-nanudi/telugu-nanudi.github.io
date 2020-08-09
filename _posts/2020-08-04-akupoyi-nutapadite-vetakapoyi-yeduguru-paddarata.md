@@ -18,6 +18,7 @@ The gain is not worth the candle.(French)[1]
 
 #### Romanization:
 Ākupōyi nūtapaḍitē, vetakapōyi yēḍuguru paḍḍāraṭa.
+
 Akupoyi nutapadite, vetakapoyi yeduguru paddarata.
 {% endcapture %}
 

@@ -16,6 +16,7 @@ By eating them both up ( See Telugu Panchatantra, page 94. )
 
 #### Romanization:
 Piṭṭā piṭṭā pōru pilli tīrcinaṭṭu.
+
 Pitta pitta poru pilli tircinattu.
 {% endcapture %}
 

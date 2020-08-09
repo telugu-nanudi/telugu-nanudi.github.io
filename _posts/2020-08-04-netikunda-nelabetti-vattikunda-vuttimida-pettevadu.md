@@ -19,6 +19,7 @@ The eye is blind If the mind is absent. (Italian-l'
 
 #### Romanization:
 Nētikuṇḍa nēlabeṭṭi vaṭṭikuṇḍa vuṭṭimīda peṭṭēvāḍu.
+
 Netikunda nelabetti vattikunda vuttimida pettevadu.
 {% endcapture %}
 

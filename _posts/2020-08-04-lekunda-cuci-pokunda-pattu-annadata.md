@@ -18,6 +18,7 @@ Said by a cowardly man to another with reference to a thief.
 
 #### Romanization:
 Lēkuṇḍā cūci pōkuṇḍā paṭṭu annāḍaṭa.
+
 Lekunda cuci pokunda pattu annadata.
 {% endcapture %}
 

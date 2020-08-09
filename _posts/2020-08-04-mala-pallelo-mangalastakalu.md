@@ -13,6 +13,7 @@ The "Eight prayers" said in a Pariah hamlet.
 
 #### Romanization:
 Māla pallelō maṅgaḷāṣṭakālu.
+
 Mala pallelo mangalastakalu.
 {% endcapture %}
 

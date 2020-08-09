@@ -20,6 +20,7 @@ The secret of two is God's secret; the secret of three is all the world's. (Fren
 
 #### Romanization:
 Kaḍupulōni māṭa aṇṭē, vūrantā avutunnadi.
+
 Kadupuloni mata ante, vuranta avutunnadi.
 {% endcapture %}
 

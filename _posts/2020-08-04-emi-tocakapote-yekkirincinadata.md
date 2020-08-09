@@ -14,6 +14,7 @@ Not knowing what to do, he began to mimic others.
 
 #### Romanization:
 Ēmī tōcakapōtē, yekkirin̄cināḍaṭa.
+
 Emi tocakapote, yekkirincinadata.
 {% endcapture %}
 

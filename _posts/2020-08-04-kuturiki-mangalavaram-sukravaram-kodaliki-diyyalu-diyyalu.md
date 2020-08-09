@@ -18,6 +18,7 @@ A catch. Diyyalu or Dipavali is a feast held on the 14th day of the dark fortnig
 
 #### Romanization:
 Kūturiki maṅgaḷavāraṁ śukravāraṁ, kōḍaliki diyyalu diyyalu.
+
 Kuturiki mangalavaram sukravaram, kodaliki diyyalu diyyalu.
 {% endcapture %}
 

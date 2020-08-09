@@ -19,6 +19,7 @@ Said of a man who does not serve his friends.
 
 #### Romanization:
 Gōḍa mīdi sunnamu viḍayamulōki paniki vaccunā.
+
 Goda midi sunnamu vidayamuloki paniki vaccuna.
 {% endcapture %}
 

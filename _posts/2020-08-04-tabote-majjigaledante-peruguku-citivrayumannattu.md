@@ -18,6 +18,7 @@ After being refused a trifling request, to demand authoritatively some thing muc
 
 #### Romanization:
 Tābōtē majjigalēdaṇṭē, peruguku cīṭivrāyumannaṭṭu.
+
 Tabote majjigaledante, peruguku citivrayumannattu.
 {% endcapture %}
 

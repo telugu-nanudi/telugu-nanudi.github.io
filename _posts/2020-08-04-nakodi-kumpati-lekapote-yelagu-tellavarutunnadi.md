@@ -20,6 +20,7 @@ Daylight will come, though {he cock do not crow. (Dmhh. )'
 
 #### Romanization:
 Nākōḍī kumpaṭī lēkapōtē, yēlāgu tellavārutunnadi.
+
 Nakodi kumpati lekapote, yelagu tellavarutunnadi.
 {% endcapture %}
 

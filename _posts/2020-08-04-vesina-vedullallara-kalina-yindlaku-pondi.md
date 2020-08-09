@@ -18,6 +18,7 @@ Making use of an idle person on an emergency.
 
 #### Romanization:
 Vēśina veduḷlallārā kālina yiṇḍlaku poṇḍi.
+
 Vesina vedullallara kalina yindlaku pondi.
 {% endcapture %}
 

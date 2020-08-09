@@ -18,6 +18,7 @@ More wicked than the other.
 
 #### Romanization:
 Tāḷlu tannēvāri talalu tannēvāḍu.
+
 Tallu tannevari talalu tannevadu.
 {% endcapture %}
 

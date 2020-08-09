@@ -19,6 +19,7 @@ Applied to an unwilling performance of any duty.
 
 #### Romanization:
 Arava yēḍupu.
+
 Arava yedupu.
 {% endcapture %}
 

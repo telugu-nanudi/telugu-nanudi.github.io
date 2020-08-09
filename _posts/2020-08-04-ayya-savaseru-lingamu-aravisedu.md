@@ -18,6 +18,7 @@ The man [weighs] a seer and a quarter, the lingam [round his neck ] two and a ha
 
 #### Romanization:
 Ayya savāśēru, liṅgamu aravīśeḍu.
+
 Ayya savaseru, lingamu aravisedu.
 {% endcapture %}
 

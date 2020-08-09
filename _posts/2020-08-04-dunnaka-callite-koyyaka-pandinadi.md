@@ -19,6 +19,7 @@ If you neglect the use of the right means you must expect poor results.
 
 #### Romanization:
 Dunnaka callitē, koyyaka paṇḍinadi.
+
 Dunnaka callite, koyyaka pandinadi.
 {% endcapture %}
 

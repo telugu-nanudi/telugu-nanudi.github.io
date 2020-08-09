@@ -19,6 +19,7 @@ Procrastination on the part of a boaster to conceal his cowardice or ignorance.
 
 #### Romanization:
 Cīra siṅgārin̄cēṭappaṭiki paṭnamantā cūrabōyinaṭṭu.
+
 Cira singarincetappatiki patnamanta curaboyinattu.
 {% endcapture %}
 

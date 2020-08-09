@@ -17,6 +17,7 @@ Hide nothing from My minister, physician, and lawyer.
 
 #### Romanization:
 Mantrasāni mundara marmamu dācinaṭṭu.
+
 Mantrasani mundara marmamu dacinattu.
 {% endcapture %}
 

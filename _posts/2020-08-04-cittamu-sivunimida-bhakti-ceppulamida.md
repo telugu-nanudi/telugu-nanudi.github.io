@@ -17,6 +17,7 @@ He has a mind to worship S'iva, but his thoughts are on his shoes (left outside 
 
 #### Romanization:
 Cittamu śivunimīda, bhakti ceppulamīda
+
 Cittamu sivunimida, bhakti ceppulamida
 {% endcapture %}
 

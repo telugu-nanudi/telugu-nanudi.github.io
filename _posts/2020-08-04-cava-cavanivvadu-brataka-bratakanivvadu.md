@@ -15,6 +15,7 @@ Perpetual worrying.
 
 #### Romanization:
 Cāvā cāvanivvaḍu, bratakā bratakanivvaḍu.
+
 Cava cavanivvadu, brataka bratakanivvadu.
 {% endcapture %}
 

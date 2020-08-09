@@ -20,6 +20,7 @@ Asking costs little. (Italian)[2]
 
 #### Romanization:
 Talli ayinā yēḍavanidī pālivvadu.
+
 Talli ayina yedavanidi palivvadu.
 {% endcapture %}
 

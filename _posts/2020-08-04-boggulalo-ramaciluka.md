@@ -14,6 +14,7 @@ A good thing found in a bad place.
 
 #### Romanization:
 Boggulalō rāmaciluka.
+
 Boggulalo ramaciluka.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ A mother is partial to some of her children, and the earth is unequal in its fav
 
 #### Romanization:
 Tallidē valapakṣamu, dharaṇīdēvidē valapakṣamu.
+
 Tallide valapaksamu, dharanidevide valapaksamu.
 {% endcapture %}
 

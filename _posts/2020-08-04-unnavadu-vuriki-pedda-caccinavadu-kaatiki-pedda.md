@@ -18,6 +18,7 @@ A taunt used to one who tries to make out that he is very highly connected.
 
 #### Romanization:
 Unnavāḍu vūriki pedda, caccinavāḍu kā'aṭiki pedda.
+
 Unnavadu vuriki pedda, caccinavadu ka'atiki pedda.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ A fortunate hindrance in the commission of an act of violence.
 
 #### Romanization:
 Tannēkāliki rōlu aḍḍamayinaṭṭu.
+
 Tannekaliki rolu addamayinattu.
 {% endcapture %}
 

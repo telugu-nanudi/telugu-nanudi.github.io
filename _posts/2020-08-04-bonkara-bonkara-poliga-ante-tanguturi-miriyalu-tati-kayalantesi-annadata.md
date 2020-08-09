@@ -19,6 +19,7 @@ He may lie boldly who comes from afar. (French)[1]
 
 #### Romanization:
 Boṅkarā boṅkarā pōligā aṇṭē, ṭaṅguṭūri miriyālu tāṭi kāyalantēśi annāḍaṭa.
+
 Bonkara bonkara poliga ante, tanguturi miriyalu tati kayalantesi annadata.
 {% endcapture %}
 

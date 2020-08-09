@@ -16,6 +16,7 @@ No return.
 
 #### Romanization:
 Gōḍaku peṭṭina sunnamū, lan̄jaku peṭina som'mū.
+
 Godaku pettina sunnamu, lanjaku petina som'mu.
 {% endcapture %}
 

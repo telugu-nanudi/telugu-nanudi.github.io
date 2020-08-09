@@ -17,6 +17,7 @@ Useless endeavours.
 
 #### Romanization:
 Āmudapu cēṭēgāni, biḍḍa bratakaḍamu lēdu.
+
 Amudapu cetegani, bidda bratakadamu ledu.
 {% endcapture %}
 

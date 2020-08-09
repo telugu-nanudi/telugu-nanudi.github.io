@@ -18,6 +18,7 @@ His ideas are far above his position.
 
 #### Romanization:
 Tānuṇḍēdi dāliguṇṭa paṭṭu, talacēvi mēḍā māḷigelu.
+
 Tanundedi daligunta pattu, talacevi meda maligelu.
 {% endcapture %}
 

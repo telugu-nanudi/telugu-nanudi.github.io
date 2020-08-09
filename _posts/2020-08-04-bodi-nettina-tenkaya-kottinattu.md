@@ -18,6 +18,7 @@ As used to be done to a Sannyasi ( religious mendicant) by his disciples when he
 
 #### Romanization:
 Bōḍi nettina ṭeṅkāya koṭṭinaṭṭu.
+
 Bodi nettina tenkaya kottinattu.
 {% endcapture %}
 

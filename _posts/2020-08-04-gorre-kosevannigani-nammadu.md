@@ -18,6 +18,7 @@ The simple and unwary only trust their deceivers.
 
 #### Romanization:
 Gorre kōśēvāṇnigāni nam'madu.
+
 Gorre kosevannigani nam'madu.
 {% endcapture %}
 

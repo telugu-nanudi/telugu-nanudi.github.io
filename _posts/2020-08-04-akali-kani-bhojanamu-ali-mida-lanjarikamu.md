@@ -18,6 +18,7 @@ Both bad.
 
 #### Romanization:
 Ākali kāni bhōjanamu, āli mīda lan̄jarikamu.
+
 Akali kani bhojanamu, ali mida lanjarikamu.
 {% endcapture %}
 

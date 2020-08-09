@@ -19,6 +19,7 @@ Truth produces hatred. (Latin)[2]
 
 #### Romanization:
 Unnamāṭa ceppitē, vūru acci rādu.
+
 Unnamata ceppite, vuru acci radu.
 {% endcapture %}
 

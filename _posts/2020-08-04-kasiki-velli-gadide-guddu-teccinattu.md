@@ -18,6 +18,7 @@ An absurd exploit.
 
 #### Romanization:
 Kāśiki veḷli gāḍide guḍḍu teccinaṭṭu.
+
 Kasiki velli gadide guddu teccinattu.
 {% endcapture %}
 

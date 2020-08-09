@@ -20,6 +20,7 @@ Effrontery.
 
 #### Romanization:
 Illu veḷlipōrā nambī aṇṭē, nā mān'yamu yekkaḍa ani aḍigināḍaṭa.
+
 Illu vellipora nambi ante, na man'yamu yekkada ani adiginadata.
 {% endcapture %}
 

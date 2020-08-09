@@ -18,6 +18,7 @@ Said of a vain man, who makes a. fool of himself to please others.
 
 #### Romanization:
 Mēlu mēlaṇṭē, meḍa viragapaḍḍaṭṭu.
+
 Melu melante, meda viragapaddattu.
 {% endcapture %}
 

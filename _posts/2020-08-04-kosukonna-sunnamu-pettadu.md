@@ -20,6 +20,7 @@ A heartless man.
 
 #### Romanization:
 Kōsukonnā, sunnamu peṭṭaḍu.
+
 Kosukonna, sunnamu pettadu.
 {% endcapture %}
 

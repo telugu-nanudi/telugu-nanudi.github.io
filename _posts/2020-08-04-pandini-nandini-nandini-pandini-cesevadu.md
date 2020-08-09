@@ -19,6 +19,7 @@ Ability in argumentation.
 
 #### Romanization:
 Pandini nandinī, nandini pandinī cēśēvāḍu.
+
 Pandini nandini, nandini pandini cesevadu.
 {% endcapture %}
 

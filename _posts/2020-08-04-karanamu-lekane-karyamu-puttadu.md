@@ -19,6 +19,7 @@ There is a cause for all things. Italian) [1]
 
 #### Romanization:
 Kāraṇamu lēkanē kāryamu puṭṭadu.
+
 Karanamu lekane karyamu puttadu.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ To bring down two apples with one stick. (Dutch.)[1]
 
 #### Romanization:
 Manamaḍu nērcukonnaṭṭu, avvaku durada tīrinaṭṭu.
+
 Manamadu nercukonnattu, avvaku durada tirinattu.
 {% endcapture %}
 

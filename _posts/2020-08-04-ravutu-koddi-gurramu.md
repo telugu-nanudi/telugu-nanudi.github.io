@@ -16,6 +16,7 @@ The horse goes according to the skill of the rider.
 
 #### Romanization:
 Ravutu koddī gurramu.
+
 Ravutu koddi gurramu.
 {% endcapture %}
 

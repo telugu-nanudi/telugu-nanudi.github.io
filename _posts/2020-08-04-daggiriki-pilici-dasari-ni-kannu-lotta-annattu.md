@@ -18,6 +18,7 @@ Leading a person to suppose you wish to confer a. benefit on him, and then insul
 
 #### Romanization:
 Daggiriki pilici dāsarī nī kannu loṭṭa annaṭṭu.
+
 Daggiriki pilici dasari ni kannu lotta annattu.
 {% endcapture %}
 

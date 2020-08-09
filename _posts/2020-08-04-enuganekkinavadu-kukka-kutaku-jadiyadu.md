@@ -18,6 +18,7 @@ He who is in favor with the great will not fear the enmity of the mean.
 
 #### Romanization:
 Ēnuganekkinavāḍu kukka kūtaku jaḍiyaḍu.
+
 Enuganekkinavadu kukka kutaku jadiyadu.
 {% endcapture %}
 

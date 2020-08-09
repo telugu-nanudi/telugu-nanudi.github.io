@@ -19,6 +19,7 @@ Applied to an unlucky man.
 
 #### Romanization:
 Vighnēśvaruḍi peṇḍliki vighnālu veyyi.
+
 Vighnesvarudi pendliki vighnalu veyyi.
 {% endcapture %}
 

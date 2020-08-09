@@ -19,6 +19,7 @@ Applied to a foolish speech.
 
 #### Romanization:
 Eddu yīnenaṇṭē, koṭṭāna kaṭṭumannaṭṭu.
+
 Eddu yinenante, kottana kattumannattu.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Crows bewail the dead sheep and then eat them.
 
 #### Romanization:
 Pillagalavāḍu pillaku yēḍistē, kāṭivāḍu kāsuku yēḍcināḍu.
+
 Pillagalavadu pillaku yediste, kativadu kasuku yedcinadu.
 {% endcapture %}
 

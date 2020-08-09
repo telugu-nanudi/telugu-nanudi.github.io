@@ -19,6 +19,7 @@ A despicable trick.
 
 #### Romanization:
 Calipandiṭi kuṇḍalaku tūṭlu poḍicinaṭṭu.
+
 Calipanditi kundalaku tutlu podicinattu.
 {% endcapture %}
 

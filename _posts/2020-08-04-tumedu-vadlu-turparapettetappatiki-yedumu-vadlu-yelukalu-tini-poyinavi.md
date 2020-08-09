@@ -17,6 +17,7 @@ Tum is the Indian bushel.
 
 #### Romanization:
 Tūmeḍu vaḍlu tūrpārapeṭṭēṭappaṭiki yēdumu vaḍlu yelukalu tini pōyinavi.
+
 Tumedu vadlu turparapettetappatiki yedumu vadlu yelukalu tini poyinavi.
 {% endcapture %}
 

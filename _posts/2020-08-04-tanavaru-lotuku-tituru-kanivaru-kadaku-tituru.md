@@ -19,6 +19,7 @@ Even an enemy is to be preferred to a relative in a time of danger.
 
 #### Romanization:
 Tanavāru lōtuku tīturu, kānivāru kaḍaku tīturu.
+
 Tanavaru lotuku tituru, kanivaru kadaku tituru.
 {% endcapture %}
 

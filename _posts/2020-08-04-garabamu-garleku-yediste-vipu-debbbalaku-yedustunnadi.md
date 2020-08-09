@@ -18,6 +18,7 @@ Said by a father.
 
 #### Romanization:
 Gārābamu gārleku yēḍistē, vīpu debbbalaku yēḍustunnadi.
+
 Garabamu garleku yediste, vipu debbbalaku yedustunnadi.
 {% endcapture %}
 

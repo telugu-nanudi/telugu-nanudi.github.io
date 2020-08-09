@@ -19,6 +19,7 @@ Mocking and mimicking a superior.
 
 #### Romanization:
 Guḍḍu vacci pillanu yekkirin̄cinadi.
+
 Guddu vacci pillanu yekkirincinadi.
 {% endcapture %}
 

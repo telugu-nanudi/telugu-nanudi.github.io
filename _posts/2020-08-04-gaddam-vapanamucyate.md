@@ -18,6 +18,7 @@ Said by a goat to a lion which he threatened to devour to fulfil a vow.
 
 #### Romanization:
 Gaḍḍaṁ vapanamucyatē.
+
 Gaddam vapanamucyate.
 {% endcapture %}
 

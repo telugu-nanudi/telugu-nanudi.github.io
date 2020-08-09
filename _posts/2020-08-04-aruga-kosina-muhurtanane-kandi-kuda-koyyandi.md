@@ -18,6 +18,7 @@ Applied to hasty actions.
 
 #### Romanization:
 Āruga kōśina muhūrtānanē kandi kūḍā koyyaṇḍi.
+
 Aruga kosina muhurtanane kandi kuda koyyandi.
 {% endcapture %}
 

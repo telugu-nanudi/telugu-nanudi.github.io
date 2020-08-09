@@ -17,6 +17,7 @@ No men die from the falling of a Pandili ; no men live after the falling of a ho
 
 #### Romanization:
 Pandili paḍi caccina vārū yillu paḍi bratikina vārū lēru.
+
 Pandili padi caccina varu yillu padi bratikina varu leru.
 {% endcapture %}
 

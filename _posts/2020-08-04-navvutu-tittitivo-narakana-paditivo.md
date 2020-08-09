@@ -16,6 +16,7 @@ Laughing, you reviled, and you have fallen into hell!
 
 #### Romanization:
 Navvutū tiṭṭitivō narakāna paḍitivō.
+
 Navvutu tittitivo narakana paditivo.
 {% endcapture %}
 

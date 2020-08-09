@@ -16,6 +16,7 @@ Will the result of your deeds go away at your bidding?
 
 #### Romanization:
 Vaccina karmamu vaddaṇṭē pōtunnadā.
+
 Vaccina karmamu vaddante potunnada.
 {% endcapture %}
 

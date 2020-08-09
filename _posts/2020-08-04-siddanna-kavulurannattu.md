@@ -13,6 +13,7 @@ Like saying to Siddanna "Here is Kavuluru."
 
 #### Romanization:
 Siddannā kavulūrannaṭṭu.
+
 Siddanna kavulurannattu.
 {% endcapture %}
 

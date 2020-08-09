@@ -19,6 +19,7 @@ Very common.
 
 #### Romanization:
 Nīḷlalō nim'malu bratikinavi, aḍivilō tum'malu bratikinavi.
+
 Nillalo nim'malu bratikinavi, adivilo tum'malu bratikinavi.
 {% endcapture %}
 

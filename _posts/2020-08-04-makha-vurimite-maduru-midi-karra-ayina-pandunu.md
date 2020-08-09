@@ -19,6 +19,7 @@ i. e. there will be such fine rain.
 
 #### Romanization:
 Makha vurimitē, maduru mīdi karra ayinā paṇḍunu.
+
 Makha vurimite, maduru midi karra ayina pandunu.
 {% endcapture %}
 

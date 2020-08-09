@@ -16,6 +16,7 @@ A nod for a wise man, and a rod for a fool.
 
 #### Romanization:
 Man̄ci vāriki vaka māṭa, man̄ci goḍḍuku vaka debba.
+
 Manci variki vaka mata, manci godduku vaka debba.
 {% endcapture %}
 

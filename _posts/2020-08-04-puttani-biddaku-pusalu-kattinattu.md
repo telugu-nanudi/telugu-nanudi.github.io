@@ -19,6 +19,7 @@ Don't reckon your eggs before they are laid. (Italian.)[1]
 
 #### Romanization:
 Puṭṭani biḍḍaku pūsalu kaṭṭinaṭṭu.
+
 Puttani biddaku pusalu kattinattu.
 {% endcapture %}
 

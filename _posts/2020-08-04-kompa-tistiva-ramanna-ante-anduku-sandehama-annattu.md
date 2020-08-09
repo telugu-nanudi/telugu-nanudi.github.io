@@ -19,6 +19,7 @@ Applied to a person who knowingly gives bad advice to others, and then laughs at
 
 #### Romanization:
 Kompa tīstivā rāmannā āṇṭē, anduku sandēhamā annaṭṭu.
+
 Kompa tistiva ramanna ante, anduku sandehama annattu.
 {% endcapture %}
 

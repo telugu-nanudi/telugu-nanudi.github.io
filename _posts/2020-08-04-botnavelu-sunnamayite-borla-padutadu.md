@@ -19,6 +19,7 @@ Having "chunam on the thumb" means ability to afford to eat a little betel nut. 
 
 #### Romanization:
 Boṭnavēlu sunnamayitē bōrla paḍutāḍu.
+
 Botnavelu sunnamayite borla padutadu.
 {% endcapture %}
 

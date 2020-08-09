@@ -17,6 +17,7 @@ Caste customs.
 
 #### Romanization:
 Mālalaku man̄cālu, brāhmaṇulaku pīṭalu.
+
 Malalaku mancalu, brahmanulaku pitalu.
 {% endcapture %}
 

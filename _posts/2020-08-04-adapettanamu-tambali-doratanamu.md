@@ -18,6 +18,7 @@ A Tambali is a Saiva priest of low origin, who wears the sacred thread, and ende
 
 #### Romanization:
 Āḍapettanamu, tambaḷi doratanamu.
+
 Adapettanamu, tambali doratanamu.
 {% endcapture %}
 

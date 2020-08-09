@@ -14,6 +14,7 @@ No man is useless.
 
 #### Romanization:
 Maniṣi pōcikōlu kāḍu.
+
 Manisi pocikolu kadu.
 {% endcapture %}
 

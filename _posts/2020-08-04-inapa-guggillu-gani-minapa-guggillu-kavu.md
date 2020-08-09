@@ -20,6 +20,7 @@ Said of a puzzling passage or a jawbreaking verse.
 
 #### Romanization:
 Inapa guggiḷlu gāni, minapa guggiḷlu kāvu.
+
 Inapa guggillu gani, minapa guggillu kavu.
 {% endcapture %}
 

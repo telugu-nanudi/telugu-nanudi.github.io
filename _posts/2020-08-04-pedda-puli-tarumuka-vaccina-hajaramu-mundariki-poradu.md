@@ -19,6 +19,7 @@ Applied to a tyrannical Government.
 
 #### Romanization:
 Pedda puli tarumuka vaccinā, hajāramu mundariki pōrādu.
+
 Pedda puli tarumuka vaccina, hajaramu mundariki poradu.
 {% endcapture %}
 

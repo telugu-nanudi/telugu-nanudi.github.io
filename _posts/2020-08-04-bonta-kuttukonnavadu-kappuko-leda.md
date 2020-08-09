@@ -13,6 +13,7 @@ Can he who has sewn himselfa quilt, not cover himself with it ?
 
 #### Romanization:
 Bonta kuṭṭukonnavāḍu kappukō lēḍā.
+
 Bonta kuttukonnavadu kappuko leda.
 {% endcapture %}
 

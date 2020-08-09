@@ -18,6 +18,7 @@ Said of something sudden and alarming.
 
 #### Romanization:
 Vāḍa pagilina kaḷāsula sāmita.
+
 Vada pagilina kalasula samita.
 {% endcapture %}
 

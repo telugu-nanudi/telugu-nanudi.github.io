@@ -17,6 +17,7 @@ Pota Razu is a rustic deity.
 
 #### Romanization:
 Pāḍu vūriki man̄capu kōḍu pōtarāju.
+
 Padu vuriki mancapu kodu potaraju.
 {% endcapture %}
 

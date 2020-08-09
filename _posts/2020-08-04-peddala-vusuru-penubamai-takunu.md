@@ -18,6 +18,7 @@ The sorrow [you have caused ] to the pious will come upon you again like a great
 
 #### Romanization:
 Peddala vusuru penubāmai tākunu.
+
 Peddala vusuru penubamai takunu.
 {% endcapture %}
 

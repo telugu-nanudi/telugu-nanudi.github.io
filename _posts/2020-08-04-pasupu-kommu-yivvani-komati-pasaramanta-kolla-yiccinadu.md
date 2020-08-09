@@ -17,6 +17,7 @@ As impossible as that a Komati who would not give away a bit of turmeric should 
 
 #### Romanization:
 Pasupu kom'mu yivvani kōmaṭi pasāramantā kolla yiccināḍu.
+
 Pasupu kom'mu yivvani komati pasaramanta kolla yiccinadu.
 {% endcapture %}
 

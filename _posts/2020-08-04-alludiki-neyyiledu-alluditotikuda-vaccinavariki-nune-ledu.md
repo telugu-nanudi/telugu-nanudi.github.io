@@ -18,6 +18,7 @@ Said of inability in 'a person to do that which his duty imperatively requires o
 
 #### Romanization:
 Alluḍiki neyyīlēdu, alluḍitōṭikūḍā vaccinavāriki nūnē lēdu.
+
 Alludiki neyyiledu, alluditotikuda vaccinavariki nune ledu.
 {% endcapture %}
 

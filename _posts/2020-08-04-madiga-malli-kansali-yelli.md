@@ -15,6 +15,7 @@ Dilatory in work.
 
 #### Romanization:
 Mādiga malli, kansāli yelli.
+
 Madiga malli, kansali yelli.
 {% endcapture %}
 

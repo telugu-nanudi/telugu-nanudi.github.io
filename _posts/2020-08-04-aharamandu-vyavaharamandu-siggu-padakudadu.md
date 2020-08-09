@@ -19,6 +19,7 @@ A modest man at Court is the sillicst wight breathing.
 
 #### Romanization:
 Āhāramandū vyavahāramandū śiggu paḍakūḍadu.
+
 Aharamandu vyavaharamandu siggu padakudadu.
 {% endcapture %}
 

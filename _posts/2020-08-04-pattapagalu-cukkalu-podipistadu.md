@@ -18,6 +18,7 @@ Professing to do wonders. Applied to a great cheat.
 
 #### Romanization:
 Paṭṭapagalu cukkalu poḍipistāḍu.
+
 Pattapagalu cukkalu podipistadu.
 {% endcapture %}
 

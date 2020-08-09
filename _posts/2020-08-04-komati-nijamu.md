@@ -17,6 +17,7 @@ A Komati's truth.
 
 #### Romanization:
 Kōmaṭi nijamu.
+
 Komati nijamu.
 {% endcapture %}
 

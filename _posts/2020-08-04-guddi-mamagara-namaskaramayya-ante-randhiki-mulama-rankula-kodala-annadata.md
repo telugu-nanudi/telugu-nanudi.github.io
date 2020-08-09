@@ -19,6 +19,7 @@ Let him that has a glass skull not take to stone throwing. (Italian)[1]
 
 #### Romanization:
 Guḍḍi māmagārā namaskāramayyā aṇṭē, randhiki mūlamā raṅkula kōḍalā annāḍaṭa.
+
 Guddi mamagara namaskaramayya ante, randhiki mulama rankula kodala annadata.
 {% endcapture %}
 

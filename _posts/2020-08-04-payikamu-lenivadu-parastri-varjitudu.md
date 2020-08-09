@@ -13,6 +13,7 @@ A man without money is chaste.
 
 #### Romanization:
 Payikamu lēnivāḍu parastrī varjituḍu.
+
 Payikamu lenivadu parastri varjitudu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ A clumsy person must be helped to the end.
 
 #### Romanization:
 Tāḍekkēvāṇni yendākā yegasana toyyanu.
+
 Tadekkevanni yendaka yegasana toyyanu.
 {% endcapture %}
 

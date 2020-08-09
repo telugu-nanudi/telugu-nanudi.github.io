@@ -14,6 +14,7 @@ If you throw ten stones, will not one hit?
 
 #### Romanization:
 Padirāḷlu vēstē vakarāyi ayinā tagaladā.
+
 Padirallu veste vakarayi ayina tagalada.
 {% endcapture %}
 

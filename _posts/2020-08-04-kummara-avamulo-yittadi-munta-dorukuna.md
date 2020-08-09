@@ -17,6 +17,7 @@ A worthy person is not to be found amongst the worthless.
 
 #### Romanization:
 Kum'mara āvamulō yittaḍi munta dorukunā.
+
 Kum'mara avamulo yittadi munta dorukuna.
 {% endcapture %}
 

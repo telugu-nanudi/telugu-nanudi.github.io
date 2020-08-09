@@ -18,6 +18,7 @@ A fastidious person suffers more than one who is less particular.
 
 #### Romanization:
 Mōṭaku modaṭi cōṭa kampu, vannegāḍiki vaḷlantā kampu.
+
 Motaku modati cota kampu, vannegadiki vallanta kampu.
 {% endcapture %}
 

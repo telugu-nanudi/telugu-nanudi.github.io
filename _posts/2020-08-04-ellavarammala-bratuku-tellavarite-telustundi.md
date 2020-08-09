@@ -18,6 +18,7 @@ Said by a man to his wife, at whose instigation he had agreed that they should k
 
 #### Romanization:
 Ellavāram'mala bratuku tellavāritē telustundi.
+
 Ellavaram'mala bratuku tellavarite telustundi.
 {% endcapture %}
 

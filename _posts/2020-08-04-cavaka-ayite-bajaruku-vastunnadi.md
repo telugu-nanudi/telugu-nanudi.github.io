@@ -17,6 +17,7 @@ When cheap it comes to the bazar.
 
 #### Romanization:
 Cavaka ayitē bājāruku vastunnadi.
+
 Cavaka ayite bajaruku vastunnadi.
 {% endcapture %}
 

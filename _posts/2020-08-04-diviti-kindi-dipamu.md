@@ -15,6 +15,7 @@ One insignificant before the other.
 
 #### Romanization:
 Diviṭī kindi dīpamu.
+
 Diviti kindi dipamu.
 {% endcapture %}
 

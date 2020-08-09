@@ -18,6 +18,7 @@ Sita the wife of Rama suffered much during the greater part of her life.
 
 #### Romanization:
 Sītaku vrāśinadi śīmaku vrāyavalenā.
+
 Sitaku vrasinadi simaku vrayavalena.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ Bhoja Razu was a king famous for his liberality and for his bountiful patronage 
 
 #### Romanization:
 Bhōjunivaṇṭi rāju kaligitē, kāḷidāsuvaṇṭi kavi appuḍē vuṇṭāḍu.
+
 Bhojunivanti raju kaligite, kalidasuvanti kavi appude vuntadu.
 {% endcapture %}
 

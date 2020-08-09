@@ -13,6 +13,7 @@ Are there sweet diseases, and delicious medicines ?
 
 #### Romanization:
 Tiyyani rōgamulū, kam'mani mandulū vunnavā.
+
 Tiyyani rogamulu, kam'mani mandulu vunnava.
 {% endcapture %}
 

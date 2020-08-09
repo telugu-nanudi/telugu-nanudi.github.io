@@ -21,6 +21,7 @@ Sufficient for the day is the evil thereof.
 
 #### Romanization:
 Koṭṭakamunupē yēḍustāvēmaṇṭē, mundu koṭṭabōtāvani yēḍustānannaṭṭu.
+
 Kottakamunupe yedustavemante, mundu kottabotavani yedustanannattu.
 {% endcapture %}
 

@@ -21,6 +21,7 @@ Hear, see, and say nothing, if you wish to live in peace. (Italian)[3]
 
 #### Romanization:
 Ceyyi cūpi avalakṣaṇamu anipin̄cukonnaṭṭu.
+
 Ceyyi cupi avalaksanamu anipincukonnattu.
 {% endcapture %}
 

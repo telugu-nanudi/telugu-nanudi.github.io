@@ -14,6 +14,7 @@ The friendship existing between fire and water.
 
 #### Romanization:
 Nippukū nīḷlakū vuṇḍē snēhamu.
+
 Nippuku nillaku vunde snehamu.
 {% endcapture %}
 

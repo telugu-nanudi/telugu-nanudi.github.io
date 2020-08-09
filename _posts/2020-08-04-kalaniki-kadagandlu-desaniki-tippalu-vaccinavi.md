@@ -19,6 +19,7 @@ Desamu here means literally the country and not the inhabitants of it.
 
 #### Romanization:
 Kālāniki kaḍagaṇḍlū dēśāniki tippalū vaccinavi.
+
 Kalaniki kadagandlu desaniki tippalu vaccinavi.
 {% endcapture %}
 

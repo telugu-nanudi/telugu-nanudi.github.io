@@ -17,6 +17,7 @@ May we hang a string of bones round the neck, saying "we eat meat?"
 
 #### Romanization:
 Mānsamu tiṇṭāmani bōkelu gucci meḍanu vēsukōnā.
+
 Mansamu tintamani bokelu gucci medanu vesukona.
 {% endcapture %}
 

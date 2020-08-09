@@ -18,6 +18,7 @@ Neglecting great things for small.
 
 #### Romanization:
 Modaṭiki mōsamu, lābhāniki guddulāṭa.
+
 Modatiki mosamu, labhaniki guddulata.
 {% endcapture %}
 

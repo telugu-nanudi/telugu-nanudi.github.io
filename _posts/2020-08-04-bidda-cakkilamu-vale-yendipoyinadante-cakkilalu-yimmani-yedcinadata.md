@@ -18,6 +18,7 @@ Cakkilamu is "a biscuit made of twisted rings of paste without sugar" ( Brown.)
 
 #### Romanization:
 Biḍḍa cakkilamu vale yeṇḍipōyināḍaṇṭē, cakkilālu yim'mani yēḍcināḍaṭa.
+
 Bidda cakkilamu vale yendipoyinadante, cakkilalu yim'mani yedcinadata.
 {% endcapture %}
 

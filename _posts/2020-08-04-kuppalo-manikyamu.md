@@ -17,6 +17,7 @@ A diamond is valuable though it lie on a dunghill.
 
 #### Romanization:
 Kuppalō māṇikyamu.
+
 Kuppalo manikyamu.
 {% endcapture %}
 

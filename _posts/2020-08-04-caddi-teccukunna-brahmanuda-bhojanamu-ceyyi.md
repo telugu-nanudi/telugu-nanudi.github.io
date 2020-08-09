@@ -17,6 +17,7 @@ Said to a selfish man who bores others by talking everlastingly of his own conce
 
 #### Romanization:
 Caddi teccukunna brāhmaṇuḍā bhōjanamu ceyyi.
+
 Caddi teccukunna brahmanuda bhojanamu ceyyi.
 {% endcapture %}
 

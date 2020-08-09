@@ -17,6 +17,7 @@ What remains is solid, what has gone is empty husk.
 
 #### Romanization:
 Uṇḍēdi gaṭṭi, pōyinadi poṭṭu.
+
 Undedi gatti, poyinadi pottu.
 {% endcapture %}
 

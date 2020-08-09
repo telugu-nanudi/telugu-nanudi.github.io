@@ -13,6 +13,7 @@ All the village has one way, and the prig another.
 
 #### Romanization:
 Ūrikantā vakadōva, vulipikaṭṭeku vakadōva.
+
 Urikanta vakadova, vulipikatteku vakadova.
 {% endcapture %}
 

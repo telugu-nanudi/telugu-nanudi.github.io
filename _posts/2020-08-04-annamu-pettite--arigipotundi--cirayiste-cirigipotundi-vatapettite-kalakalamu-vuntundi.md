@@ -18,6 +18,7 @@ Said by a stingy person to a beggar.
 
 #### Romanization:
 Annamu peṭṭitē  arigipōtundi,  cīrayistē cirigipōtundi, vātapeṭṭitē kalakālamu vuṇṭundi.
+
 Annamu pettite  arigipotundi,  cirayiste cirigipotundi, vatapettite kalakalamu vuntundi.
 {% endcapture %}
 

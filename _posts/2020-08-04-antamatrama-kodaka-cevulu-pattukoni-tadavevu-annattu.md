@@ -19,6 +19,7 @@ Said by an old woman to a thief.
 
 #### Romanization:
 Antamātramā koḍakā cevulu paṭṭukoni taḍavēvu annaṭṭu.
+
 Antamatrama kodaka cevulu pattukoni tadavevu annattu.
 {% endcapture %}
 

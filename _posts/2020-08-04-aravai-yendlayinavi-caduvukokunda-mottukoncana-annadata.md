@@ -17,6 +17,7 @@ An old dog will learn no tricks.
 
 #### Romanization:
 Aravai yēṇḍlayinavi, caduvukōkuṇḍā mottukon̄cānā annāḍaṭa.
+
 Aravai yendlayinavi, caduvukokunda mottukoncana annadata.
 {% endcapture %}
 

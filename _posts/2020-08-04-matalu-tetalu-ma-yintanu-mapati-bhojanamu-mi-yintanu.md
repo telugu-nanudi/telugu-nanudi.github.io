@@ -20,6 +20,7 @@ He is no friend that eats his own by himself and mine with me. (Portuguese)[1]
 
 #### Romanization:
 Māṭalu tēṭalu mā yiṇṭanu, māpaṭi bhōjanamu mī yiṇṭanu.
+
 Matalu tetalu ma yintanu, mapati bhojanamu mi yintanu.
 {% endcapture %}
 

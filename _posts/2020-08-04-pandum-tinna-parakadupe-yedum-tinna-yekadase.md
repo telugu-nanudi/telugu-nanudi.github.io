@@ -18,6 +18,7 @@ Though he eat ten Tums of food he will say he is starving ; and though he eat fi
 
 #### Romanization:
 Panduṁ tinnā parakaḍupē, yēduṁ tinnā yēkādaśē.
+
 Pandum tinna parakadupe, yedum tinna yekadase.
 {% endcapture %}
 

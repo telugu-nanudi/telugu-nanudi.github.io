@@ -18,6 +18,7 @@ Applied to a forward person, who does not know his place.
 
 #### Romanization:
 Jītagāṇni teccukoṇṭē, yiṇṭiki khāvandu ayināḍu.
+
 Jitaganni teccukonte, yintiki khavandu ayinadu.
 {% endcapture %}
 

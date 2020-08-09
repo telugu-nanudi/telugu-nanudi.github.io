@@ -16,6 +16,7 @@ A time server.
 
 #### Romanization:
 Ēṭlō vaṅkāyalu kāstavā aṇṭē kāstavi annaṭṭu.
+
 Etlo vankayalu kastava ante kastavi annattu.
 {% endcapture %}
 

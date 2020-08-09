@@ -17,6 +17,7 @@ The harlot's affection is in proportion to the gifts of her paramour.
 
 #### Romanization:
 Miṇḍaḍi yīvi yentō lan̄ja makkuva antē.
+
 Mindadi yivi yento lanja makkuva ante.
 {% endcapture %}
 

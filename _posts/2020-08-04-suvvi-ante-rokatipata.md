@@ -19,6 +19,7 @@ Said in disparagement of anything very common.
 
 #### Romanization:
 Suvvī aṇṭē, rōkaṭipāṭa.
+
 Suvvi ante, rokatipata.
 {% endcapture %}
 

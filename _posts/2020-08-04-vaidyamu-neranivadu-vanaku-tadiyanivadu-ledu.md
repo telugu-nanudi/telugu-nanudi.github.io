@@ -18,6 +18,7 @@ Every man is a fool or a physician at forty.
 
 #### Romanization:
 Vaidyamu nēranivāḍū, vānaku taḍiyanivāḍū lēḍu.
+
 Vaidyamu neranivadu, vanaku tadiyanivadu ledu.
 {% endcapture %}
 

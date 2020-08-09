@@ -18,6 +18,7 @@ The husband's question was caused by finding send in his food.
 
 #### Romanization:
 Ēṭiki yeppuḍu pōyināvu yisaka yeppuḍu teccināvu aṇṭē, āḍavāru talistē adi yentasēpu annadaṭa-mogavāru talistē yidi yentasēpu ani nālugu bādināḍaṭa.
+
 Etiki yeppudu poyinavu yisaka yeppudu teccinavu ante, adavaru taliste adi yentasepu annadata-mogavaru taliste yidi yentasepu ani nalugu badinadata.
 {% endcapture %}
 

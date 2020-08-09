@@ -18,6 +18,7 @@ Said of an unruly scamp.
 
 #### Romanization:
 Ītamullu viraga dokkē kālamu.
+
 Itamullu viraga dokke kalamu.
 {% endcapture %}
 

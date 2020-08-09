@@ -19,6 +19,7 @@ He is a poor cook that cannot lick his own fingers.
 
 #### Romanization:
 Kaḍuputō vunnam'ma kanaka mānunā, vaṇḍinam'ma tinaka mānunā.
+
 Kaduputo vunnam'ma kanaka manuna, vandinam'ma tinaka manuna.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Said of a silly man puffed up with conceit. whose vanity ruins him.
 
 #### Romanization:
 Poṅgēdantā poyi pālu.
+
 Pongedanta poyi palu.
 {% endcapture %}
 

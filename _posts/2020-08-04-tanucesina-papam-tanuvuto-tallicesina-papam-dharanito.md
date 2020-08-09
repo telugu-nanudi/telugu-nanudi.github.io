@@ -18,6 +18,7 @@ This is interpreted to mean that if a man commits the sin of adultery, his crime
 
 #### Romanization:
 Tānucēśina pāpaṁ tanuvutō, tallicēśina pāpaṁ dharaṇitō.
+
 Tanucesina papam tanuvuto, tallicesina papam dharanito.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ He that courts injury will obtain it. (Danish)[3]
 
 #### Romanization:
 Kaḍagā poyyē śanaiścaruḍā mā yiṇṭidākā vacci pom'mannaṭṭu.
+
 Kadaga poyye sanaiscaruda ma yintidaka vacci pom'mannattu.
 {% endcapture %}
 

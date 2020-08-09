@@ -15,6 +15,7 @@ When he went to pray, the mosque fell on his neck.
 
 #### Romanization:
 Ceyyabōtē, maśīdu meḍanu paḍḍadi.
+
 Ceyyabote, masidu medanu paddadi.
 {% endcapture %}
 

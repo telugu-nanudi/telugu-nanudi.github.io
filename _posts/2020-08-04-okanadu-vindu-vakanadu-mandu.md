@@ -20,6 +20,7 @@ To-day in finary, to-morrow in filth. (German)[2]
 
 #### Romanization:
 Okanāḍu vindu, vakanāḍu mandu.
+
 Okanadu vindu, vakanadu mandu.
 {% endcapture %}
 

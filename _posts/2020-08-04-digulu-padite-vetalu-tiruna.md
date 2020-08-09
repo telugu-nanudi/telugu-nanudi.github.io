@@ -15,6 +15,7 @@ If you fear, will the pain be less?
 
 #### Romanization:
 Digulu paḍitē, vetalu tīrunā.
+
 Digulu padite, vetalu tiruna.
 {% endcapture %}
 

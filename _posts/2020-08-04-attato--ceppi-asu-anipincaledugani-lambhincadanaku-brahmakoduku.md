@@ -17,6 +17,7 @@ He was not able to get the consent of my mother-in-law [ to give me my wife, ] b
 
 #### Romanization:
 Attatō  ceppi aṣu anipin̄calēḍugāni, lambhin̄caḍānaku brahmakoḍuku.
+
 Attato  ceppi asu anipincaledugani, lambhincadanaku brahmakoduku.
 {% endcapture %}
 

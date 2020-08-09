@@ -17,6 +17,7 @@ Don't trust a Karanam even when he is being taken to the cemetery.
 
 #### Romanization:
 Kāṭiki pōyinā karaṇānni nam'ma rādu.
+
 Katiki poyina karananni nam'ma radu.
 {% endcapture %}
 

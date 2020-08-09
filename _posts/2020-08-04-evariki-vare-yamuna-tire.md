@@ -18,6 +18,7 @@ There every man is free to do what he has a fancy for.
 
 #### Romanization:
 Evariki vārē yamunā tīrē.
+
 Evariki vare yamuna tire.
 {% endcapture %}
 

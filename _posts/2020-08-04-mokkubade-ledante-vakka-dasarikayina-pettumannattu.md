@@ -19,6 +19,7 @@ Importunity.
 
 #### Romanization:
 Mokkubaḍē lēdaṇṭē, vakka dāsarikayinā peṭṭumannaṭṭu.
+
 Mokkubade ledante, vakka dasarikayina pettumannattu.
 {% endcapture %}
 

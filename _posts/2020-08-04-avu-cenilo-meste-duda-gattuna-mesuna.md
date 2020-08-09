@@ -17,6 +17,7 @@ Intimate friends, or near relatives, will follow in the same path.
 
 #### Romanization:
 Āvu cēnilō mēstē, dūḍa gaṭṭuna mēsunā.
+
 Avu cenilo meste, duda gattuna mesuna.
 {% endcapture %}
 

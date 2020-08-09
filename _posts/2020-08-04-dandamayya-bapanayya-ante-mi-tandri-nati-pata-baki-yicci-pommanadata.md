@@ -18,6 +18,7 @@ Rudeness in return for civility.
 
 #### Romanization:
 Daṇḍamayyā bāpanayyā aṇṭē, mī taṇḍri nāṭi pāta bākī yicci pom'manāḍaṭa.
+
 Dandamayya bapanayya ante, mi tandri nati pata baki yicci pom'manadata.
 {% endcapture %}
 

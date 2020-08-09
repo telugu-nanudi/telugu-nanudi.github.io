@@ -18,6 +18,7 @@ By close inspection the true state is known.
 
 #### Romanization:
 Cūḍagā cūḍagā gurramu gāḍide ayinadi.
+
 Cudaga cudaga gurramu gadide ayinadi.
 {% endcapture %}
 

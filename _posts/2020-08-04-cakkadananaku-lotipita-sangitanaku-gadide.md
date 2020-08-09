@@ -16,6 +16,7 @@ For beauty, a camel; for singing, an ass.
 
 #### Romanization:
 Cakkadanānaku lōṭipiṭa, saṅgītānaku gāḍide.
+
 Cakkadananaku lotipita, sangitanaku gadide.
 {% endcapture %}
 

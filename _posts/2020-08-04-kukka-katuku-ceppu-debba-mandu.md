@@ -18,6 +18,7 @@ The proper punishment for a slanderer.
 
 #### Romanization:
 Kukka kāṭuku ceppu debba mandu.
+
 Kukka katuku ceppu debba mandu.
 {% endcapture %}
 

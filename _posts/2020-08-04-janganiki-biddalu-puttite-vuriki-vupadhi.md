@@ -19,6 +19,7 @@ Beggars breed, and rich men feed.
 
 #### Romanization:
 Jaṅgāniki biḍḍalu puṭṭitē, vūriki vupādhi.
+
 Janganiki biddalu puttite, vuriki vupadhi.
 {% endcapture %}
 

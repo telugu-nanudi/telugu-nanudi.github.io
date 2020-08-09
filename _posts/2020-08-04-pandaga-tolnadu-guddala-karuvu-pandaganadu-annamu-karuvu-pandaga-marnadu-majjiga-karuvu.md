@@ -17,6 +17,7 @@ The day before the festival, there is a scarcity of cloth ; on the festival day,
 
 #### Romanization:
 Paṇḍaga tolnāḍu guḍḍala karuvu, paṇḍaganāḍu annamu karuvu, paṇḍaga marnāḍu majjiga karuvu.
+
 Pandaga tolnadu guddala karuvu, pandaganadu annamu karuvu, pandaga marnadu majjiga karuvu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Said of a person being unable to extricate himself from a diflicult position in 
 
 #### Romanization:
 Pan̄cāgni madhyamandu vunnaṭṭu.
+
 Pancagni madhyamandu vunnattu.
 {% endcapture %}
 

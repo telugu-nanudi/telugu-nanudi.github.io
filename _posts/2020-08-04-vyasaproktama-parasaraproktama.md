@@ -19,6 +19,7 @@ Said by one disputing the authority of another.
 
 #### Romanization:
 Vyāsaprōktamā, parāśaraprōktamā.
+
 Vyasaproktama, parasaraproktama.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ It is one thing to put questions, another to answer them.
 
 #### Romanization:
 Aḍigēvāniki ceppēvāḍu lōkuva.
+
 Adigevaniki ceppevadu lokuva.
 {% endcapture %}
 

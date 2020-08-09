@@ -19,6 +19,7 @@ A powerful oppressor who cannot be overcome.
 
 #### Romanization:
 Miṅgarāni kaḍi.
+
 Mingarani kadi.
 {% endcapture %}
 

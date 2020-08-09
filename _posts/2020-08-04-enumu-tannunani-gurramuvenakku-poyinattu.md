@@ -14,6 +14,7 @@ Fearing the buffalo would kick, he went behind the horse.
 
 #### Romanization:
 Enumu tannunani gurramuvenakku pōyinaṭṭu.
+
 Enumu tannunani gurramuvenakku poyinattu.
 {% endcapture %}
 

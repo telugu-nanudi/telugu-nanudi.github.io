@@ -14,6 +14,7 @@ The mother neither gives food herself [to her child,] nor allows it to beg.
 
 #### Romanization:
 Am'ma tānū peṭṭadu, tirucukonī tinanivvadu.
+
 Am'ma tanu pettadu, tirucukoni tinanivvadu.
 {% endcapture %}
 

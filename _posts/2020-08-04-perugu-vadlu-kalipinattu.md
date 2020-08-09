@@ -14,6 +14,7 @@ Like mixing rice in the husk with curds.
 
 #### Romanization:
 Perugū vaḍlū kalipinaṭṭu.
+
 Perugu vadlu kalipinattu.
 {% endcapture %}
 

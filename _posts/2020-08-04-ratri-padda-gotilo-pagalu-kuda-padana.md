@@ -20,6 +20,7 @@ Experience teaches. (Latin)[3]
 
 #### Romanization:
 Rātri paḍḍa gōtilō pagalu kūḍā paḍanā.
+
 Ratri padda gotilo pagalu kuda padana.
 {% endcapture %}
 

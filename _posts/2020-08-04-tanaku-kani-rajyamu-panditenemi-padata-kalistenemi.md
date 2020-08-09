@@ -16,6 +16,7 @@ What does it matter whether the kingdom he has not possession of prospers or dec
 
 #### Romanization:
 Tanaku kāni rājyamu paṇḍitēnēmi padaṭa kalistēnēmi.
+
 Tanaku kani rajyamu panditenemi padata kalistenemi.
 {% endcapture %}
 

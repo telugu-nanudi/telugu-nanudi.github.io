@@ -21,6 +21,7 @@ Let the guest go before the storm bursts. (German)[1]
 
 #### Romanization:
 Uḍakavē kūḍā vugādi dākā aṇṭē, nākēmi panilēdu yēruvākadākā annāḍaṭa.
+
 Udakave kuda vugadi daka ante, nakemi paniledu yeruvakadaka annadata.
 {% endcapture %}
 

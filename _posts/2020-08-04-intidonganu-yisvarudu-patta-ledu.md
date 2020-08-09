@@ -13,6 +13,7 @@ Even Siva himself cannot find out a thief amongst the household.
 
 #### Romanization:
 Iṇṭidoṅganu yīśvaruḍū paṭṭa lēḍu.
+
 Intidonganu yisvarudu patta ledu.
 {% endcapture %}
 

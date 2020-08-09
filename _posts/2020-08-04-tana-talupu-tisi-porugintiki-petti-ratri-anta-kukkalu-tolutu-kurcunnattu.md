@@ -19,6 +19,7 @@ Charity begins at home.
 
 #### Romanization:
 Tana talupu tīśi porugiṇṭiki peṭṭi rātri antā kukkalu tōlutū kūrcunnaṭṭu.
+
 Tana talupu tisi porugintiki petti ratri anta kukkalu tolutu kurcunnattu.
 {% endcapture %}
 

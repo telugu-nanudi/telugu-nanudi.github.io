@@ -14,6 +14,7 @@ Said of people wrangling without reason.
 
 #### Romanization:
 Mottukōḷlōyi muttama śeṭṭi.
+
 Mottukolloyi muttama setti.
 {% endcapture %}
 

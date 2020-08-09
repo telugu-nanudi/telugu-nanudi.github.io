@@ -19,6 +19,7 @@ A thing sought for to come to hand without trouble.
 
 #### Romanization:
 Āḍabōyina tīrthamu yedurugā vaccinadi.
+
 Adaboyina tirthamu yeduruga vaccinadi.
 {% endcapture %}
 

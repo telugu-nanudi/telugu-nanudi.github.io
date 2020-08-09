@@ -21,6 +21,7 @@ As the old cock crows, so crows the young.
 
 #### Romanization:
 Tallicālu pillaku tapputunnadā.
+
 Tallicalu pillaku tapputunnada.
 {% endcapture %}
 

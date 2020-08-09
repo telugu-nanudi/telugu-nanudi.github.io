@@ -18,6 +18,7 @@ For Dal see No. 183 -Pulagam is rice mixed with pulse (called in Hindustani Khic
 
 #### Romanization:
 Pulagamu mīdiki teḍḍeḍu pappu.
+
 Pulagamu midiki teddedu pappu.
 {% endcapture %}
 

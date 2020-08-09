@@ -20,6 +20,7 @@ The blessing ought to come from another.
 
 #### Romanization:
 Tānē tum'mi tānē śatāyus'su anukonnaṭṭu.
+
 Tane tum'mi tane satayus'su anukonnattu.
 {% endcapture %}
 

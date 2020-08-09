@@ -19,6 +19,7 @@ Said of a man who is respected on account of his connection with the family of s
 
 #### Romanization:
 Iṅguva kaṭṭina guḍḍa.
+
 Inguva kattina gudda.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Yielding to force and not to entreaties.
 
 #### Romanization:
 Mokkēvāriki veravanā, moṭṭēvāriki veravanā.
+
 Mokkevariki veravana, mottevariki veravana.
 {% endcapture %}
 

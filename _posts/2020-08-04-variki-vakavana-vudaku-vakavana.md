@@ -20,6 +20,7 @@ Impartiality.
 
 #### Romanization:
 Variki vakavānā, vūdaku vakavānā.
+
 Variki vakavana, vudaku vakavana.
 {% endcapture %}
 

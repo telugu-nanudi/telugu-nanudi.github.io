@@ -19,6 +19,7 @@ Making one's fortune by a lucky chance
 
 #### Romanization:
 Miḍatambhoṭla jyōsyamu.
+
 Midatambhotla jyosyamu.
 {% endcapture %}
 

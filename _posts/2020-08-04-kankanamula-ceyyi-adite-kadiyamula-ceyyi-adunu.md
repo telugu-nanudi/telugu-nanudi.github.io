@@ -19,6 +19,7 @@ Where woman leads man follows.
 
 #### Romanization:
 Kaṅkaṇamula ceyyi āḍitē, kaḍiyamula ceyyi āḍunu.
+
 Kankanamula ceyyi adite, kadiyamula ceyyi adunu.
 {% endcapture %}
 

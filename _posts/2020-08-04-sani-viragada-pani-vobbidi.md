@@ -14,6 +14,7 @@ When ill fortune departs, the business will be completed
 
 #### Romanization:
 Śani viragaḍa, pani vobbiḍi.
+
 Sani viragada, pani vobbidi.
 {% endcapture %}
 

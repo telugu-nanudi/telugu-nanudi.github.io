@@ -18,6 +18,7 @@ To stir the rice with.
 
 #### Romanization:
 Teḍḍu vuṇḍagā ceyyi kālcukonnaṭṭu.
+
 Teddu vundaga ceyyi kalcukonnattu.
 {% endcapture %}
 

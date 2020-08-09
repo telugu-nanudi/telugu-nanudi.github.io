@@ -18,6 +18,7 @@ A worshipper is accepted according to his faith, not according to greatness of h
 
 #### Romanization:
 Koṇḍanta dēvuṇni koṇḍanta patritō pūja cēstārā.
+
 Kondanta devunni kondanta patrito puja cestara.
 {% endcapture %}
 

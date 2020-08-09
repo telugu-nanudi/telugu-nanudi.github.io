@@ -15,6 +15,7 @@ What has a dunderhead to do with the Vedas and the Sastras?
 
 #### Romanization:
 Verrimoddukēla vēdaśāstramulu.
+
 Verrimoddukela vedasastramulu.
 {% endcapture %}
 

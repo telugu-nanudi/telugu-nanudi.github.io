@@ -18,6 +18,7 @@ Applied to giving a person only the form of' authority, but no real power.
 
 #### Romanization:
 Arthamū prāṇamū ācāryādhīnamu, tāḷamū dēhamū nā ādhīnamu.
+
 Arthamu pranamu acaryadhinamu, talamu dehamu na adhinamu.
 {% endcapture %}
 

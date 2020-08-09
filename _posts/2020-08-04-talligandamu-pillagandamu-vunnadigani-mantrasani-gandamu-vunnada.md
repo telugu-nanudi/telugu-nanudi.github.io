@@ -16,6 +16,7 @@ Evil may be predicted to the mother or to the child, but Will any harm come to t
 
 #### Romanization:
 Talligaṇḍamu pillagaṇḍamu vunnadigāni mantrasāni gaṇḍamu vunnadā.
+
 Talligandamu pillagandamu vunnadigani mantrasani gandamu vunnada.
 {% endcapture %}
 

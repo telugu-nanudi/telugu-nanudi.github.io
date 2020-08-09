@@ -18,6 +18,7 @@ The nature of the animal.
 
 #### Romanization:
 Kukka amēdhyamu tinnadi.
+
 Kukka amedhyamu tinnadi.
 {% endcapture %}
 

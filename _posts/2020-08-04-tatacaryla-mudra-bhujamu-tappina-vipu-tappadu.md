@@ -19,6 +19,7 @@ Not being able to evade something disagreeable.
 
 #### Romanization:
 Tātācaryla mudra bhujamu tappinā vīpu tappadu.
+
 Tatacaryla mudra bhujamu tappina vipu tappadu.
 {% endcapture %}
 

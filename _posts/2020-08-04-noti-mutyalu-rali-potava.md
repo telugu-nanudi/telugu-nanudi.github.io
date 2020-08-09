@@ -17,6 +17,7 @@ If you were to speak.
 
 #### Romanization:
 Nōṭi mutyālu rāli pōtavā.
+
 Noti mutyalu rali potava.
 {% endcapture %}
 

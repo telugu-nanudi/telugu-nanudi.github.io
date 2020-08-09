@@ -17,6 +17,7 @@ Applied to the use of bad agents.
 
 #### Romanization:
 Korivitō koppu gōkukonnaṭṭu.
+
 Korivito koppu gokukonnattu.
 {% endcapture %}
 

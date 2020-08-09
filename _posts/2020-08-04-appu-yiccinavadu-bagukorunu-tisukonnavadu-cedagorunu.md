@@ -19,6 +19,7 @@ Money lent, an enemy made. (Portuguese)[1]
 
 #### Romanization:
 Appu yiccinavāḍu bāgukōrunu, tīsukonnavāḍu ceḍagōrunu.
+
 Appu yiccinavadu bagukorunu, tisukonnavadu cedagorunu.
 {% endcapture %}
 

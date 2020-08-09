@@ -19,6 +19,7 @@ The full belly does not believe in hunger. (Italian.)[1]
 
 #### Romanization:
 Caddikūḍu tinnam'ma moguḍi ākali yeragadu.
+
 Caddikudu tinnam'ma mogudi akali yeragadu.
 {% endcapture %}
 

@@ -15,6 +15,7 @@ i. e. a better person.
 
 #### Romanization:
 Nīvu kākapōtē nī abba marivakaḍāyenu.
+
 Nivu kakapote ni abba marivakadayenu.
 {% endcapture %}
 

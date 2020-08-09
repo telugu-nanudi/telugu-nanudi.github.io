@@ -15,6 +15,7 @@ Persistently offering that which is disliked.
 
 #### Romanization:
 Kōtiki addamu cūpinaṭṭu.
+
 Kotiki addamu cupinattu.
 {% endcapture %}
 

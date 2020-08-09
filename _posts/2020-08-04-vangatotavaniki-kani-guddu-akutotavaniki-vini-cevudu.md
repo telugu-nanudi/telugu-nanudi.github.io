@@ -20,6 +20,7 @@ None so deaf as he that won't hear. (French.)[2]
 
 #### Romanization:
 Vaṅgatōṭavāniki kani guḍḍu, ākutōṭavāniki vini cevuḍu.
+
 Vangatotavaniki kani guddu, akutotavaniki vini cevudu.
 {% endcapture %}
 

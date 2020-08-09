@@ -21,6 +21,7 @@ Beads about the neck and the devil in the heart.
 
 #### Romanization:
 Cēsēvi śivapūjalu, ceppēvi abad'dhālu.
+
 Cesevi sivapujalu, ceppevi abad'dhalu.
 {% endcapture %}
 

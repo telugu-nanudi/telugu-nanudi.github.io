@@ -13,6 +13,7 @@ Brahma himself becomes enamoured.
 
 #### Romanization:
 Brahmakū puṭṭutunnadi rim'ma tegulu.
+
 Brahmaku puttutunnadi rim'ma tegulu.
 {% endcapture %}
 

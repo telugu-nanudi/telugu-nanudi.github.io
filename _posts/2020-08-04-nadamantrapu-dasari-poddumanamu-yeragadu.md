@@ -16,6 +16,7 @@ A man who has become a Dasari in middle age, is not punc
 
 #### Romanization:
 Naḍamantrapu dāsari poddumānamu yeragaḍu.
+
 Nadamantrapu dasari poddumanamu yeragadu.
 {% endcapture %}
 

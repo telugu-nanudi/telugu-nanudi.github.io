@@ -19,6 +19,7 @@ Said of a prosy old fellow who spins long yarns.
 
 #### Romanization:
 Kālamu nāṭi kandigin̄ja, peddala nāṭi pesaragin̄ja.
+
 Kalamu nati kandiginja, peddala nati pesaraginja.
 {% endcapture %}
 

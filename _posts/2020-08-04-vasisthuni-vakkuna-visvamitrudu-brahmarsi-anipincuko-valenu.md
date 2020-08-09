@@ -18,6 +18,7 @@ Vasishtha was a celebrated priestly sage (Brahmarshi). Visvamitra, once a king, 
 
 #### Romanization:
 Vasiṣṭhuni vākkuna viśvāmitruḍu brahmarṣi anipin̄cukō valenu.
+
 Vasisthuni vakkuna visvamitrudu brahmarsi anipincuko valenu.
 {% endcapture %}
 

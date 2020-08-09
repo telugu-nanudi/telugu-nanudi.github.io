@@ -14,6 +14,7 @@ You cannot get blood out of a stone.
 
 #### Romanization:
 Punugu caṭṭamu piṇḍinaṭṭu.
+
 Punugu cattamu pindinattu.
 {% endcapture %}
 

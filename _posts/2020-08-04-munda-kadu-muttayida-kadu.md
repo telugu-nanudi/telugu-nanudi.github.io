@@ -18,6 +18,7 @@ Said by a man kept in suspense, neither granted nor refused a request, and not k
 
 #### Romanization:
 Muṇḍā kādu, muttayidā kādu.
+
 Munda kadu, muttayida kadu.
 {% endcapture %}
 

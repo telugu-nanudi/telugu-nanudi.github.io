@@ -17,6 +17,7 @@ Like taking out with a packing needle, a thorn which could have been extracted w
 
 #### Romanization:
 Mullu muṇṭa tīstē poyyēdāniki dabbanāna tīśinaṭṭu.
+
 Mullu munta tiste poyyedaniki dabbanana tisinattu.
 {% endcapture %}
 

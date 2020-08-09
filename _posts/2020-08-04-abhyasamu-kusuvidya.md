@@ -18,6 +18,7 @@ Custom makes all things easy.
 
 #### Romanization:
 Abhyāsamu kūsuvidya.
+
 Abhyasamu kusuvidya.
 {% endcapture %}
 

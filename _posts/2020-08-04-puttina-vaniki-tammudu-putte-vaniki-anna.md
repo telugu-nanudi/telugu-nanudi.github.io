@@ -15,6 +15,7 @@ Said jokingly of a dwarf.
 
 #### Romanization:
 Puṭṭina vāniki tam'muḍu, puṭṭē vāniki anna.
+
 Puttina vaniki tam'mudu, putte vaniki anna.
 {% endcapture %}
 

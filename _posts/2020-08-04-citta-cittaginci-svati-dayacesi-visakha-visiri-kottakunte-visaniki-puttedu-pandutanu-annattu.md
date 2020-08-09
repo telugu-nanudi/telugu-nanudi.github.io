@@ -22,6 +22,7 @@ Dry August and warm doth harvest no harm.
 
 #### Romanization:
 Citta cittagin̄ci svāti dayacēśi viśākha viśiri koṭṭakuṇṭē, vīsāniki puṭṭeḍu paṇḍutānu annaṭṭu.
+
 Citta cittaginci svati dayacesi visakha visiri kottakunte, visaniki puttedu pandutanu annattu.
 {% endcapture %}
 

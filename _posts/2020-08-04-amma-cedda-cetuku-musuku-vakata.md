@@ -14,6 +14,7 @@ Is this miserable wretched woman to wear a veil ?
 
 #### Romanization:
 Am'ma ceḍḍa cēṭuku musuku vakaṭā.
+
 Am'ma cedda cetuku musuku vakata.
 {% endcapture %}
 

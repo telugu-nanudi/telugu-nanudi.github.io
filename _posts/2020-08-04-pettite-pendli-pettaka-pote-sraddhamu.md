@@ -19,6 +19,7 @@ Fair and foul words.
 
 #### Romanization:
 Peṭṭitē peṇḍli, peṭṭaka pōtē śrād'dhamu.
+
 Pettite pendli, pettaka pote srad'dhamu.
 {% endcapture %}
 

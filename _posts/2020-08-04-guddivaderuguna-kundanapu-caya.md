@@ -20,6 +20,7 @@ A pebble and a diamond are alike to a blind man.
 
 #### Romanization:
 Guḍḍivāḍerugunā kundanapu cāya.
+
 Guddivaderuguna kundanapu caya.
 {% endcapture %}
 

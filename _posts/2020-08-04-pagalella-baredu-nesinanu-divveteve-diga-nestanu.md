@@ -18,6 +18,7 @@ Said of an idle fellow.
 
 #### Romanization:
 Pagalellā bāreḍu nēśinānu, divvetēvē diga nēstānu.
+
 Pagalella baredu nesinanu, divveteve diga nestanu.
 {% endcapture %}
 

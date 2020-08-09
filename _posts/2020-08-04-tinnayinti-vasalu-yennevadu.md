@@ -20,6 +20,7 @@ All's lost that's put into a riven dish.
 
 #### Romanization:
 Tinnayiṇṭi vāsālu yennēvāḍu.
+
 Tinnayinti vasalu yennevadu.
 {% endcapture %}
 

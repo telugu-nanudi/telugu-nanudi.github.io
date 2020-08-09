@@ -19,6 +19,7 @@ Cutting off one's nose to spite one's face.
 
 #### Romanization:
 Attapēru beṭṭi kūturini kumpaṭlō  vēśinaṭlu.
+
 Attaperu betti kuturini kumpatlo  vesinatlu.
 {% endcapture %}
 

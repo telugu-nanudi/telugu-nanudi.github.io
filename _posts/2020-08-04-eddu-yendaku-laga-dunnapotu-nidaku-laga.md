@@ -17,6 +17,7 @@ Every couple is not a pair.
 
 #### Romanization:
 Eddu yeṇḍaku lāga, dunnapōtu nīḍaku lāga.
+
 Eddu yendaku laga, dunnapotu nidaku laga.
 {% endcapture %}
 

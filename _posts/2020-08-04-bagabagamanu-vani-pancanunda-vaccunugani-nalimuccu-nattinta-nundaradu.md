@@ -17,6 +17,7 @@ You may live in the verandah of a hot-tempered man's house but you should not dw
 
 #### Romanization:
 Bagabagamanu vāni pan̄canuṇḍa vaccunugāni, nālimuccu naṭṭiṇṭa nuṇḍarādu.
+
 Bagabagamanu vani pancanunda vaccunugani, nalimuccu nattinta nundaradu.
 {% endcapture %}
 

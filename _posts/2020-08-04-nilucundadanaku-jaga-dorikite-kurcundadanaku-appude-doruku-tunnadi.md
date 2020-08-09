@@ -18,6 +18,7 @@ Give me a seat, and I will make myself room to lie down. (spent-h)'
 
 #### Romanization:
 Nilucuṇḍaḍānaku jāgā dorikitē, kūrcuṇḍaḍānaku appuḍē doruku tunnadi.
+
 Nilucundadanaku jaga dorikite, kurcundadanaku appude doruku tunnadi.
 {% endcapture %}
 

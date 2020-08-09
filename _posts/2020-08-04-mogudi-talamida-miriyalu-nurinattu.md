@@ -20,6 +20,7 @@ The grey more is the better horse.
 
 #### Romanization:
 Moguḍi talamīda miriyālu nūrinaṭṭu.
+
 Mogudi talamida miriyalu nurinattu.
 {% endcapture %}
 

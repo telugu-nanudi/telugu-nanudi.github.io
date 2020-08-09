@@ -18,6 +18,7 @@ There is no softness in a sword, nor goodness in a mother-in law.
 
 #### Romanization:
 Katti mettanā atta man̄cī lēdu.
+
 Katti mettana atta manci ledu.
 {% endcapture %}
 

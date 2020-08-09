@@ -17,6 +17,7 @@ Applied to pretended sanctity.
 
 #### Romanization:
 Turaka dāsariki yīta majjiga.
+
 Turaka dasariki yita majjiga.
 {% endcapture %}
 

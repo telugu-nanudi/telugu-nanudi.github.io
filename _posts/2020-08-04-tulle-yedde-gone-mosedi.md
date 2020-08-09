@@ -14,6 +14,7 @@ A spirited man works well.
 
 #### Romanization:
 Tuḷlē yeddē gōne mōśēdi.
+
 Tulle yedde gone mosedi.
 {% endcapture %}
 

@@ -20,6 +20,7 @@ Said by a Brahman priest and doctor.
 
 #### Romanization:
 Aṭayitē vaidyakaṭnamu,  yiṭayitē vaitaraṇigōdānamu.
+
 Atayite vaidyakatnamu,  yitayite vaitaranigodanamu.
 {% endcapture %}
 

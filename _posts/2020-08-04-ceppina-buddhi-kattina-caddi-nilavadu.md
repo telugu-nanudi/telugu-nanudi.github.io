@@ -18,6 +18,7 @@ Advice whispered in the ear is worth a jeer.
 
 #### Romanization:
 Ceppina bud'dhī, kaṭṭina caddī nilavadu.
+
 Ceppina bud'dhi, kattina caddi nilavadu.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Two men wishing to converse privately put a veil over their heads; having fallen
 
 #### Romanization:
 Musukulō guddulāṭa.
+
 Musukulo guddulata.
 {% endcapture %}
 

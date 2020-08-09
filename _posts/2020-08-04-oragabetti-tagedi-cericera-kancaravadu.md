@@ -18,6 +18,7 @@ The brazier has spoilt the dish which before I ate out of slantingly (on account
 
 #### Romanization:
 Oragabeṭṭi tāgēdi cericerā kan̄caravāḍu.
+
 Oragabetti tagedi cericera kancaravadu.
 {% endcapture %}
 

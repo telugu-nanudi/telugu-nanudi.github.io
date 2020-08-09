@@ -19,6 +19,7 @@ Abuse of authority.
 
 #### Romanization:
 Pēnuku pettanamistē, talantā tegakorikinadi.
+
 Penuku pettanamiste, talanta tegakorikinadi.
 {% endcapture %}
 

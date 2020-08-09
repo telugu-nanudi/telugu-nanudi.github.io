@@ -18,6 +18,7 @@ Impotent rage.
 
 #### Romanization:
 Vaggu kōtiki sivamu vaccinaṭṭu.
+
 Vaggu kotiki sivamu vaccinattu.
 {% endcapture %}
 

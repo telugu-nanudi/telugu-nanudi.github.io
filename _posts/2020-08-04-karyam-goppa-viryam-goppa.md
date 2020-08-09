@@ -15,6 +15,7 @@ Is the business of importance or are the means ?
 
 #### Romanization:
 Kāryaṁ goppā vīryaṁ goppā.
+
 Karyam goppa viryam goppa.
 {% endcapture %}
 

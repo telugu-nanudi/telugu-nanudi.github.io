@@ -15,6 +15,7 @@ When the great fall out, the poor suffer.
 
 #### Romanization:
 Āvulū āvulū pōṭlāḍitē, lēgala kāḷlu virugutavi.
+
 Avulu avulu potladite, legala kallu virugutavi.
 {% endcapture %}
 

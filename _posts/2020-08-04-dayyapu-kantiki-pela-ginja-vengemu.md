@@ -15,6 +15,7 @@ In the eye of a devil, parched grain is evil.
 
 #### Romanization:
 Dayyapu kaṇṭiki pēla gin̄ja vēṅgemu.
+
 Dayyapu kantiki pela ginja vengemu.
 {% endcapture %}
 

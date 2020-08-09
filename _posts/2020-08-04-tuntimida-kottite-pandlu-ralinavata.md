@@ -19,6 +19,7 @@ Applied to inappropriate actions or words.
 
 #### Romanization:
 Tuṇṭimīda koṭṭitē paṇḍlu rālinavaṭa.
+
 Tuntimida kottite pandlu ralinavata.
 {% endcapture %}
 

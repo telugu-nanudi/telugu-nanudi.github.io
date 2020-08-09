@@ -19,6 +19,7 @@ Jamu is a watch of three hours, the day from sunrise to sunset being divided int
 
 #### Romanization:
 Ayinavārandaru ā dōvanu pōgā, jaṅgānni paṭṭukoni jāmu yēḍcināḍu.
+
 Ayinavarandaru a dovanu poga, janganni pattukoni jamu yedcinadu.
 {% endcapture %}
 

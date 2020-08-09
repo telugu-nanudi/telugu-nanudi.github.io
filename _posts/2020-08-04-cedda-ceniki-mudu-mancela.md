@@ -19,6 +19,7 @@ To drive off the birds.
 
 #### Romanization:
 Ceḍḍa cēniki mūḍu man̄celā.
+
 Cedda ceniki mudu mancela.
 {% endcapture %}
 

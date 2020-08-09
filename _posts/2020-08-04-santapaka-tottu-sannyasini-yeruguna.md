@@ -14,6 +14,7 @@ Does the wretched harlot know [the virtues of] the Sannyasi ?
 
 #### Romanization:
 Santapāka tottu sann'yāsini yerugunā.
+
 Santapaka tottu sann'yasini yeruguna.
 {% endcapture %}
 

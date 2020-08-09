@@ -16,6 +16,7 @@ Ten times as bad.
 
 #### Romanization:
 Śata ḍabbu, sahasra ḍabbu.
+
 Sata dabbu, sahasra dabbu.
 {% endcapture %}
 

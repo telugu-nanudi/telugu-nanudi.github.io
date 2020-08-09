@@ -18,6 +18,7 @@ What he says is Vasishtha's dictum.
 
 #### Romanization:
 Vāḍu ceppinadi vasiṣṭha vākyamu.
+
 Vadu ceppinadi vasistha vakyamu.
 {% endcapture %}
 

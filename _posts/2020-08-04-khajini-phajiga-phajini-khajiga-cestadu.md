@@ -18,6 +18,7 @@ The power of God.
 
 #### Romanization:
 Khājīni phājīgā phājīni khājīgā cēstāḍu.
+
 Khajini phajiga phajini khajiga cestadu.
 {% endcapture %}
 

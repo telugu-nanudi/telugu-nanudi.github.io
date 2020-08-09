@@ -17,6 +17,7 @@ If you shut up her mouth she remains like a dumb Woman, if you let her open her 
 
 #### Romanization:
 Nōru mūstē mūga, nōru teristē rāga.
+
 Noru muste muga, noru teriste raga.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ It is customary for the Mussalman women to wear little rings (Dandiyan) along th
 
 #### Romanization:
 Sāyabuku yenta davulatu vaccinā, bībīlaku kuṭṭupōgulē.
+
 Sayabuku yenta davulatu vaccina, bibilaku kuttupogule.
 {% endcapture %}
 

@@ -17,6 +17,7 @@ A ruffian under restraint.
 
 #### Romanization:
 Ceppukindi tēlu.
+
 Ceppukindi telu.
 {% endcapture %}
 

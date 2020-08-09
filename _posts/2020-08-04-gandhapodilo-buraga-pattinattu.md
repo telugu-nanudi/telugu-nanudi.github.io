@@ -18,6 +18,7 @@ Gandhapodi is thrown over one another by the relations of the bride and bridegro
 
 #### Romanization:
 Gandhapoḍilō būraga paṭṭinaṭṭu.
+
 Gandhapodilo buraga pattinattu.
 {% endcapture %}
 

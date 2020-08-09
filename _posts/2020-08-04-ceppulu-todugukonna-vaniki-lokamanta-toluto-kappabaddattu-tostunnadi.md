@@ -18,6 +18,7 @@ A man in comfortable circumstances does not realize the wants of others.
 
 #### Romanization:
 Ceppulu toḍugukonna vāniki lōkamantā tōlutō kappabaḍḍaṭṭu tōstunnadi.
+
 Ceppulu todugukonna vaniki lokamanta toluto kappabaddattu tostunnadi.
 {% endcapture %}
 

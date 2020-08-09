@@ -19,6 +19,7 @@ Good and ill fortune follow each other.
 
 #### Romanization:
 Ōḍalu baṇḍlā vastunnavi, baṇḍlu vōḍalā vastunnavi.
+
 Odalu bandla vastunnavi, bandlu vodala vastunnavi.
 {% endcapture %}
 

@@ -13,6 +13,7 @@ You should not trust a black man among Brahmans, or a fair man among Pariahs.
 
 #### Romanization:
 Brāhmaṇulalō nallavāṇnī mālalalō yerravāṇnī nam'marādu.
+
 Brahmanulalo nallavanni malalalo yerravanni nam'maradu.
 {% endcapture %}
 

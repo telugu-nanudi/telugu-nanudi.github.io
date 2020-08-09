@@ -18,6 +18,7 @@ Said of Komatis (No. 712 ) because treating a Komati roughly is the only way of 
 
 #### Romanization:
 Dhaniyāla jāti.
+
 Dhaniyala jati.
 {% endcapture %}
 

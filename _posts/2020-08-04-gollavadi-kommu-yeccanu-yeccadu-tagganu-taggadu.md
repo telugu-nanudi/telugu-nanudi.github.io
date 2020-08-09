@@ -21,6 +21,7 @@ Applied to a precarious mode of living.
 
 #### Romanization:
 Gollavāḍi kom'mu yeccanū yeccadu, tagganū taggadu
+
 Gollavadi kom'mu yeccanu yeccadu, tagganu taggadu
 {% endcapture %}
 

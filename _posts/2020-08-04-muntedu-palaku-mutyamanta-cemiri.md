@@ -20,6 +20,7 @@ A little leaven leavens a great mass. (French.)[1]
 
 #### Romanization:
 Munteḍu pālaku, mutyamanta cēmiri.
+
 Muntedu palaku, mutyamanta cemiri.
 {% endcapture %}
 

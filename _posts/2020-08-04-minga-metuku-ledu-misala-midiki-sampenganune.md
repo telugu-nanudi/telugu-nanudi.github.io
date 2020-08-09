@@ -19,6 +19,7 @@ Love of outward show disproportionate to one's means.
 
 #### Romanization:
 Miṅga metuku lēdu, mīsāla mīdiki sampeṅganūne.
+
 Minga metuku ledu, misala midiki sampenganune.
 {% endcapture %}
 

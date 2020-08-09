@@ -18,6 +18,7 @@ Said of one devoid of sympathy for others.
 
 #### Romanization:
 Eddu puṇḍu kākiki muddā.
+
 Eddu pundu kakiki mudda.
 {% endcapture %}
 

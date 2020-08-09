@@ -19,6 +19,7 @@ Applied to a stubborn person.
 
 #### Romanization:
 Ceviṭi vāḍiki śaṅkhamu vūditē, adi korakaḍānaku nī taṇḍri tātala taramu kādannāḍaṭa.
+
 Ceviti vadiki sankhamu vudite, adi korakadanaku ni tandri tatala taramu kadannadata.
 {% endcapture %}
 

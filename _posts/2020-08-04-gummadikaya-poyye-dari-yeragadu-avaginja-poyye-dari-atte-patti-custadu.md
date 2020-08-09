@@ -18,6 +18,7 @@ He does not know the way the pumpkin goes, but troubles himself to find the way 
 
 #### Romanization:
 Gum'maḍikāya poyyē dāri yeragaḍu, āvagin̄ja poyyē dāri aṭṭē paṭṭi cūstāḍu.
+
 Gum'madikaya poyye dari yeragadu, avaginja poyye dari atte patti custadu.
 {% endcapture %}
 

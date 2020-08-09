@@ -18,6 +18,7 @@ They have so many disputes that nothing can be settled.
 
 #### Romanization:
 Gollavāriṇṭi peṇḍli tellavārindi.
+
 Gollavarinti pendli tellavarindi.
 {% endcapture %}
 

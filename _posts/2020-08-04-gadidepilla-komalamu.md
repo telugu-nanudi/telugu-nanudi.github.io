@@ -14,6 +14,7 @@ Seemingly good but really useless.
 
 #### Romanization:
 Gāḍidepilla kōmalamu
+
 Gadidepilla komalamu
 {% endcapture %}
 

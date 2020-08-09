@@ -20,6 +20,7 @@ To out large shiver of another man's loaf.
 
 #### Romanization:
 Paradravyāṇi bellavat.
+
 Paradravyani bellavat.
 {% endcapture %}
 

@@ -14,6 +14,7 @@ Should a man strut who lives on bran ?
 
 #### Romanization:
 Tavuḍu tiṇṭū vayyāramā.
+
 Tavudu tintu vayyarama.
 {% endcapture %}
 

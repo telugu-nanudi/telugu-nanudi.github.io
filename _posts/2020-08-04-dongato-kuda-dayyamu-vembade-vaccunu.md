@@ -14,6 +14,7 @@ To urge him on.
 
 #### Romanization:
 Doṅgatō kūḍā dayyamu vembaḍē vaccunu.
+
 Dongato kuda dayyamu vembade vaccunu.
 {% endcapture %}
 

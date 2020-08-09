@@ -17,6 +17,7 @@ A rich man will not care for trifling gains.
 
 #### Romanization:
 Kaḍupu niṇḍinavāniki gārelu cēdu.
+
 Kadupu nindinavaniki garelu cedu.
 {% endcapture %}
 

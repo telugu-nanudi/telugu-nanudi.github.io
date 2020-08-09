@@ -16,6 +16,7 @@ Said reproachfully to a very poor person.
 
 #### Romanization:
 Svargānaku veḷlinā, vaḍēkulu tappavu.
+
 Svarganaku vellina, vadekulu tappavu.
 {% endcapture %}
 

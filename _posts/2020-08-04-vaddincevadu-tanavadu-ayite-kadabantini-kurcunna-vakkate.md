@@ -18,6 +18,7 @@ A friend in court makes the process short.
 
 #### Romanization:
 Vaḍḍin̄cēvāḍu tanavāḍu ayitē, kaḍabantini kūrcunnā vakkaṭē.
+
 Vaddincevadu tanavadu ayite, kadabantini kurcunna vakkate.
 {% endcapture %}
 

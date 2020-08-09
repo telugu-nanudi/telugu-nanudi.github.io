@@ -20,6 +20,7 @@ The gladiator, having entered the lists, is taking advice. (Latin.)[1]
 
 #### Romanization:
 Rōṭlō burra peṭṭi, rōkaṭi debbaku jaḍiśinaṭṭu.
+
 Rotlo burra petti, rokati debbaku jadisinattu.
 {% endcapture %}
 

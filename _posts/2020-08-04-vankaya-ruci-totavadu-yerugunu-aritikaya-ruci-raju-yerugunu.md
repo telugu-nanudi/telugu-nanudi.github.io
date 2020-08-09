@@ -19,6 +19,7 @@ Brinjals should be cooked and eaten fresh from the garden. Plantains when used i
 
 #### Romanization:
 Vaṅkāya ruci tōṭavāḍu yerugunu, ariṭikāya ruci rāju yerugunu.
+
 Vankaya ruci totavadu yerugunu, aritikaya ruci raju yerugunu.
 {% endcapture %}
 

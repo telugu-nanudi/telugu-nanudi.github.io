@@ -19,6 +19,7 @@ Do good to a knave and pray God he requite thee not. (Danish)[1]
 
 #### Romanization:
 Tinnayillu guddalin̄cēvēmirā aṇṭē, tinani yillu nēnēmi yerugudunu annāḍaṭa.
+
 Tinnayillu guddalincevemira ante, tinani yillu nenemi yerugudunu annadata.
 {% endcapture %}
 

@@ -18,6 +18,7 @@ Willfully bringing trouble on one's self.
 
 #### Romanization:
 Oṇṭiki lēni vyādhi koni teccukonnaṭṭu.
+
 Ontiki leni vyadhi koni teccukonnattu.
 {% endcapture %}
 

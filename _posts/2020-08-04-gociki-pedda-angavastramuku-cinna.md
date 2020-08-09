@@ -20,6 +20,7 @@ Not too little, not too much. (German)[2]
 
 #### Romanization:
 Gōciki pedda, aṅgavastramuku cinna.
+
 Gociki pedda, angavastramuku cinna.
 {% endcapture %}
 

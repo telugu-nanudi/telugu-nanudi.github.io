@@ -16,6 +16,7 @@ Plays are unreal, your wit is your beauty.
 
 #### Romanization:
 Nāṭakamulu būṭakamulu, bōṭitanamulu nīṭulu.
+
 Natakamulu butakamulu, botitanamulu nitulu.
 {% endcapture %}
 

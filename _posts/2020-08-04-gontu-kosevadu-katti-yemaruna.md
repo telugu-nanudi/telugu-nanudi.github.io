@@ -14,6 +14,7 @@ Will a cut-throat forget his knife ?
 
 #### Romanization:
 Gontu kōśēvāḍu katti yēmārunā.
+
 Gontu kosevadu katti yemaruna.
 {% endcapture %}
 

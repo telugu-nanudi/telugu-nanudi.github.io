@@ -17,6 +17,7 @@ There is no end to your labor.
 
 #### Romanization:
 Bāpanavāni koluvū tella gurrapu koluvū koluva kūḍadu.
+
 Bapanavani koluvu tella gurrapu koluvu koluva kudadu.
 {% endcapture %}
 

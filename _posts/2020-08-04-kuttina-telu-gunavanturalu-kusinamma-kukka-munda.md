@@ -17,6 +17,7 @@ A mischief maker often escapes blame.
 
 #### Romanization:
 Kuṭṭina tēlu guṇavanturālu, kūśinam'ma kukka muṇḍa.
+
 Kuttina telu gunavanturalu, kusinam'ma kukka munda.
 {% endcapture %}
 

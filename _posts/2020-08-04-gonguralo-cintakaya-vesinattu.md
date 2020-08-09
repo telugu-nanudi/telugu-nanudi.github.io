@@ -17,6 +17,7 @@ A combination of evil persons.
 
 #### Romanization:
 Gōṅgūralō cintakāya vēśinaṭṭu.
+
 Gonguralo cintakaya vesinattu.
 {% endcapture %}
 

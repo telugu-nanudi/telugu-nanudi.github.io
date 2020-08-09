@@ -19,6 +19,7 @@ Buy and sell and live by the loss.
 
 #### Romanization:
 Am'mabōtē aḍivi, konabōtē korivi.
+
 Am'mabote adivi, konabote korivi.
 {% endcapture %}
 

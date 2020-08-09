@@ -17,6 +17,7 @@ The bite of an enraged men is said to be fatally poisonous.
 
 #### Romanization:
 Maniṣi kāṭuku mandu lēdu.
+
 Manisi katuku mandu ledu.
 {% endcapture %}
 

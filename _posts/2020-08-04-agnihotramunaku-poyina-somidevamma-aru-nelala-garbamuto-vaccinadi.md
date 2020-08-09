@@ -18,6 +18,7 @@ Somidevamma is an honorific title given to the wife of a sacrificing priest; she
 
 #### Romanization:
 Agnihōtramunaku pōyina sōmidēvam'ma āru nelala garbamutō vaccinadi.
+
 Agnihotramunaku poyina somidevam'ma aru nelala garbamuto vaccinadi.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ Applied to a person wishing to have something done for himself in great haste, b
 
 #### Romanization:
 Avasaragāniki ākulō peṭṭu, nāku nēlanu peṭṭu.
+
 Avasaraganiki akulo pettu, naku nelanu pettu.
 {% endcapture %}
 

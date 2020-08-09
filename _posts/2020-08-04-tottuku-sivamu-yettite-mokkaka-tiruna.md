@@ -18,6 +18,7 @@ Respect must be paid to those in power, however low their origin.
 
 #### Romanization:
 Tottuku śivamu yettitē mokkaka tīrunā.
+
 Tottuku sivamu yettite mokkaka tiruna.
 {% endcapture %}
 

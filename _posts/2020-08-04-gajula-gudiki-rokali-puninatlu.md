@@ -19,6 +19,7 @@ A foolish action.
 
 #### Romanization:
 Gājula gudiki rōkali pūninaṭlu.
+
 Gajula gudiki rokali puninatlu.
 {% endcapture %}
 

@@ -19,6 +19,7 @@ i. e. the second day, on which milk will be poured on his bones, according to cu
 
 #### Romanization:
 Nēḍu castē rēpaṭiki reṇḍu.
+
 Nedu caste repatiki rendu.
 {% endcapture %}
 

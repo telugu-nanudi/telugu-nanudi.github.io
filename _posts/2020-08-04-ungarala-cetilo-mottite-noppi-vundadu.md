@@ -18,6 +18,7 @@ A man who wears rings is generally well oil', and therefore pays hand some damag
 
 #### Romanization:
 Uṅgarāla cētilō moṭṭitē, noppi vuṇḍadu.
+
 Ungarala cetilo mottite, noppi vundadu.
 {% endcapture %}
 

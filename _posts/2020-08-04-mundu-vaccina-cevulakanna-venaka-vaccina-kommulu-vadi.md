@@ -18,6 +18,7 @@ Said of a new comer wishing to usurp authority over his seniors.
 
 #### Romanization:
 Mundu vaccina cevulakannā, venaka vaccina kom'mulu vāḍi.
+
 Mundu vaccina cevulakanna, venaka vaccina kom'mulu vadi.
 {% endcapture %}
 

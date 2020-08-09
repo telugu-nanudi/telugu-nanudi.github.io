@@ -18,6 +18,7 @@ Peddinayudu here means a Nayudu, (a title borne by certain castes) great both in
 
 #### Romanization:
 Pratiṣṭhaku peddināyuḍu castē, yīḍava lēka yiṇṭivāṇḍlu caccināru.
+
 Pratisthaku peddinayudu caste, yidava leka yintivandlu caccinaru.
 {% endcapture %}
 

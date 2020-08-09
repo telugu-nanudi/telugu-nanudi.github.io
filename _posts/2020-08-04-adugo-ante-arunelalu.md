@@ -19,6 +19,7 @@ One " Take it" is better than two " You shall have its." (French)[1]
 
 #### Romanization:
 Adugō aṇṭē ārunelalu.
+
 Adugo ante arunelalu.
 {% endcapture %}
 

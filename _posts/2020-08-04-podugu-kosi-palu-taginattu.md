@@ -18,6 +18,7 @@ Ruining one's self by ambition.
 
 #### Romanization:
 Podugu kōśi pālu tāginaṭṭu.
+
 Podugu kosi palu taginattu.
 {% endcapture %}
 

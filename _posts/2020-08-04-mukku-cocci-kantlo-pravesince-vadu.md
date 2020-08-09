@@ -17,6 +17,7 @@ A skillful rogue.
 
 #### Romanization:
 Mukku cocci kaṇṭlō pravēśin̄cē vāḍu.
+
 Mukku cocci kantlo pravesince vadu.
 {% endcapture %}
 
