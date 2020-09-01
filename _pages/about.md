@@ -17,5 +17,5 @@ I'm sure we all grew up listening to a lot of adages from our parents and grandp
 - [లేఖిని](https://lekhini.org/)
 
 ## Contributors 
-- [Venkatesh Duppada](https://venkatesh-1729.github.io)
+- [Venkatesh Duppada](https://venkatesh.page)
 - [Uday Boddepalli](https://www.linkedin.com/in/uday-boddepalli-bb1161116)
