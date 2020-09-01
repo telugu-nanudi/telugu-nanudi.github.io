@@ -1,0 +1,23 @@
+---
+title: నమల కూడని నారికేళము.
+tags:
+  - "cocoanut"
+  - "chewed"
+  - "cannot"
+---
+
+{% capture data %}
+#### Proverb Meaning in English:
+A cocoanut which cannot be chewed.
+
+#### Proverb Meaning in Telugu:
+నమల కూడని నారికేళము.
+
+#### Telugu Sametha in English:
+Namala kūḍani nārikēḷamu.
+
+Namala kudani narikelamu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

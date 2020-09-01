@@ -1,0 +1,27 @@
+---
+title: వలశివస్తే మేనమామకూతురు వావి కాదన్నట్టు.
+tags:
+  - "uncle"
+  - "plea"
+  - "one"
+  - "obligatory"
+  - "note"
+---
+
+{% capture data %}
+#### Proverb Meaning in English:
+When his uncle's daughter wanted to marry him, he excused himself on the plea that she was not of the right affinity.
+Proudly refusing, because it was voluntarily offered, a. good thing which at another time would have been thankfully accepted.
+Note. Among Hindus (especially Komatis) it is obligatory for a man to marry his maternal uncle's daughter if there be one.
+
+#### Proverb Meaning in Telugu:
+వలశివస్తే మేనమామకూతురు వావి కాదన్నట్టు.
+
+#### Telugu Sametha in English:
+Valaśivastē mēnamāmakūturu vāvi kādannaṭṭu.
+
+Valasivaste menamamakuturu vavi kadannattu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

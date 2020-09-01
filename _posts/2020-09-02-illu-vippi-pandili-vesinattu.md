@@ -1,0 +1,27 @@
+---
+title: ఇల్లు విప్పి పందిలి వేశినట్టు.
+tags:
+  - "said"
+  - "pulled"
+  - "pieces"
+  - "pandili"
+  - "house"
+---
+
+{% capture data %}
+#### Proverb Meaning in English:
+He pulled his house to pieces and built a Pandili [ with the materials ].
+(For Pnndili see No.61.)
+Said of an arrant fool.
+
+#### Proverb Meaning in Telugu:
+ఇల్లు విప్పి పందిలి వేశినట్టు.
+
+#### Telugu Sametha in English:
+Illu vippi pandili vēśinaṭṭu.
+
+Illu vippi pandili vesinattu.
+{% endcapture %}
+
+{{ data | markdownify }}
+

@@ -1,0 +1,27 @@
+---
+title: కడుపులో బిడ్డ కడుపులోనే వుండగా, కొడుకు పేరు సోమలింగం.
+tags:
+  - "womb"
+  - "still"
+  - "son"
+  - "pap"
+  - "child"
+---
+
+{% capture data %}
+#### Proverb Meaning in English:
+While the child is still in the womb, the son is named Somalingam.
+(See Nos. 204, 938, 1470, 1471.)
+Boil not the pap before the child is born.
+
+#### Proverb Meaning in Telugu:
+కడుపులో బిడ్డ కడుపులోనే వుండగా, కొడుకు పేరు సోమలింగం.
+
+#### Telugu Sametha in English:
+Kaḍupulō biḍḍa kaḍupulōnē vuṇḍagā, koḍuku pēru sōmaliṅgaṁ.
+
+Kadupulo bidda kadupulone vundaga, koduku peru somalingam.
+{% endcapture %}
+
+{{ data | markdownify }}
+

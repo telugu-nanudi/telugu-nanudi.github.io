@@ -1,0 +1,24 @@
+---
+title: ముదిమి తప్పితే మూడు వర్నాలు.
+tags:
+  - "reached"
+  - "dotage"
+---
+
+{% capture data %}
+#### Proverb Meaning in English:
+When extreme old age is reached there are three castes.
+The distinctive rules of the three castes are no longer observed.
+Dotage.
+
+#### Proverb Meaning in Telugu:
+ముదిమి తప్పితే మూడు వర్నాలు.
+
+#### Telugu Sametha in English:
+Mudimi tappitē mūḍu varnālu.
+
+Mudimi tappite mudu varnalu.
+{% endcapture %}
+
+{{ data | markdownify }}
+
