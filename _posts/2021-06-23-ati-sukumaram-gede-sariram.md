@@ -6,7 +6,7 @@ tags:
 
 {% capture data %}
 #### Proverb Meaning in English:
-Person with bufallo body acts like a most delicate person.
+A person with a buffalo body acts like the most delicate person.
 
 #### Proverb Meaning in Telugu:
 అతి సుకుమారం గేదె శరీరం.
